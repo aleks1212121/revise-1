@@ -28,6 +28,17 @@ npm run preview
 
 ## Static website deployment
 
-Run `npm ci` followed by `npm run build`, then publish the contents of `dist/` to your static host. No server runtime or API key is required. The build uses relative asset URLs, so it works at a domain root or under `/revise-1/` on GitHub Pages. On Netlify or similar build hosts, use `npm run build` as the build command and `dist` as the publish directory.
+Run `npm ci` followed by `npm run build`, then publish the contents of `dist/` to your static host. No server runtime or API key is required. The build uses the `/revise-1/` base path for GitHub Pages. For a different hosting path, adjust `base` in `vite.config.js` before building.
 
 The repository includes source files and the dependency lockfile. Generated `dist/` output and `node_modules/` are intentionally ignored; the host builds them from the committed source.
+
+
+## GitHub Pages
+
+The workflow in `.github/workflows/deploy-pages.yml` installs locked dependencies, builds the app, uploads `dist/`, and deploys it to GitHub Pages whenever `main` is updated. It can also be run manually from the Actions tab.
+
+In repository **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source. Ensure GitHub Actions is enabled for the repository. After the workflow succeeds, the site is available at:
+
+https://aleks1212121.github.io/revise-1/
+
+Check the **Deploy to GitHub Pages** workflow in the Actions tab for deployment status. Publishing the app does not preload the lecture file; select your PowerPoint in the browser to create a deck.

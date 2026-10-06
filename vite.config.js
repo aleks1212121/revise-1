@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 
-// Relative asset URLs allow deployment at a domain root or a GitHub Pages subpath.
+// GitHub Pages serves this repository at /revise-1/.
 export default defineConfig({
-  base: './',
+  base: '/revise-1/',
 });
