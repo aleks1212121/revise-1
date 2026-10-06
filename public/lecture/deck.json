@@ -1,0 +1,3657 @@
+{
+  "version": 2,
+  "curated": true,
+  "title": "Revisiting Microorganisms — lecture cloze deck",
+  "source": "LS5008/LS5030 lecture PDF, 65 slides",
+  "cards": [
+    {
+      "id": "lecture-1-c1",
+      "type": "cloze",
+      "text": "The bacterial {{c1::cytoplasmic membrane}} houses the electron transport chain.",
+      "question": "The bacterial {{c1::cytoplasmic membrane}} houses the electron transport chain.",
+      "answer": "cytoplasmic membrane",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-1"
+    },
+    {
+      "id": "lecture-2-c1",
+      "type": "cloze",
+      "text": "The {{c1::peptidoglycan cell wall}} helps maintain bacterial cell shape.",
+      "question": "The {{c1::peptidoglycan cell wall}} helps maintain bacterial cell shape.",
+      "answer": "peptidoglycan cell wall",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-2"
+    },
+    {
+      "id": "lecture-3-c1",
+      "type": "cloze",
+      "text": "The bacterial {{c1::cytoplasm}} is the site of metabolic reactions.",
+      "question": "The bacterial {{c1::cytoplasm}} is the site of metabolic reactions.",
+      "answer": "cytoplasm",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-3"
+    },
+    {
+      "id": "lecture-4-c1",
+      "type": "cloze",
+      "text": "The {{c1::nucleoid}} contains and organises the bacterial chromosome.",
+      "question": "The {{c1::nucleoid}} contains and organises the bacterial chromosome.",
+      "answer": "nucleoid",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-4"
+    },
+    {
+      "id": "lecture-5-c1",
+      "type": "cloze",
+      "text": "Most bacterial genetic information is carried by the {{c1::bacterial chromosome}}.",
+      "question": "Most bacterial genetic information is carried by the {{c1::bacterial chromosome}}.",
+      "answer": "bacterial chromosome",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-5"
+    },
+    {
+      "id": "lecture-6-c1",
+      "type": "cloze",
+      "text": "Bacterial {{c1::70S ribosomes}} translate mRNA into proteins.",
+      "question": "Bacterial {{c1::70S ribosomes}} translate mRNA into proteins.",
+      "answer": "70S ribosomes",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-6"
+    },
+    {
+      "id": "lecture-7-c1",
+      "type": "cloze",
+      "text": "{{c1::Fimbriae}} primarily promote adhesion to surfaces and other cells.",
+      "question": "{{c1::Fimbriae}} primarily promote adhesion to surfaces and other cells.",
+      "answer": "Fimbriae",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-7"
+    },
+    {
+      "id": "lecture-8-c1",
+      "type": "cloze",
+      "text": "{{c1::Flagella}} primarily provide motility.",
+      "question": "{{c1::Flagella}} primarily provide motility.",
+      "answer": "Flagella",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-8"
+    },
+    {
+      "id": "lecture-9-c1",
+      "type": "cloze",
+      "text": "{{c1::Plasmids}} are independently replicating accessory genetic material.",
+      "question": "{{c1::Plasmids}} are independently replicating accessory genetic material.",
+      "answer": "Plasmids",
+      "clozeNumber": 1,
+      "topic": "Cell structures",
+      "slide": 4,
+      "images": [
+        "slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-9"
+    },
+    {
+      "id": "lecture-10-c1",
+      "type": "cloze",
+      "text": "Bacterial cells {{c1::do not all carry the same structures}}; structures vary between bacteria.",
+      "question": "Bacterial cells {{c1::do not all carry the same structures}}; structures vary between bacteria.",
+      "answer": "do not all carry the same structures",
+      "clozeNumber": 1,
+      "topic": "Structural variation",
+      "slide": 5,
+      "images": [
+        "slide-5"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-10"
+    },
+    {
+      "id": "lecture-11-c1",
+      "type": "cloze",
+      "text": "High metabolic activity but little change in cell number while adapting to a new environment defines the {{c1::lag phase}}.",
+      "question": "High metabolic activity but little change in cell number while adapting to a new environment defines the {{c1::lag phase}}.",
+      "answer": "lag phase",
+      "clozeNumber": 1,
+      "topic": "Growth phases",
+      "slide": 10,
+      "images": [
+        "slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-11"
+    },
+    {
+      "id": "lecture-12-c1",
+      "type": "cloze",
+      "text": "Bacteria multiply at a constant, rapid rate during the {{c1::log (exponential) phase}}.",
+      "question": "Bacteria multiply at a constant, rapid rate during the {{c1::log (exponential) phase}}.",
+      "answer": "log (exponential) phase",
+      "clozeNumber": 1,
+      "topic": "Growth phases",
+      "slide": 10,
+      "images": [
+        "slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-12"
+    },
+    {
+      "id": "lecture-13-c1",
+      "type": "cloze",
+      "text": "Nutrient depletion and/or toxic metabolite accumulation characterise the {{c1::stationary phase}}.",
+      "question": "Nutrient depletion and/or toxic metabolite accumulation characterise the {{c1::stationary phase}}.",
+      "answer": "stationary phase",
+      "clozeNumber": 1,
+      "topic": "Growth phases",
+      "slide": 10,
+      "images": [
+        "slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-13"
+    },
+    {
+      "id": "lecture-14-c1",
+      "type": "cloze",
+      "text": "Lack of appropriate nutrients and accumulated toxic metabolites cause cell death in the {{c1::death phase}}.",
+      "question": "Lack of appropriate nutrients and accumulated toxic metabolites cause cell death in the {{c1::death phase}}.",
+      "answer": "death phase",
+      "clozeNumber": 1,
+      "topic": "Growth phases",
+      "slide": 10,
+      "images": [
+        "slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-14"
+    },
+    {
+      "id": "lecture-15-c1",
+      "type": "cloze",
+      "text": "The sequence of bacterial growth phases is lag → {{c1::log (exponential)}} → stationary → death.",
+      "question": "The sequence of bacterial growth phases is lag → {{c1::log (exponential)}} → stationary → death.",
+      "answer": "log (exponential)",
+      "clozeNumber": 1,
+      "topic": "Growth phases",
+      "slide": 10,
+      "images": [
+        "slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-15"
+    },
+    {
+      "id": "lecture-16-c1",
+      "type": "cloze",
+      "text": "A microscopic structure requires a {{c1::microscope}} to be directly visualised, rather than the naked eye.",
+      "question": "A microscopic structure requires a {{c1::microscope}} to be directly visualised, rather than the naked eye.",
+      "answer": "microscope",
+      "clozeNumber": 1,
+      "topic": "Microscopic structures",
+      "slide": 12,
+      "images": [
+        "slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-16"
+    },
+    {
+      "id": "lecture-17-c1",
+      "type": "cloze",
+      "text": "Although a slime layer is microscopic, it may produce visibly {{c1::glossy colonies}} on agar.",
+      "question": "Although a slime layer is microscopic, it may produce visibly {{c1::glossy colonies}} on agar.",
+      "answer": "glossy colonies",
+      "clozeNumber": 1,
+      "topic": "Microscopic structures",
+      "slide": 12,
+      "images": [
+        "slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-17"
+    },
+    {
+      "id": "lecture-18-c1",
+      "type": "cloze",
+      "text": "A bacterial capsule is an {{c1::outer protective layer}} produced by some bacteria.",
+      "question": "A bacterial capsule is an {{c1::outer protective layer}} produced by some bacteria.",
+      "answer": "outer protective layer",
+      "clozeNumber": 1,
+      "topic": "Capsule",
+      "slide": 13,
+      "images": [
+        "slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-18"
+    },
+    {
+      "id": "lecture-19-c1",
+      "type": "cloze",
+      "text": "Capsules can support immune {{c1::evasion}} and environmental survival.",
+      "question": "Capsules can support immune {{c1::evasion}} and environmental survival.",
+      "answer": "evasion",
+      "clozeNumber": 1,
+      "topic": "Capsule",
+      "slide": 13,
+      "images": [
+        "slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-19"
+    },
+    {
+      "id": "lecture-20-c1",
+      "type": "cloze",
+      "text": "Beyond protection, capsules may enhance {{c1::attachment}} and biofilm formation.",
+      "question": "Beyond protection, capsules may enhance {{c1::attachment}} and biofilm formation.",
+      "answer": "attachment",
+      "clozeNumber": 1,
+      "topic": "Capsule",
+      "slide": 13,
+      "images": [
+        "slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-20"
+    },
+    {
+      "id": "lecture-21-c1",
+      "type": "cloze",
+      "text": "The lecture names {{c1::Streptococcus pneumoniae}} and Neisseria meningitidis as examples that benefit from capsule production.",
+      "question": "The lecture names {{c1::Streptococcus pneumoniae}} and Neisseria meningitidis as examples that benefit from capsule production.",
+      "answer": "Streptococcus pneumoniae",
+      "clozeNumber": 1,
+      "topic": "Capsule",
+      "slide": 13,
+      "images": [
+        "slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-21"
+    },
+    {
+      "id": "lecture-22-c1",
+      "type": "cloze",
+      "text": "EPS stands for {{c1::extracellular polymeric substances}}.",
+      "question": "EPS stands for {{c1::extracellular polymeric substances}}.",
+      "answer": "extracellular polymeric substances",
+      "clozeNumber": 1,
+      "topic": "EPS",
+      "slide": 14,
+      "images": [
+        "slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-22"
+    },
+    {
+      "id": "lecture-23-c1",
+      "type": "cloze",
+      "text": "EPS is the entire {{c1::extracellular matrix}} produced by microbes, not just one polymer.",
+      "question": "EPS is the entire {{c1::extracellular matrix}} produced by microbes, not just one polymer.",
+      "answer": "extracellular matrix",
+      "clozeNumber": 1,
+      "topic": "EPS",
+      "slide": 14,
+      "images": [
+        "slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-23"
+    },
+    {
+      "id": "lecture-24-c1",
+      "type": "cloze",
+      "text": "Besides polysaccharides and proteins, EPS can contain {{c1::DNA}}, water, lipids and trapped substances.",
+      "question": "Besides polysaccharides and proteins, EPS can contain {{c1::DNA}}, water, lipids and trapped substances.",
+      "answer": "DNA",
+      "clozeNumber": 1,
+      "topic": "EPS",
+      "slide": 14,
+      "images": [
+        "slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-24"
+    },
+    {
+      "id": "lecture-25-c1",
+      "type": "cloze",
+      "text": "EPS is essential for {{c1::Pseudomonas aeruginosa}} to form chronic biofilms in the lecture example.",
+      "question": "EPS is essential for {{c1::Pseudomonas aeruginosa}} to form chronic biofilms in the lecture example.",
+      "answer": "Pseudomonas aeruginosa",
+      "clozeNumber": 1,
+      "topic": "EPS",
+      "slide": 14,
+      "images": [
+        "slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-25"
+    },
+    {
+      "id": "lecture-26-c1",
+      "type": "cloze",
+      "text": "A bacterial slime layer is formed from {{c1::EPS}}.",
+      "question": "A bacterial slime layer is formed from {{c1::EPS}}.",
+      "answer": "EPS",
+      "clozeNumber": 1,
+      "topic": "Slime layer",
+      "slide": 15,
+      "images": [
+        "slide-15"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-26"
+    },
+    {
+      "id": "lecture-27-c1",
+      "type": "cloze",
+      "text": "Compared with a capsule, the slime layer is {{c1::less tightly organised}}.",
+      "question": "Compared with a capsule, the slime layer is {{c1::less tightly organised}}.",
+      "answer": "less tightly organised",
+      "clozeNumber": 1,
+      "topic": "Slime layer",
+      "slide": 15,
+      "images": [
+        "slide-15"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-27"
+    },
+    {
+      "id": "lecture-28-c1",
+      "type": "cloze",
+      "text": "Slime layers promote adhesion and {{c1::biofilm formation}}, and can provide a barrier against antibiotics and the immune system.",
+      "question": "Slime layers promote adhesion and {{c1::biofilm formation}}, and can provide a barrier against antibiotics and the immune system.",
+      "answer": "biofilm formation",
+      "clozeNumber": 1,
+      "topic": "Slime layer",
+      "slide": 15,
+      "images": [
+        "slide-15"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-28"
+    },
+    {
+      "id": "lecture-29-c1",
+      "type": "cloze",
+      "text": "The S-layer is a self-assembling, two-dimensional sheet of {{c1::protein}}.",
+      "question": "The S-layer is a self-assembling, two-dimensional sheet of {{c1::protein}}.",
+      "answer": "protein",
+      "clozeNumber": 1,
+      "topic": "S-layer",
+      "slide": 16,
+      "images": [
+        "slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-29"
+    },
+    {
+      "id": "lecture-30-c1",
+      "type": "cloze",
+      "text": "S-layer proteins assemble into a highly organised {{c1::crystalline}} structure.",
+      "question": "S-layer proteins assemble into a highly organised {{c1::crystalline}} structure.",
+      "answer": "crystalline",
+      "clozeNumber": 1,
+      "topic": "S-layer",
+      "slide": 16,
+      "images": [
+        "slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-30"
+    },
+    {
+      "id": "lecture-31-c1",
+      "type": "cloze",
+      "text": "One S-layer function is acting as a molecular {{c1::sieve}}, alongside protection and adhesion.",
+      "question": "One S-layer function is acting as a molecular {{c1::sieve}}, alongside protection and adhesion.",
+      "answer": "sieve",
+      "clozeNumber": 1,
+      "topic": "S-layer",
+      "slide": 16,
+      "images": [
+        "slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-31"
+    },
+    {
+      "id": "lecture-32-c1",
+      "type": "cloze",
+      "text": "Fimbriae are usually short, thin, numerous and {{c1::non-retractable}}.",
+      "question": "Fimbriae are usually short, thin, numerous and {{c1::non-retractable}}.",
+      "answer": "non-retractable",
+      "clozeNumber": 1,
+      "topic": "Fimbriae",
+      "slide": 17,
+      "images": [
+        "slide-17"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-32"
+    },
+    {
+      "id": "lecture-33-c1",
+      "type": "cloze",
+      "text": "The primary function of fimbriae is {{c1::adhesion}} to surfaces, particularly host surfaces and tissues.",
+      "question": "The primary function of fimbriae is {{c1::adhesion}} to surfaces, particularly host surfaces and tissues.",
+      "answer": "adhesion",
+      "clozeNumber": 1,
+      "topic": "Fimbriae",
+      "slide": 17,
+      "images": [
+        "slide-17"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-33"
+    },
+    {
+      "id": "lecture-34-c1",
+      "type": "cloze",
+      "text": "Adhesion proteins at the {{c1::tips}} of fimbriae support attachment.",
+      "question": "Adhesion proteins at the {{c1::tips}} of fimbriae support attachment.",
+      "answer": "tips",
+      "clozeNumber": 1,
+      "topic": "Fimbriae",
+      "slide": 17,
+      "images": [
+        "slide-17"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-34"
+    },
+    {
+      "id": "lecture-35-c1",
+      "type": "cloze",
+      "text": "The conjugation pilus enables direct transfer of replicated {{c1::plasmid DNA}} between bacteria.",
+      "question": "The conjugation pilus enables direct transfer of replicated {{c1::plasmid DNA}} between bacteria.",
+      "answer": "plasmid DNA",
+      "clozeNumber": 1,
+      "topic": "Conjugation pilus",
+      "slide": 18,
+      "images": [
+        "slide-18"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-35"
+    },
+    {
+      "id": "lecture-36-c1",
+      "type": "cloze",
+      "text": "Conjugation can occur between different strains, species and even {{c1::genera}}.",
+      "question": "Conjugation can occur between different strains, species and even {{c1::genera}}.",
+      "answer": "genera",
+      "clozeNumber": 1,
+      "topic": "Conjugation pilus",
+      "slide": 18,
+      "images": [
+        "slide-18"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-36"
+    },
+    {
+      "id": "lecture-37-c1",
+      "type": "cloze",
+      "text": "Type IV pili produce {{c1::twitching motility}} through extension and retraction.",
+      "question": "Type IV pili produce {{c1::twitching motility}} through extension and retraction.",
+      "answer": "twitching motility",
+      "clozeNumber": 1,
+      "topic": "Type IV pili",
+      "slide": 19,
+      "images": [
+        "slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-37"
+    },
+    {
+      "id": "lecture-38-c1",
+      "type": "cloze",
+      "text": "In addition to adhesion and twitching motility, Type IV pili support uptake of {{c1::DNA}}.",
+      "question": "In addition to adhesion and twitching motility, Type IV pili support uptake of {{c1::DNA}}.",
+      "answer": "DNA",
+      "clozeNumber": 1,
+      "topic": "Type IV pili",
+      "slide": 19,
+      "images": [
+        "slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-38"
+    },
+    {
+      "id": "lecture-39-c1",
+      "type": "cloze",
+      "text": "Unlike usually non-retractable fimbriae, Type IV pili {{c1::extend and retract}}.",
+      "question": "Unlike usually non-retractable fimbriae, Type IV pili {{c1::extend and retract}}.",
+      "answer": "extend and retract",
+      "clozeNumber": 1,
+      "topic": "Type IV pili",
+      "slide": 19,
+      "images": [
+        "slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-39"
+    },
+    {
+      "id": "lecture-40-c1",
+      "type": "cloze",
+      "text": "Type IV pili are usually longer and {{c1::less numerous}} than fimbriae.",
+      "question": "Type IV pili are usually longer and {{c1::less numerous}} than fimbriae.",
+      "answer": "less numerous",
+      "clozeNumber": 1,
+      "topic": "Type IV pili",
+      "slide": 19,
+      "images": [
+        "slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-40"
+    },
+    {
+      "id": "lecture-41-c1",
+      "type": "cloze",
+      "text": "T3SS stands for {{c1::Type III Secretion System}}.",
+      "question": "T3SS stands for {{c1::Type III Secretion System}}.",
+      "answer": "Type III Secretion System",
+      "clozeNumber": 1,
+      "topic": "Type III secretion",
+      "slide": 20,
+      "images": [
+        "slide-20"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-41"
+    },
+    {
+      "id": "lecture-42-c1",
+      "type": "cloze",
+      "text": "The syringe-like T3SS is produced by some {{c1::Gram-negative}} bacteria.",
+      "question": "The syringe-like T3SS is produced by some {{c1::Gram-negative}} bacteria.",
+      "answer": "Gram-negative",
+      "clozeNumber": 1,
+      "topic": "Type III secretion",
+      "slide": 20,
+      "images": [
+        "slide-20"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-42"
+    },
+    {
+      "id": "lecture-43-c1",
+      "type": "cloze",
+      "text": "T3SS injects bacterial {{c1::effector proteins}} into the host-cell cytoplasm.",
+      "question": "T3SS injects bacterial {{c1::effector proteins}} into the host-cell cytoplasm.",
+      "answer": "effector proteins",
+      "clozeNumber": 1,
+      "topic": "Type III secretion",
+      "slide": 20,
+      "images": [
+        "slide-20"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-43"
+    },
+    {
+      "id": "lecture-44-c1",
+      "type": "cloze",
+      "text": "Unlike a conjugation pilus, which transfers DNA between bacteria, T3SS injects proteins into {{c1::host cells}}.",
+      "question": "Unlike a conjugation pilus, which transfers DNA between bacteria, T3SS injects proteins into {{c1::host cells}}.",
+      "answer": "host cells",
+      "clozeNumber": 1,
+      "topic": "Type III secretion",
+      "slide": 20,
+      "images": [
+        "slide-20"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-44"
+    },
+    {
+      "id": "lecture-45-c1",
+      "type": "cloze",
+      "text": "A bacterial flagellum moves by {{c1::rotation}}, like a propeller.",
+      "question": "A bacterial flagellum moves by {{c1::rotation}}, like a propeller.",
+      "answer": "rotation",
+      "clozeNumber": 1,
+      "topic": "Flagella",
+      "slide": 21,
+      "images": [
+        "slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-45"
+    },
+    {
+      "id": "lecture-46-c1",
+      "type": "cloze",
+      "text": "Flagella support {{c1::swimming and swarming}} motility.",
+      "question": "Flagella support {{c1::swimming and swarming}} motility.",
+      "answer": "swimming and swarming",
+      "clozeNumber": 1,
+      "topic": "Flagella",
+      "slide": 21,
+      "images": [
+        "slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-46"
+    },
+    {
+      "id": "lecture-47-c1",
+      "type": "cloze",
+      "text": "Bacteria can carry {{c1::zero, one, two or many}} flagella; their number is not fixed across bacteria.",
+      "question": "Bacteria can carry {{c1::zero, one, two or many}} flagella; their number is not fixed across bacteria.",
+      "answer": "zero, one, two or many",
+      "clozeNumber": 1,
+      "topic": "Flagella",
+      "slide": 21,
+      "images": [
+        "slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-47"
+    },
+    {
+      "id": "lecture-48-c1",
+      "type": "cloze",
+      "text": "Endoflagella, also called axial filaments, provide motility in {{c1::spirochetes}}.",
+      "question": "Endoflagella, also called axial filaments, provide motility in {{c1::spirochetes}}.",
+      "answer": "spirochetes",
+      "clozeNumber": 1,
+      "topic": "Endoflagella",
+      "slide": 22,
+      "images": [
+        "slide-22"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-48"
+    },
+    {
+      "id": "lecture-49-c1",
+      "type": "cloze",
+      "text": "Endoflagella generate a {{c1::corkscrew}} motion useful in viscous liquids and tissue penetration.",
+      "question": "Endoflagella generate a {{c1::corkscrew}} motion useful in viscous liquids and tissue penetration.",
+      "answer": "corkscrew",
+      "clozeNumber": 1,
+      "topic": "Endoflagella",
+      "slide": 22,
+      "images": [
+        "slide-22"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-49"
+    },
+    {
+      "id": "lecture-50-c1",
+      "type": "cloze",
+      "text": "The lecture illustrates endoflagellar motility with {{c1::Treponema pallidum}}.",
+      "question": "The lecture illustrates endoflagellar motility with {{c1::Treponema pallidum}}.",
+      "answer": "Treponema pallidum",
+      "clozeNumber": 1,
+      "topic": "Endoflagella",
+      "slide": 22,
+      "images": [
+        "slide-22"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-50"
+    },
+    {
+      "id": "lecture-51-c1",
+      "type": "cloze",
+      "text": "Outer membrane vesicles are produced by {{c1::Gram-negative}} bacteria.",
+      "question": "Outer membrane vesicles are produced by {{c1::Gram-negative}} bacteria.",
+      "answer": "Gram-negative",
+      "clozeNumber": 1,
+      "topic": "Outer membrane vesicles",
+      "slide": 23,
+      "images": [
+        "slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-51"
+    },
+    {
+      "id": "lecture-52-c1",
+      "type": "cloze",
+      "text": "OMVs can carry proteins, lipids, enzymes and even {{c1::DNA}}.",
+      "question": "OMVs can carry proteins, lipids, enzymes and even {{c1::DNA}}.",
+      "answer": "DNA",
+      "clozeNumber": 1,
+      "topic": "Outer membrane vesicles",
+      "slide": 23,
+      "images": [
+        "slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-52"
+    },
+    {
+      "id": "lecture-53-c1",
+      "type": "cloze",
+      "text": "OMVs can shuttle toxins and {{c1::adhesins}} to host cells, acting as nano-sized delivery parcels.",
+      "question": "OMVs can shuttle toxins and {{c1::adhesins}} to host cells, acting as nano-sized delivery parcels.",
+      "answer": "adhesins",
+      "clozeNumber": 1,
+      "topic": "Outer membrane vesicles",
+      "slide": 23,
+      "images": [
+        "slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-53"
+    },
+    {
+      "id": "lecture-54-c1",
+      "type": "cloze",
+      "text": "OMVs may contribute to stress survival, immune evasion, antibiotic resistance mechanisms and {{c1::biofilm formation}}.",
+      "question": "OMVs may contribute to stress survival, immune evasion, antibiotic resistance mechanisms and {{c1::biofilm formation}}.",
+      "answer": "biofilm formation",
+      "clozeNumber": 1,
+      "topic": "Outer membrane vesicles",
+      "slide": 23,
+      "images": [
+        "slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-54"
+    },
+    {
+      "id": "lecture-55-c1",
+      "type": "cloze",
+      "text": "The cytoplasmic membrane is a thin {{c1::lipid bilayer}} surrounding the bacterial cytoplasm.",
+      "question": "The cytoplasmic membrane is a thin {{c1::lipid bilayer}} surrounding the bacterial cytoplasm.",
+      "answer": "lipid bilayer",
+      "clozeNumber": 1,
+      "topic": "Plasma membrane",
+      "slide": 24,
+      "images": [
+        "slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-55"
+    },
+    {
+      "id": "lecture-56-c1",
+      "type": "cloze",
+      "text": "The plasma membrane acts as a {{c1::selective barrier}} controlling transport and uptake.",
+      "question": "The plasma membrane acts as a {{c1::selective barrier}} controlling transport and uptake.",
+      "answer": "selective barrier",
+      "clozeNumber": 1,
+      "topic": "Plasma membrane",
+      "slide": 24,
+      "images": [
+        "slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-56"
+    },
+    {
+      "id": "lecture-57-c1",
+      "type": "cloze",
+      "text": "Gram-positive bacteria have a {{c1::thick}} peptidoglycan layer that helps resist internal pressure.",
+      "question": "Gram-positive bacteria have a {{c1::thick}} peptidoglycan layer that helps resist internal pressure.",
+      "answer": "thick",
+      "clozeNumber": 1,
+      "topic": "Gram-positive envelope",
+      "slide": 25,
+      "images": [
+        "slide-25"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-57"
+    },
+    {
+      "id": "lecture-58-c1",
+      "type": "cloze",
+      "text": "The Gram-positive cell wall protects against {{c1::osmotic lysis}} and provides shape and rigidity.",
+      "question": "The Gram-positive cell wall protects against {{c1::osmotic lysis}} and provides shape and rigidity.",
+      "answer": "osmotic lysis",
+      "clozeNumber": 1,
+      "topic": "Gram-positive envelope",
+      "slide": 25,
+      "images": [
+        "slide-25"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-58"
+    },
+    {
+      "id": "lecture-59-c1",
+      "type": "cloze",
+      "text": "Gram-positive {{c1::teichoic acids}} contribute to adhesion and immune interaction.",
+      "question": "Gram-positive {{c1::teichoic acids}} contribute to adhesion and immune interaction.",
+      "answer": "teichoic acids",
+      "clozeNumber": 1,
+      "topic": "Gram-positive envelope",
+      "slide": 25,
+      "images": [
+        "slide-25"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-59"
+    },
+    {
+      "id": "lecture-60-c1",
+      "type": "cloze",
+      "text": "Compared with Gram-positive bacteria, Gram-negative bacteria have a {{c1::thinner}} peptidoglycan layer.",
+      "question": "Compared with Gram-positive bacteria, Gram-negative bacteria have a {{c1::thinner}} peptidoglycan layer.",
+      "answer": "thinner",
+      "clozeNumber": 1,
+      "topic": "Gram-negative envelope",
+      "slide": 26,
+      "images": [
+        "slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-60"
+    },
+    {
+      "id": "lecture-61-c1",
+      "type": "cloze",
+      "text": "The Gram-negative {{c1::outer membrane}} acts as an additional selective barrier.",
+      "question": "The Gram-negative {{c1::outer membrane}} acts as an additional selective barrier.",
+      "answer": "outer membrane",
+      "clozeNumber": 1,
+      "topic": "Gram-negative envelope",
+      "slide": 26,
+      "images": [
+        "slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-61"
+    },
+    {
+      "id": "lecture-62-c1",
+      "type": "cloze",
+      "text": "LPS stands for {{c1::lipopolysaccharide}}.",
+      "question": "LPS stands for {{c1::lipopolysaccharide}}.",
+      "answer": "lipopolysaccharide",
+      "clozeNumber": 1,
+      "topic": "Gram-negative envelope",
+      "slide": 26,
+      "images": [
+        "slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-62"
+    },
+    {
+      "id": "lecture-63-c1",
+      "type": "cloze",
+      "text": "The Gram-negative LPS layer elicits a {{c1::strong host immune response}}.",
+      "question": "The Gram-negative LPS layer elicits a {{c1::strong host immune response}}.",
+      "answer": "strong host immune response",
+      "clozeNumber": 1,
+      "topic": "Gram-negative envelope",
+      "slide": 26,
+      "images": [
+        "slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-63"
+    },
+    {
+      "id": "lecture-64-c1",
+      "type": "cloze",
+      "text": "The outer envelope of Mycobacterium tuberculosis is rich in {{c1::mycolic acids}}.",
+      "question": "The outer envelope of Mycobacterium tuberculosis is rich in {{c1::mycolic acids}}.",
+      "answer": "mycolic acids",
+      "clozeNumber": 1,
+      "topic": "Mycobacterial envelope",
+      "slide": 27,
+      "images": [
+        "slide-27"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-64"
+    },
+    {
+      "id": "lecture-65-c1",
+      "type": "cloze",
+      "text": "Mycolic acids make the envelope {{c1::hydrophobic}} with reduced permeability.",
+      "question": "Mycolic acids make the envelope {{c1::hydrophobic}} with reduced permeability.",
+      "answer": "hydrophobic",
+      "clozeNumber": 1,
+      "topic": "Mycobacterial envelope",
+      "slide": 27,
+      "images": [
+        "slide-27"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-65"
+    },
+    {
+      "id": "lecture-66-c1",
+      "type": "cloze",
+      "text": "Reduced permeability of the mycolic-acid-rich envelope contributes to {{c1::drug tolerance}}.",
+      "question": "Reduced permeability of the mycolic-acid-rich envelope contributes to {{c1::drug tolerance}}.",
+      "answer": "drug tolerance",
+      "clozeNumber": 1,
+      "topic": "Mycobacterial envelope",
+      "slide": 27,
+      "images": [
+        "slide-27"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-66"
+    },
+    {
+      "id": "lecture-67-c1",
+      "type": "cloze",
+      "text": "{{c1::Mycoplasma}} species are examples of bacteria without a cell wall.",
+      "question": "{{c1::Mycoplasma}} species are examples of bacteria without a cell wall.",
+      "answer": "Mycoplasma",
+      "clozeNumber": 1,
+      "topic": "Wall-less bacteria",
+      "slide": 28,
+      "images": [
+        "slide-28"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-67"
+    },
+    {
+      "id": "lecture-68-c1",
+      "type": "cloze",
+      "text": "Lack of a cell wall gives Mycoplasma intrinsic resistance to {{c1::β-lactam antibiotics}}.",
+      "question": "Lack of a cell wall gives Mycoplasma intrinsic resistance to {{c1::β-lactam antibiotics}}.",
+      "answer": "β-lactam antibiotics",
+      "clozeNumber": 1,
+      "topic": "Wall-less bacteria",
+      "slide": 28,
+      "images": [
+        "slide-28"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-68"
+    },
+    {
+      "id": "lecture-69-c1",
+      "type": "cloze",
+      "text": "Without a rigid cell wall, mollicutes can have high {{c1::deformability}}.",
+      "question": "Without a rigid cell wall, mollicutes can have high {{c1::deformability}}.",
+      "answer": "deformability",
+      "clozeNumber": 1,
+      "topic": "Wall-less bacteria",
+      "slide": 28,
+      "images": [
+        "slide-28"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-69"
+    },
+    {
+      "id": "lecture-70-c1",
+      "type": "cloze",
+      "text": "Unlike a eukaryotic nucleus, the bacterial nucleoid is {{c1::not membrane-bound}}.",
+      "question": "Unlike a eukaryotic nucleus, the bacterial nucleoid is {{c1::not membrane-bound}}.",
+      "answer": "not membrane-bound",
+      "clozeNumber": 1,
+      "topic": "Nucleoid",
+      "slide": 29,
+      "images": [
+        "slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-70"
+    },
+    {
+      "id": "lecture-71-c1",
+      "type": "cloze",
+      "text": "Bacterial DNA is compacted by negative {{c1::supercoiling}} and looping in domains.",
+      "question": "Bacterial DNA is compacted by negative {{c1::supercoiling}} and looping in domains.",
+      "answer": "supercoiling",
+      "clozeNumber": 1,
+      "topic": "Nucleoid",
+      "slide": 29,
+      "images": [
+        "slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-71"
+    },
+    {
+      "id": "lecture-72-c1",
+      "type": "cloze",
+      "text": "Although a single chromosome is common, some bacteria have {{c1::multiple chromosomes}}.",
+      "question": "Although a single chromosome is common, some bacteria have {{c1::multiple chromosomes}}.",
+      "answer": "multiple chromosomes",
+      "clozeNumber": 1,
+      "topic": "Nucleoid",
+      "slide": 29,
+      "images": [
+        "slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-72"
+    },
+    {
+      "id": "lecture-73-c1",
+      "type": "cloze",
+      "text": "Plasmids often carry {{c1::virulence}} and/or antimicrobial resistance genes.",
+      "question": "Plasmids often carry {{c1::virulence}} and/or antimicrobial resistance genes.",
+      "answer": "virulence",
+      "clozeNumber": 1,
+      "topic": "Plasmids",
+      "slide": 30,
+      "images": [
+        "slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-73"
+    },
+    {
+      "id": "lecture-74-c1",
+      "type": "cloze",
+      "text": "A plasmid that replicates well in one bacterium {{c1::may not replicate well in another}}.",
+      "question": "A plasmid that replicates well in one bacterium {{c1::may not replicate well in another}}.",
+      "answer": "may not replicate well in another",
+      "clozeNumber": 1,
+      "topic": "Plasmids",
+      "slide": 30,
+      "images": [
+        "slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-74"
+    },
+    {
+      "id": "lecture-75-c1",
+      "type": "cloze",
+      "text": "Maintaining a plasmid may impose a {{c1::fitness cost}} on its bacterial host.",
+      "question": "Maintaining a plasmid may impose a {{c1::fitness cost}} on its bacterial host.",
+      "answer": "fitness cost",
+      "clozeNumber": 1,
+      "topic": "Plasmids",
+      "slide": 30,
+      "images": [
+        "slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-75"
+    },
+    {
+      "id": "lecture-76-c1",
+      "type": "cloze",
+      "text": "A bacteriophage is a virus that infects {{c1::bacteria}}.",
+      "question": "A bacteriophage is a virus that infects {{c1::bacteria}}.",
+      "answer": "bacteria",
+      "clozeNumber": 1,
+      "topic": "Prophage",
+      "slide": 31,
+      "images": [
+        "slide-31"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-76"
+    },
+    {
+      "id": "lecture-77-c1",
+      "type": "cloze",
+      "text": "Injected phage DNA can become incorporated into a bacterial plasmid or {{c1::core chromosome}}.",
+      "question": "Injected phage DNA can become incorporated into a bacterial plasmid or {{c1::core chromosome}}.",
+      "answer": "core chromosome",
+      "clozeNumber": 1,
+      "topic": "Prophage",
+      "slide": 31,
+      "images": [
+        "slide-31"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-77"
+    },
+    {
+      "id": "lecture-78-c1",
+      "type": "cloze",
+      "text": "Phage cargo genes may encode {{c1::exotoxins}}, other virulence factors or antimicrobial resistance genes.",
+      "question": "Phage cargo genes may encode {{c1::exotoxins}}, other virulence factors or antimicrobial resistance genes.",
+      "answer": "exotoxins",
+      "clozeNumber": 1,
+      "topic": "Prophage",
+      "slide": 31,
+      "images": [
+        "slide-31"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-78"
+    },
+    {
+      "id": "lecture-79-c1",
+      "type": "cloze",
+      "text": "A bacterial 70S ribosome contains {{c1::50S}} and {{c2::30S}} subunits.",
+      "question": "A bacterial 70S ribosome contains {{c1::50S}} and {{c2::30S}} subunits.",
+      "answer": "50S",
+      "clozeNumber": 1,
+      "topic": "Ribosomes",
+      "slide": 33,
+      "images": [
+        "slide-33"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-79"
+    },
+    {
+      "id": "lecture-79-c2",
+      "type": "cloze",
+      "text": "A bacterial 70S ribosome contains {{c1::50S}} and {{c2::30S}} subunits.",
+      "question": "A bacterial 70S ribosome contains {{c1::50S}} and {{c2::30S}} subunits.",
+      "answer": "30S",
+      "clozeNumber": 2,
+      "topic": "Ribosomes",
+      "slide": 33,
+      "images": [
+        "slide-33"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-79"
+    },
+    {
+      "id": "lecture-80-c1",
+      "type": "cloze",
+      "text": "The ribosome converts mRNA into protein through {{c1::translation}}.",
+      "question": "The ribosome converts mRNA into protein through {{c1::translation}}.",
+      "answer": "translation",
+      "clozeNumber": 1,
+      "topic": "Ribosomes",
+      "slide": 33,
+      "images": [
+        "slide-33"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-80"
+    },
+    {
+      "id": "lecture-81-c1",
+      "type": "cloze",
+      "text": "Endospores are dormant, metabolically {{c1::inactive}} survival forms made under poor conditions.",
+      "question": "Endospores are dormant, metabolically {{c1::inactive}} survival forms made under poor conditions.",
+      "answer": "inactive",
+      "clozeNumber": 1,
+      "topic": "Endospores",
+      "slide": 34,
+      "images": [
+        "slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-81"
+    },
+    {
+      "id": "lecture-82-c1",
+      "type": "cloze",
+      "text": "Endospores can resist {{c1::disinfectants}} and other environmental pressures.",
+      "question": "Endospores can resist {{c1::disinfectants}} and other environmental pressures.",
+      "answer": "disinfectants",
+      "clozeNumber": 1,
+      "topic": "Endospores",
+      "slide": 34,
+      "images": [
+        "slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-82"
+    },
+    {
+      "id": "lecture-83-c1",
+      "type": "cloze",
+      "text": "The lecture names Bacillus and {{c1::Clostridium / Clostridioides}} as endospore-producing genera.",
+      "question": "The lecture names Bacillus and {{c1::Clostridium / Clostridioides}} as endospore-producing genera.",
+      "answer": "Clostridium / Clostridioides",
+      "clozeNumber": 1,
+      "topic": "Endospores",
+      "slide": 34,
+      "images": [
+        "slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-83"
+    },
+    {
+      "id": "lecture-84-c1",
+      "type": "cloze",
+      "text": "Endospore production is restricted to a {{c1::small minority}} of bacteria.",
+      "question": "Endospore production is restricted to a {{c1::small minority}} of bacteria.",
+      "answer": "small minority",
+      "clozeNumber": 1,
+      "topic": "Endospores",
+      "slide": 34,
+      "images": [
+        "slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-84"
+    },
+    {
+      "id": "lecture-85-c1",
+      "type": "cloze",
+      "text": "Bacterial cell shape depends on peptidoglycan architecture and {{c1::cytoskeletal proteins}}.",
+      "question": "Bacterial cell shape depends on peptidoglycan architecture and {{c1::cytoskeletal proteins}}.",
+      "answer": "cytoskeletal proteins",
+      "clozeNumber": 1,
+      "topic": "Cell shape",
+      "slide": 35,
+      "images": [
+        "slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-85"
+    },
+    {
+      "id": "lecture-86-c1",
+      "type": "cloze",
+      "text": "The rod-shaped bacterial form is called a {{c1::bacillus}}.",
+      "question": "The rod-shaped bacterial form is called a {{c1::bacillus}}.",
+      "answer": "bacillus",
+      "clozeNumber": 1,
+      "topic": "Cell shape",
+      "slide": 35,
+      "images": [
+        "slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-86"
+    },
+    {
+      "id": "lecture-87-c1",
+      "type": "cloze",
+      "text": "A spherical bacterial form is called a {{c1::coccus}}.",
+      "question": "A spherical bacterial form is called a {{c1::coccus}}.",
+      "answer": "coccus",
+      "clozeNumber": 1,
+      "topic": "Cell shape",
+      "slide": 35,
+      "images": [
+        "slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-87"
+    },
+    {
+      "id": "lecture-88-c1",
+      "type": "cloze",
+      "text": "A comma-shaped bacterial form is described as {{c1::vibrio}}.",
+      "question": "A comma-shaped bacterial form is described as {{c1::vibrio}}.",
+      "answer": "vibrio",
+      "clozeNumber": 1,
+      "topic": "Cell shape",
+      "slide": 35,
+      "images": [
+        "slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-88"
+    },
+    {
+      "id": "lecture-89-c1",
+      "type": "cloze",
+      "text": "Cell arrangement depends on division planes and whether {{c1::daughter cells separate or remain attached}}.",
+      "question": "Cell arrangement depends on division planes and whether {{c1::daughter cells separate or remain attached}}.",
+      "answer": "daughter cells separate or remain attached",
+      "clozeNumber": 1,
+      "topic": "Cell arrangement",
+      "slide": 36,
+      "images": [
+        "slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-89"
+    },
+    {
+      "id": "lecture-90-c1",
+      "type": "cloze",
+      "text": "The location of the division {{c1::septum}} influences bacterial cell arrangement.",
+      "question": "The location of the division {{c1::septum}} influences bacterial cell arrangement.",
+      "answer": "septum",
+      "clozeNumber": 1,
+      "topic": "Cell arrangement",
+      "slide": 36,
+      "images": [
+        "slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-90"
+    },
+    {
+      "id": "lecture-91-c1",
+      "type": "cloze",
+      "text": "Cocci arranged in chains are called {{c1::streptococci}}.",
+      "question": "Cocci arranged in chains are called {{c1::streptococci}}.",
+      "answer": "streptococci",
+      "clozeNumber": 1,
+      "topic": "Cell arrangement",
+      "slide": 36,
+      "images": [
+        "slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-91"
+    },
+    {
+      "id": "lecture-92-c1",
+      "type": "cloze",
+      "text": "Cocci arranged in clusters are called {{c1::staphylococci}}.",
+      "question": "Cocci arranged in clusters are called {{c1::staphylococci}}.",
+      "answer": "staphylococci",
+      "clozeNumber": 1,
+      "topic": "Cell arrangement",
+      "slide": 36,
+      "images": [
+        "slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-92"
+    },
+    {
+      "id": "lecture-93-c1",
+      "type": "cloze",
+      "text": "A pair of cocci is described as {{c1::diplococci}}.",
+      "question": "A pair of cocci is described as {{c1::diplococci}}.",
+      "answer": "diplococci",
+      "clozeNumber": 1,
+      "topic": "Cell arrangement",
+      "slide": 36,
+      "images": [
+        "slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-93"
+    },
+    {
+      "id": "lecture-94-c1",
+      "type": "cloze",
+      "text": "Division timing, structural components and growth physiology can all influence bacterial {{c1::cell size}}.",
+      "question": "Division timing, structural components and growth physiology can all influence bacterial {{c1::cell size}}.",
+      "answer": "cell size",
+      "clozeNumber": 1,
+      "topic": "Cell size",
+      "slide": 37,
+      "images": [
+        "slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-94"
+    },
+    {
+      "id": "lecture-95-c1",
+      "type": "cloze",
+      "text": "Cell size affects diffusion and {{c1::energy requirements}}, as well as ecology and survival.",
+      "question": "Cell size affects diffusion and {{c1::energy requirements}}, as well as ecology and survival.",
+      "answer": "energy requirements",
+      "clozeNumber": 1,
+      "topic": "Cell size",
+      "slide": 37,
+      "images": [
+        "slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-95"
+    },
+    {
+      "id": "lecture-96-c1",
+      "type": "cloze",
+      "text": "Macroscopic structures can be seen with the {{c1::naked eye}}, without a microscope.",
+      "question": "Macroscopic structures can be seen with the {{c1::naked eye}}, without a microscope.",
+      "answer": "naked eye",
+      "clozeNumber": 1,
+      "topic": "Macroscopic structures",
+      "slide": 39,
+      "images": [
+        "slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-96"
+    },
+    {
+      "id": "lecture-97-c1",
+      "type": "cloze",
+      "text": "Macroscopic bacterial structures usually involve {{c1::large populations or communities}}, rather than a single cell.",
+      "question": "Macroscopic bacterial structures usually involve {{c1::large populations or communities}}, rather than a single cell.",
+      "answer": "large populations or communities",
+      "clozeNumber": 1,
+      "topic": "Macroscopic structures",
+      "slide": 39,
+      "images": [
+        "slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-97"
+    },
+    {
+      "id": "lecture-98-c1",
+      "type": "cloze",
+      "text": "A colony is a visibly detectable mass of bacteria growing on a {{c1::surface such as agar}}.",
+      "question": "A colony is a visibly detectable mass of bacteria growing on a {{c1::surface such as agar}}.",
+      "answer": "surface such as agar",
+      "clozeNumber": 1,
+      "topic": "Colonies",
+      "slide": 40,
+      "images": [
+        "slide-40"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-98"
+    },
+    {
+      "id": "lecture-99-c1",
+      "type": "cloze",
+      "text": "The lecture gives approximately {{c1::10⁵–10⁹}} cells per colony, depending on the species.",
+      "question": "The lecture gives approximately {{c1::10⁵–10⁹}} cells per colony, depending on the species.",
+      "answer": "10⁵–10⁹",
+      "clozeNumber": 1,
+      "topic": "Colonies",
+      "slide": 40,
+      "images": [
+        "slide-40"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-99"
+    },
+    {
+      "id": "lecture-100-c1",
+      "type": "cloze",
+      "text": "A colony is often assumed to be {{c1::clonal}}, meaning its cells are usually genetically identical.",
+      "question": "A colony is often assumed to be {{c1::clonal}}, meaning its cells are usually genetically identical.",
+      "answer": "clonal",
+      "clozeNumber": 1,
+      "topic": "Colonies",
+      "slide": 40,
+      "images": [
+        "slide-40"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-100"
+    },
+    {
+      "id": "lecture-101-c1",
+      "type": "cloze",
+      "text": "The branching, root-like colony form in the lecture diagram is termed {{c1::rhizoid}}.",
+      "question": "The branching, root-like colony form in the lecture diagram is termed {{c1::rhizoid}}.",
+      "answer": "rhizoid",
+      "clozeNumber": 1,
+      "topic": "Colony form",
+      "slide": 41,
+      "images": [
+        "slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-101"
+    },
+    {
+      "id": "lecture-102-c1",
+      "type": "cloze",
+      "text": "A colony form with fine, thread-like extensions is termed {{c1::filamentous}}.",
+      "question": "A colony form with fine, thread-like extensions is termed {{c1::filamentous}}.",
+      "answer": "filamentous",
+      "clozeNumber": 1,
+      "topic": "Colony form",
+      "slide": 41,
+      "images": [
+        "slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-102"
+    },
+    {
+      "id": "lecture-103-c1",
+      "type": "cloze",
+      "text": "Very small dot-like colonies are described as {{c1::punctiform}}.",
+      "question": "Very small dot-like colonies are described as {{c1::punctiform}}.",
+      "answer": "punctiform",
+      "clozeNumber": 1,
+      "topic": "Colony form",
+      "slide": 41,
+      "images": [
+        "slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-103"
+    },
+    {
+      "id": "lecture-104-c1",
+      "type": "cloze",
+      "text": "A colony's margin describes its {{c1::edge}}, rather than its overall height.",
+      "question": "A colony's margin describes its {{c1::edge}}, rather than its overall height.",
+      "answer": "edge",
+      "clozeNumber": 1,
+      "topic": "Colony margin",
+      "slide": 42,
+      "images": [
+        "slide-42"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-104"
+    },
+    {
+      "id": "lecture-105-c1",
+      "type": "cloze",
+      "text": "Motility, adhesion, cell separation and environmental conditions can affect colony {{c1::margin}}.",
+      "question": "Motility, adhesion, cell separation and environmental conditions can affect colony {{c1::margin}}.",
+      "answer": "margin",
+      "clozeNumber": 1,
+      "topic": "Colony margin",
+      "slide": 42,
+      "images": [
+        "slide-42"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-105"
+    },
+    {
+      "id": "lecture-106-c1",
+      "type": "cloze",
+      "text": "Colony elevation is influenced by growth rate, EPS, capsules, motility and {{c1::spreading across the plate}}.",
+      "question": "Colony elevation is influenced by growth rate, EPS, capsules, motility and {{c1::spreading across the plate}}.",
+      "answer": "spreading across the plate",
+      "clozeNumber": 1,
+      "topic": "Colony elevation",
+      "slide": 43,
+      "images": [
+        "slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-106"
+    },
+    {
+      "id": "lecture-107-c1",
+      "type": "cloze",
+      "text": "A wrinkled colony surface is also described as {{c1::rugose}}.",
+      "question": "A wrinkled colony surface is also described as {{c1::rugose}}.",
+      "answer": "rugose",
+      "clozeNumber": 1,
+      "topic": "Colony texture",
+      "slide": 44,
+      "images": [
+        "slide-44"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-107"
+    },
+    {
+      "id": "lecture-108-c1",
+      "type": "cloze",
+      "text": "A slimy, gummy or shiny colony texture is described as {{c1::mucoid}}.",
+      "question": "A slimy, gummy or shiny colony texture is described as {{c1::mucoid}}.",
+      "answer": "mucoid",
+      "clozeNumber": 1,
+      "topic": "Colony texture",
+      "slide": 44,
+      "images": [
+        "slide-44"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-108"
+    },
+    {
+      "id": "lecture-109-c1",
+      "type": "cloze",
+      "text": "Colony texture can vary {{c1::within a species}}, as well as between species.",
+      "question": "Colony texture can vary {{c1::within a species}}, as well as between species.",
+      "answer": "within a species",
+      "clozeNumber": 1,
+      "topic": "Colony texture",
+      "slide": 44,
+      "images": [
+        "slide-44"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-109"
+    },
+    {
+      "id": "lecture-110-c1",
+      "type": "cloze",
+      "text": "Colony opacity measures how much a colony {{c1::blocks light}} from passing through it.",
+      "question": "Colony opacity measures how much a colony {{c1::blocks light}} from passing through it.",
+      "answer": "blocks light",
+      "clozeNumber": 1,
+      "topic": "Colony opacity",
+      "slide": 45,
+      "images": [
+        "slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-110"
+    },
+    {
+      "id": "lecture-111-c1",
+      "type": "cloze",
+      "text": "Colonies may be transparent, translucent, iridescent or {{c1::opaque}}.",
+      "question": "Colonies may be transparent, translucent, iridescent or {{c1::opaque}}.",
+      "answer": "opaque",
+      "clozeNumber": 1,
+      "topic": "Colony opacity",
+      "slide": 45,
+      "images": [
+        "slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-111"
+    },
+    {
+      "id": "lecture-112-c1",
+      "type": "cloze",
+      "text": "Colony thickness, cell packing, capsule, EPS and pigments can affect {{c1::opacity}}.",
+      "question": "Colony thickness, cell packing, capsule, EPS and pigments can affect {{c1::opacity}}.",
+      "answer": "opacity",
+      "clozeNumber": 1,
+      "topic": "Colony opacity",
+      "slide": 45,
+      "images": [
+        "slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-112"
+    },
+    {
+      "id": "lecture-113-c1",
+      "type": "cloze",
+      "text": "Colony consistency is influenced by water content, extracellular polymers and {{c1::cell-wall physiology}}.",
+      "question": "Colony consistency is influenced by water content, extracellular polymers and {{c1::cell-wall physiology}}.",
+      "answer": "cell-wall physiology",
+      "clozeNumber": 1,
+      "topic": "Colony consistency",
+      "slide": 46,
+      "images": [
+        "slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-113"
+    },
+    {
+      "id": "lecture-114-c1",
+      "type": "cloze",
+      "text": "A ropy colony consistency is also called {{c1::viscid}}.",
+      "question": "A ropy colony consistency is also called {{c1::viscid}}.",
+      "answer": "viscid",
+      "clozeNumber": 1,
+      "topic": "Colony consistency",
+      "slide": 46,
+      "images": [
+        "slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-114"
+    },
+    {
+      "id": "lecture-115-c1",
+      "type": "cloze",
+      "text": "The slide's string-forming colony image illustrates hypermucoid {{c1::Klebsiella pneumoniae}}.",
+      "question": "The slide's string-forming colony image illustrates hypermucoid {{c1::Klebsiella pneumoniae}}.",
+      "answer": "Klebsiella pneumoniae",
+      "clozeNumber": 1,
+      "topic": "Colony consistency",
+      "slide": 46,
+      "images": [
+        "slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-115"
+    },
+    {
+      "id": "lecture-116-c1",
+      "type": "cloze",
+      "text": "Small molecular structures called {{c1::pigments}} influence colony colour.",
+      "question": "Small molecular structures called {{c1::pigments}} influence colony colour.",
+      "answer": "pigments",
+      "clozeNumber": 1,
+      "topic": "Pigmentation",
+      "slide": 47,
+      "images": [
+        "slide-47"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-116"
+    },
+    {
+      "id": "lecture-117-c1",
+      "type": "cloze",
+      "text": "A biofilm is a structured bacterial community attached through a bacteria-produced {{c1::extracellular matrix}}.",
+      "question": "A biofilm is a structured bacterial community attached through a bacteria-produced {{c1::extracellular matrix}}.",
+      "answer": "extracellular matrix",
+      "clozeNumber": 1,
+      "topic": "Biofilms",
+      "slide": 48,
+      "images": [
+        "slide-48"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-117"
+    },
+    {
+      "id": "lecture-118-c1",
+      "type": "cloze",
+      "text": "Biofilms can be {{c1::mixed-species}} communities, though some contain a single species.",
+      "question": "Biofilms can be {{c1::mixed-species}} communities, though some contain a single species.",
+      "answer": "mixed-species",
+      "clozeNumber": 1,
+      "topic": "Biofilms",
+      "slide": 48,
+      "images": [
+        "slide-48"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-118"
+    },
+    {
+      "id": "lecture-119-c1",
+      "type": "cloze",
+      "text": "Biofilm formation involves initial attachment, EPS production and {{c1::quorum communication}}.",
+      "question": "Biofilm formation involves initial attachment, EPS production and {{c1::quorum communication}}.",
+      "answer": "quorum communication",
+      "clozeNumber": 1,
+      "topic": "Biofilms",
+      "slide": 48,
+      "images": [
+        "slide-48"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-119"
+    },
+    {
+      "id": "lecture-120-c1",
+      "type": "cloze",
+      "text": "Swimming, swarming, twitching, gliding and sliding are examples of colony {{c1::spreading patterns}}.",
+      "question": "Swimming, swarming, twitching, gliding and sliding are examples of colony {{c1::spreading patterns}}.",
+      "answer": "spreading patterns",
+      "clozeNumber": 1,
+      "topic": "Spreading patterns",
+      "slide": 49,
+      "images": [
+        "slide-49"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-120"
+    },
+    {
+      "id": "lecture-121-c1",
+      "type": "cloze",
+      "text": "Visible spreading patterns can result from microscopic structures such as {{c1::flagella}}.",
+      "question": "Visible spreading patterns can result from microscopic structures such as {{c1::flagella}}.",
+      "answer": "flagella",
+      "clozeNumber": 1,
+      "topic": "Spreading patterns",
+      "slide": 49,
+      "images": [
+        "slide-49"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-121"
+    },
+    {
+      "id": "lecture-122-c1",
+      "type": "cloze",
+      "text": "{{c1::Differential}} agar reveals particular bacterial characteristics.",
+      "question": "{{c1::Differential}} agar reveals particular bacterial characteristics.",
+      "answer": "Differential",
+      "clozeNumber": 1,
+      "topic": "Culture media",
+      "slide": 50,
+      "images": [
+        "slide-50"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-122"
+    },
+    {
+      "id": "lecture-123-c1",
+      "type": "cloze",
+      "text": "{{c1::Selective}} agar encourages certain bacteria and/or inhibits others.",
+      "question": "{{c1::Selective}} agar encourages certain bacteria and/or inhibits others.",
+      "answer": "Selective",
+      "clozeNumber": 1,
+      "topic": "Culture media",
+      "slide": 50,
+      "images": [
+        "slide-50"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-123"
+    },
+    {
+      "id": "lecture-124-c1",
+      "type": "cloze",
+      "text": "An agar medium can be {{c1::both selective and differential}}.",
+      "question": "An agar medium can be {{c1::both selective and differential}}.",
+      "answer": "both selective and differential",
+      "clozeNumber": 1,
+      "topic": "Culture media",
+      "slide": 50,
+      "images": [
+        "slide-50"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-124"
+    },
+    {
+      "id": "lecture-125-c1",
+      "type": "cloze",
+      "text": "In the slide's MacConkey agar image, the pink colonies are {{c1::lactose-fermenting}}.",
+      "question": "In the slide's MacConkey agar image, the pink colonies are {{c1::lactose-fermenting}}.",
+      "answer": "lactose-fermenting",
+      "clozeNumber": 1,
+      "topic": "Culture media",
+      "slide": 50,
+      "images": [
+        "slide-50"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-125"
+    },
+    {
+      "id": "lecture-126-c1",
+      "type": "cloze",
+      "text": "Bacterial taxonomy groups organisms using shared genotypic and phenotypic traits and {{c1::evolutionary relationships}}.",
+      "question": "Bacterial taxonomy groups organisms using shared genotypic and phenotypic traits and {{c1::evolutionary relationships}}.",
+      "answer": "evolutionary relationships",
+      "clozeNumber": 1,
+      "topic": "Taxonomy",
+      "slide": 51,
+      "images": [
+        "slide-51"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-126"
+    },
+    {
+      "id": "lecture-127-c1",
+      "type": "cloze",
+      "text": "Polyphasic taxonomy combines phenotype, chemistry and {{c1::genetics / genomics}}.",
+      "question": "Polyphasic taxonomy combines phenotype, chemistry and {{c1::genetics / genomics}}.",
+      "answer": "genetics / genomics",
+      "clozeNumber": 1,
+      "topic": "Taxonomy",
+      "slide": 51,
+      "images": [
+        "slide-51"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-127"
+    },
+    {
+      "id": "lecture-128-c1",
+      "type": "cloze",
+      "text": "ICNP stands for the International Code of Nomenclature of {{c1::Prokaryotes}}.",
+      "question": "ICNP stands for the International Code of Nomenclature of {{c1::Prokaryotes}}.",
+      "answer": "Prokaryotes",
+      "clozeNumber": 1,
+      "topic": "Taxonomic nomenclature",
+      "slide": 52,
+      "images": [
+        "slide-52"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-128"
+    },
+    {
+      "id": "lecture-129-c1",
+      "type": "cloze",
+      "text": "ICSP stands for the International Committee on {{c1::Systematics of Prokaryotes}}.",
+      "question": "ICSP stands for the International Committee on {{c1::Systematics of Prokaryotes}}.",
+      "answer": "Systematics of Prokaryotes",
+      "clozeNumber": 1,
+      "topic": "Taxonomic nomenclature",
+      "slide": 52,
+      "images": [
+        "slide-52"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-129"
+    },
+    {
+      "id": "lecture-130-c1",
+      "type": "cloze",
+      "text": "IJSEM is the International Journal of Systematic and {{c1::Evolutionary Microbiology}}.",
+      "question": "IJSEM is the International Journal of Systematic and {{c1::Evolutionary Microbiology}}.",
+      "answer": "Evolutionary Microbiology",
+      "clozeNumber": 1,
+      "topic": "Taxonomic nomenclature",
+      "slide": 52,
+      "images": [
+        "slide-52"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-130"
+    },
+    {
+      "id": "lecture-131-c1",
+      "type": "cloze",
+      "text": "LPSN lists prokaryotic names with standing in {{c1::nomenclature}}.",
+      "question": "LPSN lists prokaryotic names with standing in {{c1::nomenclature}}.",
+      "answer": "nomenclature",
+      "clozeNumber": 1,
+      "topic": "Taxonomic nomenclature",
+      "slide": 52,
+      "images": [
+        "slide-52"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-131"
+    },
+    {
+      "id": "lecture-132-c1",
+      "type": "cloze",
+      "text": "The hierarchy shown is domain → kingdom → phylum → class → order → family → {{c1::genus}} → species.",
+      "question": "The hierarchy shown is domain → kingdom → phylum → class → order → family → {{c1::genus}} → species.",
+      "answer": "genus",
+      "clozeNumber": 1,
+      "topic": "Taxonomic hierarchy",
+      "slide": 53,
+      "images": [
+        "slide-53"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-132"
+    },
+    {
+      "id": "lecture-133-c1",
+      "type": "cloze",
+      "text": "In Shigella sonnei, Shigella is the {{c1::genus}} and sonnei is the specific epithet.",
+      "question": "In Shigella sonnei, Shigella is the {{c1::genus}} and sonnei is the specific epithet.",
+      "answer": "genus",
+      "clozeNumber": 1,
+      "topic": "Taxonomic hierarchy",
+      "slide": 53,
+      "images": [
+        "slide-53"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-133"
+    },
+    {
+      "id": "lecture-134-c1",
+      "type": "cloze",
+      "text": "The lecture places Shigella in the family {{c1::Enterobacteriaceae}}.",
+      "question": "The lecture places Shigella in the family {{c1::Enterobacteriaceae}}.",
+      "answer": "Enterobacteriaceae",
+      "clozeNumber": 1,
+      "topic": "Taxonomic hierarchy",
+      "slide": 53,
+      "images": [
+        "slide-53"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-134"
+    },
+    {
+      "id": "lecture-135-c1",
+      "type": "cloze",
+      "text": "The lecture places Enterobacteriaceae in the order {{c1::Enterobacterales}}.",
+      "question": "The lecture places Enterobacteriaceae in the order {{c1::Enterobacterales}}.",
+      "answer": "Enterobacterales",
+      "clozeNumber": 1,
+      "topic": "Taxonomic hierarchy",
+      "slide": 53,
+      "images": [
+        "slide-53"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-135"
+    },
+    {
+      "id": "lecture-136-c1",
+      "type": "cloze",
+      "text": "When typed, bacterial genus and species names should be {{c1::italicised}}.",
+      "question": "When typed, bacterial genus and species names should be {{c1::italicised}}.",
+      "answer": "italicised",
+      "clozeNumber": 1,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-136"
+    },
+    {
+      "id": "lecture-137-c1",
+      "type": "cloze",
+      "text": "When handwritten, bacterial genus and species names should be {{c1::underlined}}.",
+      "question": "When handwritten, bacterial genus and species names should be {{c1::underlined}}.",
+      "answer": "underlined",
+      "clozeNumber": 1,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-137"
+    },
+    {
+      "id": "lecture-138-c1",
+      "type": "cloze",
+      "text": "The genus starts with an {{c1::uppercase}} letter; the species epithet starts with a {{c2::lowercase}} letter.",
+      "question": "The genus starts with an {{c1::uppercase}} letter; the species epithet starts with a {{c2::lowercase}} letter.",
+      "answer": "uppercase",
+      "clozeNumber": 1,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-138"
+    },
+    {
+      "id": "lecture-138-c2",
+      "type": "cloze",
+      "text": "The genus starts with an {{c1::uppercase}} letter; the species epithet starts with a {{c2::lowercase}} letter.",
+      "question": "The genus starts with an {{c1::uppercase}} letter; the species epithet starts with a {{c2::lowercase}} letter.",
+      "answer": "lowercase",
+      "clozeNumber": 2,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-138"
+    },
+    {
+      "id": "lecture-139-c1",
+      "type": "cloze",
+      "text": "The abbreviation sp. means {{c1::one species}}, while spp. means {{c2::multiple species}}.",
+      "question": "The abbreviation sp. means {{c1::one species}}, while spp. means {{c2::multiple species}}.",
+      "answer": "one species",
+      "clozeNumber": 1,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-139"
+    },
+    {
+      "id": "lecture-139-c2",
+      "type": "cloze",
+      "text": "The abbreviation sp. means {{c1::one species}}, while spp. means {{c2::multiple species}}.",
+      "question": "The abbreviation sp. means {{c1::one species}}, while spp. means {{c2::multiple species}}.",
+      "answer": "multiple species",
+      "clozeNumber": 2,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-139"
+    },
+    {
+      "id": "lecture-140-c1",
+      "type": "cloze",
+      "text": "After the full name Shigella sonnei is introduced, it can be abbreviated to {{c1::S. sonnei}}.",
+      "question": "After the full name Shigella sonnei is introduced, it can be abbreviated to {{c1::S. sonnei}}.",
+      "answer": "S. sonnei",
+      "clozeNumber": 1,
+      "topic": "Naming bacteria",
+      "slide": 54,
+      "images": [
+        "slide-54"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-140"
+    },
+    {
+      "id": "lecture-141-c1",
+      "type": "cloze",
+      "text": "CC means {{c1::clonal complex}} and ST means {{c2::sequence type}}.",
+      "question": "CC means {{c1::clonal complex}} and ST means {{c2::sequence type}}.",
+      "answer": "clonal complex",
+      "clozeNumber": 1,
+      "topic": "Typing schemes",
+      "slide": 55,
+      "images": [
+        "slide-55"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-141"
+    },
+    {
+      "id": "lecture-141-c2",
+      "type": "cloze",
+      "text": "CC means {{c1::clonal complex}} and ST means {{c2::sequence type}}.",
+      "question": "CC means {{c1::clonal complex}} and ST means {{c2::sequence type}}.",
+      "answer": "sequence type",
+      "clozeNumber": 2,
+      "topic": "Typing schemes",
+      "slide": 55,
+      "images": [
+        "slide-55"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-141"
+    },
+    {
+      "id": "lecture-142-c1",
+      "type": "cloze",
+      "text": "Typing schemes provide finer resolution than species identification for {{c1::outbreak investigation}}.",
+      "question": "Typing schemes provide finer resolution than species identification for {{c1::outbreak investigation}}.",
+      "answer": "outbreak investigation",
+      "clozeNumber": 1,
+      "topic": "Typing schemes",
+      "slide": 55,
+      "images": [
+        "slide-55"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-142"
+    },
+    {
+      "id": "lecture-143-c1",
+      "type": "cloze",
+      "text": "The slide gives Shigella flexneri 3a as an example of a {{c1::serotype}}.",
+      "question": "The slide gives Shigella flexneri 3a as an example of a {{c1::serotype}}.",
+      "answer": "serotype",
+      "clozeNumber": 1,
+      "topic": "Typing schemes",
+      "slide": 55,
+      "images": [
+        "slide-55"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-143"
+    },
+    {
+      "id": "lecture-144-c1",
+      "type": "cloze",
+      "text": "Typhimurium is shown as a {{c1::serovar}} of Salmonella enterica.",
+      "question": "Typhimurium is shown as a {{c1::serovar}} of Salmonella enterica.",
+      "answer": "serovar",
+      "clozeNumber": 1,
+      "topic": "Typing schemes",
+      "slide": 55,
+      "images": [
+        "slide-55"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-144"
+    },
+    {
+      "id": "lecture-145-c1",
+      "type": "cloze",
+      "text": "Genomics is now the backbone of bacterial taxonomy, but {{c1::not its sole factor}}.",
+      "question": "Genomics is now the backbone of bacterial taxonomy, but {{c1::not its sole factor}}.",
+      "answer": "not its sole factor",
+      "clozeNumber": 1,
+      "topic": "Genomics and taxonomy",
+      "slide": 56,
+      "images": [
+        "slide-56"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-145"
+    },
+    {
+      "id": "lecture-146-c1",
+      "type": "cloze",
+      "text": "The lecture links {{c1::16S rRNA}} phylogeny to understanding higher-level evolutionary relationships.",
+      "question": "The lecture links {{c1::16S rRNA}} phylogeny to understanding higher-level evolutionary relationships.",
+      "answer": "16S rRNA",
+      "clozeNumber": 1,
+      "topic": "Genomics and taxonomy",
+      "slide": 56,
+      "images": [
+        "slide-56"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-146"
+    },
+    {
+      "id": "lecture-147-c1",
+      "type": "cloze",
+      "text": "Whole-genome sequencing metrics help inform bacterial {{c1::species boundaries}}.",
+      "question": "Whole-genome sequencing metrics help inform bacterial {{c1::species boundaries}}.",
+      "answer": "species boundaries",
+      "clozeNumber": 1,
+      "topic": "Genomics and taxonomy",
+      "slide": 56,
+      "images": [
+        "slide-56"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-147"
+    },
+    {
+      "id": "lecture-148-c1",
+      "type": "cloze",
+      "text": "Before the 1960s, {{c1::biochemical test results}} were central to defining genera and species.",
+      "question": "Before the 1960s, {{c1::biochemical test results}} were central to defining genera and species.",
+      "answer": "biochemical test results",
+      "clozeNumber": 1,
+      "topic": "Biochemical tests",
+      "slide": 57,
+      "images": [
+        "slide-57"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-148"
+    },
+    {
+      "id": "lecture-149-c1",
+      "type": "cloze",
+      "text": "Indole, citrate utilisation, oxidase, catalase and urease are examples of {{c1::biochemical tests}} used to characterise bacteria.",
+      "question": "Indole, citrate utilisation, oxidase, catalase and urease are examples of {{c1::biochemical tests}} used to characterise bacteria.",
+      "answer": "biochemical tests",
+      "clozeNumber": 1,
+      "topic": "Biochemical tests",
+      "slide": 57,
+      "images": [
+        "slide-57"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-149"
+    },
+    {
+      "id": "lecture-150-c1",
+      "type": "cloze",
+      "text": "Cold-adapted bacteria are described as {{c1::psychrophilic}}; heat-adapted bacteria as {{c2::thermophilic}}.",
+      "question": "Cold-adapted bacteria are described as {{c1::psychrophilic}}; heat-adapted bacteria as {{c2::thermophilic}}.",
+      "answer": "psychrophilic",
+      "clozeNumber": 1,
+      "topic": "Temperature physiology",
+      "slide": 58,
+      "images": [
+        "slide-58"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-150"
+    },
+    {
+      "id": "lecture-150-c2",
+      "type": "cloze",
+      "text": "Cold-adapted bacteria are described as {{c1::psychrophilic}}; heat-adapted bacteria as {{c2::thermophilic}}.",
+      "question": "Cold-adapted bacteria are described as {{c1::psychrophilic}}; heat-adapted bacteria as {{c2::thermophilic}}.",
+      "answer": "thermophilic",
+      "clozeNumber": 2,
+      "topic": "Temperature physiology",
+      "slide": 58,
+      "images": [
+        "slide-58"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-150"
+    },
+    {
+      "id": "lecture-151-c1",
+      "type": "cloze",
+      "text": "The lecture names {{c1::Thermus}} as a genus strongly influenced by temperature physiology.",
+      "question": "The lecture names {{c1::Thermus}} as a genus strongly influenced by temperature physiology.",
+      "answer": "Thermus",
+      "clozeNumber": 1,
+      "topic": "Temperature physiology",
+      "slide": 58,
+      "images": [
+        "slide-58"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-151"
+    },
+    {
+      "id": "lecture-152-c1",
+      "type": "cloze",
+      "text": "Campylobacter species require a {{c1::microaerophilic}} atmosphere.",
+      "question": "Campylobacter species require a {{c1::microaerophilic}} atmosphere.",
+      "answer": "microaerophilic",
+      "clozeNumber": 1,
+      "topic": "Atmospheric requirements",
+      "slide": 59,
+      "images": [
+        "slide-59"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-152"
+    },
+    {
+      "id": "lecture-153-c1",
+      "type": "cloze",
+      "text": "In the lecture comparison, Vibrio species are {{c1::facultatively anaerobic}}, unlike microaerophilic Campylobacter.",
+      "question": "In the lecture comparison, Vibrio species are {{c1::facultatively anaerobic}}, unlike microaerophilic Campylobacter.",
+      "answer": "facultatively anaerobic",
+      "clozeNumber": 1,
+      "topic": "Atmospheric requirements",
+      "slide": 59,
+      "images": [
+        "slide-59"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-153"
+    },
+    {
+      "id": "lecture-154-c1",
+      "type": "cloze",
+      "text": "Cell shape, Gram reaction, endospores and motility are {{c1::microscopic}} features used in polyphasic descriptions.",
+      "question": "Cell shape, Gram reaction, endospores and motility are {{c1::microscopic}} features used in polyphasic descriptions.",
+      "answer": "microscopic",
+      "clozeNumber": 1,
+      "topic": "Taxonomic evidence",
+      "slide": 60,
+      "images": [
+        "slide-60"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-154"
+    },
+    {
+      "id": "lecture-155-c1",
+      "type": "cloze",
+      "text": "Colony form, margin, elevation, texture and pigmentation are {{c1::macroscopic}} features used in taxonomic descriptions.",
+      "question": "Colony form, margin, elevation, texture and pigmentation are {{c1::macroscopic}} features used in taxonomic descriptions.",
+      "answer": "macroscopic",
+      "clozeNumber": 1,
+      "topic": "Taxonomic evidence",
+      "slide": 61,
+      "images": [
+        "slide-61"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-155"
+    },
+    {
+      "id": "lecture-156-c1",
+      "type": "cloze",
+      "text": "Shigella was identified as the dysentery bacillus by {{c1::Kiyoshi Shiga}} in 1898.",
+      "question": "Shigella was identified as the dysentery bacillus by {{c1::Kiyoshi Shiga}} in 1898.",
+      "answer": "Kiyoshi Shiga",
+      "clozeNumber": 1,
+      "topic": "Historical taxonomy",
+      "slide": 62,
+      "images": [
+        "slide-62"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-156"
+    },
+    {
+      "id": "lecture-157-c1",
+      "type": "cloze",
+      "text": "Genomics shows that Shigella lineages are extremely close genetically to {{c1::Escherichia coli}}.",
+      "question": "Genomics shows that Shigella lineages are extremely close genetically to {{c1::Escherichia coli}}.",
+      "answer": "Escherichia coli",
+      "clozeNumber": 1,
+      "topic": "Historical taxonomy",
+      "slide": 62,
+      "images": [
+        "slide-62"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-157"
+    },
+    {
+      "id": "lecture-158-c1",
+      "type": "cloze",
+      "text": "Shigella causes {{c1::shigellosis}}, which can present as invasive dysentery with bloody diarrhoea.",
+      "question": "Shigella causes {{c1::shigellosis}}, which can present as invasive dysentery with bloody diarrhoea.",
+      "answer": "shigellosis",
+      "clozeNumber": 1,
+      "topic": "Clinical features",
+      "slide": 63,
+      "images": [
+        "slide-63"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-158"
+    },
+    {
+      "id": "lecture-159-c1",
+      "type": "cloze",
+      "text": "The lecture notes that Shigella symptoms can resemble those caused by {{c1::enteroinvasive E. coli (EIEC)}}.",
+      "question": "The lecture notes that Shigella symptoms can resemble those caused by {{c1::enteroinvasive E. coli (EIEC)}}.",
+      "answer": "enteroinvasive E. coli (EIEC)",
+      "clozeNumber": 1,
+      "topic": "Clinical features",
+      "slide": 63,
+      "images": [
+        "slide-63"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-159"
+    },
+    {
+      "id": "lecture-160-c1",
+      "type": "cloze",
+      "text": "Distinct clinical symptoms have contributed to keeping Shigella separate from {{c1::Escherichia coli}} in nomenclature.",
+      "question": "Distinct clinical symptoms have contributed to keeping Shigella separate from {{c1::Escherichia coli}} in nomenclature.",
+      "answer": "Escherichia coli",
+      "clozeNumber": 1,
+      "topic": "Clinical features",
+      "slide": 63,
+      "images": [
+        "slide-63"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-160"
+    },
+    {
+      "id": "lecture-161-c1",
+      "type": "cloze",
+      "text": "A bacterium's role or location in its ecosystem is its {{c1::ecological niche}}.",
+      "question": "A bacterium's role or location in its ecosystem is its {{c1::ecological niche}}.",
+      "answer": "ecological niche",
+      "clozeNumber": 1,
+      "topic": "Ecological niche",
+      "slide": 64,
+      "images": [
+        "slide-64"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-161"
+    },
+    {
+      "id": "lecture-162-c1",
+      "type": "cloze",
+      "text": "The lecture contrasts {{c1::high-light and low-light}} ecotypes of Prochlorococcus.",
+      "question": "The lecture contrasts {{c1::high-light and low-light}} ecotypes of Prochlorococcus.",
+      "answer": "high-light and low-light",
+      "clozeNumber": 1,
+      "topic": "Ecological niche",
+      "slide": 64,
+      "images": [
+        "slide-64"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-162"
+    },
+    {
+      "id": "lecture-163-c1",
+      "type": "cloze",
+      "text": "In the figure legend, green blocks indicate the presence of {{c1::antimicrobial resistance (AMR)}} features.",
+      "question": "In the figure legend, green blocks indicate the presence of {{c1::antimicrobial resistance (AMR)}} features.",
+      "answer": "antimicrobial resistance (AMR)",
+      "clozeNumber": 1,
+      "topic": "Research figure",
+      "slide": 65,
+      "images": [
+        "slide-65"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-163"
+    },
+    {
+      "id": "lecture-164-c1",
+      "type": "cloze",
+      "text": "In the figure legend, cyan blocks indicate {{c1::plasmid}} presence.",
+      "question": "In the figure legend, cyan blocks indicate {{c1::plasmid}} presence.",
+      "answer": "plasmid",
+      "clozeNumber": 1,
+      "topic": "Research figure",
+      "slide": 65,
+      "images": [
+        "slide-65"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-164"
+    },
+    {
+      "id": "lecture-165-c1",
+      "type": "cloze",
+      "text": "The figure compares London and Berlin outbreak groups with {{c1::reference isolates}}.",
+      "question": "The figure compares London and Berlin outbreak groups with {{c1::reference isolates}}.",
+      "answer": "reference isolates",
+      "clozeNumber": 1,
+      "topic": "Research figure",
+      "slide": 65,
+      "images": [
+        "slide-65"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-165"
+    },
+    {
+      "id": "lecture-166-c1",
+      "type": "cloze",
+      "text": "The figure combines a phylogenetic tree with virulence, resistance and plasmid profiles to compare isolates; this can show {{c1::associations}}, not prove that a feature caused outbreak success.",
+      "question": "The figure combines a phylogenetic tree with virulence, resistance and plasmid profiles to compare isolates; this can show {{c1::associations}}, not prove that a feature caused outbreak success.",
+      "answer": "associations",
+      "clozeNumber": 1,
+      "topic": "Research figure",
+      "slide": 65,
+      "images": [
+        "slide-65"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "noteId": "lecture-166"
+    },
+    {
+      "id": "visual-1",
+      "type": "cloze",
+      "text": "These short, numerous hair-like projections used for adhesion are {{c1::fimbriae}}.",
+      "question": "These short, numerous hair-like projections used for adhesion are {{c1::fimbriae}}.",
+      "answer": "fimbriae",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 17,
+      "images": [
+        "visual-1"
+      ],
+      "answerImages": [
+        "slide-17"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-1"
+    },
+    {
+      "id": "visual-2",
+      "type": "cloze",
+      "text": "The long bridge between these bacteria enables transfer of {{c1::plasmid DNA}} during conjugation.",
+      "question": "The long bridge between these bacteria enables transfer of {{c1::plasmid DNA}} during conjugation.",
+      "answer": "plasmid DNA",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 18,
+      "images": [
+        "visual-2"
+      ],
+      "answerImages": [
+        "slide-18"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-2"
+    },
+    {
+      "id": "visual-3",
+      "type": "cloze",
+      "text": "The indicated retractile structure mediating twitching motility is a {{c1::Type IV pilus}}.",
+      "question": "The indicated retractile structure mediating twitching motility is a {{c1::Type IV pilus}}.",
+      "answer": "Type IV pilus",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 19,
+      "images": [
+        "visual-3"
+      ],
+      "answerImages": [
+        "slide-19"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-3"
+    },
+    {
+      "id": "visual-4",
+      "type": "cloze",
+      "text": "The long propeller-like appendages in this image are {{c1::flagella}}.",
+      "question": "The long propeller-like appendages in this image are {{c1::flagella}}.",
+      "answer": "flagella",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 21,
+      "images": [
+        "visual-4"
+      ],
+      "answerImages": [
+        "slide-21"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-4"
+    },
+    {
+      "id": "visual-5",
+      "type": "cloze",
+      "text": "This straight, rod-shaped cell has a {{c1::bacillus}} morphology.",
+      "question": "This straight, rod-shaped cell has a {{c1::bacillus}} morphology.",
+      "answer": "bacillus",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 35,
+      "images": [
+        "visual-5"
+      ],
+      "answerImages": [
+        "slide-35"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-5"
+    },
+    {
+      "id": "visual-6",
+      "type": "cloze",
+      "text": "The string-forming colony in the slide illustrates a {{c1::hypermucoid}} consistency.",
+      "question": "The string-forming colony in the slide illustrates a {{c1::hypermucoid}} consistency.",
+      "answer": "hypermucoid",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 46,
+      "images": [
+        "visual-6"
+      ],
+      "answerImages": [
+        "slide-46"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-6"
+    },
+    {
+      "id": "visual-7",
+      "type": "cloze",
+      "text": "On the pictured MacConkey plate, the pink colonies are {{c1::lactose-fermenting}}.",
+      "question": "On the pictured MacConkey plate, the pink colonies are {{c1::lactose-fermenting}}.",
+      "answer": "lactose-fermenting",
+      "clozeNumber": 1,
+      "topic": "Visual recall",
+      "slide": 50,
+      "images": [
+        "visual-7"
+      ],
+      "answerImages": [
+        "slide-50"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false,
+      "noteId": "visual-7"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "LS5008/30 –",
+      "text": "LS5008/30 –\nRevisiting Microorganisms\nDr Lewis C. E. Mason\nBSc (Hons), MSc, PhD, FIBMS, MRSB, AFHEA\nModule Leader\nL.Mason@Kingston.ac.uk",
+      "images": [
+        "slide-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Learning objectives",
+      "text": "Learning objectives\n• Recall structures and their functions within the prokaryotic\nbacterial cell\n• Explain how structures contribute to bacterial function, \nsurvival, and adaptation\n• Evaluate contemporary research (Mason et al., 2026)\nregarding the association between microbial features and \nepidemiological / outbreak ‘success’",
+      "images": [
+        "slide-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Starter activity",
+      "text": "Starter activity\nLabel the cell:\nC\nB\nA\nD\nE\nF\nG\nH\nStretch and challenge: what potential structures are missing from this diagram?",
+      "images": [
+        "slide-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Basic Structures and ",
+      "text": "Basic Structures and \nfunctions\nStructure \nFunction\nCytoplasmic membrane\nHouses the electron transport chain\nPeptidoglycan cell wall\nMaintains cell shape\nCytoplasm\nSite of metabolic reactions\nNucleoid\nContains and organises the chromosome\nBacterial chromosome\nCarries the majority of genetic information\n70S ribosomes\nTranslation of mRNA into proteins\nCapsules\nAdhesion, protection from the environment\nFimbriae\nAdhesion to surfaces and other cells\nFlagella\nMotility \nPili\nCell-cell interactions and motility\nPlasmids\nIndependently replicating accessory genetic material",
+      "images": [
+        "slide-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "But… do all bacterial cells carry ",
+      "text": "But… do all bacterial cells carry \nthe same structures?",
+      "images": [
+        "slide-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "The bacterial cell wall",
+      "text": "The bacterial cell wall",
+      "images": [
+        "slide-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Normal bacterial transcription animation",
+      "text": "Normal bacterial transcription animation\nSource: https://www.youtube.com/watch?v=oC21vLFtsjo",
+      "images": [
+        "slide-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Normal bacterial translation animation",
+      "text": "Normal bacterial translation animation\nSource: https://www.youtube.com/watch?v=oC21vLFtsjo",
+      "images": [
+        "slide-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Normal DNA replication in bacteria ",
+      "text": "Normal DNA replication in bacteria \nanimation\nSource: https://www.youtube.com/watch?v=IkKZ_gxAOXI\n1\n2\n3",
+      "images": [
+        "slide-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Patterns of microbial growth",
+      "text": "Patterns of microbial growth\n•\nLag phase:\nLittle to no change in the number of microbes, but \nmetabolic activity is high. Adjusting to the new\nenvironment.\n•\nLog phase:\nMicrobes multiply at a constant, rapid rate.\n•\nStationary phase:\nThe growth medium is depleted of nutrients and/or\ntoxic metabolites accumulate.\n•\nDeath phase:\nMicrobes die due to the lack of appropriate nutrients\nand the buildup of toxic metabolites",
+      "images": [
+        "slide-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Microscopic structures of a bacterium",
+      "text": "Microscopic structures of a bacterium",
+      "images": [
+        "slide-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "What is considered a ‘microscopic’ structure?",
+      "text": "What is considered a ‘microscopic’ structure?\n• ‘Microscopic’ structures are defined as structures that \ncannot be directly visualised with the naked eye, and \nrequire a microscope (light/electrons) to view\n• These can be structures at a cellular or sub-cellular\nlevel (µm–nm) requiring a light-microscope or \nelectron microscope, respectively\n• There are some nuances with this – for example, the slime\nlayer is a microscopic structure, but its effects can be \nvisually seen by the naked eye on agar (glossy colonies)",
+      "images": [
+        "slide-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Capsule",
+      "text": "Capsule\nAcinetobacter calcoaceticus\n• Some bacteria are able to produce a bacterial \ncapsule (outer protective layer)\n• Capsules can have a variety of purposes:\nimmune evasion; environmental survival;\nenhanced attachment; biofilm formation.\n• Shigella sonnei, Streptococcus pneumoniae, \nNeisseria meningitidis, Escherichia coli K1 \nare some examples of bacteria that benefit \ngreatly from their capsule when it is produced\nCapsule",
+      "images": [
+        "slide-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Extracellular polymeric substances (EPS)",
+      "text": "Extracellular polymeric substances (EPS)\nPseudomonas aeruginosa\nEPS\n• The EPS is the entire extracellular matrix\nproduced by microbes\n• It includes polysaccharides, proteins,\nDNA, water, lipids, and other trapped\nsubstances\n• EPS is essential for Pseudomonas \naeruginosa to form chronic biofilms",
+      "images": [
+        "slide-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "•  Some bacteria have what is known as a ‘slime layer’,",
+      "text": "•  Some bacteria have what is known as a ‘slime layer’,\nformed from EPS.\n•  Different to a capsule, it is not \norganised tightly and it is not easily removed. \n•  Slime layers aid in adhesion, biofilm \nformation, and offer a barrier against \nantibiotics and the immune system.\nSlime layer\nStaphylococcus epidermidis\nSlime layer",
+      "images": [
+        "slide-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Surface layer (‘S-layer’)",
+      "text": "Surface layer (‘S-layer’)\n• The S-layer is a 2D sheet of protein\nthat self-assembles into a crystalline \nstructure\n• It is incredibly highly organised, \nsimilar to chainmail\n• There are a wide variety of S-layer\nstructure types, which influence their\nfunction (protective exoskeleton,\nmolecular sieve, adhesion, etc.)",
+      "images": [
+        "slide-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Fimbria (plural: fimbriae)",
+      "text": "Fimbria (plural: fimbriae)\nFimbria\n• Fimbriae are short, thin, (usually) \nnumerous non-retractable \nhair-like structures carried by \nsome bacteria\n• Their main purpose is for\nadhesion to surfaces,\nparticularly host surfaces/tissues\n• The fimbriae tips have adhesion\nproteins for this purpose\nEscherichia coli",
+      "images": [
+        "slide-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Conjugation pilus",
+      "text": "Conjugation pilus\n•\nBacteria may use a \nconjugation pilus structure to allow\nplasmid DNA to be replicated\nand transferred directly from one\nbacterium to another\n•\nConjugation may occur\nbetween different strains,\nspecies, and even genera\nof bacteria\nConjugation \npilus\nEscherichia coli",
+      "images": [
+        "slide-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Type IV pilus",
+      "text": "Type IV pilus\nType IV\npilus\n•\nThe Type IV pilus structure allows bacteria\nto adhere to surfaces, undertake ‘twitching motility’,\nand uptake DNA\n•\nThis pilus type extends and retracts,\nwhich allows the twitching movement\nand uptake of DNA\n•\nUsually long, and fewer quantities\nthan fimbriae\nNeisseria sp.",
+      "images": [
+        "slide-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Type III Secretion System (T3SS)",
+      "text": "Type III Secretion System (T3SS)\n•\nThe Type III Secretion System\napparatus is a nano-sized molecular\nmachine, resembling a syringe, \nproduced by some Gram-negative \nbacteria\n•\nIts purpose is to inject bacterial effector\nproteins (usually virulence factors)\ninto the cytoplasm of host cells, \nmodulating the immune system etc.\nShigella sonnei Type III \nSecretion System",
+      "images": [
+        "slide-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Flagellum (plural: flagella)",
+      "text": "Flagellum (plural: flagella)\nFlagella\nCampylobacter sp.\n•\nThe flagellum is a long structural\nappendage carried by some bacteria\nfor ‘swimming’/swarming motility\n•\nThe flagellum rotates like a propellor,\nand is very effective for movement in\na liquid\n•\nBacteria can either carry zero, one,\ntwo, or many flagellum/flagella",
+      "images": [
+        "slide-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Endoflagellum (EF) / Axial Filament",
+      "text": "Endoflagellum (EF) / Axial Filament\nTreponema pallidum\n• The endoflagellum / axial filament\nis used by spirochetes for motility\nvia corkscrew motions\n• This is very effective for movement\nthrough even viscous liquids, and\nalso to penetrate tissues\n• This motility is particularly useful for\nbacteria to swim through mucus and semen",
+      "images": [
+        "slide-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Outer membrane vesicles (OMVs)",
+      "text": "Outer membrane vesicles (OMVs)\nSalmonella sp.\n•\nGram-negative bacteria can produce OMVs, \nwhich may contain a variety of proteins, \nlipids, enzymes, and even DNA\n•\nThey act as nano-sized delivery parcels,\nand can be used to shuttle toxins, adhesins,\namong others, to the host cell\n•\nOMVs can be involved in immune evasion,\ndefence and stress survival, antibiotic\nresistance mechanisms, biofilm formation, etc.",
+      "images": [
+        "slide-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Cytoplasmic inner membrane (‘plasma membrane’)",
+      "text": "Cytoplasmic inner membrane (‘plasma membrane’)\n• The thin lipid bilayer that surrounds the bacterial\ncytoplasm\n• Has a swathe of functions: cell division & organisation;\nbiosynthesis; energy release; transport & uptake; selective barrier",
+      "images": [
+        "slide-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Gram-positive cell wall",
+      "text": "Gram-positive cell wall\n• The Gram-positive cell wall protects the bacterium\nfrom osmotic lysis, gives it shape and rigidity,\nand provides a surface for environmental/host \ninteraction\n• The thick peptidoglycan\nlayer allows the structure\nto resist internal pressure\n• The teichoic acids aid in\nadhesion / immune interaction",
+      "images": [
+        "slide-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Gram-negative cell wall",
+      "text": "Gram-negative cell wall\n• The peptidoglycan layer in\na Gram-negative cell wall is thinner\n• Unique to Gram-negative bacteria,\nthe outer cell membrane acts as a \nselective barrier\n• The lipopolysaccharide (LPS)\nlayer is hyper-immunogenic, \neliciting a strong host immune \nresponse",
+      "images": [
+        "slide-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Mycolic-acid-rich outer layer",
+      "text": "Mycolic-acid-rich outer layer\nsp.\n•\nMycobacterium tuberculosis is unique in that its outer layer\nis neither Gram-positive or Gram-negative\n•\nIts mycolic-acid-rich envelope makes it hydrophobic and have a \nreduced permeability, particularly useful for drug tolerance",
+      "images": [
+        "slide-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Bacteria with no cell wall structure (‘mollicutes’)",
+      "text": "Bacteria with no cell wall structure (‘mollicutes’)\n•\nSome bacteria have no cell wall structure at all,\nincluding Mycoplasma spp.\n•\nHaving no cell wall has some benefits:\n- Intrinsic resistance to β-lactam antibiotics\n- High deformability\n- Less immunogenic\n- Less fitness cost to the bacteria\nMycoplasma genitalium",
+      "images": [
+        "slide-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Nucleoid",
+      "text": "Nucleoid\n• The nucleoid is a non-membrane-bound\nregion within the bacterial cytoplasm\n• Most of the cell’s DNA is contained\nwithin the nucleotide, within the\ncircular chromosome of the nucleoid\n• Bacterial DNA is highly compact,\nvia negative supercoiling and looping\nin domains\n• Some bacteria can have multiple chromosomes",
+      "images": [
+        "slide-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Plasmids",
+      "text": "Plasmids\n• Plasmids are small circular structures of ‘extra’\nDNA carried by some bacteria\n• They often carry virulence and/or \nantimicrobial resistance genes\n• A plasmid that replicates well in \none bacterium may not necessarily\nreplicate well in another. Plasmids\nmay also have a fitness cost for bacteria.\nPlasmids in Escherichia coli",
+      "images": [
+        "slide-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Prophage DNA",
+      "text": "Prophage DNA\nEscherichia coli (blue) surrounded by \nT4 bacteriophages (green)\n• Bacteriophages (viruses that infect bacteria)\ncan ‘inject’ their DNA into a bacterium\n• This DNA is then structurally incorporated\ninto plasmids or the core chromosome\nof a bacterium\n• The DNA injected by the bacteriophages\nmay also encode ‘useful cargo’ genes, \nsuch as exotoxins, virulence factors, \nantimicrobial resistance genes, etc.",
+      "images": [
+        "slide-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "The shape of a bacteriophage virus is incredible!",
+      "text": "The shape of a bacteriophage virus is incredible!",
+      "images": [
+        "slide-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "70S Ribosomes (50S + 30S)",
+      "text": "70S Ribosomes (50S + 30S)\n• Bacteria have a prokaryotic 70S ribosomal structure\n(50S + 30S)\n• The ribosome is the site of\nprotein synthesis, converting\nmessenger RNA (mRNA)\ninto functional proteins via\ntranslation \n• The protein synthesis process\ncan have interesting nuances\namong bacterial species",
+      "images": [
+        "slide-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Endospores",
+      "text": "Endospores\nClostridium difficile\n• Endospores are dormant, metabolically inactive\nsurvival forms developed within a cell when\nconditions are poor for survival of a bacterium\n• The structure formed allows the spore to\nresist disinfectants and other environmental\npressures\n• Only a small minority of bacteria are able to\nproduce endospores: Bacillus spp. and\nClostridium / Clostridioides spp.",
+      "images": [
+        "slide-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Cell shape",
+      "text": "Cell shape\n• Cell shape is determined by\nthe peptidoglycan architecture\nand various cytoskeletal proteins\n• The MreB and FtsZ proteins allow\na bacterial cell to elongate, \nresulting in the bacillus shape\n• Different shapes have different\nsurface areas, motility, \nattachment, immune evasion, etc.\ncapabilities",
+      "images": [
+        "slide-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Cell arrangement",
+      "text": "Cell arrangement\n• Cell arrangement is\ndetermined by \ndivision plane patterns\nand whether daughter \ncells are completely \nseparated, attached,\nor semi-detached\n• When a bacterial cell \ndivides, a septum is\nformed and the location \nof this influences arrangement",
+      "images": [
+        "slide-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Cell size",
+      "text": "Cell size\nThiomargarita magnifica\nMycoplasma agalactiae\n• Bacterial cells can vary significantly\nin size\n• Many factors influence the size of a \nbacterium… division timing, placement,\nstructural components, homeostatic\nand growth physiologies, cell-cycle\nand DNA replication lengths\n• Cell size has implications for ecology,\nsurvival, diffusion, and energy\nrequirements",
+      "images": [
+        "slide-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Macroscopic structures of a bacterium",
+      "text": "Macroscopic structures of a bacterium",
+      "images": [
+        "slide-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "What is considered a ‘macroscopic’ structure?",
+      "text": "What is considered a ‘macroscopic’ structure?\n• ‘Macroscopic’ structures are defined as structures that \ncan be seen with the naked eye, and do not require a \nmicroscope to view.\n• Macroscopic structures are usually formed from large \npopulations/communities of bacteria (e.g. a colony), \nnot just a single cell.\n• Structures that are 0.1–0.2 mm are potentially visible, anything\n>1mm is clearly visible. These are all macroscopic.",
+      "images": [
+        "slide-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Colony size",
+      "text": "Colony size\n• A colony is a clearly visible mass of bacteria,\ngrown on a surface such as an agar plate\n• While it varies by species, each colony \nhas around 105 – 109 bacterial cells within\n• A single colony on its own is usually \nassumed to be clonal, meaning all of the \nbacterial cells within a single colony are\nusually genetically identical\nEscherichia coli",
+      "images": [
+        "slide-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Colony form/shape",
+      "text": "Colony form/shape\n• Motility, adhesion, cell separation, growth rate, environment,\nquorum sensing, all influence typical colony form structure",
+      "images": [
+        "slide-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Colony margin",
+      "text": "Colony margin\n• Bacterial colony margin structures may also differ\n• This is influenced by motility, adhesion, cell separation,\ngrowth rate, surfaces, environment, quorum sensing,\ngenetics, among other factors\n• Remember, a colony has millions of bacterial cells",
+      "images": [
+        "slide-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Colony elevation",
+      "text": "Colony elevation\n•\nThe elevational structure of a bacterial colony may\nalso differ among species of bacteria\n•\nElevation is influenced by growth rate, presence of\nEPS, capsules, motility, and spreading across the plate",
+      "images": [
+        "slide-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Colony surface texture",
+      "text": "Colony surface texture\n•  There are many different colony surface structural textures:\n- Smooth / glistening\n- Rough / granular / matte\n- Rugose / wrinkled\n- Mucoid / slimy / gummy / shiny\n- Powdery / chalky / velvety / fuzzy\n• Differences can be seen between and even within species, \ndue to EPS/capsule/motility/growth/environment",
+      "images": [
+        "slide-44"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Colony opacity",
+      "text": "Colony opacity\n•  Opacity is defined as the ‘measure \nof how much an object or material \nblocks light from passing through it’\n•  Bacterial colonies can be \ntransparent, translucent, iridescent, \nor opaque\n•  The thickness of the colony and cell \npacking, size, shape, capsule, EPS, \npigments, and other factors \ninfluence this",
+      "images": [
+        "slide-45"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "Colony consistency",
+      "text": "Colony consistency\n•  Bacterial colonies may have different consistencies\nbetween and within species:\n- Creamy/buttery/pasty\n- Mucoid/slimy/stringy\n- Dry/crumbly/friable\n- Chalky/powdery\n- Tough/rubbery/leathery\n- Viscid (‘ropy’)\n• Influenced by water content,\nextracellular polymers\n(capsules, slime, etc.), and cell-wall physiology\nHypermucoid Klebsiella pneumoniae",
+      "images": [
+        "slide-46"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Colony pigmentation",
+      "text": "Colony pigmentation\n•  The pigmentation (‘colour’) of \nbacterial colonies is influenced \nby small molecular structures \nknown as pigments\n•  Bacterial colonies can appear \nas many different colours: \nwhite, cream, grey, yellow, \ngold, orange, pink,\nred, blue, violet, brown, black\nPseudomonas aeruginosa\nSerratia marcescens\nChromobacterium violaceum\nStaphylococcus aureus",
+      "images": [
+        "slide-47"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Biofilms",
+      "text": "Biofilms\nRogers, Adams, Rode (2011)\nPlastic Surgery International Journal\nMedical image of a child\nwith Pseudomonas \naeruginosa biofilms \nfollowing a facial burn\n(the patient then fully \nrecovered\nafter one month)\n• Bacterial biofilms are a structured \ncommunity of bacterial cells,\nattached to each-other and/or\nto a surface via an extracellular\nmatrix produced by the bacteria\n• Biofilms are often mixed species,\nthough some may be of a single\nspecies\n• Biofilm formation involves initial\nattachment, EPS production, and quorum communication",
+      "images": [
+        "slide-48"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Spreading patterns",
+      "text": "Spreading patterns\n•  Bacterial colonies of distinct species may \npresent a distinct spreading pattern \nstructure on different agar plate types, \nassociated with surface-motility\n• Patterns may include: swimming, \nswarming, chemotactic rings, twitching, \ngliding, and sliding\n• These macroscopic-visible structures\nare often the result of microscopic\nstructures of the bacteria (flagella, etc.)",
+      "images": [
+        "slide-49"
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Colony structures on different agars",
+      "text": "Colony structures on different agars\n•  There are many types of agar that can be \nused to grow bacteria. Some agars are \ndifferential, selective, or even both. \n• Differential agars have properties which \nvisualise specific characteristics of bacteria\n• Selective agars have specific nutrients to \nencourage growth of specific bacteria, and/or \nsubstances that inhibit the growth of other \nbacteria\nMacConkey Agar",
+      "images": [
+        "slide-50"
+      ]
+    },
+    {
+      "number": 51,
+      "topic": "•",
+      "text": "•\nBacterial taxonomic classification is ‘the process of \norganising bacteria into a hierarchical system of \ngroups (‘taxa’) based upon their shared genotypic & \nphenotypic characteristics, and evolutionary \nrelationships’\n•\nBacterial taxonomic classification is a polyphasic-\ninformed process: phenotype, chemistry, and \ngenetics/genomics\nWhat is bacterial taxonomic classification?",
+      "images": [
+        "slide-51"
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "•",
+      "text": "•\nInternational Code of Nomenclature of Prokaryotes \n(ICNP)\n•\nInternational Committee on Systematics of Prokaryotes \n(ICSP)\n•\nInternational Journal of Systematic and Evolutionary \nMicrobiology (IJSEM)\n•\nList of Prokaryotic Names with Standing in \nNomenclature (LPSN)\nWho decides bacterial taxonomic classification?",
+      "images": [
+        "slide-52"
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Example of bacterial taxonomy",
+      "text": "Example of bacterial taxonomy\nBacteria (Domain)\nEubacteria (Kingdom)\nPseudomonadota (Phylum)\nGammaproteobacteria (Class)\nEnterobacterales (Order)\nEnterobacteriaceae (Family)\nShigella (Genus)\nShigella sonnei \n(Species)\nConstituents of the name of a bacterium\n(E.g. Shigella sonnei)",
+      "images": [
+        "slide-53"
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Proper taxonomic nomenclature",
+      "text": "Proper taxonomic nomenclature\n•\n“Shigella sonnei is my favourite species of bacteria to research”.\n•\n“Shigella spp. cause shigellosis, an enteric disease”.\n•\n“The agar plate had colonies of a single Shigella sp. growing on it”.\n•\n“Shigella sonnei (S. sonnei) is rod shaped. S. sonnei is also \nGram-negative”.\n- Bacterial genus and species names must only be underlined (instead of italicised) in handwritten work. \nThe sentences above are only underlined for demonstrative purposes, and you must use italics only\nwhen typing out bacterial names in digital work.\n- sp. = singular, one species\n- spp. = plural, multiple species \n- The genus starts uppercase (Shigella), the species ‘epithet’ (sonnei) starts lowercase",
+      "images": [
+        "slide-54"
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "More resolute classification systems (‘typing schemes’)",
+      "text": "More resolute classification systems (‘typing schemes’)\nShigella sonnei (species)\n3 (lineage)\nCC152  (clonal complex)\nShigella flexneri (species)\n3a (serotype)\nSalmonella enterica (species)\nTyphimurium (serovar)\nST19 (sequence \ntype)\nST152 \n(sequence type)\n3.6.1.1.2  \n(genotype)\nCC1 (clonal complex)\n• These further definitions of a species\nare based upon biochemical features and \ngenetic content of a bacterium, and are useful \nin the outbreak investigation of closely related\nbacteria of the same species",
+      "images": [
+        "slide-55"
+      ]
+    },
+    {
+      "number": 56,
+      "topic": "Genomics influencing bacterial taxonomic classification",
+      "text": "Genomics influencing bacterial taxonomic classification\n• Genomics is now the backbone of bacterial \ntaxonomic classification, but it is not the sole factor \nconsidered\n•\n1960 – Taxonomy began to incorporate genotypic features like G+C content and DNA-\nDNA hybridization\n•\n1977 – 16S rRNA phylogeny influences evolutionary relationships at higher-level \nclassification\n•\n1990 – 16s rRNA sequencing influences systematics and influences species boundaries\n•\n2005, 2006, 2007 – Whole genome sequencing metrics influence species boundaries\n•\n2015 onwards – Genome-based taxonomy dominates",
+      "images": [
+        "slide-56"
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Biochemical test results influencing bacterial taxonomic",
+      "text": "Biochemical test results influencing bacterial taxonomic\nclassification\n• The results of a plethora of biochemical \ntests were the central defining feature of \ngenera and species in the past\n(pre-1960s)\n• Carbon-use, fermentation, indole,\nmethyl red, Voges-Proskauer, citrate \nutilisation, oxidase, nitrate reduction, \ncatalase, urease, coagulase, DNAase, B-\ngalactosidase, H2S production, hydrolysis, \nsalt tolerance, etc.\nBiochemical test \nstrips",
+      "images": [
+        "slide-57"
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Temperature-requirements influencing bacterial ",
+      "text": "Temperature-requirements influencing bacterial \ntaxonomic classification\n• Bacteria that are adapted to extreme \ntemperatures (psychrophilic and thermophilic) \nmay be taxonomically classified due to \nthis physiological trait\n• The Thermus genus is heavily influenced by \ntemperature physiology",
+      "images": [
+        "slide-58"
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Atmospheric-requirements influencing taxonomic ",
+      "text": "Atmospheric-requirements influencing taxonomic \nclassification\n• The oxygen requirements (aerobic, anaerobic, \nmicroaerophilic) of a bacterium often have \ndeep-rooted physiological impacts\nwhich may inform taxonomic classification\n• Campylobacter spp. were separated from \nVibrio spp. as the former require a \nmicroaerophilic atmosphere, while the \nlatter are facultatively anaerobic\nCampylobacter spp.\nVibrio cholerae",
+      "images": [
+        "slide-59"
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Microscopic structures influencing bacterial taxonomic ",
+      "text": "Microscopic structures influencing bacterial taxonomic \nclassification\n• Microscopic structures are still cited in taxonomic \ndescriptions, as part of the ‘polyphasic’ consideration\n• Cell shape, size\n• Cell arrangement\n• Cell wall (Gram reaction, etc.)\n• Endospores\n• Motility\n• Capsule \n• Everything else we discussed before…",
+      "images": [
+        "slide-60"
+      ]
+    },
+    {
+      "number": 61,
+      "topic": "Macroscopic structures influencing bacterial taxonomic ",
+      "text": "Macroscopic structures influencing bacterial taxonomic \nclassification\n• Macroscopic structures are also described in taxonomic\ndescriptions, and some can be quite indicative of taxonomy\n• Colony morphology (margin, elevation, size, form/shape)\n• Surface texture and consistency\n• Pigmentation\n• Spreading patterns\n• Biofilm formation\n• Everything else we discussed before…",
+      "images": [
+        "slide-61"
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "History influencing bacterial taxonomic classification",
+      "text": "History influencing bacterial taxonomic classification\n• Historical factors may influence the initial\ntaxonomic classification of a bacterium, which \nthen may be kept into the future\n• Shigella spp. were identified as ‘dysentery \nbacillus’ by Kiyoshi Shiga in 1898\n• Genomics has now revealed that Shigella \nlineages are EXTREMELY genetically close to E. coli, \nand some scientists now describe Shigella spp. as \n‘E. coli in disguise with a large invasion plasmid’\nDr Kiyoshi Shiga",
+      "images": [
+        "slide-62"
+      ]
+    },
+    {
+      "number": 63,
+      "topic": "Clinical symptoms influencing taxonomic classification ",
+      "text": "Clinical symptoms influencing taxonomic classification \n• The Shigella genus has been kept distinct \nfrom Escherichia coli partly due to its \nrelatively distinct clinical symptoms too\n• Shigella causes shigellosis: invasive \ndysentery (bloody diarrhoea, often \nmucus-filled). A painful feeling of needing to \ngo to the toilet, even when the bowels are \nempty, is indicative of shigellosis too\n• Though, the symptoms are similar to \nEnteroinvasive Escherichia coli (EIEC)…\nShigella sp.",
+      "images": [
+        "slide-63"
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "Ecological niche influencing bacterial taxonomic ",
+      "text": "Ecological niche influencing bacterial taxonomic \nclassification\n• Ecological niche (a bacterium’s specific \nrole/location in its ecosystem) can have an \ninfluence on bacterial taxonomic \nclassification\n• The Prochlorococcus genus has ecotypes\ninfluenced by presence in high-light\nand low-light conditions\nProchlorococcus sp.",
+      "images": [
+        "slide-64"
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Plenary Activity – Discuss this figure from a research",
+      "text": "Plenary Activity – Discuss this figure from a research\npaper\nMason et al., 2026",
+      "images": [
+        "slide-65"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1": "lecture/slide-01.jpg",
+    "slide-2": "lecture/slide-02.jpg",
+    "slide-3": "lecture/slide-03.jpg",
+    "slide-4": "lecture/slide-04.jpg",
+    "slide-5": "lecture/slide-05.jpg",
+    "slide-6": "lecture/slide-06.jpg",
+    "slide-7": "lecture/slide-07.jpg",
+    "slide-8": "lecture/slide-08.jpg",
+    "slide-9": "lecture/slide-09.jpg",
+    "slide-10": "lecture/slide-10.jpg",
+    "slide-11": "lecture/slide-11.jpg",
+    "slide-12": "lecture/slide-12.jpg",
+    "slide-13": "lecture/slide-13.jpg",
+    "slide-14": "lecture/slide-14.jpg",
+    "slide-15": "lecture/slide-15.jpg",
+    "slide-16": "lecture/slide-16.jpg",
+    "slide-17": "lecture/slide-17.jpg",
+    "slide-18": "lecture/slide-18.jpg",
+    "slide-19": "lecture/slide-19.jpg",
+    "slide-20": "lecture/slide-20.jpg",
+    "slide-21": "lecture/slide-21.jpg",
+    "slide-22": "lecture/slide-22.jpg",
+    "slide-23": "lecture/slide-23.jpg",
+    "slide-24": "lecture/slide-24.jpg",
+    "slide-25": "lecture/slide-25.jpg",
+    "slide-26": "lecture/slide-26.jpg",
+    "slide-27": "lecture/slide-27.jpg",
+    "slide-28": "lecture/slide-28.jpg",
+    "slide-29": "lecture/slide-29.jpg",
+    "slide-30": "lecture/slide-30.jpg",
+    "slide-31": "lecture/slide-31.jpg",
+    "slide-32": "lecture/slide-32.jpg",
+    "slide-33": "lecture/slide-33.jpg",
+    "slide-34": "lecture/slide-34.jpg",
+    "slide-35": "lecture/slide-35.jpg",
+    "slide-36": "lecture/slide-36.jpg",
+    "slide-37": "lecture/slide-37.jpg",
+    "slide-38": "lecture/slide-38.jpg",
+    "slide-39": "lecture/slide-39.jpg",
+    "slide-40": "lecture/slide-40.jpg",
+    "slide-41": "lecture/slide-41.jpg",
+    "slide-42": "lecture/slide-42.jpg",
+    "slide-43": "lecture/slide-43.jpg",
+    "slide-44": "lecture/slide-44.jpg",
+    "slide-45": "lecture/slide-45.jpg",
+    "slide-46": "lecture/slide-46.jpg",
+    "slide-47": "lecture/slide-47.jpg",
+    "slide-48": "lecture/slide-48.jpg",
+    "slide-49": "lecture/slide-49.jpg",
+    "slide-50": "lecture/slide-50.jpg",
+    "slide-51": "lecture/slide-51.jpg",
+    "slide-52": "lecture/slide-52.jpg",
+    "slide-53": "lecture/slide-53.jpg",
+    "slide-54": "lecture/slide-54.jpg",
+    "slide-55": "lecture/slide-55.jpg",
+    "slide-56": "lecture/slide-56.jpg",
+    "slide-57": "lecture/slide-57.jpg",
+    "slide-58": "lecture/slide-58.jpg",
+    "slide-59": "lecture/slide-59.jpg",
+    "slide-60": "lecture/slide-60.jpg",
+    "slide-61": "lecture/slide-61.jpg",
+    "slide-62": "lecture/slide-62.jpg",
+    "slide-63": "lecture/slide-63.jpg",
+    "slide-64": "lecture/slide-64.jpg",
+    "slide-65": "lecture/slide-65.jpg",
+    "visual-1": "lecture/visual-01.jpg",
+    "visual-2": "lecture/visual-02.jpg",
+    "visual-3": "lecture/visual-03.jpg",
+    "visual-4": "lecture/visual-04.jpg",
+    "visual-5": "lecture/visual-05.jpg",
+    "visual-6": "lecture/visual-06.jpg",
+    "visual-7": "lecture/visual-07.jpg"
+  },
+  "editorialNotes": [
+    "Cards are based on the uploaded lecture text and figures.",
+    "The slide 29 reference to nucleotide has been treated as a typo for nucleoid.",
+    "Ambiguous slime-layer removability and simplified mycobacterial classification claims are not used as tested facts.",
+    "The final research figure supports comparison and association; its presence/absence patterns alone do not establish causation."
+  ]
+}

@@ -30,6 +30,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install dependencies
         run: npm ci
+      - name: Validate flashcard deck and cloze behavior
+        run: npm test
       - name: Build static website
         run: npm run build
       - name: Upload Pages artifact
