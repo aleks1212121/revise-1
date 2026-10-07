@@ -8,6 +8,16 @@ export async function loadDeck(){
 }
 export async function storeDeck(deck){const db=await database();try{await new Promise((resolve,reject)=>{const tx=db.transaction('decks','readwrite');tx.objectStore('decks').put(deck,'current');if(deck.lectureId)tx.objectStore('decks').put(deck,`lecture:${deck.lectureId}`);tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error)})}finally{db.close()}}
 
+// Add bundled lectures once, without replacing the active deck or any saved progress.
+export async function ensureLecture(deck){
+ if(!deck.lectureId)throw Error('A lecture ID is required.');
+ const db=await database();try{await new Promise((resolve,reject)=>{
+  const tx=db.transaction('decks','readwrite'),store=tx.objectStore('decks'),key=`lecture:${deck.lectureId}`;
+  const req=store.get(key);req.onsuccess=()=>{if(!req.result)store.put(deck,key)};
+  tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error);
+ })}finally{db.close()}
+}
+
 export async function listLectures(){
  const db=await database();try{return await new Promise((resolve,reject)=>{const tx=db.transaction('decks'),store=tx.objectStore('decks');const req=store.openCursor(),result=[];req.onsuccess=()=>{const cur=req.result;if(!cur){resolve(result.sort((a,b)=>b.updatedAt-a.updatedAt));return}if(String(cur.key).startsWith('lecture:'))result.push({lectureId:cur.value.lectureId,title:cur.value.title||'Untitled lecture',count:cur.value.cards.length,updatedAt:cur.value.updatedAt||0,curated:!!cur.value.curated,generation:cur.value.generation||'imported'});cur.continue()};req.onerror=()=>reject(req.error)})}finally{db.close()}
 }

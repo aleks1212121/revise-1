@@ -1,0 +1,3258 @@
+{
+  "version": 2,
+  "lectureId": "genetic-variation",
+  "generation": "reviewed",
+  "title": "Lecture 2 — Genetic variation",
+  "source": "Dr Nadine Wehida · Genetic Variation lecture PDF · 47 slides",
+  "cards": [
+    {
+      "id": "gv-1-c1",
+      "noteId": "gv-1",
+      "type": "cloze",
+      "text": "The scientific study of heredity—how biological information passes from parents to offspring—is {{c1::genetics}}.",
+      "question": "The scientific study of heredity—how biological information passes from parents to offspring—is {{c1::genetics}}.",
+      "answer": "genetics",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 3,
+      "images": [
+        "gv-slide-3"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-2-c1",
+      "noteId": "gv-2",
+      "type": "cloze",
+      "text": "Children inherit {{c1::genes}} from their biological parents; these can contribute to physical traits and susceptibility to genetic disorders.",
+      "question": "Children inherit {{c1::genes}} from their biological parents; these can contribute to physical traits and susceptibility to genetic disorders.",
+      "answer": "genes",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 3,
+      "images": [
+        "gv-slide-3"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-3-c1",
+      "noteId": "gv-3",
+      "type": "cloze",
+      "text": "A typical human diploid somatic cell has {{c1::46}} chromosomes arranged in {{c2::23 pairs}}.",
+      "question": "A typical human diploid somatic cell has {{c1::46}} chromosomes arranged in {{c2::23 pairs}}.",
+      "answer": "46",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-3-c2",
+      "noteId": "gv-3",
+      "type": "cloze",
+      "text": "A typical human diploid somatic cell has {{c1::46}} chromosomes arranged in {{c2::23 pairs}}.",
+      "question": "A typical human diploid somatic cell has {{c1::46}} chromosomes arranged in {{c2::23 pairs}}.",
+      "answer": "23 pairs",
+      "clozeNumber": 2,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-4-c1",
+      "noteId": "gv-4",
+      "type": "cloze",
+      "text": "Human sperm and egg cells each contribute {{c1::23 chromosomes}}; fertilisation restores the diploid number.",
+      "question": "Human sperm and egg cells each contribute {{c1::23 chromosomes}}; fertilisation restores the diploid number.",
+      "answer": "23 chromosomes",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-5-c1",
+      "noteId": "gv-5",
+      "type": "cloze",
+      "text": "Diploid means having {{c1::two sets of chromosomes}}, one inherited from each parent.",
+      "question": "Diploid means having {{c1::two sets of chromosomes}}, one inherited from each parent.",
+      "answer": "two sets of chromosomes",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-6-c1",
+      "noteId": "gv-6",
+      "type": "cloze",
+      "text": "A cell’s entire set of DNA instructions is its {{c1::genome}}.",
+      "question": "A cell’s entire set of DNA instructions is its {{c1::genome}}.",
+      "answer": "genome",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 5,
+      "images": [
+        "gv-slide-5"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-7-c1",
+      "noteId": "gv-7",
+      "type": "cloze",
+      "text": "The human genome includes nuclear DNA and DNA in the {{c1::mitochondria}}.",
+      "question": "The human genome includes nuclear DNA and DNA in the {{c1::mitochondria}}.",
+      "answer": "mitochondria",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 5,
+      "images": [
+        "gv-slide-5"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-8-c1",
+      "noteId": "gv-8",
+      "type": "cloze",
+      "text": "Only about {{c1::1–2%}} of the human genome is protein-coding; most genomic DNA does not directly encode protein.",
+      "question": "Only about {{c1::1–2%}} of the human genome is protein-coding; most genomic DNA does not directly encode protein.",
+      "answer": "1–2%",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 5,
+      "images": [
+        "gv-slide-5"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-9-c1",
+      "noteId": "gv-9",
+      "type": "cloze",
+      "text": "A DNA region that contributes to a characteristic is a {{c1::gene}}; alternative forms of that gene are {{c2::alleles}}.",
+      "question": "A DNA region that contributes to a characteristic is a {{c1::gene}}; alternative forms of that gene are {{c2::alleles}}.",
+      "answer": "gene",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-9-c2",
+      "noteId": "gv-9",
+      "type": "cloze",
+      "text": "A DNA region that contributes to a characteristic is a {{c1::gene}}; alternative forms of that gene are {{c2::alleles}}.",
+      "question": "A DNA region that contributes to a characteristic is a {{c1::gene}}; alternative forms of that gene are {{c2::alleles}}.",
+      "answer": "alleles",
+      "clozeNumber": 2,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-10-c1",
+      "noteId": "gv-10",
+      "type": "cloze",
+      "text": "The specific position of a gene on a chromosome is its {{c1::locus}}.",
+      "question": "The specific position of a gene on a chromosome is its {{c1::locus}}.",
+      "answer": "locus",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-11-c1",
+      "noteId": "gv-11",
+      "type": "cloze",
+      "text": "An individual’s combination of alleles at a locus is their {{c1::genotype}}.",
+      "question": "An individual’s combination of alleles at a locus is their {{c1::genotype}}.",
+      "answer": "genotype",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-12-c1",
+      "noteId": "gv-12",
+      "type": "cloze",
+      "text": "An individual with two identical alleles at a locus is {{c1::homozygous}}; one with two different alleles is {{c2::heterozygous}}.",
+      "question": "An individual with two identical alleles at a locus is {{c1::homozygous}}; one with two different alleles is {{c2::heterozygous}}.",
+      "answer": "homozygous",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-12-c2",
+      "noteId": "gv-12",
+      "type": "cloze",
+      "text": "An individual with two identical alleles at a locus is {{c1::homozygous}}; one with two different alleles is {{c2::heterozygous}}.",
+      "question": "An individual with two identical alleles at a locus is {{c1::homozygous}}; one with two different alleles is {{c2::heterozygous}}.",
+      "answer": "heterozygous",
+      "clozeNumber": 2,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-13-c1",
+      "noteId": "gv-13",
+      "type": "cloze",
+      "text": "An observable manifestation of a characteristic is a {{c1::phenotype}}.",
+      "question": "An observable manifestation of a characteristic is a {{c1::phenotype}}.",
+      "answer": "phenotype",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 6,
+      "images": [
+        "gv-slide-6"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-14-c1",
+      "noteId": "gv-14",
+      "type": "cloze",
+      "text": "Alleles of the same gene occupy corresponding {{c1::loci}} on a pair of homologous chromosomes.",
+      "question": "Alleles of the same gene occupy corresponding {{c1::loci}} on a pair of homologous chromosomes.",
+      "answer": "loci",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 7,
+      "images": [
+        "gv-slide-7"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-15-c1",
+      "noteId": "gv-15",
+      "type": "cloze",
+      "text": "A gene and an allele are different concepts: the gene is the DNA region, while an allele is {{c1::a particular version of that region}}.",
+      "question": "A gene and an allele are different concepts: the gene is the DNA region, while an allele is {{c1::a particular version of that region}}.",
+      "answer": "a particular version of that region",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 8,
+      "images": [
+        "gv-slide-8"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-16-c1",
+      "noteId": "gv-16",
+      "type": "cloze",
+      "text": "The two DNA strands run in {{c1::opposite directions (antiparallel)}}: one 5′→3′ and the other 3′→5′.",
+      "question": "The two DNA strands run in {{c1::opposite directions (antiparallel)}}: one 5′→3′ and the other 3′→5′.",
+      "answer": "opposite directions (antiparallel)",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-17-c1",
+      "noteId": "gv-17",
+      "type": "cloze",
+      "text": "In DNA, adenine pairs with {{c1::thymine}}, and cytosine pairs with {{c2::guanine}}.",
+      "question": "In DNA, adenine pairs with {{c1::thymine}}, and cytosine pairs with {{c2::guanine}}.",
+      "answer": "thymine",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-17-c2",
+      "noteId": "gv-17",
+      "type": "cloze",
+      "text": "In DNA, adenine pairs with {{c1::thymine}}, and cytosine pairs with {{c2::guanine}}.",
+      "question": "In DNA, adenine pairs with {{c1::thymine}}, and cytosine pairs with {{c2::guanine}}.",
+      "answer": "guanine",
+      "clozeNumber": 2,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-18-c1",
+      "noteId": "gv-18",
+      "type": "cloze",
+      "text": "The outer backbone of DNA consists of alternating {{c1::sugar and phosphate}} groups.",
+      "question": "The outer backbone of DNA consists of alternating {{c1::sugar and phosphate}} groups.",
+      "answer": "sugar and phosphate",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-19-c1",
+      "noteId": "gv-19",
+      "type": "cloze",
+      "text": "Complementary DNA bases are held together by {{c1::hydrogen bonds}}.",
+      "question": "Complementary DNA bases are held together by {{c1::hydrogen bonds}}.",
+      "answer": "hydrogen bonds",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-20-c1",
+      "noteId": "gv-20",
+      "type": "cloze",
+      "text": "Different DNA sequences of the same gene are called {{c1::alleles}}; mutations can create new ones.",
+      "question": "Different DNA sequences of the same gene are called {{c1::alleles}}; mutations can create new ones.",
+      "answer": "alleles",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 10,
+      "images": [
+        "gv-slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-21-c1",
+      "noteId": "gv-21",
+      "type": "cloze",
+      "text": "At a locus, AA and aa are {{c1::homozygous}} genotypes, whereas Aa is {{c2::heterozygous}}.",
+      "question": "At a locus, AA and aa are {{c1::homozygous}} genotypes, whereas Aa is {{c2::heterozygous}}.",
+      "answer": "homozygous",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 10,
+      "images": [
+        "gv-slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-21-c2",
+      "noteId": "gv-21",
+      "type": "cloze",
+      "text": "At a locus, AA and aa are {{c1::homozygous}} genotypes, whereas Aa is {{c2::heterozygous}}.",
+      "question": "At a locus, AA and aa are {{c1::homozygous}} genotypes, whereas Aa is {{c2::heterozygous}}.",
+      "answer": "heterozygous",
+      "clozeNumber": 2,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 10,
+      "images": [
+        "gv-slide-10"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-22-c1",
+      "noteId": "gv-22",
+      "type": "cloze",
+      "text": "Tt describes a {{c1::genotype}}; an observed trait such as height describes a {{c2::phenotype}}.",
+      "question": "Tt describes a {{c1::genotype}}; an observed trait such as height describes a {{c2::phenotype}}.",
+      "answer": "genotype",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 11,
+      "images": [
+        "gv-slide-11"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-22-c2",
+      "noteId": "gv-22",
+      "type": "cloze",
+      "text": "Tt describes a {{c1::genotype}}; an observed trait such as height describes a {{c2::phenotype}}.",
+      "question": "Tt describes a {{c1::genotype}}; an observed trait such as height describes a {{c2::phenotype}}.",
+      "answer": "phenotype",
+      "clozeNumber": 2,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 11,
+      "images": [
+        "gv-slide-11"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-23-c1",
+      "noteId": "gv-23",
+      "type": "cloze",
+      "text": "TT and tt both contain {{c1::two identical alleles}} at the illustrated locus, despite carrying different allele versions.",
+      "question": "TT and tt both contain {{c1::two identical alleles}} at the illustrated locus, despite carrying different allele versions.",
+      "answer": "two identical alleles",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 11,
+      "images": [
+        "gv-slide-11"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-24-c1",
+      "noteId": "gv-24",
+      "type": "cloze",
+      "text": "A phenotype can reflect an interaction between {{c1::genotype}} and {{c2::environment}}.",
+      "question": "A phenotype can reflect an interaction between {{c1::genotype}} and {{c2::environment}}.",
+      "answer": "genotype",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 12,
+      "images": [
+        "gv-slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-24-c2",
+      "noteId": "gv-24",
+      "type": "cloze",
+      "text": "A phenotype can reflect an interaction between {{c1::genotype}} and {{c2::environment}}.",
+      "question": "A phenotype can reflect an interaction between {{c1::genotype}} and {{c2::environment}}.",
+      "answer": "environment",
+      "clozeNumber": 2,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 12,
+      "images": [
+        "gv-slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-25-c1",
+      "noteId": "gv-25",
+      "type": "cloze",
+      "text": "Two individuals with the same genotype can have different phenotypes because their {{c1::environments}} differ.",
+      "question": "Two individuals with the same genotype can have different phenotypes because their {{c1::environments}} differ.",
+      "answer": "environments",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 12,
+      "images": [
+        "gv-slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-26-c1",
+      "noteId": "gv-26",
+      "type": "cloze",
+      "text": "The phenotype most commonly observed in a natural population is termed {{c1::wild type}} in the lecture.",
+      "question": "The phenotype most commonly observed in a natural population is termed {{c1::wild type}} in the lecture.",
+      "answer": "wild type",
+      "clozeNumber": 1,
+      "topic": "Genes, alleles & phenotype",
+      "slide": 12,
+      "images": [
+        "gv-slide-12"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-27-c1",
+      "noteId": "gv-27",
+      "type": "cloze",
+      "text": "In the central dogma, DNA is {{c1::transcribed}} into RNA, and RNA is {{c2::translated}} into protein.",
+      "question": "In the central dogma, DNA is {{c1::transcribed}} into RNA, and RNA is {{c2::translated}} into protein.",
+      "answer": "transcribed",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 13,
+      "images": [
+        "gv-slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-27-c2",
+      "noteId": "gv-27",
+      "type": "cloze",
+      "text": "In the central dogma, DNA is {{c1::transcribed}} into RNA, and RNA is {{c2::translated}} into protein.",
+      "question": "In the central dogma, DNA is {{c1::transcribed}} into RNA, and RNA is {{c2::translated}} into protein.",
+      "answer": "translated",
+      "clozeNumber": 2,
+      "topic": "DNA & the genetic code",
+      "slide": 13,
+      "images": [
+        "gv-slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-28-c1",
+      "noteId": "gv-28",
+      "type": "cloze",
+      "text": "The genetic code links a sequence of nucleotide bases to a sequence of {{c1::amino acids}}.",
+      "question": "The genetic code links a sequence of nucleotide bases to a sequence of {{c1::amino acids}}.",
+      "answer": "amino acids",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 13,
+      "images": [
+        "gv-slide-13"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-29-c1",
+      "noteId": "gv-29",
+      "type": "cloze",
+      "text": "A codon consists of {{c1::three}} consecutive RNA nucleotides.",
+      "question": "A codon consists of {{c1::three}} consecutive RNA nucleotides.",
+      "answer": "three",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-30-c1",
+      "noteId": "gv-30",
+      "type": "cloze",
+      "text": "With four possible bases per position, a triplet code has {{c1::64}} possible codons.",
+      "question": "With four possible bases per position, a triplet code has {{c1::64}} possible codons.",
+      "answer": "64",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-31-c1",
+      "noteId": "gv-31",
+      "type": "cloze",
+      "text": "The genetic code is degenerate: {{c1::more than one codon can specify the same amino acid}}.",
+      "question": "The genetic code is degenerate: {{c1::more than one codon can specify the same amino acid}}.",
+      "answer": "more than one codon can specify the same amino acid",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-32-c1",
+      "noteId": "gv-32",
+      "type": "cloze",
+      "text": "The genetic code is non-overlapping: within a reading frame, each nucleotide belongs to {{c1::one codon}}.",
+      "question": "The genetic code is non-overlapping: within a reading frame, each nucleotide belongs to {{c1::one codon}}.",
+      "answer": "one codon",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-33-c1",
+      "noteId": "gv-33",
+      "type": "cloze",
+      "text": "Stop codons signal {{c1::termination of translation}} rather than specifying an amino acid.",
+      "question": "Stop codons signal {{c1::termination of translation}} rather than specifying an amino acid.",
+      "answer": "termination of translation",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-34-c1",
+      "noteId": "gv-34",
+      "type": "cloze",
+      "text": "The genetic code is {{c1::nearly universal}}, meaning most organisms interpret codons in the same way, with some exceptions.",
+      "question": "The genetic code is {{c1::nearly universal}}, meaning most organisms interpret codons in the same way, with some exceptions.",
+      "answer": "nearly universal",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 14,
+      "images": [
+        "gv-slide-14"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-35-c1",
+      "noteId": "gv-35",
+      "type": "cloze",
+      "text": "Amino-acid charge, size, shape and hydrophobicity influence protein {{c1::folding and stability}}.",
+      "question": "Amino-acid charge, size, shape and hydrophobicity influence protein {{c1::folding and stability}}.",
+      "answer": "folding and stability",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 15,
+      "images": [
+        "gv-slide-15"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-36-c1",
+      "noteId": "gv-36",
+      "type": "cloze",
+      "text": "Amino acids that humans cannot synthesise in sufficient amounts must be obtained from the {{c1::diet}}.",
+      "question": "Amino acids that humans cannot synthesise in sufficient amounts must be obtained from the {{c1::diet}}.",
+      "answer": "diet",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 15,
+      "images": [
+        "gv-slide-15"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-37-c1",
+      "noteId": "gv-37",
+      "type": "cloze",
+      "text": "GCA and GCC both encode alanine. A GCA→GCC substitution is therefore {{c1::synonymous (silent)}} at the protein-sequence level.",
+      "question": "GCA and GCC both encode alanine. A GCA→GCC substitution is therefore {{c1::synonymous (silent)}} at the protein-sequence level.",
+      "answer": "synonymous (silent)",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 16,
+      "images": [
+        "gv-slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-38-c1",
+      "noteId": "gv-38",
+      "type": "cloze",
+      "text": "A change in a codon’s third base often leaves the amino acid unchanged because of {{c1::degeneracy of the genetic code}}.",
+      "question": "A change in a codon’s third base often leaves the amino acid unchanged because of {{c1::degeneracy of the genetic code}}.",
+      "answer": "degeneracy of the genetic code",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 16,
+      "images": [
+        "gv-slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-39-c1",
+      "noteId": "gv-39",
+      "type": "cloze",
+      "text": "Does every third-base substitution leave the amino acid unchanged? {{c1::No—some change the amino acid or create a stop codon}}.",
+      "question": "Does every third-base substitution leave the amino acid unchanged? {{c1::No—some change the amino acid or create a stop codon}}.",
+      "answer": "No—some change the amino acid or create a stop codon",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 16,
+      "images": [
+        "gv-slide-16"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-40-c1",
+      "noteId": "gv-40",
+      "type": "cloze",
+      "text": "Genetic variation includes differences in ordinary traits and {{c1::disease susceptibility}}; it is not limited to disease-causing changes.",
+      "question": "Genetic variation includes differences in ordinary traits and {{c1::disease susceptibility}}; it is not limited to disease-causing changes.",
+      "answer": "disease susceptibility",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 17,
+      "images": [
+        "gv-slide-17"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-41-c1",
+      "noteId": "gv-41",
+      "type": "cloze",
+      "text": "The ultimate source of new genetic sequence variation is {{c1::mutation}}.",
+      "question": "The ultimate source of new genetic sequence variation is {{c1::mutation}}.",
+      "answer": "mutation",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 18,
+      "images": [
+        "gv-slide-18"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-42-c1",
+      "noteId": "gv-42",
+      "type": "cloze",
+      "text": "A mutation is a {{c1::permanent change in DNA sequence}} that may be inherited or acquired.",
+      "question": "A mutation is a {{c1::permanent change in DNA sequence}} that may be inherited or acquired.",
+      "answer": "permanent change in DNA sequence",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 18,
+      "images": [
+        "gv-slide-18"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-43-c1",
+      "noteId": "gv-43",
+      "type": "cloze",
+      "text": "Gene-level mutations alter sequences within or near genes; chromosome mutations affect {{c1::larger chromosome structure or organisation}}.",
+      "question": "Gene-level mutations alter sequences within or near genes; chromosome mutations affect {{c1::larger chromosome structure or organisation}}.",
+      "answer": "larger chromosome structure or organisation",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 18,
+      "images": [
+        "gv-slide-18"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-44-c1",
+      "noteId": "gv-44",
+      "type": "cloze",
+      "text": "Historically, an allele frequency below {{c1::1%}} was used to distinguish a rare mutation from a common polymorphism.",
+      "question": "Historically, an allele frequency below {{c1::1%}} was used to distinguish a rare mutation from a common polymorphism.",
+      "answer": "1%",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 19,
+      "images": [
+        "gv-slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-45-c1",
+      "noteId": "gv-45",
+      "type": "cloze",
+      "text": "Can a common polymorphism contribute to disease risk? {{c1::Yes—common variants can influence complex-disease risk}}.",
+      "question": "Can a common polymorphism contribute to disease risk? {{c1::Yes—common variants can influence complex-disease risk}}.",
+      "answer": "Yes—common variants can influence complex-disease risk",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 19,
+      "images": [
+        "gv-slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-46-c1",
+      "noteId": "gv-46",
+      "type": "cloze",
+      "text": "Can rarity alone establish that a variant is pathogenic? {{c1::No—frequency does not by itself determine functional or clinical effect}}.",
+      "question": "Can rarity alone establish that a variant is pathogenic? {{c1::No—frequency does not by itself determine functional or clinical effect}}.",
+      "answer": "No—frequency does not by itself determine functional or clinical effect",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 19,
+      "images": [
+        "gv-slide-19"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-47-c1",
+      "noteId": "gv-47",
+      "type": "cloze",
+      "text": "Variant frequency and pathogenicity are {{c1::separate properties}}: a rare variant may be benign and a common variant may influence disease.",
+      "question": "Variant frequency and pathogenicity are {{c1::separate properties}}: a rare variant may be benign and a common variant may influence disease.",
+      "answer": "separate properties",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 20,
+      "images": [
+        "gv-slide-20"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-48-c1",
+      "noteId": "gv-48",
+      "type": "cloze",
+      "text": "An increase from (AGC)₃ to (AGC)₅ is a change in {{c1::trinucleotide repeat number}}.",
+      "question": "An increase from (AGC)₃ to (AGC)₅ is a change in {{c1::trinucleotide repeat number}}.",
+      "answer": "trinucleotide repeat number",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 21,
+      "images": [
+        "gv-slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-49-c1",
+      "noteId": "gv-49",
+      "type": "cloze",
+      "text": "Transposable elements are also called {{c1::jumping genes}} because they can move or insert into new genomic locations.",
+      "question": "Transposable elements are also called {{c1::jumping genes}} because they can move or insert into new genomic locations.",
+      "answer": "jumping genes",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 21,
+      "images": [
+        "gv-slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-50-c1",
+      "noteId": "gv-50",
+      "type": "cloze",
+      "text": "Insertion of a transposable element into a gene or its regulatory region can {{c1::disrupt the gene or alter its expression}}.",
+      "question": "Insertion of a transposable element into a gene or its regulatory region can {{c1::disrupt the gene or alter its expression}}.",
+      "answer": "disrupt the gene or alter its expression",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 21,
+      "images": [
+        "gv-slide-21"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-51-c1",
+      "noteId": "gv-51",
+      "type": "cloze",
+      "text": "Mutations can occur in both protein-coding and {{c1::non-coding}} DNA; the latter can still affect gene function.",
+      "question": "Mutations can occur in both protein-coding and {{c1::non-coding}} DNA; the latter can still affect gene function.",
+      "answer": "non-coding",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 22,
+      "images": [
+        "gv-slide-22"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-52-c1",
+      "noteId": "gv-52",
+      "type": "cloze",
+      "text": "Mutations arising during normal processes such as DNA replication are classified as {{c1::spontaneous}}.",
+      "question": "Mutations arising during normal processes such as DNA replication are classified as {{c1::spontaneous}}.",
+      "answer": "spontaneous",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 23,
+      "images": [
+        "gv-slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-53-c1",
+      "noteId": "gv-53",
+      "type": "cloze",
+      "text": "Mutations caused by external mutagens are classified as {{c1::induced}}.",
+      "question": "Mutations caused by external mutagens are classified as {{c1::induced}}.",
+      "answer": "induced",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 23,
+      "images": [
+        "gv-slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-54-c1",
+      "noteId": "gv-54",
+      "type": "cloze",
+      "text": "An error during ordinary DNA replication is a spontaneous mutation; DNA damage caused by UV exposure is an {{c1::induced mutation}}.",
+      "question": "An error during ordinary DNA replication is a spontaneous mutation; DNA damage caused by UV exposure is an {{c1::induced mutation}}.",
+      "answer": "induced mutation",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 23,
+      "images": [
+        "gv-slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-55-c1",
+      "noteId": "gv-55",
+      "type": "cloze",
+      "text": "Natural exposure, such as sunlight, can cause {{c1::induced mutations}}; induced does not mean only human-made.",
+      "question": "Natural exposure, such as sunlight, can cause {{c1::induced mutations}}; induced does not mean only human-made.",
+      "answer": "induced mutations",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 23,
+      "images": [
+        "gv-slide-23"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-56-c1",
+      "noteId": "gv-56",
+      "type": "cloze",
+      "text": "A mutation in a sperm or egg can be {{c1::transmitted to offspring}} and is classified as germline.",
+      "question": "A mutation in a sperm or egg can be {{c1::transmitted to offspring}} and is classified as germline.",
+      "answer": "transmitted to offspring",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 24,
+      "images": [
+        "gv-slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-57-c1",
+      "noteId": "gv-57",
+      "type": "cloze",
+      "text": "A mutation confined to somatic cells is generally {{c1::not passed to offspring through sperm or egg}}.",
+      "question": "A mutation confined to somatic cells is generally {{c1::not passed to offspring through sperm or egg}}.",
+      "answer": "not passed to offspring through sperm or egg",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 24,
+      "images": [
+        "gv-slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-58-c1",
+      "noteId": "gv-58",
+      "type": "cloze",
+      "text": "A skin-cell mutation caused by UV exposure is {{c1::somatic}}; a mutation in an egg cell is {{c2::germline}}.",
+      "question": "A skin-cell mutation caused by UV exposure is {{c1::somatic}}; a mutation in an egg cell is {{c2::germline}}.",
+      "answer": "somatic",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 24,
+      "images": [
+        "gv-slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-58-c2",
+      "noteId": "gv-58",
+      "type": "cloze",
+      "text": "A skin-cell mutation caused by UV exposure is {{c1::somatic}}; a mutation in an egg cell is {{c2::germline}}.",
+      "question": "A skin-cell mutation caused by UV exposure is {{c1::somatic}}; a mutation in an egg cell is {{c2::germline}}.",
+      "answer": "germline",
+      "clozeNumber": 2,
+      "topic": "Origins of variation",
+      "slide": 24,
+      "images": [
+        "gv-slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-59-c1",
+      "noteId": "gv-59",
+      "type": "cloze",
+      "text": "Germline versus somatic classification describes {{c1::which cells carry a mutation}}, whereas spontaneous versus induced describes its origin.",
+      "question": "Germline versus somatic classification describes {{c1::which cells carry a mutation}}, whereas spontaneous versus induced describes its origin.",
+      "answer": "which cells carry a mutation",
+      "clozeNumber": 1,
+      "topic": "Origins of variation",
+      "slide": 24,
+      "images": [
+        "gv-slide-24"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-60-c1",
+      "noteId": "gv-60",
+      "type": "cloze",
+      "text": "Replacing one nucleotide with another is a {{c1::substitution}}.",
+      "question": "Replacing one nucleotide with another is a {{c1::substitution}}.",
+      "answer": "substitution",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-61-c1",
+      "noteId": "gv-61",
+      "type": "cloze",
+      "text": "Removing nucleotides is a {{c1::deletion}}; adding nucleotides is an {{c2::insertion}}.",
+      "question": "Removing nucleotides is a {{c1::deletion}}; adding nucleotides is an {{c2::insertion}}.",
+      "answer": "deletion",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-61-c2",
+      "noteId": "gv-61",
+      "type": "cloze",
+      "text": "Removing nucleotides is a {{c1::deletion}}; adding nucleotides is an {{c2::insertion}}.",
+      "question": "Removing nucleotides is a {{c1::deletion}}; adding nucleotides is an {{c2::insertion}}.",
+      "answer": "insertion",
+      "clozeNumber": 2,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-62-c1",
+      "noteId": "gv-62",
+      "type": "cloze",
+      "text": "A chromosome segment that flips orientation and is reinserted undergoes an {{c1::inversion}}.",
+      "question": "A chromosome segment that flips orientation and is reinserted undergoes an {{c1::inversion}}.",
+      "answer": "inversion",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-63-c1",
+      "noteId": "gv-63",
+      "type": "cloze",
+      "text": "Loss of a chromosome segment is a chromosomal {{c1::deletion}}.",
+      "question": "Loss of a chromosome segment is a chromosomal {{c1::deletion}}.",
+      "answer": "deletion",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-64-c1",
+      "noteId": "gv-64",
+      "type": "cloze",
+      "text": "An extra copy of a chromosome region is a {{c1::duplication}}.",
+      "question": "An extra copy of a chromosome region is a {{c1::duplication}}.",
+      "answer": "duplication",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-65-c1",
+      "noteId": "gv-65",
+      "type": "cloze",
+      "text": "A chromosome segment attached to a different chromosome is a {{c1::translocation}}.",
+      "question": "A chromosome segment attached to a different chromosome is a {{c1::translocation}}.",
+      "answer": "translocation",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 26,
+      "images": [
+        "gv-slide-26"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-66-c1",
+      "noteId": "gv-66",
+      "type": "cloze",
+      "text": "A single-base substitution changes one codon without shifting the downstream {{c1::reading frame}}.",
+      "question": "A single-base substitution changes one codon without shifting the downstream {{c1::reading frame}}.",
+      "answer": "reading frame",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 27,
+      "images": [
+        "gv-slide-27"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-67-c1",
+      "noteId": "gv-67",
+      "type": "cloze",
+      "text": "A one-nucleotide insertion in a coding sequence changes the grouping of downstream bases into {{c1::codons}}.",
+      "question": "A one-nucleotide insertion in a coding sequence changes the grouping of downstream bases into {{c1::codons}}.",
+      "answer": "codons",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 27,
+      "images": [
+        "gv-slide-27"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-68-c1",
+      "noteId": "gv-68",
+      "type": "cloze",
+      "text": "A mutation that reduces or abolishes gene-product activity is {{c1::loss-of-function}}; one that increases activity or creates a new activity is {{c2::gain-of-function}}.",
+      "question": "A mutation that reduces or abolishes gene-product activity is {{c1::loss-of-function}}; one that increases activity or creates a new activity is {{c2::gain-of-function}}.",
+      "answer": "loss-of-function",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 28,
+      "images": [
+        "gv-slide-28"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-68-c2",
+      "noteId": "gv-68",
+      "type": "cloze",
+      "text": "A mutation that reduces or abolishes gene-product activity is {{c1::loss-of-function}}; one that increases activity or creates a new activity is {{c2::gain-of-function}}.",
+      "question": "A mutation that reduces or abolishes gene-product activity is {{c1::loss-of-function}}; one that increases activity or creates a new activity is {{c2::gain-of-function}}.",
+      "answer": "gain-of-function",
+      "clozeNumber": 2,
+      "topic": "Protein consequences",
+      "slide": 28,
+      "images": [
+        "gv-slide-28"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-69-c1",
+      "noteId": "gv-69",
+      "type": "cloze",
+      "text": "A changed codon that still encodes the original amino acid is a {{c1::silent (synonymous) substitution}}.",
+      "question": "A changed codon that still encodes the original amino acid is a {{c1::silent (synonymous) substitution}}.",
+      "answer": "silent (synonymous) substitution",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 29,
+      "images": [
+        "gv-slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-70-c1",
+      "noteId": "gv-70",
+      "type": "cloze",
+      "text": "A substitution that changes one encoded amino acid into another is {{c1::missense}}.",
+      "question": "A substitution that changes one encoded amino acid into another is {{c1::missense}}.",
+      "answer": "missense",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 29,
+      "images": [
+        "gv-slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-71-c1",
+      "noteId": "gv-71",
+      "type": "cloze",
+      "text": "A substitution converting an amino-acid codon into a stop codon is {{c1::nonsense}}.",
+      "question": "A substitution converting an amino-acid codon into a stop codon is {{c1::nonsense}}.",
+      "answer": "nonsense",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 29,
+      "images": [
+        "gv-slide-29"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-72-c1",
+      "noteId": "gv-72",
+      "type": "cloze",
+      "text": "A conservative missense substitution replaces an amino acid with one having {{c1::similar chemical properties}}.",
+      "question": "A conservative missense substitution replaces an amino acid with one having {{c1::similar chemical properties}}.",
+      "answer": "similar chemical properties",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-73-c1",
+      "noteId": "gv-73",
+      "type": "cloze",
+      "text": "A non-conservative missense substitution replaces an amino acid with one having {{c1::different chemical properties}}.",
+      "question": "A non-conservative missense substitution replaces an amino acid with one having {{c1::different chemical properties}}.",
+      "answer": "different chemical properties",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-74-c1",
+      "noteId": "gv-74",
+      "type": "cloze",
+      "text": "Why can a non-conservative amino-acid substitution strongly affect a protein? It can alter {{c1::folding, stability or activity}}.",
+      "question": "Why can a non-conservative amino-acid substitution strongly affect a protein? It can alter {{c1::folding, stability or activity}}.",
+      "answer": "folding, stability or activity",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-75-c1",
+      "noteId": "gv-75",
+      "type": "cloze",
+      "text": "Does a conservative substitution guarantee normal protein function? {{c1::No—its effect also depends on the position and role of the residue}}.",
+      "question": "Does a conservative substitution guarantee normal protein function? {{c1::No—its effect also depends on the position and role of the residue}}.",
+      "answer": "No—its effect also depends on the position and role of the residue",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-76-c1",
+      "noteId": "gv-76",
+      "type": "cloze",
+      "text": "A premature stop codon can produce a {{c1::shorter (truncated) polypeptide}}.",
+      "question": "A premature stop codon can produce a {{c1::shorter (truncated) polypeptide}}.",
+      "answer": "shorter (truncated) polypeptide",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-77-c1",
+      "noteId": "gv-77",
+      "type": "cloze",
+      "text": "A nonsense mutation close to the end of the coding sequence may leave {{c1::more residual protein activity}} than an earlier truncation, depending on the affected domains.",
+      "question": "A nonsense mutation close to the end of the coding sequence may leave {{c1::more residual protein activity}} than an earlier truncation, depending on the affected domains.",
+      "answer": "more residual protein activity",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 30,
+      "images": [
+        "gv-slide-30"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-78-c1",
+      "noteId": "gv-78",
+      "type": "cloze",
+      "text": "A UAU→UAC change still encodes tyrosine, so this coding substitution is {{c1::silent (synonymous)}}.",
+      "question": "A UAU→UAC change still encodes tyrosine, so this coding substitution is {{c1::silent (synonymous)}}.",
+      "answer": "silent (synonymous)",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 31,
+      "images": [
+        "gv-slide-31"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-79-c1",
+      "noteId": "gv-79",
+      "type": "cloze",
+      "text": "A UAU→UAG change replaces tyrosine with a stop signal, so it is a {{c1::nonsense mutation}}.",
+      "question": "A UAU→UAG change replaces tyrosine with a stop signal, so it is a {{c1::nonsense mutation}}.",
+      "answer": "nonsense mutation",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 31,
+      "images": [
+        "gv-slide-31"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-80-c1",
+      "noteId": "gv-80",
+      "type": "cloze",
+      "text": "A one-base change can be missense or nonsense: classification depends on {{c1::what the new codon encodes}}, not merely the number of changed bases.",
+      "question": "A one-base change can be missense or nonsense: classification depends on {{c1::what the new codon encodes}}, not merely the number of changed bases.",
+      "answer": "what the new codon encodes",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 32,
+      "images": [
+        "gv-slide-32"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-81-c1",
+      "noteId": "gv-81",
+      "type": "cloze",
+      "text": "A substitution within the same base class (purine↔purine or pyrimidine↔pyrimidine) is a {{c1::transition}}.",
+      "question": "A substitution within the same base class (purine↔purine or pyrimidine↔pyrimidine) is a {{c1::transition}}.",
+      "answer": "transition",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 33,
+      "images": [
+        "gv-slide-33"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-82-c1",
+      "noteId": "gv-82",
+      "type": "cloze",
+      "text": "A substitution between a purine and a pyrimidine is a {{c1::transversion}}.",
+      "question": "A substitution between a purine and a pyrimidine is a {{c1::transversion}}.",
+      "answer": "transversion",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 33,
+      "images": [
+        "gv-slide-33"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-83-c1",
+      "noteId": "gv-83",
+      "type": "cloze",
+      "text": "The DNA purines are {{c1::adenine and guanine}}; the DNA pyrimidines are {{c2::cytosine and thymine}}.",
+      "question": "The DNA purines are {{c1::adenine and guanine}}; the DNA pyrimidines are {{c2::cytosine and thymine}}.",
+      "answer": "adenine and guanine",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-83-c2",
+      "noteId": "gv-83",
+      "type": "cloze",
+      "text": "The DNA purines are {{c1::adenine and guanine}}; the DNA pyrimidines are {{c2::cytosine and thymine}}.",
+      "question": "The DNA purines are {{c1::adenine and guanine}}; the DNA pyrimidines are {{c2::cytosine and thymine}}.",
+      "answer": "cytosine and thymine",
+      "clozeNumber": 2,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-84-c1",
+      "noteId": "gv-84",
+      "type": "cloze",
+      "text": "Uracil is a {{c1::pyrimidine}} base found in RNA in place of thymine.",
+      "question": "Uracil is a {{c1::pyrimidine}} base found in RNA in place of thymine.",
+      "answer": "pyrimidine",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-85-c1",
+      "noteId": "gv-85",
+      "type": "cloze",
+      "text": "G→A is a {{c1::transition}} because both bases are purines.",
+      "question": "G→A is a {{c1::transition}} because both bases are purines.",
+      "answer": "transition",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-86-c1",
+      "noteId": "gv-86",
+      "type": "cloze",
+      "text": "T→C is a {{c1::transition}} because both bases are pyrimidines.",
+      "question": "T→C is a {{c1::transition}} because both bases are pyrimidines.",
+      "answer": "transition",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-87-c1",
+      "noteId": "gv-87",
+      "type": "cloze",
+      "text": "G→T is a {{c1::transversion}} because it changes a purine into a pyrimidine.",
+      "question": "G→T is a {{c1::transversion}} because it changes a purine into a pyrimidine.",
+      "answer": "transversion",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-88-c1",
+      "noteId": "gv-88",
+      "type": "cloze",
+      "text": "C→A is a {{c1::transversion}} because it changes a pyrimidine into a purine.",
+      "question": "C→A is a {{c1::transversion}} because it changes a pyrimidine into a purine.",
+      "answer": "transversion",
+      "clozeNumber": 1,
+      "topic": "Transitions & transversions",
+      "slide": 34,
+      "images": [
+        "gv-slide-34"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-89-c1",
+      "noteId": "gv-89",
+      "type": "cloze",
+      "text": "The sickle-cell β-globin substitution is {{c1::glutamate (glutamic acid) → valine}}, not glutamine → valine.",
+      "question": "The sickle-cell β-globin substitution is {{c1::glutamate (glutamic acid) → valine}}, not glutamine → valine.",
+      "answer": "glutamate (glutamic acid) → valine",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Source correction: the slide caption says “glutamine”; the correct sickle-cell β-globin change is glutamate (Glu) to valine (Val). The original diagram also labels the normal residue Glu."
+    },
+    {
+      "id": "gv-90-c1",
+      "noteId": "gv-90",
+      "type": "cloze",
+      "text": "The sickle-cell β-globin substitution is a {{c1::missense mutation}}, because it changes an amino acid.",
+      "question": "The sickle-cell β-globin substitution is a {{c1::missense mutation}}, because it changes an amino acid.",
+      "answer": "missense mutation",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Source correction: the slide caption says “glutamine”; the correct sickle-cell β-globin change is glutamate (Glu) to valine (Val). The original diagram also labels the normal residue Glu."
+    },
+    {
+      "id": "gv-91-c1",
+      "noteId": "gv-91",
+      "type": "cloze",
+      "text": "In the sickle-cell example, replacing charged glutamate with hydrophobic valine is a {{c1::non-conservative}} substitution.",
+      "question": "In the sickle-cell example, replacing charged glutamate with hydrophobic valine is a {{c1::non-conservative}} substitution.",
+      "answer": "non-conservative",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Source correction: the slide caption says “glutamine”; the correct sickle-cell β-globin change is glutamate (Glu) to valine (Val). The original diagram also labels the normal residue Glu."
+    },
+    {
+      "id": "gv-92-c1",
+      "noteId": "gv-92",
+      "type": "cloze",
+      "text": "The sickle-cell change creates a hydrophobic patch that promotes haemoglobin {{c1::polymerisation when deoxygenated}}, distorting red blood cells.",
+      "question": "The sickle-cell change creates a hydrophobic patch that promotes haemoglobin {{c1::polymerisation when deoxygenated}}, distorting red blood cells.",
+      "answer": "polymerisation when deoxygenated",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Source correction: the slide caption says “glutamine”; the correct sickle-cell β-globin change is glutamate (Glu) to valine (Val). The original diagram also labels the normal residue Glu."
+    },
+    {
+      "id": "gv-93-c1",
+      "noteId": "gv-93",
+      "type": "cloze",
+      "text": "In the sickle-cell diagram, mRNA GAG→GUG changes glutamate to {{c1::valine}}.",
+      "question": "In the sickle-cell diagram, mRNA GAG→GUG changes glutamate to {{c1::valine}}.",
+      "answer": "valine",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Source correction: the slide caption says “glutamine”; the correct sickle-cell β-globin change is glutamate (Glu) to valine (Val). The original diagram also labels the normal residue Glu."
+    },
+    {
+      "id": "gv-94-c1",
+      "noteId": "gv-94",
+      "type": "cloze",
+      "text": "The common cystic-fibrosis variant ΔF508 removes {{c1::phenylalanine at position 508}} from CFTR.",
+      "question": "The common cystic-fibrosis variant ΔF508 removes {{c1::phenylalanine at position 508}} from CFTR.",
+      "answer": "phenylalanine at position 508",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 36,
+      "images": [
+        "gv-slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-95-c1",
+      "noteId": "gv-95",
+      "type": "cloze",
+      "text": "ΔF508 is an {{c1::in-frame deletion}}: the three-nucleotide deletion preserves the downstream reading frame.",
+      "question": "ΔF508 is an {{c1::in-frame deletion}}: the three-nucleotide deletion preserves the downstream reading frame.",
+      "answer": "in-frame deletion",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 36,
+      "images": [
+        "gv-slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-96-c1",
+      "noteId": "gv-96",
+      "type": "cloze",
+      "text": "ΔF508 CFTR often misfolds and is {{c1::degraded}}, reducing functional channel at the cell surface.",
+      "question": "ΔF508 CFTR often misfolds and is {{c1::degraded}}, reducing functional channel at the cell surface.",
+      "answer": "degraded",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 36,
+      "images": [
+        "gv-slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-97-c1",
+      "noteId": "gv-97",
+      "type": "cloze",
+      "text": "CFTR stands for {{c1::cystic fibrosis transmembrane conductance regulator}}.",
+      "question": "CFTR stands for {{c1::cystic fibrosis transmembrane conductance regulator}}.",
+      "answer": "cystic fibrosis transmembrane conductance regulator",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 36,
+      "images": [
+        "gv-slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-98-c1",
+      "noteId": "gv-98",
+      "type": "cloze",
+      "text": "Does an in-frame deletion guarantee a functional protein? {{c1::No—ΔF508 illustrates that deleting one residue can impair folding}}.",
+      "question": "Does an in-frame deletion guarantee a functional protein? {{c1::No—ΔF508 illustrates that deleting one residue can impair folding}}.",
+      "answer": "No—ΔF508 illustrates that deleting one residue can impair folding",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 36,
+      "images": [
+        "gv-slide-36"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-99-c1",
+      "noteId": "gv-99",
+      "type": "cloze",
+      "text": "Huntington’s disease involves expansion of {{c1::CAG}} repeats in the {{c2::HTT (huntingtin)}} gene.",
+      "question": "Huntington’s disease involves expansion of {{c1::CAG}} repeats in the {{c2::HTT (huntingtin)}} gene.",
+      "answer": "CAG",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 37,
+      "images": [
+        "gv-slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-99-c2",
+      "noteId": "gv-99",
+      "type": "cloze",
+      "text": "Huntington’s disease involves expansion of {{c1::CAG}} repeats in the {{c2::HTT (huntingtin)}} gene.",
+      "question": "Huntington’s disease involves expansion of {{c1::CAG}} repeats in the {{c2::HTT (huntingtin)}} gene.",
+      "answer": "HTT (huntingtin)",
+      "clozeNumber": 2,
+      "topic": "Disease examples",
+      "slide": 37,
+      "images": [
+        "gv-slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-100-c1",
+      "noteId": "gv-100",
+      "type": "cloze",
+      "text": "An expanded CAG tract extends a run of {{c1::glutamine}} residues, because CAG encodes glutamine.",
+      "question": "An expanded CAG tract extends a run of {{c1::glutamine}} residues, because CAG encodes glutamine.",
+      "answer": "glutamine",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 37,
+      "images": [
+        "gv-slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-101-c1",
+      "noteId": "gv-101",
+      "type": "cloze",
+      "text": "Huntington’s disease is an inherited {{c1::neurodegenerative}} disorder.",
+      "question": "Huntington’s disease is an inherited {{c1::neurodegenerative}} disorder.",
+      "answer": "neurodegenerative",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 37,
+      "images": [
+        "gv-slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-102-c1",
+      "noteId": "gv-102",
+      "type": "cloze",
+      "text": "The symptom groups described for Huntington’s disease include neuropsychiatric symptoms, movement disorder and {{c1::progressive cognitive impairment}}.",
+      "question": "The symptom groups described for Huntington’s disease include neuropsychiatric symptoms, movement disorder and {{c1::progressive cognitive impairment}}.",
+      "answer": "progressive cognitive impairment",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 37,
+      "images": [
+        "gv-slide-37"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-103-c1",
+      "noteId": "gv-103",
+      "type": "cloze",
+      "text": "An insertion or deletion in a coding region shifts the reading frame when its length is {{c1::not divisible by three}}.",
+      "question": "An insertion or deletion in a coding region shifts the reading frame when its length is {{c1::not divisible by three}}.",
+      "answer": "not divisible by three",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-104-c1",
+      "noteId": "gv-104",
+      "type": "cloze",
+      "text": "A coding insertion or deletion of a multiple of three nucleotides is {{c1::in-frame}}.",
+      "question": "A coding insertion or deletion of a multiple of three nucleotides is {{c1::in-frame}}.",
+      "answer": "in-frame",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-105-c1",
+      "noteId": "gv-105",
+      "type": "cloze",
+      "text": "Deleting two coding nucleotides causes a {{c1::frameshift}}; deleting six preserves the reading frame.",
+      "question": "Deleting two coding nucleotides causes a {{c1::frameshift}}; deleting six preserves the reading frame.",
+      "answer": "frameshift",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-106-c1",
+      "noteId": "gv-106",
+      "type": "cloze",
+      "text": "Inserting six coding nucleotides adds two amino acids but {{c1::does not shift the reading frame}}.",
+      "question": "Inserting six coding nucleotides adds two amino acids but {{c1::does not shift the reading frame}}.",
+      "answer": "does not shift the reading frame",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-107-c1",
+      "noteId": "gv-107",
+      "type": "cloze",
+      "text": "A frameshift changes the sequence of codons {{c1::downstream of the insertion or deletion}}.",
+      "question": "A frameshift changes the sequence of codons {{c1::downstream of the insertion or deletion}}.",
+      "answer": "downstream of the insertion or deletion",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-108-c1",
+      "noteId": "gv-108",
+      "type": "cloze",
+      "text": "A frameshift can shorten a protein by introducing a {{c1::premature stop codon}}.",
+      "question": "A frameshift can shorten a protein by introducing a {{c1::premature stop codon}}.",
+      "answer": "premature stop codon",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-109-c1",
+      "noteId": "gv-109",
+      "type": "cloze",
+      "text": "A frameshift can lengthen translation if it removes the normal stop from the reading frame, causing {{c1::read-through until a later stop codon}}.",
+      "question": "A frameshift can lengthen translation if it removes the normal stop from the reading frame, causing {{c1::read-through until a later stop codon}}.",
+      "answer": "read-through until a later stop codon",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-110-c1",
+      "noteId": "gv-110",
+      "type": "cloze",
+      "text": "Frameshifts often strongly disrupt protein function because they can change {{c1::many downstream amino acids}}, rather than only one.",
+      "question": "Frameshifts often strongly disrupt protein function because they can change {{c1::many downstream amino acids}}, rather than only one.",
+      "answer": "many downstream amino acids",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 39,
+      "images": [
+        "gv-slide-39"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-111-c1",
+      "noteId": "gv-111",
+      "type": "cloze",
+      "text": "In the slide’s two-base insertion example, the first two amino acids remain Ala–Ile; the sequence diverges at the {{c1::third amino acid}}.",
+      "question": "In the slide’s two-base insertion example, the first two amino acids remain Ala–Ile; the sequence diverges at the {{c1::third amino acid}}.",
+      "answer": "third amino acid",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 40,
+      "images": [
+        "gv-slide-40"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-112-c1",
+      "noteId": "gv-112",
+      "type": "cloze",
+      "text": "Transition/transversion classify a {{c1::base change}}; missense/nonsense/silent classify its {{c2::protein-coding consequence}}.",
+      "question": "Transition/transversion classify a {{c1::base change}}; missense/nonsense/silent classify its {{c2::protein-coding consequence}}.",
+      "answer": "base change",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 41,
+      "images": [
+        "gv-slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-112-c2",
+      "noteId": "gv-112",
+      "type": "cloze",
+      "text": "Transition/transversion classify a {{c1::base change}}; missense/nonsense/silent classify its {{c2::protein-coding consequence}}.",
+      "question": "Transition/transversion classify a {{c1::base change}}; missense/nonsense/silent classify its {{c2::protein-coding consequence}}.",
+      "answer": "protein-coding consequence",
+      "clozeNumber": 2,
+      "topic": "Protein consequences",
+      "slide": 41,
+      "images": [
+        "gv-slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-113-c1",
+      "noteId": "gv-113",
+      "type": "cloze",
+      "text": "Can a transition produce a missense mutation? {{c1::Yes—the two labels describe different aspects of the same substitution}}.",
+      "question": "Can a transition produce a missense mutation? {{c1::Yes—the two labels describe different aspects of the same substitution}}.",
+      "answer": "Yes—the two labels describe different aspects of the same substitution",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 41,
+      "images": [
+        "gv-slide-41"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-114-c1",
+      "noteId": "gv-114",
+      "type": "cloze",
+      "text": "A synonymous coding substitution changes the {{c1::codon}} while retaining the same amino acid.",
+      "question": "A synonymous coding substitution changes the {{c1::codon}} while retaining the same amino acid.",
+      "answer": "codon",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 42,
+      "images": [
+        "gv-slide-42"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-115-c1",
+      "noteId": "gv-115",
+      "type": "cloze",
+      "text": "A neutral effect on function is different from a silent coding change: a conservative missense mutation can change the amino acid yet have {{c1::little or no functional effect}}.",
+      "question": "A neutral effect on function is different from a silent coding change: a conservative missense mutation can change the amino acid yet have {{c1::little or no functional effect}}.",
+      "answer": "little or no functional effect",
+      "clozeNumber": 1,
+      "topic": "Protein consequences",
+      "slide": 42,
+      "images": [
+        "gv-slide-42"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-116-c1",
+      "noteId": "gv-116",
+      "type": "cloze",
+      "text": "Variants in promoters or enhancers can alter the {{c1::amount, timing or location of gene expression}} without changing the protein’s amino-acid sequence.",
+      "question": "Variants in promoters or enhancers can alter the {{c1::amount, timing or location of gene expression}} without changing the protein’s amino-acid sequence.",
+      "answer": "amount, timing or location of gene expression",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 43,
+      "images": [
+        "gv-slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-117-c1",
+      "noteId": "gv-117",
+      "type": "cloze",
+      "text": "A variant disrupting a transcription-factor binding site can abolish the gene’s {{c1::response to an environmental cue}}.",
+      "question": "A variant disrupting a transcription-factor binding site can abolish the gene’s {{c1::response to an environmental cue}}.",
+      "answer": "response to an environmental cue",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 43,
+      "images": [
+        "gv-slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-118-c1",
+      "noteId": "gv-118",
+      "type": "cloze",
+      "text": "Loss of a repressor binding site can cause {{c1::constitutive gene expression}}.",
+      "question": "Loss of a repressor binding site can cause {{c1::constitutive gene expression}}.",
+      "answer": "constitutive gene expression",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 43,
+      "images": [
+        "gv-slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-119-c1",
+      "noteId": "gv-119",
+      "type": "cloze",
+      "text": "Disruption of an RNA-polymerase binding site can {{c1::reduce or block transcription}}.",
+      "question": "Disruption of an RNA-polymerase binding site can {{c1::reduce or block transcription}}.",
+      "answer": "reduce or block transcription",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 43,
+      "images": [
+        "gv-slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-120-c1",
+      "noteId": "gv-120",
+      "type": "cloze",
+      "text": "Can a non-coding variant have no detectable phenotype? {{c1::Yes—its effect depends on the sequence and biological context}}.",
+      "question": "Can a non-coding variant have no detectable phenotype? {{c1::Yes—its effect depends on the sequence and biological context}}.",
+      "answer": "Yes—its effect depends on the sequence and biological context",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 43,
+      "images": [
+        "gv-slide-43"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-121-c1",
+      "noteId": "gv-121",
+      "type": "cloze",
+      "text": "Variants in RNA regulatory sites can affect translation, splicing or {{c1::mRNA localisation}}.",
+      "question": "Variants in RNA regulatory sites can affect translation, splicing or {{c1::mRNA localisation}}.",
+      "answer": "mRNA localisation",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 44,
+      "images": [
+        "gv-slide-44"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-122-c1",
+      "noteId": "gv-122",
+      "type": "cloze",
+      "text": "A variant at an exon–intron junction can interfere with {{c1::RNA splicing}}, even if it does not change a coding triplet directly.",
+      "question": "A variant at an exon–intron junction can interfere with {{c1::RNA splicing}}, even if it does not change a coding triplet directly.",
+      "answer": "RNA splicing",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 44,
+      "images": [
+        "gv-slide-44"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-123-c1",
+      "noteId": "gv-123",
+      "type": "cloze",
+      "text": "Splice-site mutations disrupt signals used to remove {{c1::introns}} from pre-mRNA.",
+      "question": "Splice-site mutations disrupt signals used to remove {{c1::introns}} from pre-mRNA.",
+      "answer": "introns",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-124-c1",
+      "noteId": "gv-124",
+      "type": "cloze",
+      "text": "In the DNA notation used on the slide, the typical 5′ splice donor begins with {{c1::GT}}, and the 3′ splice acceptor ends with {{c2::AG}}.",
+      "question": "In the DNA notation used on the slide, the typical 5′ splice donor begins with {{c1::GT}}, and the 3′ splice acceptor ends with {{c2::AG}}.",
+      "answer": "GT",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-124-c2",
+      "noteId": "gv-124",
+      "type": "cloze",
+      "text": "In the DNA notation used on the slide, the typical 5′ splice donor begins with {{c1::GT}}, and the 3′ splice acceptor ends with {{c2::AG}}.",
+      "question": "In the DNA notation used on the slide, the typical 5′ splice donor begins with {{c1::GT}}, and the 3′ splice acceptor ends with {{c2::AG}}.",
+      "answer": "AG",
+      "clozeNumber": 2,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-125-c1",
+      "noteId": "gv-125",
+      "type": "cloze",
+      "text": "The corresponding 5′ donor sequence in RNA is {{c1::GU}}, because RNA uses uracil rather than thymine.",
+      "question": "The corresponding 5′ donor sequence in RNA is {{c1::GU}}, because RNA uses uracil rather than thymine.",
+      "answer": "GU",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-126-c1",
+      "noteId": "gv-126",
+      "type": "cloze",
+      "text": "A previously unused nearby sequence recruited for splicing is a {{c1::cryptic splice site}}.",
+      "question": "A previously unused nearby sequence recruited for splicing is a {{c1::cryptic splice site}}.",
+      "answer": "cryptic splice site",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-127-c1",
+      "noteId": "gv-127",
+      "type": "cloze",
+      "text": "Splicing at a cryptic site within an exon can remove {{c1::part of that exon}}, altering the mature transcript.",
+      "question": "Splicing at a cryptic site within an exon can remove {{c1::part of that exon}}, altering the mature transcript.",
+      "answer": "part of that exon",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-128-c1",
+      "noteId": "gv-128",
+      "type": "cloze",
+      "text": "Disrupted splice signals can cause exon skipping or {{c1::intron retention}}, potentially changing the protein sequence.",
+      "question": "Disrupted splice signals can cause exon skipping or {{c1::intron retention}}, potentially changing the protein sequence.",
+      "answer": "intron retention",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-129-c1",
+      "noteId": "gv-129",
+      "type": "cloze",
+      "text": "A gain-of-function allele can cause a dominant phenotype when {{c1::one altered allele is sufficient to produce an abnormal effect}}.",
+      "question": "A gain-of-function allele can cause a dominant phenotype when {{c1::one altered allele is sufficient to produce an abnormal effect}}.",
+      "answer": "one altered allele is sufficient to produce an abnormal effect",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-130-c1",
+      "noteId": "gv-130",
+      "type": "cloze",
+      "text": "Many loss-of-function disorders are recessive because one normal allele can supply {{c1::enough functional gene product}}.",
+      "question": "Many loss-of-function disorders are recessive because one normal allele can supply {{c1::enough functional gene product}}.",
+      "answer": "enough functional gene product",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-131-c1",
+      "noteId": "gv-131",
+      "type": "cloze",
+      "text": "Loss of one functional allele causes disease when half the normal gene-product level is insufficient; this is {{c1::haploinsufficiency}}.",
+      "question": "Loss of one functional allele causes disease when half the normal gene-product level is insufficient; this is {{c1::haploinsufficiency}}.",
+      "answer": "haploinsufficiency",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-132-c1",
+      "noteId": "gv-132",
+      "type": "cloze",
+      "text": "A mutant protein that interferes with the normal protein has a {{c1::dominant-negative}} effect.",
+      "question": "A mutant protein that interferes with the normal protein has a {{c1::dominant-negative}} effect.",
+      "answer": "dominant-negative",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-133-c1",
+      "noteId": "gv-133",
+      "type": "cloze",
+      "text": "A heterozygote has 50% of normal functional product and this is inadequate. The mechanism is {{c1::haploinsufficiency}}.",
+      "question": "A heterozygote has 50% of normal functional product and this is inadequate. The mechanism is {{c1::haploinsufficiency}}.",
+      "answer": "haploinsufficiency",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-134-c1",
+      "noteId": "gv-134",
+      "type": "cloze",
+      "text": "A mutant subunit poisons a complex containing normal subunits. The mechanism is {{c1::dominant negative}}.",
+      "question": "A mutant subunit poisons a complex containing normal subunits. The mechanism is {{c1::dominant negative}}.",
+      "answer": "dominant negative",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-135-c1",
+      "noteId": "gv-135",
+      "type": "cloze",
+      "text": "Haploinsufficiency reflects {{c1::too little normal product}}; dominant negative reflects {{c2::interference by an abnormal product}}.",
+      "question": "Haploinsufficiency reflects {{c1::too little normal product}}; dominant negative reflects {{c2::interference by an abnormal product}}.",
+      "answer": "too little normal product",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-135-c2",
+      "noteId": "gv-135",
+      "type": "cloze",
+      "text": "Haploinsufficiency reflects {{c1::too little normal product}}; dominant negative reflects {{c2::interference by an abnormal product}}.",
+      "question": "Haploinsufficiency reflects {{c1::too little normal product}}; dominant negative reflects {{c2::interference by an abnormal product}}.",
+      "answer": "interference by an abnormal product",
+      "clozeNumber": 2,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-1-c1",
+      "noteId": "gv-visual-1",
+      "type": "cloze",
+      "text": "This human karyotype shows paired chromosomes. The cell is {{c1::diploid}}, with {{c2::23 pairs}}.",
+      "question": "This human karyotype shows paired chromosomes. The cell is {{c1::diploid}}, with {{c2::23 pairs}}.",
+      "answer": "diploid",
+      "clozeNumber": 1,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-visual-1"
+      ],
+      "answerImages": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-1-c2",
+      "noteId": "gv-visual-1",
+      "type": "cloze",
+      "text": "This human karyotype shows paired chromosomes. The cell is {{c1::diploid}}, with {{c2::23 pairs}}.",
+      "question": "This human karyotype shows paired chromosomes. The cell is {{c1::diploid}}, with {{c2::23 pairs}}.",
+      "answer": "23 pairs",
+      "clozeNumber": 2,
+      "topic": "Genetic foundations",
+      "slide": 4,
+      "images": [
+        "gv-visual-1"
+      ],
+      "answerImages": [
+        "gv-slide-4"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-2-c1",
+      "noteId": "gv-visual-2",
+      "type": "cloze",
+      "text": "The strand-direction labels in this DNA diagram show that the strands are {{c1::antiparallel}}.",
+      "question": "The strand-direction labels in this DNA diagram show that the strands are {{c1::antiparallel}}.",
+      "answer": "antiparallel",
+      "clozeNumber": 1,
+      "topic": "DNA & the genetic code",
+      "slide": 9,
+      "images": [
+        "gv-visual-2"
+      ],
+      "answerImages": [
+        "gv-slide-9"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-3-c1",
+      "noteId": "gv-visual-3",
+      "type": "cloze",
+      "text": "Compare the original and highlighted mutant DNA sequences. A single base has been replaced: this is a {{c1::substitution}}.",
+      "question": "Compare the original and highlighted mutant DNA sequences. A single base has been replaced: this is a {{c1::substitution}}.",
+      "answer": "substitution",
+      "clozeNumber": 1,
+      "topic": "Mutation types",
+      "slide": 27,
+      "images": [
+        "gv-visual-3"
+      ],
+      "answerImages": [
+        "gv-slide-27"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-4-c1",
+      "noteId": "gv-visual-4",
+      "type": "cloze",
+      "text": "The distorted red blood cell at left is associated with {{c1::sickle-cell disease}}; the β-globin substitution is {{c2::glutamate → valine}}.",
+      "question": "The distorted red blood cell at left is associated with {{c1::sickle-cell disease}}; the β-globin substitution is {{c2::glutamate → valine}}.",
+      "answer": "sickle-cell disease",
+      "clozeNumber": 1,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-visual-4"
+      ],
+      "answerImages": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-4-c2",
+      "noteId": "gv-visual-4",
+      "type": "cloze",
+      "text": "The distorted red blood cell at left is associated with {{c1::sickle-cell disease}}; the β-globin substitution is {{c2::glutamate → valine}}.",
+      "question": "The distorted red blood cell at left is associated with {{c1::sickle-cell disease}}; the β-globin substitution is {{c2::glutamate → valine}}.",
+      "answer": "glutamate → valine",
+      "clozeNumber": 2,
+      "topic": "Disease examples",
+      "slide": 35,
+      "images": [
+        "gv-visual-4"
+      ],
+      "answerImages": [
+        "gv-slide-35"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-5-c1",
+      "noteId": "gv-visual-5",
+      "type": "cloze",
+      "text": "Two bases are inserted in the lower example. The altered downstream amino-acid grouping illustrates a {{c1::frameshift}}.",
+      "question": "Two bases are inserted in the lower example. The altered downstream amino-acid grouping illustrates a {{c1::frameshift}}.",
+      "answer": "frameshift",
+      "clozeNumber": 1,
+      "topic": "Frameshifts & indels",
+      "slide": 40,
+      "images": [
+        "gv-visual-5"
+      ],
+      "answerImages": [
+        "gv-slide-40"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-6-c1",
+      "noteId": "gv-visual-6",
+      "type": "cloze",
+      "text": "Compare the upper transcript with the spliced transcript below: the middle exon is missing. This outcome is {{c1::exon skipping}}.",
+      "question": "Compare the upper transcript with the spliced transcript below: the middle exon is missing. This outcome is {{c1::exon skipping}}.",
+      "answer": "exon skipping",
+      "clozeNumber": 1,
+      "topic": "Non-coding variants & splicing",
+      "slide": 45,
+      "images": [
+        "gv-visual-6"
+      ],
+      "answerImages": [
+        "gv-slide-45"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-7-c1",
+      "noteId": "gv-visual-7",
+      "type": "cloze",
+      "text": "The altered protein joins and disrupts the normal protein complex in this diagram. This is a {{c1::dominant-negative}} effect.",
+      "question": "The altered protein joins and disrupts the normal protein complex in this diagram. This is a {{c1::dominant-negative}} effect.",
+      "answer": "dominant-negative",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-visual-7"
+      ],
+      "answerImages": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "gv-visual-8-c1",
+      "noteId": "gv-visual-8",
+      "type": "cloze",
+      "text": "The altered second allele produces no functional protein in this diagram. This is a {{c1::loss-of-function}} mutation.",
+      "question": "The altered second allele produces no functional protein in this diagram. This is a {{c1::loss-of-function}} mutation.",
+      "answer": "loss-of-function",
+      "clozeNumber": 1,
+      "topic": "Functional effects & inheritance",
+      "slide": 46,
+      "images": [
+        "gv-visual-8"
+      ],
+      "answerImages": [
+        "gv-slide-46"
+      ],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Genetic Variation",
+      "text": "Genetic Variation\nDr Nadine Wehida\nSenior Lecturer in Genetics and Molecular Biology",
+      "images": [
+        "gv-slide-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Learning outcomes:",
+      "text": "Learning outcomes:\no Recap basic genetic concepts\no Mutation versus polymorphism\no Understand the various types of variations and their \noutcomes\no Identify diseases arising from various mutations",
+      "images": [
+        "gv-slide-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "What is",
+      "text": "What is \ngenetics?\n• The scientific  study of heredity -\nprocess in  which a parent  passes \ncertain genes onto their  children.\n• What does that mean?\n• Children inherit their  biological \nparents’  genes that express  specific \ntraits, such as  some physical  \ncharacteristics and  genetic \ndisorders.",
+      "images": [
+        "gv-slide-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "DIPLOID CELL CHROMOSOMES",
+      "text": "DIPLOID CELL CHROMOSOMES",
+      "images": [
+        "gv-slide-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "What is you Genome?",
+      "text": "What is you Genome?\n• The entire set of DNA instructions found in a cell. \n• In humans, consists of 23 pairs of chromosomes located in the \ncell’s nucleus, as well as a small chromosome in the cell’s \nmitochondria.\n• Contains all the information needed for an individual to develop \nand function.\nFUN FACT!\nAbout 1-2% of our entire genome is actually coding!",
+      "images": [
+        "gv-slide-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Important Genetic Concepts",
+      "text": "Important Genetic Concepts\nTERM\nDEFINITION\nGene\nRegion of DNA that helps determine a characteristic\nAllele\nOne of two or more alternate forms of a gene\nLocus\nSpecific place of an allele on a chromosome \nGenotype\nSet of alleles possessed by an individual organism\nHeterozygote\nAn individual organism possessing two different alleles at \na locus\nHomozygote\nAn individual organism possessing two of the same alleles \nat a locus\nPhenotype/ trait\nThe appearance or manifestation of a character",
+      "images": [
+        "gv-slide-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Some Important Genetic Terms",
+      "text": "Some Important Genetic Terms\nImportant Genetic Concepts",
+      "images": [
+        "gv-slide-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Gene vs Allele",
+      "text": "Gene vs Allele\n• A gene is a stretch of DNA or \nRNA that determines a specific \ntrait.\n• An allele brings variations to a \nsingle trait.",
+      "images": [
+        "gv-slide-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Slide 9",
+      "text": "",
+      "images": [
+        "gv-slide-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "A pair of homologous chromosomes",
+      "text": "A pair of homologous chromosomes\n• As a result of mutations, a gene can \ndiffer among individuals in terms of its \nDNA sequence. The differing sequences \nare referred to as alleles.\n• Locus: A gene’s location on a \nchromosome\n• If a person has the same allele on both \nmembers of a chromosome \npair=homozygote.\n•  If the alleles differ in DNA sequence \n=heterozygote. \n• The combination of alleles that is \npresent at a given locus is termed the \ngenotype.\nLocus (position \nof a gene)\nAllele (alternative \nform of a  gene)",
+      "images": [
+        "gv-slide-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Genotype vs Phenotype",
+      "text": "Genotype vs Phenotype\n• Genotype\n• The genetic makeup\n• Symbolized with letters\n• Tt or TT, tt\n• Heterozygous or \nHomozygous\n• Phenotype\n• Physical appearance of  \nthe organism\n• Expression of the trait\n• Shape, size, colour, and  \nbehavior, short, tall,  \nyellow, smooth, etc.",
+      "images": [
+        "gv-slide-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "• Many phenotypes",
+      "text": "• Many phenotypes \nare influenced by the  \nenvironment\nPhenotype = result from\nthe interaction of its \ngenotype and with the \nenvironment.\nThe most common phenotype in a natural population is referred \nto as:\nWildtype\nPHENOTYPE AND THE ENVIRONMENT",
+      "images": [
+        "gv-slide-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "The genetic code",
+      "text": "The genetic code \nThe correspondence between the linear \nsequence of 4 types of nucleic acid bases and \nthe 20 types of amino acids in protein\nCENTRAL DOGMA OF LIFE",
+      "images": [
+        "gv-slide-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "DECODING THE GENETIC CODE",
+      "text": "DECODING THE GENETIC CODE\n• Read in triplicate (CODON)-discovered by Crick and Brenner.\n• Non-overlapping\n• Degenerate\n• Nearly universal\n• 20 amino acids encoded by 4 nucleotides\n64 codons – only 20 \namino acids. \nTherefore, there is \nredundancy and \ncodons that do not \ncode for amino \nacids (stop codons)",
+      "images": [
+        "gv-slide-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "AMINO ACIDS",
+      "text": "AMINO ACIDS \n• Humans only produce 10 AAs, the \nrest is supplied by our diet\n• Proteins are essential for all cellular \nprocesses\n• AAs charge, size, shape, reactivity, \nhydrophobicity, determines protein \nfolding and stability \nAA = amino acid",
+      "images": [
+        "gv-slide-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "DEGENERACY AND THE GENETIC CODE",
+      "text": "DEGENERACY AND THE GENETIC CODE\n•\nDifferent words can have the same \nmeaning. GCA = alanine, GCC = alanine \nThird codon mutations often have no effect on \nthe AA, or if they do, they change to a similar \nAA\nThe genetic code has likely evolved to limit the effect of mutations",
+      "images": [
+        "gv-slide-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Genetic Variation",
+      "text": "Genetic Variation\n• Humans display a substantial \namount of genetic variation.\n• Traits such as height, blood \npressure, and skin color are \nreflecting of this genetic variation.\n• Disease states are also included in \nthe spectrum of genetic variation",
+      "images": [
+        "gv-slide-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "MUTATIONS",
+      "text": "MUTATIONS\n•  All genetic variation originates from the \nprocess known as MUTATION\n• Permanent change in DNA sequence can \nbe either inherited from a parent or \nacquired.\n• Gene mutation: may, and often, result in a \nsingle base error.\n• Chromosome mutation:  Visible \nchromosome change.",
+      "images": [
+        "gv-slide-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "▪Conventionally:",
+      "text": "▪Conventionally:\n➢Mutation: causes genetic diseases, relatively rare (Allele \nFrequency (AF) <1%).\n➢Polymorphisms: common in populations and benign\n▪Nowadays:\n➢Alleles that have a frequency <1% are often called polymorphisms \nas well.\n➢Many common polymorphisms influence the risks for complex, \ncommon diseases\nMutation vs Polymorphism\nThe traditional distinction between mutation (rare and disease causing) and \npolymorphism (common and benign) has become increasingly blurred.",
+      "images": [
+        "gv-slide-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Slide 20",
+      "text": "",
+      "images": [
+        "gv-slide-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Gene mutations could be:",
+      "text": "Gene mutations could be:\n1) Point mutation: \nSubstitution, deletion and \ninsertion\n3) Insertion of transposable \nelements known as ‘jumping \ngenes’\n2) Changes in the number of \ncopies of tri-nucleotides\ne.g. (AGC)3  to (AGC)5 \nWill be \nthoroughly \ndiscussed!",
+      "images": [
+        "gv-slide-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Gene mutations could also be:",
+      "text": "Gene mutations could also be:\nSpontaneous \nor induced\nSomatic or \ngerm cells\nIn coding genes \nor non-coding \nregions.",
+      "images": [
+        "gv-slide-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Spontaneous and induced mutations",
+      "text": "Spontaneous and induced mutations\nSPONTANEOUS MUTATIONS HAVE NO KNOWN CAUSE, \nIT IS  ACCIDENTAL, IT OCCURS IN NORMAL \nBIOLOGICAL AND CHEMICAL  PROCESS; (E.G., DNA \nREPLICATION, FREE RADICALS IN  RESPIRATION).\nINDUCED MUTATIONS RESULTS FROM EXTERNAL\nFACTORS. COULD  BE DUE TO NATURAL FACTORS (E.G., \nUV FROM SUN, RADIATIONS FROM COSMIC AND \nMINERALS), OR ARTIFICIAL (E.G. X-RAY) .",
+      "images": [
+        "gv-slide-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Classification based on location of mutation “gametes or somatic",
+      "text": "Classification based on location of mutation “gametes or somatic \ncells”\nSomatic Mutation\n•\nAffect cells in the body other than the germ \ncells.\n•\nNot passed onto offspring\n•\nOften caused by environmental factors e.g. \nradiation, chemicals or ageing\nGamete Mutation\n•\nAffects germ cells only; \n•\nsperm or egg cells  \n•\nPassed onto offspring\n•\nCan be spontaneous or induced by \nexternal factors\nSOMATIC OR GERM CELLS MUTATIONS",
+      "images": [
+        "gv-slide-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "• 10 MINUTE BREAK!",
+      "text": "• 10 MINUTE BREAK!",
+      "images": [
+        "gv-slide-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "TYPES OF MUTATION",
+      "text": "TYPES OF MUTATION\nClass of mutation\nType of mutation\nDescription\nPoint mutation\nSubstitution\nOne incorrect base is added during DNA \nreplication\nDeletion\nOne or more extra nucleotides excised during DNA \nreplication-can lead to a frameshift\nInsertion\nOne or more extra nucleotides added during DNA \nreplication-can lead to a frameshift\nChromosomal mutation\nInversion\nOne region of a chromosome is flipped and re-\ninserted\nDeletion\nA region of chromosome is lost\nDuplication \nA region of chromosome is duplicated\nTranslocation\nRegion from one chromosome is aberrantly \nattached to another chromosome",
+      "images": [
+        "gv-slide-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Types of base-pair variation",
+      "text": "Types of base-pair variation",
+      "images": [
+        "gv-slide-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "It can reduce or eliminate gene function: Loss-of-function",
+      "text": "It can reduce or eliminate gene function: Loss-of-function \nRarely, it can increase a gene activity: Gain of  function",
+      "images": [
+        "gv-slide-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "TYPES OF MUTATION",
+      "text": "TYPES OF MUTATION",
+      "images": [
+        "gv-slide-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "CONSEQUENCES OF MUTATION",
+      "text": "CONSEQUENCES OF MUTATION\nMissense mutation:\nBase-pair substitution results \nin substitution of a different \namino acid.\n-\nConservative substitution: \nReplaces one amino acid \nwith chemically similar \namino acid (Less likely to \naffect severely= Neutral \nmutation)\n-\nNon-conservative mutation: \nReplaces one amino acid \nwith chemically different \namino acid (Could result in \nsevere change)\nSilent mutation:\nBase-pair \nsubstitution \nresults in the \nsame amino \nacid (different \ncodon). \nNonsense mutation: \nBase pair substitution \nresults in a stop codon \n(and shorter \npolypeptide).  The \ncloser to 3’UTR, might \nstill produce protein \npossessing some \nactivity",
+      "images": [
+        "gv-slide-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Consequences of base-pair substitution",
+      "text": "Consequences of base-pair substitution",
+      "images": [
+        "gv-slide-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Consequences of base-pair substitution",
+      "text": "Consequences of base-pair substitution\nMissense\nNonsense",
+      "images": [
+        "gv-slide-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Base-pair substitution: Transitions Vs",
+      "text": "Base-pair substitution: Transitions Vs  \ntransversions",
+      "images": [
+        "gv-slide-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Transition and transversion mutations",
+      "text": "Transition and transversion mutations\nTypes of point mutation\n1. Transition\n2. transversion\nTRANSITION\nTRANSVERSION\n• A purine base is substituted for \na purine base\n• A pyrimidine base is substituted \nfor a pyrimidine base \n• E.g. T->C, G->A\n• A purine base is substituted for a \npyrimidine base\n• A pyrimidine base is substituted for a \npurine base\n• E.g. G->T, C->A \nThymine + cytosine + uracil = pyrimidines\nGuanine + adenine = purines",
+      "images": [
+        "gv-slide-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Mis-sense mutations and sickle cell anaemia",
+      "text": "Mis-sense mutations and sickle cell anaemia\nGlutamine > Valine substitution\nHaemoglobin is now hydrophobic rather than hydrophilic   \nEXAMPLES OF POINT MUTATION DISEASES",
+      "images": [
+        "gv-slide-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Deletion mutations in cystic fibrosis",
+      "text": "Deletion mutations in cystic fibrosis\n•\nSeveral classes of CFTR mutations\n•\nDF508 is the most common deletion \ncausing cystic fibrosis\n•\nDoes not cause frameshift, but \nprotein doesn’t fold and is \ndegraded; other types of CFTR \nmutations cause non-functional \nprotein \n*CFTR = cystic fibrosis transmembrane conductance regulator \nEXAMPLES OF POINT MUTATION DISEASES",
+      "images": [
+        "gv-slide-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "CHANGE OF NUMBER OF COPIES OF TRINUCLEOTIDES",
+      "text": "CHANGE OF NUMBER OF COPIES OF TRINUCLEOTIDES\nHuntington’s disease is an inherited \nneurodegenerative disease.\nIt is presented with neuropsychiatric \nsymptoms, a movement disorder,\nmostly choreiform, and progressive \ncognitive impairment.\nIt is characterised by an increased \nCAG repeat length in the huntingtin \ngene- Repeated trinucleotide CAG \nsequence.",
+      "images": [
+        "gv-slide-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Prof Sarah Tabrizi, right, who led the trial, with Prof Ed Wild,",
+      "text": "Prof Sarah Tabrizi, right, who led the trial, with Prof Ed Wild, \nleft, and Jack May-Davis, 30, who carries the Huntington's \ndisease gene. Photograph: UCLH/PA",
+      "images": [
+        "gv-slide-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Indel mutation",
+      "text": "Indel mutation\n•\nFrameshift mutations:\nDeletions or insertions (not divisible by 3) result in  translation of incorrect amino \nacids, stops  codons (shorter polypeptides), or read-through  of stop codons \n(longer polypeptides).\nThis results in complete loss of structure and  function.\n•\nIn-frame deletion or insertion:\nDeletion or insertion  of a multiple of three nucleotides that does not  alter the \nreading frame.",
+      "images": [
+        "gv-slide-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "FRAMESHIFT MUTATIONS",
+      "text": "FRAMESHIFT MUTATIONS",
+      "images": [
+        "gv-slide-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Types of base pair variations (Summary)",
+      "text": "Types of base pair variations (Summary)\nTransition mutation (AT to GC)\nTransversion mutation (CG to GC)\nMissense mutation (here a transition mutation from AT to GC changes from \nlysine to glutamic acid)\nNonsense mutation -change from an amino acid to a stop codon (here a \ntransversion mutation from AT to TA, changing codon from lysine to UAA stop codon",
+      "images": [
+        "gv-slide-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Types of base pair variations (Summary)",
+      "text": "Types of base pair variations (Summary)\nNeutral mutation -change from an amino to another amino acid with similar \nchemical properties  (here an AT to GC transition mutation changes the codon \nfrom lysine to arginine)\nSilent mutation (change in codon but same amino acid is coded for (here an AT \nto GC transition in the 3rd position of the codon)\nFrameshift mutation -addition or deletion of one or a few base pairs lead to change \nin reading frame (here insertion of a GC base pair scrambles the message after \nglutamine)",
+      "images": [
+        "gv-slide-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Mutations in non-coding sequences",
+      "text": "Mutations in non-coding sequences\n1. No phenotypes.\n2.  Mutations in promoters or enhancers (Affect quantity but not \nquality). e.g:\nA- Binding site for transcription factor: No response to \nenvironmental cue.\nB- Binding site for suppressor: Constitutively active gene.\nC- Binding site for RNA polymerase: Block gene expression.",
+      "images": [
+        "gv-slide-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "MUTATIONS AT",
+      "text": "MUTATIONS AT \nDOCKING SITES \nOF RNA\n• Ribosome binding sites.\n• Splice sites (Exon-Intron) junction.\n• Sites that regulate translation.\n• Sites that regulate localisation of \nmRNA.",
+      "images": [
+        "gv-slide-44"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Splice-site mutations",
+      "text": "Splice-site mutations\n•\nSplice-site mutations: occur at \nintron–exon boundaries, alter the \nsplicing signal that is necessary for \nproper excision of an intron.\n•\nSplice-site mutations can occur at:\n1. The donor site: GT sequence \nthat defines the 5′ splice site\n2. The acceptor site: the AG \nsequence that defines the 3′ \nsplice site.\n3. Near the donor and acceptor \nsites: the excision is often \nmade within the next exon, at a \nsplice site located in the exon \n(cryptic splice sites).",
+      "images": [
+        "gv-slide-45"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "MOLECULAR CONSEQUENCES OF MUTATION",
+      "text": "MOLECULAR CONSEQUENCES OF MUTATION\n• Gain-of-function: sometimes seen \nin dominant diseases.\n• Loss of function: seen in recessive \ndiseases\n• Haploinsufficiency: Loss of \nfunction seen in dominant diseases \nin which 50% of the gene product is \ninsufficient for normal function.\n• Dominant negative mutations: the \nabnormal protein product interferes \nwith the normal protein product.",
+      "images": [
+        "gv-slide-46"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "THANK YOU!",
+      "text": "THANK YOU!",
+      "images": [
+        "gv-slide-47"
+      ]
+    }
+  ],
+  "media": {
+    "gv-slide-1": "genetic-variation/slide-01.jpg",
+    "gv-slide-2": "genetic-variation/slide-02.jpg",
+    "gv-slide-3": "genetic-variation/slide-03.jpg",
+    "gv-slide-4": "genetic-variation/slide-04.jpg",
+    "gv-slide-5": "genetic-variation/slide-05.jpg",
+    "gv-slide-6": "genetic-variation/slide-06.jpg",
+    "gv-slide-7": "genetic-variation/slide-07.jpg",
+    "gv-slide-8": "genetic-variation/slide-08.jpg",
+    "gv-slide-9": "genetic-variation/slide-09.jpg",
+    "gv-slide-10": "genetic-variation/slide-10.jpg",
+    "gv-slide-11": "genetic-variation/slide-11.jpg",
+    "gv-slide-12": "genetic-variation/slide-12.jpg",
+    "gv-slide-13": "genetic-variation/slide-13.jpg",
+    "gv-slide-14": "genetic-variation/slide-14.jpg",
+    "gv-slide-15": "genetic-variation/slide-15.jpg",
+    "gv-slide-16": "genetic-variation/slide-16.jpg",
+    "gv-slide-17": "genetic-variation/slide-17.jpg",
+    "gv-slide-18": "genetic-variation/slide-18.jpg",
+    "gv-slide-19": "genetic-variation/slide-19.jpg",
+    "gv-slide-20": "genetic-variation/slide-20.jpg",
+    "gv-slide-21": "genetic-variation/slide-21.jpg",
+    "gv-slide-22": "genetic-variation/slide-22.jpg",
+    "gv-slide-23": "genetic-variation/slide-23.jpg",
+    "gv-slide-24": "genetic-variation/slide-24.jpg",
+    "gv-slide-25": "genetic-variation/slide-25.jpg",
+    "gv-slide-26": "genetic-variation/slide-26.jpg",
+    "gv-slide-27": "genetic-variation/slide-27.jpg",
+    "gv-slide-28": "genetic-variation/slide-28.jpg",
+    "gv-slide-29": "genetic-variation/slide-29.jpg",
+    "gv-slide-30": "genetic-variation/slide-30.jpg",
+    "gv-slide-31": "genetic-variation/slide-31.jpg",
+    "gv-slide-32": "genetic-variation/slide-32.jpg",
+    "gv-slide-33": "genetic-variation/slide-33.jpg",
+    "gv-slide-34": "genetic-variation/slide-34.jpg",
+    "gv-slide-35": "genetic-variation/slide-35.jpg",
+    "gv-slide-36": "genetic-variation/slide-36.jpg",
+    "gv-slide-37": "genetic-variation/slide-37.jpg",
+    "gv-slide-38": "genetic-variation/slide-38.jpg",
+    "gv-slide-39": "genetic-variation/slide-39.jpg",
+    "gv-slide-40": "genetic-variation/slide-40.jpg",
+    "gv-slide-41": "genetic-variation/slide-41.jpg",
+    "gv-slide-42": "genetic-variation/slide-42.jpg",
+    "gv-slide-43": "genetic-variation/slide-43.jpg",
+    "gv-slide-44": "genetic-variation/slide-44.jpg",
+    "gv-slide-45": "genetic-variation/slide-45.jpg",
+    "gv-slide-46": "genetic-variation/slide-46.jpg",
+    "gv-slide-47": "genetic-variation/slide-47.jpg",
+    "gv-visual-1": "genetic-variation/visual-01.jpg",
+    "gv-visual-2": "genetic-variation/visual-02.jpg",
+    "gv-visual-3": "genetic-variation/visual-03.jpg",
+    "gv-visual-4": "genetic-variation/visual-04.jpg",
+    "gv-visual-5": "genetic-variation/visual-05.jpg",
+    "gv-visual-6": "genetic-variation/visual-06.jpg",
+    "gv-visual-7": "genetic-variation/visual-07.jpg",
+    "gv-visual-8": "genetic-variation/visual-08.jpg"
+  },
+  "mediaCredits": {
+    "gv-visual-1": {
+      "title": "Lecture diagram crop · slide 4",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-2": {
+      "title": "Lecture diagram crop · slide 9",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-3": {
+      "title": "Lecture diagram crop · slide 27",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-4": {
+      "title": "Lecture diagram crop · slide 35",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-5": {
+      "title": "Lecture diagram crop · slide 40",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-6": {
+      "title": "Lecture diagram crop · slide 45",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-7": {
+      "title": "Lecture diagram crop · slide 46",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    },
+    "gv-visual-8": {
+      "title": "Lecture diagram crop · slide 46",
+      "credit": "Supplied Genetic Variation lecture · labels cropped or masked for recall"
+    }
+  },
+  "editorialNotes": [
+    "Slide 35 says glutamine → valine; the sickle-cell β-globin substitution is glutamate (glutamic acid) → valine. Cards correct this and retain the original source slide.",
+    "Slide 15 gives an outdated 10/10 essential-amino-acid split. This numerical claim is not tested; standard adult human nutrition recognises nine essential amino acids.",
+    "The mutation/polymorphism frequency distinction is historical, not a rule for pathogenicity. Common variants may influence disease and rare variants may be benign.",
+    "Gene definitions refer to DNA in this human-genetics lecture; RNA genomes exist in some viruses.",
+    "Mutation effects and dominant/recessive patterns are context dependent. Frameshifts often disrupt function but are not guaranteed to cause complete loss of function.",
+    "Slide 38 is a time-dependent news clipping and is retained as a source rather than converted into clinical efficacy claims."
+  ]
+}

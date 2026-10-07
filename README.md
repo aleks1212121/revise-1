@@ -1,6 +1,10 @@
-# Micro — Revisiting Microorganisms
+# Micro — Lecture flashcards
 
 A static, local-first flashcard app for the LS5008 / LS5030 lecture. The included deck was written from the uploaded 65-slide lecture PDF and contains **178 focused cloze cards**, including **7 visual-recall cards** using cropped slide pictures. Every card has a source slide; all 65 slide references are included.
+
+The collection also includes **Lecture 2 — Genetic variation**: **161 reviewed cloze cards**, including **10 visual cards** drawn from eight diagram crops, with all **47 source slides**. It is automatically added to the sidebar and Lectures collection, without replacing your active deck, edits or review schedules. Switching lectures keeps progress separate. Both bundled decks are free to study and require no AI service, account or API key.
+
+The genetics deck covers genotype/phenotype, the genetic code, mutation classes, coding and non-coding effects, sickle-cell disease, cystic fibrosis, Huntington’s disease, splicing and inheritance mechanisms. It includes practical classification and mechanism questions. Source slide 35 incorrectly says glutamine → valine for sickle-cell disease; the cards use **glutamate → valine** and explain the correction. The outdated essential-amino-acid count on slide 15 is not tested. Original source slides remain available.
 
 ## Run and validate
 
@@ -43,7 +47,7 @@ In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as
 
 https://aleks1212121.github.io/revise-1/
 
-For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Public lecture images and deck content are in `public/lecture/` and copied into the build.
+For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Public lecture images and deck content are in `public/lecture/` and `public/genetic-variation/` and copied into the build.
 
 ## Editorial notes
 
