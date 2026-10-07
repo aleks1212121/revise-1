@@ -37,7 +37,7 @@ async function study(p){await settled(p);await p.locator('[data-view="study"]').
 async function stored(p,scope=''){return p.evaluate(async scope=>{const db=await new Promise((res,rej)=>{let q=indexedDB.open('micro-flashcards',1);q.onsuccess=()=>res(q.result);q.onerror=()=>rej(q.error)});return new Promise(res=>{let q=db.transaction('decks').objectStore('decks').get(scope?`user:${scope}:lecture:microorganisms`:'lecture:microorganisms');q.onsuccess=()=>res(q.result)})},scope)}
 async function grade(p,rating='good'){await study(p);await p.locator('#flip').click();await p.locator('#'+rating).click();await p.waitForTimeout(120)}
 async function synced(p){await account(p);await p.locator('#sync-now').click();await p.locator('#sync-status').filter({hasText:/Synced/}).waitFor();await p.waitForTimeout(120)}
-(async()=>{
+if(require.main===module)(async()=>{
  const browser=await chromium.launch({executablePath:process.env.CHROMIUM_PATH||undefined,args:['--no-sandbox']});
  try{
  const c1=await browser.newContext(),c2=await browser.newContext();await fixture(c1);await fixture(c2);
@@ -73,3 +73,5 @@ async function synced(p){await account(p);await p.locator('#sync-now').click();a
  assert.deepEqual(errors,[]);console.log('PASS browser: account connection checks without writes, guest isolation/import, two-device reviews, offline conflict merge, account separation, custom decks and pictures, signup/reset notices and email-link return flows, restored sessions, mobile account access, unconfigured guest fallback');
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exitCode=1});
+
+module.exports={fixture,rows,A};

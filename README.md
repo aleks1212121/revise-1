@@ -99,3 +99,9 @@ The **Sign in** area supports email/password accounts, confirmation emails, pass
 Guest and account collections are stored separately. **Import this browser’s guest progress** copies existing reviews into the signed-in account while preserving the guest copy. Wait for **Synced** before switching devices. Reviews of different cards merge; the latest timestamp wins for simultaneous reviews of the same card. Locally saved changes retry after reconnecting while the app is open. Free-tier storage, bandwidth and inactivity limits still apply.
 
 `npm test` checks card/schedule behavior, sync conflicts, and account row isolation against a local PostgreSQL-compatible database. The browser account checks use fixture authentication responses; live sign-in and email delivery remain unverified until a Supabase project is activated.
+
+## Phone study controls
+
+On phone-sized screens, Next/Previous and the four review ratings stay in a bottom bar with larger touch targets. Reveal the answer before rating. Background syncing waits for an active study tap to finish before rebuilding its controls or changing the visible card. The desktop study layout is unchanged.
+
+To check phone interactions, build the app, run `npm run preview -- --port 4189`, then run `npm run test:phone:browser` with Playwright Chromium installed. `CHROMIUM_PATH` can point to an existing Chromium executable. These fixture checks cover Android-style touch input, taps during syncing, all ratings, review persistence after reload and three phone sizes.
