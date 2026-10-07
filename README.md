@@ -108,16 +108,23 @@ To check phone interactions, build the app, run `npm run preview -- --port 4189`
 
 ## Friends, daily activity and streaks
 
-Open **Friends & streaks** to see daily slides/cards studied, the last seven days and a streak. Signed-in users can choose a display name, share a friend code, accept requests and compare friends’ Today/Last 7 days leaderboards and overall slide/card coverage. On phones, Friends is in the lecture strip. Study controls remain unchanged.
+Open **Friends & streaks** to see daily slides/cards studied, the last seven days and a streak. Signed-in users can choose a display name, share a friend code, accept requests and compare friends’ Today/Last 7 days leaderboards and overall slide/card coverage. Open Friends & streaks from More on desktop or phone. Study controls remain unchanged.
 
 The owner must run the new [friends.sql migration](supabase/friends.sql) in the existing Supabase SQL Editor to activate sharing; see [Friends setup and counting rules](supabase/FRIENDS.md). Until then, study and deck syncing remain available and the Friends screen explains the missing setup. Guest activity is local. Daily counting begins with this update, uses London midnight and merges across devices without double-counting the same card/day. Only accepted friends receive aggregate statistics; decks, answers, pictures and emails stay private.
 
 ## Appearance settings
 
-Open **Settings** in the sidebar or phone lecture strip. Choose Light, Dark or Match device, then Forest, Ocean, Lavender or Rose. Match device follows the operating system's colour preference automatically. Choices persist in this browser across reloads and sign-ins; each device can use its own appearance. Original lecture images retain their colours.
+Open **More → Appearance** on desktop or phone. Choose Light, Dark or Match device, then Forest, Ocean, Lavender or Rose. Match device follows the operating system's colour preference automatically. Choices persist in this browser across reloads and sign-ins; each device can use its own appearance. Original lecture images retain their colours.
 
 After building and starting the preview on port 4189, `npm run test:appearance:browser` checks all eight colour combinations for readable text contrast, persistence, system changes, account inputs and phone grading.
 
 ## Welcome screen
 
 New tab sessions open with a playful CHUDS.org welcome and floating dog photos. **Let’s revise** or Escape dismisses it; refreshing in the same tab keeps it dismissed. The animation respects the device's reduced-motion preference. The dialog holds keyboard focus until dismissed, while decks and accounts continue loading underneath. Run `npm run test:welcome:browser` against the preview to check desktop, phone, landscape, reduced motion and dismissal.
+
+
+## Simple navigation
+
+The main navigation contains **Study** and **Lectures**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
+
+`npm run test:navigation:browser` checks the compact layout, menu access and lecture switching on desktop, small phones and landscape.
