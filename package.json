@@ -14,7 +14,8 @@
     "test:friends:browser": "node scripts/check-friends.cjs",
     "test:appearance:browser": "node scripts/check-appearance.cjs",
     "test:welcome:browser": "node scripts/check-welcome.cjs",
-    "test:navigation:browser": "node scripts/check-navigation.cjs"
+    "test:navigation:browser": "node scripts/check-navigation.cjs",
+    "test:lectures:browser": "node scripts/check-lectures.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",

@@ -128,3 +128,7 @@ New tab sessions open with a playful CHUDS.org welcome and floating dog photos. 
 The main navigation contains **Study** and **Lectures**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
 
 `npm run test:navigation:browser` checks the compact layout, menu access and lecture switching on desktop, small phones and landscape.
+
+## Lecture collection progress
+
+**Lectures** shows the collection first, with a study-coverage bar, cards reviewed at least once, confident cards and cards due for each deck. Coverage remains recorded after an Again review; due dates and confidence still reflect the review schedule. The upload form is below the collection, and optional AI connection settings are collapsed underneath. `npm run test:lectures:browser` checks progress, reload persistence, the stacked layout and uploads on desktop and phone.
