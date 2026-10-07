@@ -94,7 +94,7 @@ All slide-reading, deck collection and study code still deploys as a static GitH
 
 ## Free accounts and device sync
 
-The **Sign in** area supports email/password accounts, confirmation emails, password resets, and private lecture/progress syncing through Supabase. Activation needs an owner-created free Supabase project; this repository intentionally contains no live project credentials. Follow [the account setup guide](supabase/SETUP.md), run [the database setup](supabase/setup.sql), and configure the public Project URL and publishable key. GitHub Pages remains a static site. No paid AI service is involved in accounts.
+The **Sign in** area supports email/password accounts, confirmation emails, password resets, and private lecture/progress syncing through Supabase. The public app configuration points to the owner’s Supabase project; account activation also requires the database setup and authentication return URLs in that project. Follow [the account setup guide](supabase/SETUP.md), run [the database setup](supabase/setup.sql), and configure the public Project URL and publishable key. GitHub Pages remains a static site. No paid AI service is involved in accounts.
 
 Guest and account collections are stored separately. **Import this browser’s guest progress** copies existing reviews into the signed-in account while preserving the guest copy. Wait for **Synced** before switching devices. Reviews of different cards merge; the latest timestamp wins for simultaneous reviews of the same card. Locally saved changes retry after reconnecting while the app is open. Free-tier storage, bandwidth and inactivity limits still apply.
 

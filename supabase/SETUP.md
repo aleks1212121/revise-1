@@ -1,6 +1,6 @@
 # Activate free accounts and progress sync
 
-The app code supports email/password accounts and private cross-device syncing. Real sign-in requires your own Supabase project; no project or live credentials are included in this repository. Guest study remains available before activation.
+The app code supports email/password accounts and private cross-device syncing. The public app configuration points to the owner’s Supabase project. The database setup and authentication return URLs must also be configured in that project. Guest study remains available.
 
 1. Open https://supabase.com/dashboard and create an account and a **free** project. Choose a region near you and keep the database password private. Free-tier limits and inactivity pausing are managed by Supabase; no paid AI service is needed.
 2. In the project’s **SQL Editor**, paste the complete contents of [setup.sql](setup.sql) and run it. It creates the private `study_decks` table, access policies and revision-aware save function. Each authenticated user can read and write only their own rows.
@@ -26,4 +26,4 @@ Create two test accounts yourself. In account A, rate a card, wait for **Synced*
 
 Local automated tests exercise the merge rules, the SQL function and row-level access in a PostgreSQL-compatible test engine, and the browser sign-in/sync flow using fixture responses. They do not establish that an unconfigured live Supabase project works. Account activation, live email delivery and hosted authentication must be checked after the project settings are supplied.
 
-To rerun fixture browser checks locally, use the blank `public/account-config.json` and omit the `VITE_SUPABASE_*` build settings. Run `npm run build`, start `npm run preview -- --port 4189`, then run `npx playwright install chromium` and `npm run test:accounts:browser` in another terminal. If Chromium is already installed, set `CHROMIUM_PATH` to its executable instead of downloading a browser. The script intercepts account configuration and all Supabase traffic in isolated test browsers; it never creates real accounts or sends emails.
+To rerun fixture browser checks locally, omit the `VITE_SUPABASE_*` build settings. The test browsers override `account-config.json` with fixture settings, including a blank configuration for the guest fallback test. Run `npm run build`, start `npm run preview -- --port 4189`, then run `npx playwright install chromium` and `npm run test:accounts:browser` in another terminal. If Chromium is already installed, set `CHROMIUM_PATH` to its executable instead of downloading a browser. The script intercepts account configuration and all Supabase traffic in isolated test browsers; it never creates real accounts or sends emails.
