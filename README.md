@@ -67,7 +67,7 @@ The supplied slides contain some simplifications and a likely “nucleotide” t
 Cards are never marked done forever. This app uses a simple progressive schedule inspired by spaced repetition, rather than Anki's FSRS algorithm:
 
 - **Again:** relearn in 10 minutes, resetting the interval progression.
-- **Hard:** at least 1 day; later intervals grow slowly (about 1.2×).
+- **Hard:** retry new or relearning cards in 30 minutes. Later intervals grow slowly (about 1.2×), capped below Good so Hard always returns sooner.
 - **Good:** 1 → 3 → 7 → 14 → 30 → 60 → 120 → 180 → 365 days. Reviews continue yearly at the cap.
 - **Easy:** skips one step in that progression (3 days on a new card).
 

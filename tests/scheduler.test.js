@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {schedule,isDue,intervalFor,migrateSchedule} from '../src/scheduler.js';
+import {schedule,isDue,intervalFor,intervalLabel,migrateSchedule} from '../src/scheduler.js';
 const day=86400000,now=1800000000000;
 test('good reviews return after 1, 3, 7 and 14 days, never complete permanently',()=>{
  let card={id:'card',status:'new'};
@@ -15,8 +15,22 @@ test('again schedules ten-minute relearning and resets the growth interval',()=>
  assert.equal(intervalFor(card,'good'),day);
 });
 test('hard grows slowly while easy skips an interval',()=>{
- assert.equal(intervalFor({},'hard'),day);assert.equal(intervalFor({},'easy'),3*day);
+ assert.equal(intervalFor({},'hard'),1800000);assert.equal(intervalFor({},'easy'),3*day);
  assert.equal(intervalFor({intervalDays:7},'hard'),9*day);assert.equal(intervalFor({intervalDays:7},'easy'),30*day);
+});
+test('Hard stays between Again and Good, including step boundaries and the one-year cap',()=>{
+ for(const intervalDays of [0,30/1440,.5,1,2,3,6,7,14,29,30,59,60,119,120,179,180,364,365,500]){
+  const card={intervalDays};
+  assert.ok(intervalFor(card,'again')<intervalFor(card,'hard'),`Again < Hard at ${intervalDays}`);
+  assert.ok(intervalFor(card,'hard')<intervalFor(card,'good'),`Hard < Good at ${intervalDays}`);
+ }
+});
+test('Hard learning retries use the displayed thirty-minute interval and can graduate with Good',()=>{
+ const card=schedule({},'hard',now);
+ assert.equal(intervalLabel({},'hard'),'30 min');assert.equal(intervalLabel({},'good'),'1 day');
+ assert.equal(card.dueAt,now+1800000);assert.equal(isDue(card,card.dueAt-1),false);assert.equal(isDue(card,card.dueAt),true);
+ assert.equal(schedule(card,'hard',now).dueAt,now+1800000);
+ assert.equal(schedule(card,'good',now).dueAt,now+day);
 });
 test('legacy confident cards return and existing schedules are preserved',()=>{
  const deck=migrateSchedule({cards:[{status:'known'},{dueAt:now+day,intervalDays:1}]},now);

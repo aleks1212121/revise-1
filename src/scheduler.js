@@ -4,8 +4,9 @@ export function isDue(card,now=Date.now()) {return !Number.isFinite(card.dueAt)|
 export function intervalFor(card,rating){
  const previous=Number.isFinite(card.intervalDays)?Math.max(0,card.intervalDays):0;
  if(rating==='again')return 10*MINUTE;
- if(rating==='hard')return Math.min(365,Math.max(1,Math.ceil(previous*1.2)))*DAY;
  const next=STEPS.find(days=>days>previous)||365;
+ // Learning cards get a shorter retry; mature cards stay below Good's interval.
+ if(rating==='hard')return previous<1?30*MINUTE:Math.min(next-1,Math.max(1,Math.ceil(previous*1.2)))*DAY;
  if(rating==='good')return next*DAY;
  if(rating==='easy')return (STEPS.find(days=>days>next)||365)*DAY;
  throw Error('Unknown review rating');
