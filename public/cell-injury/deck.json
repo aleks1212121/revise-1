@@ -1,0 +1,4844 @@
+{
+  "version": 2,
+  "lectureId": "cell-injury",
+  "generation": "reviewed",
+  "title": "Cellular injury I & II",
+  "source": "LS5009 · Dr Hossein Ashrafi · 2026 student notes · 80 PDF pages",
+  "cards": [
+    {
+      "id": "ci-1-c1",
+      "noteId": "ci-1",
+      "type": "cloze",
+      "text": "The smallest living structural and functional unit of an organism is the {{c1::cell}}.",
+      "question": "The smallest living structural and functional unit of an organism is the {{c1::cell}}.",
+      "answer": "cell",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 6,
+      "images": [
+        "ci-slide-6"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-2-c1",
+      "noteId": "ci-2",
+      "type": "cloze",
+      "text": "The cell membrane is principally made of {{c1::phospholipids}} and {{c2::proteins}}.",
+      "question": "The cell membrane is principally made of {{c1::phospholipids}} and {{c2::proteins}}.",
+      "answer": "phospholipids",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-slide-7"
+      ],
+      "illustrations": [
+        "ci-panel-membrane"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-2-c2",
+      "noteId": "ci-2",
+      "type": "cloze",
+      "text": "The cell membrane is principally made of {{c1::phospholipids}} and {{c2::proteins}}.",
+      "question": "The cell membrane is principally made of {{c1::phospholipids}} and {{c2::proteins}}.",
+      "answer": "proteins",
+      "clozeNumber": 2,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-slide-7"
+      ],
+      "illustrations": [
+        "ci-panel-membrane"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-3-c1",
+      "noteId": "ci-3",
+      "type": "cloze",
+      "text": "A phospholipid bilayer forms the boundary between the cell and its {{c1::external environment}}.",
+      "question": "A phospholipid bilayer forms the boundary between the cell and its {{c1::external environment}}.",
+      "answer": "external environment",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-slide-7"
+      ],
+      "illustrations": [
+        "ci-panel-membrane"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-4-c1",
+      "noteId": "ci-4",
+      "type": "cloze",
+      "text": "The organelle containing most of a eukaryotic cell’s genetic material is the {{c1::nucleus}}.",
+      "question": "The organelle containing most of a eukaryotic cell’s genetic material is the {{c1::nucleus}}.",
+      "answer": "nucleus",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-slide-7"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-5-c1",
+      "noteId": "ci-5",
+      "type": "cloze",
+      "text": "The cellular contents outside the nucleus are called the {{c1::cytoplasm}}.",
+      "question": "The cellular contents outside the nucleus are called the {{c1::cytoplasm}}.",
+      "answer": "cytoplasm",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-slide-7"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-6-c1",
+      "noteId": "ci-6",
+      "type": "cloze",
+      "text": "Mitochondria are central to aerobic energy production; impairment of them can reduce {{c1::ATP generation}}.",
+      "question": "Mitochondria are central to aerobic energy production; impairment of them can reduce {{c1::ATP generation}}.",
+      "answer": "ATP generation",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 8,
+      "images": [
+        "ci-slide-8"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-7-c1",
+      "noteId": "ci-7",
+      "type": "cloze",
+      "text": "Rough endoplasmic reticulum is associated with {{c1::ribosomes}}, which synthesise proteins.",
+      "question": "Rough endoplasmic reticulum is associated with {{c1::ribosomes}}, which synthesise proteins.",
+      "answer": "ribosomes",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 8,
+      "images": [
+        "ci-slide-8"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-8-c1",
+      "noteId": "ci-8",
+      "type": "cloze",
+      "text": "The {{c1::Golgi apparatus}} modifies and sorts proteins for delivery within or outside the cell.",
+      "question": "The {{c1::Golgi apparatus}} modifies and sorts proteins for delivery within or outside the cell.",
+      "answer": "Golgi apparatus",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 8,
+      "images": [
+        "ci-slide-8"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-9-c1",
+      "noteId": "ci-9",
+      "type": "cloze",
+      "text": "The intracellular organelles containing enzymes for degradation of material are {{c1::lysosomes}}.",
+      "question": "The intracellular organelles containing enzymes for degradation of material are {{c1::lysosomes}}.",
+      "answer": "lysosomes",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 8,
+      "images": [
+        "ci-slide-8"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-10-c1",
+      "noteId": "ci-10",
+      "type": "cloze",
+      "text": "Cells take up nutrients, convert them into {{c1::energy}} and carry out specialised functions.",
+      "question": "Cells take up nutrients, convert them into {{c1::energy}} and carry out specialised functions.",
+      "answer": "energy",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 9,
+      "images": [
+        "ci-slide-9"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-11-c1",
+      "noteId": "ci-11",
+      "type": "cloze",
+      "text": "Active maintenance of a relatively stable internal environment is {{c1::homeostasis}}.",
+      "question": "Active maintenance of a relatively stable internal environment is {{c1::homeostasis}}.",
+      "answer": "homeostasis",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 10,
+      "images": [
+        "ci-slide-10"
+      ],
+      "illustrations": [
+        "ci-panel-homeostasis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-12-c1",
+      "noteId": "ci-12",
+      "type": "cloze",
+      "text": "Homeostasis is a dynamic steady state: cells {{c1::actively regulate}} conditions rather than remaining chemically inactive.",
+      "question": "Homeostasis is a dynamic steady state: cells {{c1::actively regulate}} conditions rather than remaining chemically inactive.",
+      "answer": "actively regulate",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 10,
+      "images": [
+        "ci-slide-10"
+      ],
+      "illustrations": [
+        "ci-panel-homeostasis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-13-c1",
+      "noteId": "ci-13",
+      "type": "cloze",
+      "text": "Cellular injury can disturb homeostasis by disrupting control of the {{c1::intracellular environment}}.",
+      "question": "Cellular injury can disturb homeostasis by disrupting control of the {{c1::intracellular environment}}.",
+      "answer": "intracellular environment",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 10,
+      "images": [
+        "ci-slide-10"
+      ],
+      "illustrations": [
+        "ci-panel-homeostasis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-14-c1",
+      "noteId": "ci-14",
+      "type": "cloze",
+      "text": "Cells are organised into {{c1::tissues}}, which combine to form {{c2::organs}}.",
+      "question": "Cells are organised into {{c1::tissues}}, which combine to form {{c2::organs}}.",
+      "answer": "tissues",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 11,
+      "images": [
+        "ci-slide-11"
+      ],
+      "illustrations": [
+        "ci-panel-organisation"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-14-c2",
+      "noteId": "ci-14",
+      "type": "cloze",
+      "text": "Cells are organised into {{c1::tissues}}, which combine to form {{c2::organs}}.",
+      "question": "Cells are organised into {{c1::tissues}}, which combine to form {{c2::organs}}.",
+      "answer": "organs",
+      "clozeNumber": 2,
+      "topic": "Cell structure & homeostasis",
+      "slide": 11,
+      "images": [
+        "ci-slide-11"
+      ],
+      "illustrations": [
+        "ci-panel-organisation"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-15-c1",
+      "noteId": "ci-15",
+      "type": "cloze",
+      "text": "The body contains cells, extracellular matrix and {{c1::extracellular fluid}}.",
+      "question": "The body contains cells, extracellular matrix and {{c1::extracellular fluid}}.",
+      "answer": "extracellular fluid",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 11,
+      "images": [
+        "ci-slide-11"
+      ],
+      "illustrations": [
+        "ci-panel-organisation"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-16-c1",
+      "noteId": "ci-16",
+      "type": "cloze",
+      "text": "Collagen and basal lamina are components of the {{c1::extracellular matrix}}.",
+      "question": "Collagen and basal lamina are components of the {{c1::extracellular matrix}}.",
+      "answer": "extracellular matrix",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 11,
+      "images": [
+        "ci-slide-11"
+      ],
+      "illustrations": [
+        "ci-panel-organisation"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-17-c1",
+      "noteId": "ci-17",
+      "type": "cloze",
+      "text": "Blood plasma, lymph and cerebrospinal fluid are examples of {{c1::extracellular fluid}}.",
+      "question": "Blood plasma, lymph and cerebrospinal fluid are examples of {{c1::extracellular fluid}}.",
+      "answer": "extracellular fluid",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 11,
+      "images": [
+        "ci-slide-11"
+      ],
+      "illustrations": [
+        "ci-panel-organisation"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-18-c1",
+      "noteId": "ci-18",
+      "type": "cloze",
+      "text": "A departure from the normal state of health is broadly termed {{c1::disease}}.",
+      "question": "A departure from the normal state of health is broadly termed {{c1::disease}}.",
+      "answer": "disease",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 13,
+      "images": [
+        "ci-slide-13"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-19-c1",
+      "noteId": "ci-19",
+      "type": "cloze",
+      "text": "Disease can disturb the normal {{c1::function}} of a tissue or organ, not only its visible appearance.",
+      "question": "Disease can disturb the normal {{c1::function}} of a tissue or organ, not only its visible appearance.",
+      "answer": "function",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 14,
+      "images": [
+        "ci-slide-14"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-20-c1",
+      "noteId": "ci-20",
+      "type": "cloze",
+      "text": "Pain reported by a patient is a {{c1::symptom}}; an abnormal heart sound detected by a clinician is a {{c2::sign}}.",
+      "question": "Pain reported by a patient is a {{c1::symptom}}; an abnormal heart sound detected by a clinician is a {{c2::sign}}.",
+      "answer": "symptom",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-20-c2",
+      "noteId": "ci-20",
+      "type": "cloze",
+      "text": "Pain reported by a patient is a {{c1::symptom}}; an abnormal heart sound detected by a clinician is a {{c2::sign}}.",
+      "question": "Pain reported by a patient is a {{c1::symptom}}; an abnormal heart sound detected by a clinician is a {{c2::sign}}.",
+      "answer": "sign",
+      "clozeNumber": 2,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-21-c1",
+      "noteId": "ci-21",
+      "type": "cloze",
+      "text": "Identifying the nature of a disease is {{c1::diagnosis}}; predicting its future course is {{c2::prognosis}}.",
+      "question": "Identifying the nature of a disease is {{c1::diagnosis}}; predicting its future course is {{c2::prognosis}}.",
+      "answer": "diagnosis",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-21-c2",
+      "noteId": "ci-21",
+      "type": "cloze",
+      "text": "Identifying the nature of a disease is {{c1::diagnosis}}; predicting its future course is {{c2::prognosis}}.",
+      "question": "Identifying the nature of a disease is {{c1::diagnosis}}; predicting its future course is {{c2::prognosis}}.",
+      "answer": "prognosis",
+      "clozeNumber": 2,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-22-c1",
+      "noteId": "ci-22",
+      "type": "cloze",
+      "text": "A patient describes nausea, while the clinician measures a fever: nausea is a symptom and the measured fever is a {{c1::sign}}.",
+      "question": "A patient describes nausea, while the clinician measures a fever: nausea is a symptom and the measured fever is a {{c1::sign}}.",
+      "answer": "sign",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-23-c1",
+      "noteId": "ci-23",
+      "type": "cloze",
+      "text": "“What disease is present?” asks about diagnosis. “How is it likely to progress?” asks about {{c1::prognosis}}.",
+      "question": "“What disease is present?” asks about diagnosis. “How is it likely to progress?” asks about {{c1::prognosis}}.",
+      "answer": "prognosis",
+      "clozeNumber": 1,
+      "topic": "Disease terminology",
+      "slide": 15,
+      "images": [
+        "ci-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-24-c1",
+      "noteId": "ci-24",
+      "type": "cloze",
+      "text": "The lecture groups causes of injury as acquired, genetic and {{c1::congenital}}.",
+      "question": "The lecture groups causes of injury as acquired, genetic and {{c1::congenital}}.",
+      "answer": "congenital",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 19,
+      "images": [
+        "ci-slide-19"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-25-c1",
+      "noteId": "ci-25",
+      "type": "cloze",
+      "text": "An acquired condition develops {{c1::after birth}}; a congenital condition is present at birth.",
+      "question": "An acquired condition develops {{c1::after birth}}; a congenital condition is present at birth.",
+      "answer": "after birth",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 19,
+      "images": [
+        "ci-slide-19"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-26-c1",
+      "noteId": "ci-26",
+      "type": "cloze",
+      "text": "Genetic and environmental contributions can interact: disease causation is often {{c1::multifactorial}}.",
+      "question": "Genetic and environmental contributions can interact: disease causation is often {{c1::multifactorial}}.",
+      "answer": "multifactorial",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 19,
+      "images": [
+        "ci-slide-19"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-27-c1",
+      "noteId": "ci-27",
+      "type": "cloze",
+      "text": "Does congenital necessarily mean inherited? {{c1::No—a condition present at birth may have a genetic or an acquired prenatal cause}}.",
+      "question": "Does congenital necessarily mean inherited? {{c1::No—a condition present at birth may have a genetic or an acquired prenatal cause}}.",
+      "answer": "No—a condition present at birth may have a genetic or an acquired prenatal cause",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 19,
+      "images": [
+        "ci-slide-19"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-28-c1",
+      "noteId": "ci-28",
+      "type": "cloze",
+      "text": "Oxygen deficiency is {{c1::hypoxia}}; deficient blood flow is {{c2::ischaemia}}.",
+      "question": "Oxygen deficiency is {{c1::hypoxia}}; deficient blood flow is {{c2::ischaemia}}.",
+      "answer": "hypoxia",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 20,
+      "images": [
+        "ci-slide-20"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-28-c2",
+      "noteId": "ci-28",
+      "type": "cloze",
+      "text": "Oxygen deficiency is {{c1::hypoxia}}; deficient blood flow is {{c2::ischaemia}}.",
+      "question": "Oxygen deficiency is {{c1::hypoxia}}; deficient blood flow is {{c2::ischaemia}}.",
+      "answer": "ischaemia",
+      "clozeNumber": 2,
+      "topic": "Causes of injury",
+      "slide": 20,
+      "images": [
+        "ci-slide-20"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-29-c1",
+      "noteId": "ci-29",
+      "type": "cloze",
+      "text": "Physical, chemical, infectious, nutritional and immunological factors are major {{c1::acquired causes of cell injury}}.",
+      "question": "Physical, chemical, infectious, nutritional and immunological factors are major {{c1::acquired causes of cell injury}}.",
+      "answer": "acquired causes of cell injury",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 20,
+      "images": [
+        "ci-slide-20"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-30-c1",
+      "noteId": "ci-30",
+      "type": "cloze",
+      "text": "Ischaemia is a reduction or loss of {{c1::blood flow through a tissue}}.",
+      "question": "Ischaemia is a reduction or loss of {{c1::blood flow through a tissue}}.",
+      "answer": "blood flow through a tissue",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 21,
+      "images": [
+        "ci-slide-21"
+      ],
+      "illustrations": [
+        "ci-panel-brain-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-31-c1",
+      "noteId": "ci-31",
+      "type": "cloze",
+      "text": "Reduced blood flow can deprive cells of {{c1::oxygen}} and nutrients, while also impairing removal of wastes.",
+      "question": "Reduced blood flow can deprive cells of {{c1::oxygen}} and nutrients, while also impairing removal of wastes.",
+      "answer": "oxygen",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 21,
+      "images": [
+        "ci-slide-21"
+      ],
+      "illustrations": [
+        "ci-panel-brain-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-32-c1",
+      "noteId": "ci-32",
+      "type": "cloze",
+      "text": "Complete absence of oxygen is termed {{c1::anoxia}}.",
+      "question": "Complete absence of oxygen is termed {{c1::anoxia}}.",
+      "answer": "anoxia",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 21,
+      "images": [
+        "ci-slide-21"
+      ],
+      "illustrations": [
+        "ci-panel-brain-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-33-c1",
+      "noteId": "ci-33",
+      "type": "cloze",
+      "text": "Does hypoxia always require blocked blood flow? {{c1::No—oxygen delivery can fall despite continuing circulation}}.",
+      "question": "Does hypoxia always require blocked blood flow? {{c1::No—oxygen delivery can fall despite continuing circulation}}.",
+      "answer": "No—oxygen delivery can fall despite continuing circulation",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 21,
+      "images": [
+        "ci-slide-21"
+      ],
+      "illustrations": [
+        "ci-panel-brain-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-34-c1",
+      "noteId": "ci-34",
+      "type": "cloze",
+      "text": "Ischaemia impairs oxidative metabolism, which can reduce {{c1::ATP production}}.",
+      "question": "Ischaemia impairs oxidative metabolism, which can reduce {{c1::ATP production}}.",
+      "answer": "ATP production",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-slide-22"
+      ],
+      "illustrations": [
+        "ci-panel-heart-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-35-c1",
+      "noteId": "ci-35",
+      "type": "cloze",
+      "text": "Tissue death caused by ischaemia is called {{c1::infarction}}.",
+      "question": "Tissue death caused by ischaemia is called {{c1::infarction}}.",
+      "answer": "infarction",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-slide-22"
+      ],
+      "illustrations": [
+        "ci-panel-heart-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-36-c1",
+      "noteId": "ci-36",
+      "type": "cloze",
+      "text": "Prolonged ischaemia causing death of heart muscle produces a {{c1::myocardial infarction}}.",
+      "question": "Prolonged ischaemia causing death of heart muscle produces a {{c1::myocardial infarction}}.",
+      "answer": "myocardial infarction",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-slide-22"
+      ],
+      "illustrations": [
+        "ci-panel-heart-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-37-c1",
+      "noteId": "ci-37",
+      "type": "cloze",
+      "text": "A coronary artery is blocked long enough for the supplied muscle to die. This is {{c1::myocardial infarction}}, not merely transient ischaemia.",
+      "question": "A coronary artery is blocked long enough for the supplied muscle to die. This is {{c1::myocardial infarction}}, not merely transient ischaemia.",
+      "answer": "myocardial infarction",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-slide-22"
+      ],
+      "illustrations": [
+        "ci-panel-heart-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-38-c1",
+      "noteId": "ci-38",
+      "type": "cloze",
+      "text": "An arterial blockage depriving a region of the brain of blood causes {{c1::cerebral ischaemia}}.",
+      "question": "An arterial blockage depriving a region of the brain of blood causes {{c1::cerebral ischaemia}}.",
+      "answer": "cerebral ischaemia",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-slide-22"
+      ],
+      "illustrations": [
+        "ci-panel-brain-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-39-c1",
+      "noteId": "ci-39",
+      "type": "cloze",
+      "text": "Extremes of heat and cold, radiation, mechanical trauma and electrical current are {{c1::physical agents}} of injury.",
+      "question": "Extremes of heat and cold, radiation, mechanical trauma and electrical current are {{c1::physical agents}} of injury.",
+      "answer": "physical agents",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 23,
+      "images": [
+        "ci-slide-23"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-40-c1",
+      "noteId": "ci-40",
+      "type": "cloze",
+      "text": "Severe local heat exposure causes {{c1::burns}}.",
+      "question": "Severe local heat exposure causes {{c1::burns}}.",
+      "answer": "burns",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 23,
+      "images": [
+        "ci-slide-23"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-41-c1",
+      "noteId": "ci-41",
+      "type": "cloze",
+      "text": "Extreme cold can cause vasoconstriction and impaired {{c1::blood supply}}.",
+      "question": "Extreme cold can cause vasoconstriction and impaired {{c1::blood supply}}.",
+      "answer": "blood supply",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 23,
+      "images": [
+        "ci-slide-23"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-42-c1",
+      "noteId": "ci-42",
+      "type": "cloze",
+      "text": "Sunburn illustrates injury caused by {{c1::radiation}}.",
+      "question": "Sunburn illustrates injury caused by {{c1::radiation}}.",
+      "answer": "radiation",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 23,
+      "images": [
+        "ci-slide-23"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-43-c1",
+      "noteId": "ci-43",
+      "type": "cloze",
+      "text": "A wound or bone fracture caused by an impact is an example of {{c1::mechanical trauma}}.",
+      "question": "A wound or bone fracture caused by an impact is an example of {{c1::mechanical trauma}}.",
+      "answer": "mechanical trauma",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 23,
+      "images": [
+        "ci-slide-23"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-44-c1",
+      "noteId": "ci-44",
+      "type": "cloze",
+      "text": "Chemical injury can occur when an agent interferes directly with a critical {{c1::cellular molecule or pathway}}.",
+      "question": "Chemical injury can occur when an agent interferes directly with a critical {{c1::cellular molecule or pathway}}.",
+      "answer": "cellular molecule or pathway",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 25,
+      "images": [
+        "ci-slide-25"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-45-c1",
+      "noteId": "ci-45",
+      "type": "cloze",
+      "text": "Cyanide inhibits mitochondrial {{c1::cytochrome c oxidase (complex IV)}}, disrupting aerobic respiration.",
+      "question": "Cyanide inhibits mitochondrial {{c1::cytochrome c oxidase (complex IV)}}, disrupting aerobic respiration.",
+      "answer": "cytochrome c oxidase (complex IV)",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 25,
+      "images": [
+        "ci-slide-25"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-46-c1",
+      "noteId": "ci-46",
+      "type": "cloze",
+      "text": "Cyanide impairs the cell’s ability to use oxygen, even when oxygen is delivered: this is failure of {{c1::cellular oxygen utilisation}}.",
+      "question": "Cyanide impairs the cell’s ability to use oxygen, even when oxygen is delivered: this is failure of {{c1::cellular oxygen utilisation}}.",
+      "answer": "cellular oxygen utilisation",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 25,
+      "images": [
+        "ci-slide-25"
+      ],
+      "illustrations": [
+        "ci-panel-cell"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-47-c1",
+      "noteId": "ci-47",
+      "type": "cloze",
+      "text": "Chemical injury can result from acute toxicity or from {{c1::chronic exposure}} over time.",
+      "question": "Chemical injury can result from acute toxicity or from {{c1::chronic exposure}} over time.",
+      "answer": "chronic exposure",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 26,
+      "images": [
+        "ci-slide-26"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-48-c1",
+      "noteId": "ci-48",
+      "type": "cloze",
+      "text": "Long-term alcohol exposure can contribute to {{c1::cirrhosis}} of the liver.",
+      "question": "Long-term alcohol exposure can contribute to {{c1::cirrhosis}} of the liver.",
+      "answer": "cirrhosis",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-slide-27"
+      ],
+      "illustrations": [
+        "ci-panel-cirrhosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-49-c1",
+      "noteId": "ci-49",
+      "type": "cloze",
+      "text": "Cirrhosis combines {{c1::fibrous scarring}} with {{c2::regenerative nodules}} of hepatocytes.",
+      "question": "Cirrhosis combines {{c1::fibrous scarring}} with {{c2::regenerative nodules}} of hepatocytes.",
+      "answer": "fibrous scarring",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-slide-27"
+      ],
+      "illustrations": [
+        "ci-panel-cirrhosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-49-c2",
+      "noteId": "ci-49",
+      "type": "cloze",
+      "text": "Cirrhosis combines {{c1::fibrous scarring}} with {{c2::regenerative nodules}} of hepatocytes.",
+      "question": "Cirrhosis combines {{c1::fibrous scarring}} with {{c2::regenerative nodules}} of hepatocytes.",
+      "answer": "regenerative nodules",
+      "clozeNumber": 2,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-slide-27"
+      ],
+      "illustrations": [
+        "ci-panel-cirrhosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-50-c1",
+      "noteId": "ci-50",
+      "type": "cloze",
+      "text": "The nodules in cirrhosis do not imply normal recovery: fibrosis disrupts the liver’s {{c1::normal tissue architecture}}.",
+      "question": "The nodules in cirrhosis do not imply normal recovery: fibrosis disrupts the liver’s {{c1::normal tissue architecture}}.",
+      "answer": "normal tissue architecture",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-slide-27"
+      ],
+      "illustrations": [
+        "ci-panel-cirrhosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-51-c1",
+      "noteId": "ci-51",
+      "type": "cloze",
+      "text": "Infection can damage tissue directly or through the host’s {{c1::immune response}}.",
+      "question": "Infection can damage tissue directly or through the host’s {{c1::immune response}}.",
+      "answer": "immune response",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 28,
+      "images": [
+        "ci-slide-28"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-52-c1",
+      "noteId": "ci-52",
+      "type": "cloze",
+      "text": "Viruses, bacteria, protozoa and fungi capable of causing disease are called {{c1::pathogens}}.",
+      "question": "Viruses, bacteria, protozoa and fungi capable of causing disease are called {{c1::pathogens}}.",
+      "answer": "pathogens",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 29,
+      "images": [
+        "ci-slide-29"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-53-c1",
+      "noteId": "ci-53",
+      "type": "cloze",
+      "text": "Papillomavirus is an example of a {{c1::viral}} infectious agent.",
+      "question": "Papillomavirus is an example of a {{c1::viral}} infectious agent.",
+      "answer": "viral",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 29,
+      "images": [
+        "ci-slide-29"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-54-c1",
+      "noteId": "ci-54",
+      "type": "cloze",
+      "text": "Malnutrition includes both undernutrition and {{c1::overnutrition}}.",
+      "question": "Malnutrition includes both undernutrition and {{c1::overnutrition}}.",
+      "answer": "overnutrition",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 31,
+      "images": [
+        "ci-slide-31"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-55-c1",
+      "noteId": "ci-55",
+      "type": "cloze",
+      "text": "Obesity is associated with increased risk of {{c1::cardiovascular disease}}.",
+      "question": "Obesity is associated with increased risk of {{c1::cardiovascular disease}}.",
+      "answer": "cardiovascular disease",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 31,
+      "images": [
+        "ci-slide-31"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-56-c1",
+      "noteId": "ci-56",
+      "type": "cloze",
+      "text": "Dietary iron deficiency can cause {{c1::anaemia}}.",
+      "question": "Dietary iron deficiency can cause {{c1::anaemia}}.",
+      "answer": "anaemia",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 32,
+      "images": [
+        "ci-slide-32"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-57-c1",
+      "noteId": "ci-57",
+      "type": "cloze",
+      "text": "Vitamin D deficiency impairs normal {{c1::bone mineralisation}}.",
+      "question": "Vitamin D deficiency impairs normal {{c1::bone mineralisation}}.",
+      "answer": "bone mineralisation",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 32,
+      "images": [
+        "ci-slide-32"
+      ],
+      "illustrations": [
+        "ci-panel-vitamin-d"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-58-c1",
+      "noteId": "ci-58",
+      "type": "cloze",
+      "text": "Vitamin D deficiency in growing children can cause {{c1::rickets}}, with skeletal deformity.",
+      "question": "Vitamin D deficiency in growing children can cause {{c1::rickets}}, with skeletal deformity.",
+      "answer": "rickets",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 32,
+      "images": [
+        "ci-slide-32"
+      ],
+      "illustrations": [
+        "ci-panel-vitamin-d"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-59-c1",
+      "noteId": "ci-59",
+      "type": "cloze",
+      "text": "The immune system can itself injure tissue through autoimmunity or {{c1::hypersensitivity reactions}}.",
+      "question": "The immune system can itself injure tissue through autoimmunity or {{c1::hypersensitivity reactions}}.",
+      "answer": "hypersensitivity reactions",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 34,
+      "images": [
+        "ci-slide-34"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-60-c1",
+      "noteId": "ci-60",
+      "type": "cloze",
+      "text": "An immune response directed against the body’s own tissue is {{c1::autoimmunity}}.",
+      "question": "An immune response directed against the body’s own tissue is {{c1::autoimmunity}}.",
+      "answer": "autoimmunity",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 34,
+      "images": [
+        "ci-slide-34"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-61-c1",
+      "noteId": "ci-61",
+      "type": "cloze",
+      "text": "An excessive or inappropriate immune response that damages tissue is a {{c1::hypersensitivity reaction}}.",
+      "question": "An excessive or inappropriate immune response that damages tissue is a {{c1::hypersensitivity reaction}}.",
+      "answer": "hypersensitivity reaction",
+      "clozeNumber": 1,
+      "topic": "Infectious & immune injury",
+      "slide": 34,
+      "images": [
+        "ci-slide-34"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-62-c1",
+      "noteId": "ci-62",
+      "type": "cloze",
+      "text": "Sickle-cell disease is a {{c1::genetic}} cause of injury involving abnormal haemoglobin.",
+      "question": "Sickle-cell disease is a {{c1::genetic}} cause of injury involving abnormal haemoglobin.",
+      "answer": "genetic",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 35,
+      "images": [
+        "ci-slide-35"
+      ],
+      "illustrations": [
+        "ci-panel-sickle-cells"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-63-c1",
+      "noteId": "ci-63",
+      "type": "cloze",
+      "text": "Sickled red cells are abnormally rigid and less {{c1::flexible}}, making passage through small vessels more difficult.",
+      "question": "Sickled red cells are abnormally rigid and less {{c1::flexible}}, making passage through small vessels more difficult.",
+      "answer": "flexible",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 35,
+      "images": [
+        "ci-slide-35"
+      ],
+      "illustrations": [
+        "ci-panel-sickle-cells"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-64-c1",
+      "noteId": "ci-64",
+      "type": "cloze",
+      "text": "Rigid sickled red cells can obstruct small vessels, producing tissue {{c1::ischaemia}}.",
+      "question": "Rigid sickled red cells can obstruct small vessels, producing tissue {{c1::ischaemia}}.",
+      "answer": "ischaemia",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 35,
+      "images": [
+        "ci-slide-35"
+      ],
+      "illustrations": [
+        "ci-panel-sickle-cells"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-65-c1",
+      "noteId": "ci-65",
+      "type": "cloze",
+      "text": "Familial hyperlipidaemia involves inherited disturbances resulting in excess cholesterol and/or {{c1::triglycerides}} in blood.",
+      "question": "Familial hyperlipidaemia involves inherited disturbances resulting in excess cholesterol and/or {{c1::triglycerides}} in blood.",
+      "answer": "triglycerides",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 36,
+      "images": [
+        "ci-slide-36"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-66-c1",
+      "noteId": "ci-66",
+      "type": "cloze",
+      "text": "High blood lipid levels can increase risk of {{c1::cardiovascular disease and stroke}}.",
+      "question": "High blood lipid levels can increase risk of {{c1::cardiovascular disease and stroke}}.",
+      "answer": "cardiovascular disease and stroke",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 36,
+      "images": [
+        "ci-slide-36"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-67-c1",
+      "noteId": "ci-67",
+      "type": "cloze",
+      "text": "Congenital means {{c1::present at birth}}, even if the condition is recognised later.",
+      "question": "Congenital means {{c1::present at birth}}, even if the condition is recognised later.",
+      "answer": "present at birth",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 37,
+      "images": [
+        "ci-slide-37"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-68-c1",
+      "noteId": "ci-68",
+      "type": "cloze",
+      "text": "A congenital disorder can be genetic or result from an {{c1::environmental exposure during fetal development}}.",
+      "question": "A congenital disorder can be genetic or result from an {{c1::environmental exposure during fetal development}}.",
+      "answer": "environmental exposure during fetal development",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 37,
+      "images": [
+        "ci-slide-37"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-69-c1",
+      "noteId": "ci-69",
+      "type": "cloze",
+      "text": "A prenatal viral infection that impairs cerebellar development is an acquired prenatal cause of a {{c1::congenital disorder}}.",
+      "question": "A prenatal viral infection that impairs cerebellar development is an acquired prenatal cause of a {{c1::congenital disorder}}.",
+      "answer": "congenital disorder",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 37,
+      "images": [
+        "ci-slide-37"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-70-c1",
+      "noteId": "ci-70",
+      "type": "cloze",
+      "text": "“Genetic” describes a cause; “congenital” describes {{c1::when the condition is present}}.",
+      "question": "“Genetic” describes a cause; “congenital” describes {{c1::when the condition is present}}.",
+      "answer": "when the condition is present",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 37,
+      "images": [
+        "ci-slide-37"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-71-c1",
+      "noteId": "ci-71",
+      "type": "cloze",
+      "text": "An arterial blockage, a chemical poison and autoimmune tissue damage are different causes that can converge on {{c1::cellular injury}}.",
+      "question": "An arterial blockage, a chemical poison and autoimmune tissue damage are different causes that can converge on {{c1::cellular injury}}.",
+      "answer": "cellular injury",
+      "clozeNumber": 1,
+      "topic": "Causes of injury",
+      "slide": 39,
+      "images": [
+        "ci-slide-39"
+      ],
+      "illustrations": [
+        "ci-panel-heart-ischaemia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-72-c1",
+      "noteId": "ci-72",
+      "type": "cloze",
+      "text": "Continuously renewing populations, such as epidermal basal cells, are traditionally called {{c1::labile cells}}.",
+      "question": "Continuously renewing populations, such as epidermal basal cells, are traditionally called {{c1::labile cells}}.",
+      "answer": "labile cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 43,
+      "images": [
+        "ci-slide-43"
+      ],
+      "illustrations": [
+        "ci-panel-skin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-73-c1",
+      "noteId": "ci-73",
+      "type": "cloze",
+      "text": "Surface squamous cells are replaced by dividing cells in the {{c1::basal/progenitor compartment}}.",
+      "question": "Surface squamous cells are replaced by dividing cells in the {{c1::basal/progenitor compartment}}.",
+      "answer": "basal/progenitor compartment",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 43,
+      "images": [
+        "ci-slide-43"
+      ],
+      "illustrations": [
+        "ci-panel-skin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-74-c1",
+      "noteId": "ci-74",
+      "type": "cloze",
+      "text": "Why can epidermis replace lost cells? Its renewing population retains the ability to {{c1::divide and replenish the tissue}}.",
+      "question": "Why can epidermis replace lost cells? Its renewing population retains the ability to {{c1::divide and replenish the tissue}}.",
+      "answer": "divide and replenish the tissue",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 43,
+      "images": [
+        "ci-slide-43"
+      ],
+      "illustrations": [
+        "ci-panel-skin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-75-c1",
+      "noteId": "ci-75",
+      "type": "cloze",
+      "text": "Cells that are usually quiescent but can divide when required are traditionally called {{c1::stable cells}}.",
+      "question": "Cells that are usually quiescent but can divide when required are traditionally called {{c1::stable cells}}.",
+      "answer": "stable cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 44,
+      "images": [
+        "ci-slide-44"
+      ],
+      "illustrations": [
+        "ci-panel-hepatocytes"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-76-c1",
+      "noteId": "ci-76",
+      "type": "cloze",
+      "text": "Hepatocytes are an example of {{c1::stable cells}} that can respond to increased demand by division.",
+      "question": "Hepatocytes are an example of {{c1::stable cells}} that can respond to increased demand by division.",
+      "answer": "stable cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 44,
+      "images": [
+        "ci-slide-44"
+      ],
+      "illustrations": [
+        "ci-panel-hepatocytes"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-77-c1",
+      "noteId": "ci-77",
+      "type": "cloze",
+      "text": "A stable-cell population differs from a labile one because it {{c1::does not normally divide continuously}}.",
+      "question": "A stable-cell population differs from a labile one because it {{c1::does not normally divide continuously}}.",
+      "answer": "does not normally divide continuously",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 44,
+      "images": [
+        "ci-slide-44"
+      ],
+      "illustrations": [
+        "ci-panel-hepatocytes"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-78-c1",
+      "noteId": "ci-78",
+      "type": "cloze",
+      "text": "Mature neurons and cardiac muscle cells are classically categorised as {{c1::permanent cells}}, with very limited regenerative capacity.",
+      "question": "Mature neurons and cardiac muscle cells are classically categorised as {{c1::permanent cells}}, with very limited regenerative capacity.",
+      "answer": "permanent cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-slide-45"
+      ],
+      "illustrations": [
+        "ci-panel-neuron"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-79-c1",
+      "noteId": "ci-79",
+      "type": "cloze",
+      "text": "Damage to tissue made mostly of permanent cells is harder to repair by {{c1::proliferation of the surviving specialised cells}}.",
+      "question": "Damage to tissue made mostly of permanent cells is harder to repair by {{c1::proliferation of the surviving specialised cells}}.",
+      "answer": "proliferation of the surviving specialised cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-slide-45"
+      ],
+      "illustrations": [
+        "ci-panel-neuron"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-80-c1",
+      "noteId": "ci-80",
+      "type": "cloze",
+      "text": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "question": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "answer": "labile",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-slide-45"
+      ],
+      "illustrations": [
+        "ci-panel-neuron"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-80-c2",
+      "noteId": "ci-80",
+      "type": "cloze",
+      "text": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "question": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "answer": "stable",
+      "clozeNumber": 2,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-slide-45"
+      ],
+      "illustrations": [
+        "ci-panel-neuron"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-80-c3",
+      "noteId": "ci-80",
+      "type": "cloze",
+      "text": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "question": "Epidermal renewing cells, hepatocytes and mature neurons illustrate {{c1::labile}}, {{c2::stable}} and {{c3::permanent}} cell categories respectively.",
+      "answer": "permanent",
+      "clozeNumber": 3,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-slide-45"
+      ],
+      "illustrations": [
+        "ci-panel-neuron"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-81-c1",
+      "noteId": "ci-81",
+      "type": "cloze",
+      "text": "Cellular adaptation establishes a {{c1::new steady state}} in response to altered demands or stress.",
+      "question": "Cellular adaptation establishes a {{c1::new steady state}} in response to altered demands or stress.",
+      "answer": "new steady state",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 46,
+      "images": [
+        "ci-slide-46"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-82-c1",
+      "noteId": "ci-82",
+      "type": "cloze",
+      "text": "If injury exceeds the cell’s adaptive and recovery capacity, it can become {{c1::irreversible}}.",
+      "question": "If injury exceeds the cell’s adaptive and recovery capacity, it can become {{c1::irreversible}}.",
+      "answer": "irreversible",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 46,
+      "images": [
+        "ci-slide-46"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-83-c1",
+      "noteId": "ci-83",
+      "type": "cloze",
+      "text": "Irreversible injury leads to {{c1::cell death}}.",
+      "question": "Irreversible injury leads to {{c1::cell death}}.",
+      "answer": "cell death",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 46,
+      "images": [
+        "ci-slide-46"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-84-c1",
+      "noteId": "ci-84",
+      "type": "cloze",
+      "text": "Reversible injury means the cell can {{c1::recover if the damaging stimulus is removed}}.",
+      "question": "Reversible injury means the cell can {{c1::recover if the damaging stimulus is removed}}.",
+      "answer": "recover if the damaging stimulus is removed",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 46,
+      "images": [
+        "ci-slide-46"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-85-c1",
+      "noteId": "ci-85",
+      "type": "cloze",
+      "text": "An adaptive response helps a cell survive stress; it does not guarantee that the cell can withstand {{c1::unlimited or persistent injury}}.",
+      "question": "An adaptive response helps a cell survive stress; it does not guarantee that the cell can withstand {{c1::unlimited or persistent injury}}.",
+      "answer": "unlimited or persistent injury",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 46,
+      "images": [
+        "ci-slide-46"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-86-c1",
+      "noteId": "ci-86",
+      "type": "cloze",
+      "text": "Hypertrophy increases cell {{c1::size}}; hyperplasia increases cell {{c2::number}}.",
+      "question": "Hypertrophy increases cell {{c1::size}}; hyperplasia increases cell {{c2::number}}.",
+      "answer": "size",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 47,
+      "images": [
+        "ci-slide-47"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-86-c2",
+      "noteId": "ci-86",
+      "type": "cloze",
+      "text": "Hypertrophy increases cell {{c1::size}}; hyperplasia increases cell {{c2::number}}.",
+      "question": "Hypertrophy increases cell {{c1::size}}; hyperplasia increases cell {{c2::number}}.",
+      "answer": "number",
+      "clozeNumber": 2,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 47,
+      "images": [
+        "ci-slide-47"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-87-c1",
+      "noteId": "ci-87",
+      "type": "cloze",
+      "text": "Atrophy reduces cell size or tissue mass; metaplasia replaces one differentiated cell type with {{c1::another differentiated cell type}}.",
+      "question": "Atrophy reduces cell size or tissue mass; metaplasia replaces one differentiated cell type with {{c1::another differentiated cell type}}.",
+      "answer": "another differentiated cell type",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 47,
+      "images": [
+        "ci-slide-47"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-88-c1",
+      "noteId": "ci-88",
+      "type": "cloze",
+      "text": "A cell’s response depends on the type, duration and {{c1::severity}} of the injurious stimulus.",
+      "question": "A cell’s response depends on the type, duration and {{c1::severity}} of the injurious stimulus.",
+      "answer": "severity",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 48,
+      "images": [
+        "ci-slide-48"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-89-c1",
+      "noteId": "ci-89",
+      "type": "cloze",
+      "text": "The same stimulus can affect cell types differently because their state and {{c1::adaptive capacity}} differ.",
+      "question": "The same stimulus can affect cell types differently because their state and {{c1::adaptive capacity}} differ.",
+      "answer": "adaptive capacity",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 48,
+      "images": [
+        "ci-slide-48"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-90-c1",
+      "noteId": "ci-90",
+      "type": "cloze",
+      "text": "Functional or biochemical injury can precede visible {{c1::morphological changes}}.",
+      "question": "Functional or biochemical injury can precede visible {{c1::morphological changes}}.",
+      "answer": "morphological changes",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 48,
+      "images": [
+        "ci-slide-48"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-91-c1",
+      "noteId": "ci-91",
+      "type": "cloze",
+      "text": "Does a normal-looking cell exclude early injury? {{c1::No—visible structural changes may appear later}}.",
+      "question": "Does a normal-looking cell exclude early injury? {{c1::No—visible structural changes may appear later}}.",
+      "answer": "No—visible structural changes may appear later",
+      "clozeNumber": 1,
+      "topic": "Adaptation & irreversible injury",
+      "slide": 48,
+      "images": [
+        "ci-slide-48"
+      ],
+      "illustrations": [],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-92-c1",
+      "noteId": "ci-92",
+      "type": "cloze",
+      "text": "Hypertrophy is enlargement through an increase in {{c1::individual cell size}}.",
+      "question": "Hypertrophy is enlargement through an increase in {{c1::individual cell size}}.",
+      "answer": "individual cell size",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-93-c1",
+      "noteId": "ci-93",
+      "type": "cloze",
+      "text": "Cells with little capacity to divide can meet increased workload by {{c1::hypertrophy}}.",
+      "question": "Cells with little capacity to divide can meet increased workload by {{c1::hypertrophy}}.",
+      "answer": "hypertrophy",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-94-c1",
+      "noteId": "ci-94",
+      "type": "cloze",
+      "text": "Skeletal and cardiac muscle respond to increased functional demand mainly by increasing cell {{c1::size}}.",
+      "question": "Skeletal and cardiac muscle respond to increased functional demand mainly by increasing cell {{c1::size}}.",
+      "answer": "size",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-95-c1",
+      "noteId": "ci-95",
+      "type": "cloze",
+      "text": "Hypertrophy can be driven by increased workload or by {{c1::hormonal stimulation}}.",
+      "question": "Hypertrophy can be driven by increased workload or by {{c1::hormonal stimulation}}.",
+      "answer": "hormonal stimulation",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-96-c1",
+      "noteId": "ci-96",
+      "type": "cloze",
+      "text": "A hypertrophied cell can change its phenotype as well as its {{c1::size}}.",
+      "question": "A hypertrophied cell can change its phenotype as well as its {{c1::size}}.",
+      "answer": "size",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-97-c1",
+      "noteId": "ci-97",
+      "type": "cloze",
+      "text": "Excessive sustained demand can exceed the benefit of hypertrophy and contribute to {{c1::organ failure}}.",
+      "question": "Excessive sustained demand can exceed the benefit of hypertrophy and contribute to {{c1::organ failure}}.",
+      "answer": "organ failure",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-98-c1",
+      "noteId": "ci-98",
+      "type": "cloze",
+      "text": "Hypertrophic changes may regress when the {{c1::driving stimulus is removed}}.",
+      "question": "Hypertrophic changes may regress when the {{c1::driving stimulus is removed}}.",
+      "answer": "driving stimulus is removed",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 49,
+      "images": [
+        "ci-slide-49"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-99-c1",
+      "noteId": "ci-99",
+      "type": "cloze",
+      "text": "Resistance training increasing skeletal muscle fibre size is a physiological example of {{c1::hypertrophy}}.",
+      "question": "Resistance training increasing skeletal muscle fibre size is a physiological example of {{c1::hypertrophy}}.",
+      "answer": "hypertrophy",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 50,
+      "images": [
+        "ci-slide-50"
+      ],
+      "illustrations": [
+        "ci-panel-hypertrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-100-c1",
+      "noteId": "ci-100",
+      "type": "cloze",
+      "text": "In the lecture’s feline-heart example, excess thyroid hormone increases cardiac demand and promotes {{c1::hypertrophy}}.",
+      "question": "In the lecture’s feline-heart example, excess thyroid hormone increases cardiac demand and promotes {{c1::hypertrophy}}.",
+      "answer": "hypertrophy",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 51,
+      "images": [
+        "ci-slide-51"
+      ],
+      "illustrations": [
+        "ci-panel-hearts"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-101-c1",
+      "noteId": "ci-101",
+      "type": "cloze",
+      "text": "An enlarged heart does not automatically work better: sustained pathological hypertrophy may lead to {{c1::functional failure}}.",
+      "question": "An enlarged heart does not automatically work better: sustained pathological hypertrophy may lead to {{c1::functional failure}}.",
+      "answer": "functional failure",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 51,
+      "images": [
+        "ci-slide-51"
+      ],
+      "illustrations": [
+        "ci-panel-hearts"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-102-c1",
+      "noteId": "ci-102",
+      "type": "cloze",
+      "text": "Hyperplasia is an increase in {{c1::cell number}}.",
+      "question": "Hyperplasia is an increase in {{c1::cell number}}.",
+      "answer": "cell number",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-103-c1",
+      "noteId": "ci-103",
+      "type": "cloze",
+      "text": "Hyperplasia requires a population capable of {{c1::mitotic division}}.",
+      "question": "Hyperplasia requires a population capable of {{c1::mitotic division}}.",
+      "answer": "mitotic division",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-104-c1",
+      "noteId": "ci-104",
+      "type": "cloze",
+      "text": "Physiological hormonal hyperplasia occurs, for example, in breast tissue during {{c1::pregnancy}}.",
+      "question": "Physiological hormonal hyperplasia occurs, for example, in breast tissue during {{c1::pregnancy}}.",
+      "answer": "pregnancy",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-105-c1",
+      "noteId": "ci-105",
+      "type": "cloze",
+      "text": "Liver regrowth after partial hepatectomy is {{c1::compensatory hyperplasia}}.",
+      "question": "Liver regrowth after partial hepatectomy is {{c1::compensatory hyperplasia}}.",
+      "answer": "compensatory hyperplasia",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-106-c1",
+      "noteId": "ci-106",
+      "type": "cloze",
+      "text": "Excess hormonal stimulation can produce {{c1::pathological hyperplasia}}.",
+      "question": "Excess hormonal stimulation can produce {{c1::pathological hyperplasia}}.",
+      "answer": "pathological hyperplasia",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-107-c1",
+      "noteId": "ci-107",
+      "type": "cloze",
+      "text": "Hypertrophy and hyperplasia can {{c1::occur together}} in an enlarging organ; they are different mechanisms.",
+      "question": "Hypertrophy and hyperplasia can {{c1::occur together}} in an enlarging organ; they are different mechanisms.",
+      "answer": "occur together",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 52,
+      "images": [
+        "ci-slide-52"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-108-c1",
+      "noteId": "ci-108",
+      "type": "cloze",
+      "text": "Excess ACTH stimulates the adrenal cortex and can cause {{c1::hyperplasia}}.",
+      "question": "Excess ACTH stimulates the adrenal cortex and can cause {{c1::hyperplasia}}.",
+      "answer": "hyperplasia",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 53,
+      "images": [
+        "ci-slide-53"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-109-c1",
+      "noteId": "ci-109",
+      "type": "cloze",
+      "text": "ACTH stands for {{c1::adrenocorticotropic hormone}}.",
+      "question": "ACTH stands for {{c1::adrenocorticotropic hormone}}.",
+      "answer": "adrenocorticotropic hormone",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 53,
+      "images": [
+        "ci-slide-53"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-110-c1",
+      "noteId": "ci-110",
+      "type": "cloze",
+      "text": "Benign prostatic hyperplasia enlarges the prostate mainly by increasing {{c1::the number of cells}}.",
+      "question": "Benign prostatic hyperplasia enlarges the prostate mainly by increasing {{c1::the number of cells}}.",
+      "answer": "the number of cells",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 54,
+      "images": [
+        "ci-slide-54"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-111-c1",
+      "noteId": "ci-111",
+      "type": "cloze",
+      "text": "Psoriasis illustrates increased epidermal proliferation, an example of {{c1::hyperplasia}} in the lecture.",
+      "question": "Psoriasis illustrates increased epidermal proliferation, an example of {{c1::hyperplasia}} in the lecture.",
+      "answer": "hyperplasia",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 54,
+      "images": [
+        "ci-slide-54"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-112-c1",
+      "noteId": "ci-112",
+      "type": "cloze",
+      "text": "Does the word hyperplasia itself mean cancer? {{c1::No—it describes increased cell number, which may be physiological or pathological}}.",
+      "question": "Does the word hyperplasia itself mean cancer? {{c1::No—it describes increased cell number, which may be physiological or pathological}}.",
+      "answer": "No—it describes increased cell number, which may be physiological or pathological",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 54,
+      "images": [
+        "ci-slide-54"
+      ],
+      "illustrations": [
+        "ci-panel-hyperplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-113-c1",
+      "noteId": "ci-113",
+      "type": "cloze",
+      "text": "Atrophy involves shrinkage through loss of {{c1::cellular substance}}; tissue mass can also fall through loss of cells.",
+      "question": "Atrophy involves shrinkage through loss of {{c1::cellular substance}}; tissue mass can also fall through loss of cells.",
+      "answer": "cellular substance",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 55,
+      "images": [
+        "ci-slide-55"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-114-c1",
+      "noteId": "ci-114",
+      "type": "cloze",
+      "text": "Reduced workload can cause {{c1::disuse atrophy}}.",
+      "question": "Reduced workload can cause {{c1::disuse atrophy}}.",
+      "answer": "disuse atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 55,
+      "images": [
+        "ci-slide-55"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-115-c1",
+      "noteId": "ci-115",
+      "type": "cloze",
+      "text": "Loss of nerve supply to muscle can cause {{c1::denervation atrophy}}.",
+      "question": "Loss of nerve supply to muscle can cause {{c1::denervation atrophy}}.",
+      "answer": "denervation atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 55,
+      "images": [
+        "ci-slide-55"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-116-c1",
+      "noteId": "ci-116",
+      "type": "cloze",
+      "text": "Reduced blood supply or inadequate nutrition can cause {{c1::atrophy}}.",
+      "question": "Reduced blood supply or inadequate nutrition can cause {{c1::atrophy}}.",
+      "answer": "atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 55,
+      "images": [
+        "ci-slide-55"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-117-c1",
+      "noteId": "ci-117",
+      "type": "cloze",
+      "text": "The uterus shrinking after childbirth is an example of {{c1::physiological regression (atrophy/involution)}}.",
+      "question": "The uterus shrinking after childbirth is an example of {{c1::physiological regression (atrophy/involution)}}.",
+      "answer": "physiological regression (atrophy/involution)",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 55,
+      "images": [
+        "ci-slide-55"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-118-c1",
+      "noteId": "ci-118",
+      "type": "cloze",
+      "text": "Atrophy is a response of previously developed tissue; it differs from an organ that {{c1::failed to develop normally in the first place}}.",
+      "question": "Atrophy is a response of previously developed tissue; it differs from an organ that {{c1::failed to develop normally in the first place}}.",
+      "answer": "failed to develop normally in the first place",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 56,
+      "images": [
+        "ci-slide-56"
+      ],
+      "illustrations": [
+        "ci-panel-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-119-c1",
+      "noteId": "ci-119",
+      "type": "cloze",
+      "text": "Immobilisation of a limb reduces muscle workload and can produce {{c1::disuse atrophy}}.",
+      "question": "Immobilisation of a limb reduces muscle workload and can produce {{c1::disuse atrophy}}.",
+      "answer": "disuse atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 57,
+      "images": [
+        "ci-slide-57"
+      ],
+      "illustrations": [
+        "ci-panel-disuse"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-120-c1",
+      "noteId": "ci-120",
+      "type": "cloze",
+      "text": "Muscle wasting caused by reduced use and wasting caused by loss of nerve supply are {{c1::different mechanisms of atrophy}}.",
+      "question": "Muscle wasting caused by reduced use and wasting caused by loss of nerve supply are {{c1::different mechanisms of atrophy}}.",
+      "answer": "different mechanisms of atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 57,
+      "images": [
+        "ci-slide-57"
+      ],
+      "illustrations": [
+        "ci-panel-disuse"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-121-c1",
+      "noteId": "ci-121",
+      "type": "cloze",
+      "text": "Brain atrophy can be associated with ageing and reduced {{c1::blood supply}}.",
+      "question": "Brain atrophy can be associated with ageing and reduced {{c1::blood supply}}.",
+      "answer": "blood supply",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 58,
+      "images": [
+        "ci-slide-58"
+      ],
+      "illustrations": [
+        "ci-panel-brain-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-122-c1",
+      "noteId": "ci-122",
+      "type": "cloze",
+      "text": "In an atrophic brain, tissue shrinkage tends to widen the {{c1::sulci}} between the gyri.",
+      "question": "In an atrophic brain, tissue shrinkage tends to widen the {{c1::sulci}} between the gyri.",
+      "answer": "sulci",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 58,
+      "images": [
+        "ci-slide-58"
+      ],
+      "illustrations": [
+        "ci-panel-brain-atrophy"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-123-c1",
+      "noteId": "ci-123",
+      "type": "cloze",
+      "text": "Metaplasia is replacement of one differentiated adult cell type with {{c1::another differentiated cell type}}.",
+      "question": "Metaplasia is replacement of one differentiated adult cell type with {{c1::another differentiated cell type}}.",
+      "answer": "another differentiated cell type",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 59,
+      "images": [
+        "ci-slide-59"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-124-c1",
+      "noteId": "ci-124",
+      "type": "cloze",
+      "text": "Metaplasia may favour cells better able to tolerate a {{c1::persistent abnormal environment}}.",
+      "question": "Metaplasia may favour cells better able to tolerate a {{c1::persistent abnormal environment}}.",
+      "answer": "persistent abnormal environment",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 59,
+      "images": [
+        "ci-slide-59"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-125-c1",
+      "noteId": "ci-125",
+      "type": "cloze",
+      "text": "An adaptive metaplastic change can sacrifice the tissue’s original {{c1::specialised protective functions}}.",
+      "question": "An adaptive metaplastic change can sacrifice the tissue’s original {{c1::specialised protective functions}}.",
+      "answer": "specialised protective functions",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 59,
+      "images": [
+        "ci-slide-59"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-126-c1",
+      "noteId": "ci-126",
+      "type": "cloze",
+      "text": "Does metaplasia necessarily mean cancer is present? {{c1::No—it is a change in differentiated cell type, though some settings increase cancer risk}}.",
+      "question": "Does metaplasia necessarily mean cancer is present? {{c1::No—it is a change in differentiated cell type, though some settings increase cancer risk}}.",
+      "answer": "No—it is a change in differentiated cell type, though some settings increase cancer risk",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 59,
+      "images": [
+        "ci-slide-59"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-127-c1",
+      "noteId": "ci-127",
+      "type": "cloze",
+      "text": "Chronic cigarette smoke can replace bronchial ciliated columnar epithelium with {{c1::stratified squamous epithelium}}.",
+      "question": "Chronic cigarette smoke can replace bronchial ciliated columnar epithelium with {{c1::stratified squamous epithelium}}.",
+      "answer": "stratified squamous epithelium",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 60,
+      "images": [
+        "ci-slide-60"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-128-c1",
+      "noteId": "ci-128",
+      "type": "cloze",
+      "text": "Squamous metaplasia in a bronchus reduces normal {{c1::mucociliary clearance}}.",
+      "question": "Squamous metaplasia in a bronchus reduces normal {{c1::mucociliary clearance}}.",
+      "answer": "mucociliary clearance",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 60,
+      "images": [
+        "ci-slide-60"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-129-c1",
+      "noteId": "ci-129",
+      "type": "cloze",
+      "text": "In smoking-related bronchial metaplasia, the replacement cells are more resistant to irritation but less able to {{c1::clear mucus and trapped particles}}.",
+      "question": "In smoking-related bronchial metaplasia, the replacement cells are more resistant to irritation but less able to {{c1::clear mucus and trapped particles}}.",
+      "answer": "clear mucus and trapped particles",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 60,
+      "images": [
+        "ci-slide-60"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-130-c1",
+      "noteId": "ci-130",
+      "type": "cloze",
+      "text": "Replacement of columnar cells by squamous cells is metaplasia; disordered maturation and atypia are features of {{c1::dysplasia}}.",
+      "question": "Replacement of columnar cells by squamous cells is metaplasia; disordered maturation and atypia are features of {{c1::dysplasia}}.",
+      "answer": "dysplasia",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 61,
+      "images": [
+        "ci-slide-61"
+      ],
+      "illustrations": [
+        "ci-panel-metaplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-131-c1",
+      "noteId": "ci-131",
+      "type": "cloze",
+      "text": "CIN III is severe cervical epithelial {{c1::dysplasia}}, rather than simple metaplasia.",
+      "question": "CIN III is severe cervical epithelial {{c1::dysplasia}}, rather than simple metaplasia.",
+      "answer": "dysplasia",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 62,
+      "images": [
+        "ci-slide-62"
+      ],
+      "illustrations": [
+        "ci-panel-cin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "CIN III is severe dysplasia; the slide’s “Metaplasia” heading is misleading."
+    },
+    {
+      "id": "ci-132-c1",
+      "noteId": "ci-132",
+      "type": "cloze",
+      "text": "CIN stands for {{c1::cervical intraepithelial neoplasia}}.",
+      "question": "CIN stands for {{c1::cervical intraepithelial neoplasia}}.",
+      "answer": "cervical intraepithelial neoplasia",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 62,
+      "images": [
+        "ci-slide-62"
+      ],
+      "illustrations": [
+        "ci-panel-cin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-133-c1",
+      "noteId": "ci-133",
+      "type": "cloze",
+      "text": "In the lecture’s CIN III comparison, immature/dividing cells extend through {{c1::the full epithelial thickness}}.",
+      "question": "In the lecture’s CIN III comparison, immature/dividing cells extend through {{c1::the full epithelial thickness}}.",
+      "answer": "the full epithelial thickness",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 62,
+      "images": [
+        "ci-slide-62"
+      ],
+      "illustrations": [
+        "ci-panel-cin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-134-c1",
+      "noteId": "ci-134",
+      "type": "cloze",
+      "text": "CIN is intraepithelial: the abnormal cells have not invaded through the {{c1::basement membrane}}.",
+      "question": "CIN is intraepithelial: the abnormal cells have not invaded through the {{c1::basement membrane}}.",
+      "answer": "basement membrane",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 62,
+      "images": [
+        "ci-slide-62"
+      ],
+      "illustrations": [
+        "ci-panel-cin"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-135-c1",
+      "noteId": "ci-135",
+      "type": "cloze",
+      "text": "Disordered epithelial growth and maturation, with cellular atypia, are characteristic of {{c1::dysplasia}}.",
+      "question": "Disordered epithelial growth and maturation, with cellular atypia, are characteristic of {{c1::dysplasia}}.",
+      "answer": "dysplasia",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 64,
+      "images": [
+        "ci-slide-64"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-136-c1",
+      "noteId": "ci-136",
+      "type": "cloze",
+      "text": "Dysplastic tissue can lose normal {{c1::architectural relationships}} between cells.",
+      "question": "Dysplastic tissue can lose normal {{c1::architectural relationships}} between cells.",
+      "answer": "architectural relationships",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 64,
+      "images": [
+        "ci-slide-64"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-137-c1",
+      "noteId": "ci-137",
+      "type": "cloze",
+      "text": "Dysplasia can precede cancer, but progression to invasive malignancy is {{c1::not inevitable}}.",
+      "question": "Dysplasia can precede cancer, but progression to invasive malignancy is {{c1::not inevitable}}.",
+      "answer": "not inevitable",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 64,
+      "images": [
+        "ci-slide-64"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-138-c1",
+      "noteId": "ci-138",
+      "type": "cloze",
+      "text": "Metaplasia changes differentiated cell type; dysplasia changes cellular maturation, appearance and {{c1::organisation}}.",
+      "question": "Metaplasia changes differentiated cell type; dysplasia changes cellular maturation, appearance and {{c1::organisation}}.",
+      "answer": "organisation",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 64,
+      "images": [
+        "ci-slide-64"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-139-c1",
+      "noteId": "ci-139",
+      "type": "cloze",
+      "text": "Increased cell division together with impaired maturation can produce {{c1::dysplastic epithelium}}.",
+      "question": "Increased cell division together with impaired maturation can produce {{c1::dysplastic epithelium}}.",
+      "answer": "dysplastic epithelium",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 65,
+      "images": [
+        "ci-slide-65"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-140-c1",
+      "noteId": "ci-140",
+      "type": "cloze",
+      "text": "Progressively greater epithelial involvement distinguishes CIN I, CIN II and {{c1::CIN III}} in the lecture diagram.",
+      "question": "Progressively greater epithelial involvement distinguishes CIN I, CIN II and {{c1::CIN III}} in the lecture diagram.",
+      "answer": "CIN III",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 66,
+      "images": [
+        "ci-slide-66"
+      ],
+      "illustrations": [
+        "ci-panel-dysplasia"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-141-c1",
+      "noteId": "ci-141",
+      "type": "cloze",
+      "text": "HPV refers to {{c1::human papillomavirus}}; BPV refers to {{c2::bovine papillomavirus}}.",
+      "question": "HPV refers to {{c1::human papillomavirus}}; BPV refers to {{c2::bovine papillomavirus}}.",
+      "answer": "human papillomavirus",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 70,
+      "images": [
+        "ci-slide-70"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-141-c2",
+      "noteId": "ci-141",
+      "type": "cloze",
+      "text": "HPV refers to {{c1::human papillomavirus}}; BPV refers to {{c2::bovine papillomavirus}}.",
+      "question": "HPV refers to {{c1::human papillomavirus}}; BPV refers to {{c2::bovine papillomavirus}}.",
+      "answer": "bovine papillomavirus",
+      "clozeNumber": 2,
+      "topic": "Papillomavirus research · extension",
+      "slide": 70,
+      "images": [
+        "ci-slide-70"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-142-c1",
+      "noteId": "ci-142",
+      "type": "cloze",
+      "text": "Papillomaviruses infect multiple host species; the lecture includes humans, cattle, rabbits and {{c1::dogs}}.",
+      "question": "Papillomaviruses infect multiple host species; the lecture includes humans, cattle, rabbits and {{c1::dogs}}.",
+      "answer": "dogs",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 70,
+      "images": [
+        "ci-slide-70"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-143-c1",
+      "noteId": "ci-143",
+      "type": "cloze",
+      "text": "Papillomaviruses have a small {{c1::circular DNA}} genome of approximately {{c2::8 kb}}.",
+      "question": "Papillomaviruses have a small {{c1::circular DNA}} genome of approximately {{c2::8 kb}}.",
+      "answer": "circular DNA",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-143-c2",
+      "noteId": "ci-143",
+      "type": "cloze",
+      "text": "Papillomaviruses have a small {{c1::circular DNA}} genome of approximately {{c2::8 kb}}.",
+      "question": "Papillomaviruses have a small {{c1::circular DNA}} genome of approximately {{c2::8 kb}}.",
+      "answer": "8 kb",
+      "clozeNumber": 2,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-144-c1",
+      "noteId": "ci-144",
+      "type": "cloze",
+      "text": "Papillomaviruses infect {{c1::cutaneous and mucosal epithelia}}.",
+      "question": "Papillomaviruses infect {{c1::cutaneous and mucosal epithelia}}.",
+      "answer": "cutaneous and mucosal epithelia",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-145-c1",
+      "noteId": "ci-145",
+      "type": "cloze",
+      "text": "Papillomavirus infection can induce {{c1::papillomas (warts)}}.",
+      "question": "Papillomavirus infection can induce {{c1::papillomas (warts)}}.",
+      "answer": "papillomas (warts)",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-146-c1",
+      "noteId": "ci-146",
+      "type": "cloze",
+      "text": "Persistent infection with some high-risk HPV types can lead to {{c1::precancerous lesions and cancer}}.",
+      "question": "Persistent infection with some high-risk HPV types can lead to {{c1::precancerous lesions and cancer}}.",
+      "answer": "precancerous lesions and cancer",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-147-c1",
+      "noteId": "ci-147",
+      "type": "cloze",
+      "text": "Does every HPV infection progress to cancer? {{c1::No—many clear, and cancer risk depends on virus type and persistent infection}}.",
+      "question": "Does every HPV infection progress to cancer? {{c1::No—many clear, and cancer risk depends on virus type and persistent infection}}.",
+      "answer": "No—many clear, and cancer risk depends on virus type and persistent infection",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 72,
+      "images": [
+        "ci-slide-72"
+      ],
+      "illustrations": [
+        "ci-panel-papillomavirus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-148-c1",
+      "noteId": "ci-148",
+      "type": "cloze",
+      "text": "Papillomavirus gains access to basal epithelial cells through {{c1::small breaks in the epithelium}}.",
+      "question": "Papillomavirus gains access to basal epithelial cells through {{c1::small breaks in the epithelium}}.",
+      "answer": "small breaks in the epithelium",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 73,
+      "images": [
+        "ci-slide-73"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-149-c1",
+      "noteId": "ci-149",
+      "type": "cloze",
+      "text": "In the lecture’s infection model, viral DNA persists in cells near the {{c1::basal layer}}.",
+      "question": "In the lecture’s infection model, viral DNA persists in cells near the {{c1::basal layer}}.",
+      "answer": "basal layer",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 73,
+      "images": [
+        "ci-slide-73"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-150-c1",
+      "noteId": "ci-150",
+      "type": "cloze",
+      "text": "Viral genome amplification and virion assembly occur as infected cells {{c1::differentiate toward the epithelial surface}}.",
+      "question": "Viral genome amplification and virion assembly occur as infected cells {{c1::differentiate toward the epithelial surface}}.",
+      "answer": "differentiate toward the epithelial surface",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 73,
+      "images": [
+        "ci-slide-73"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-151-c1",
+      "noteId": "ci-151",
+      "type": "cloze",
+      "text": "Papillomavirus particles are released with cells shed from the {{c1::epithelial surface}}.",
+      "question": "Papillomavirus particles are released with cells shed from the {{c1::epithelial surface}}.",
+      "answer": "epithelial surface",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 73,
+      "images": [
+        "ci-slide-73"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-152-c1",
+      "noteId": "ci-152",
+      "type": "cloze",
+      "text": "A virus needs {{c1::viable host cells}} to produce infectious progeny.",
+      "question": "A virus needs {{c1::viable host cells}} to produce infectious progeny.",
+      "answer": "viable host cells",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 74,
+      "images": [
+        "ci-slide-74"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-153-c1",
+      "noteId": "ci-153",
+      "type": "cloze",
+      "text": "An immune response that eliminates infected cells conflicts with the virus’s need to {{c1::keep those host cells alive}}.",
+      "question": "An immune response that eliminates infected cells conflicts with the virus’s need to {{c1::keep those host cells alive}}.",
+      "answer": "keep those host cells alive",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 74,
+      "images": [
+        "ci-slide-74"
+      ],
+      "illustrations": [
+        "ci-panel-pv-lifecycle"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-154-c1",
+      "noteId": "ci-154",
+      "type": "cloze",
+      "text": "Viral immunomodulatory proteins can promote {{c1::persistence}} by interfering with host immune recognition.",
+      "question": "Viral immunomodulatory proteins can promote {{c1::persistence}} by interfering with host immune recognition.",
+      "answer": "persistence",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 75,
+      "images": [
+        "ci-slide-75"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-155-c1",
+      "noteId": "ci-155",
+      "type": "cloze",
+      "text": "In the lecture’s E5 research model, E5 is located primarily in the {{c1::Golgi apparatus}}.",
+      "question": "In the lecture’s E5 research model, E5 is located primarily in the {{c1::Golgi apparatus}}.",
+      "answer": "Golgi apparatus",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 75,
+      "images": [
+        "ci-slide-75"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-156-c1",
+      "noteId": "ci-156",
+      "type": "cloze",
+      "text": "MHC class I displays intracellularly derived peptide antigens to {{c1::cytotoxic T cells}}.",
+      "question": "MHC class I displays intracellularly derived peptide antigens to {{c1::cytotoxic T cells}}.",
+      "answer": "cytotoxic T cells",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 76,
+      "images": [
+        "ci-slide-76"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-157-c1",
+      "noteId": "ci-157",
+      "type": "cloze",
+      "text": "Antigen presentation requires peptide-bound MHC class I to reach the {{c1::cell surface}}.",
+      "question": "Antigen presentation requires peptide-bound MHC class I to reach the {{c1::cell surface}}.",
+      "answer": "cell surface",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 76,
+      "images": [
+        "ci-slide-76"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-158-c1",
+      "noteId": "ci-158",
+      "type": "cloze",
+      "text": "In the lecture model, E5 interferes with transport of {{c1::MHC class I}} to the cell surface.",
+      "question": "In the lecture model, E5 interferes with transport of {{c1::MHC class I}} to the cell surface.",
+      "answer": "MHC class I",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 77,
+      "images": [
+        "ci-slide-77"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-159-c1",
+      "noteId": "ci-159",
+      "type": "cloze",
+      "text": "Reduced surface MHC class I can reduce recognition of infected cells by {{c1::cytotoxic T cells}}.",
+      "question": "Reduced surface MHC class I can reduce recognition of infected cells by {{c1::cytotoxic T cells}}.",
+      "answer": "cytotoxic T cells",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 77,
+      "images": [
+        "ci-slide-77"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-160-c1",
+      "noteId": "ci-160",
+      "type": "cloze",
+      "text": "E5-mediated inhibition of MHC-I transport illustrates {{c1::immune evasion}}, helping infected cells escape surveillance.",
+      "question": "E5-mediated inhibition of MHC-I transport illustrates {{c1::immune evasion}}, helping infected cells escape surveillance.",
+      "answer": "immune evasion",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 77,
+      "images": [
+        "ci-slide-77"
+      ],
+      "illustrations": [
+        "ci-panel-mhc"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-161-c1",
+      "noteId": "ci-161",
+      "type": "cloze",
+      "text": "The feature distinguishing invasive carcinoma from CIN is {{c1::invasion through the basement membrane into underlying tissue}}.",
+      "question": "The feature distinguishing invasive carcinoma from CIN is {{c1::invasion through the basement membrane into underlying tissue}}.",
+      "answer": "invasion through the basement membrane into underlying tissue",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 78,
+      "images": [
+        "ci-slide-78"
+      ],
+      "illustrations": [
+        "ci-panel-invasion"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-162-c1",
+      "noteId": "ci-162",
+      "type": "cloze",
+      "text": "Abnormal proliferation throughout the epithelial thickness, without invasion, is consistent with {{c1::CIN III}}, not invasive carcinoma.",
+      "question": "Abnormal proliferation throughout the epithelial thickness, without invasion, is consistent with {{c1::CIN III}}, not invasive carcinoma.",
+      "answer": "CIN III",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 78,
+      "images": [
+        "ci-slide-78"
+      ],
+      "illustrations": [
+        "ci-panel-invasion"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-1-c1",
+      "noteId": "ci-visual-1",
+      "type": "cloze",
+      "text": "The figure shows a bilayer containing proteins. The membrane’s main lipid class is {{c1::phospholipids}}.",
+      "question": "The figure shows a bilayer containing proteins. The membrane’s main lipid class is {{c1::phospholipids}}.",
+      "answer": "phospholipids",
+      "clozeNumber": 1,
+      "topic": "Cell structure & homeostasis",
+      "slide": 7,
+      "images": [
+        "ci-visual-01"
+      ],
+      "answerImages": [
+        "ci-slide-7"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-2-c1",
+      "noteId": "ci-visual-2",
+      "type": "cloze",
+      "text": "A vessel blockage in this diagram reduces blood delivery to brain tissue. The resulting process is {{c1::cerebral ischaemia}}.",
+      "question": "A vessel blockage in this diagram reduces blood delivery to brain tissue. The resulting process is {{c1::cerebral ischaemia}}.",
+      "answer": "cerebral ischaemia",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-visual-02"
+      ],
+      "answerImages": [
+        "ci-slide-22"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-3-c1",
+      "noteId": "ci-visual-3",
+      "type": "cloze",
+      "text": "If the blocked coronary artery shown here causes heart-muscle death, the event is a {{c1::myocardial infarction}}.",
+      "question": "If the blocked coronary artery shown here causes heart-muscle death, the event is a {{c1::myocardial infarction}}.",
+      "answer": "myocardial infarction",
+      "clozeNumber": 1,
+      "topic": "Ischaemia & hypoxia",
+      "slide": 22,
+      "images": [
+        "ci-visual-03"
+      ],
+      "answerImages": [
+        "ci-slide-22"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-4-c1",
+      "noteId": "ci-visual-4",
+      "type": "cloze",
+      "text": "This liver section shows regenerative nodules surrounded by fibrous tissue. Together these illustrate {{c1::cirrhosis}}.",
+      "question": "This liver section shows regenerative nodules surrounded by fibrous tissue. Together these illustrate {{c1::cirrhosis}}.",
+      "answer": "cirrhosis",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-visual-04"
+      ],
+      "answerImages": [
+        "ci-slide-27"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-5-c1",
+      "noteId": "ci-visual-5",
+      "type": "cloze",
+      "text": "The liver on the left has a nodular surface. Compared with the smooth liver on the right, this reflects {{c1::cirrhosis}}.",
+      "question": "The liver on the left has a nodular surface. Compared with the smooth liver on the right, this reflects {{c1::cirrhosis}}.",
+      "answer": "cirrhosis",
+      "clozeNumber": 1,
+      "topic": "Physical & chemical injury",
+      "slide": 27,
+      "images": [
+        "ci-visual-05"
+      ],
+      "answerImages": [
+        "ci-slide-27"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-6-c1",
+      "noteId": "ci-visual-6",
+      "type": "cloze",
+      "text": "In the lecture’s child with bowed legs, the nutritional cause discussed is deficiency of {{c1::vitamin D}}.",
+      "question": "In the lecture’s child with bowed legs, the nutritional cause discussed is deficiency of {{c1::vitamin D}}.",
+      "answer": "vitamin D",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 33,
+      "images": [
+        "ci-visual-06"
+      ],
+      "answerImages": [
+        "ci-slide-33"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-7-c1",
+      "noteId": "ci-visual-7",
+      "type": "cloze",
+      "text": "The elongated, curved cells in this micrograph illustrate {{c1::sickling of red blood cells}}.",
+      "question": "The elongated, curved cells in this micrograph illustrate {{c1::sickling of red blood cells}}.",
+      "answer": "sickling of red blood cells",
+      "clozeNumber": 1,
+      "topic": "Nutritional, genetic & congenital injury",
+      "slide": 35,
+      "images": [
+        "ci-visual-07"
+      ],
+      "answerImages": [
+        "ci-slide-35"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-8-c1",
+      "noteId": "ci-visual-8",
+      "type": "cloze",
+      "text": "The epithelium shown has a renewing basal compartment. Its dividing population is classified as {{c1::labile}}.",
+      "question": "The epithelium shown has a renewing basal compartment. Its dividing population is classified as {{c1::labile}}.",
+      "answer": "labile",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 43,
+      "images": [
+        "ci-visual-08"
+      ],
+      "answerImages": [
+        "ci-slide-43"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-9-c1",
+      "noteId": "ci-visual-9",
+      "type": "cloze",
+      "text": "These are hepatocytes. They can divide when needed despite usually being quiescent, so they are classified as {{c1::stable cells}}.",
+      "question": "These are hepatocytes. They can divide when needed despite usually being quiescent, so they are classified as {{c1::stable cells}}.",
+      "answer": "stable cells",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 44,
+      "images": [
+        "ci-visual-09"
+      ],
+      "answerImages": [
+        "ci-slide-44"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-10-c1",
+      "noteId": "ci-visual-10",
+      "type": "cloze",
+      "text": "This mature neuron represents the traditional {{c1::permanent-cell}} category, with very limited regenerative capacity.",
+      "question": "This mature neuron represents the traditional {{c1::permanent-cell}} category, with very limited regenerative capacity.",
+      "answer": "permanent-cell",
+      "clozeNumber": 1,
+      "topic": "Cell renewal capacity",
+      "slide": 45,
+      "images": [
+        "ci-visual-10"
+      ],
+      "answerImages": [
+        "ci-slide-45"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-11-c1",
+      "noteId": "ci-visual-11",
+      "type": "cloze",
+      "text": "Compare the two groups: cell number is unchanged, but individual cells are larger. This adaptation is {{c1::hypertrophy}}.",
+      "question": "Compare the two groups: cell number is unchanged, but individual cells are larger. This adaptation is {{c1::hypertrophy}}.",
+      "answer": "hypertrophy",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 50,
+      "images": [
+        "ci-visual-11"
+      ],
+      "answerImages": [
+        "ci-slide-50"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-12-c1",
+      "noteId": "ci-visual-12",
+      "type": "cloze",
+      "text": "In the lecture’s excess-thyroid-hormone example, increased cardiac workload enlarges the heart through {{c1::hypertrophy}}.",
+      "question": "In the lecture’s excess-thyroid-hormone example, increased cardiac workload enlarges the heart through {{c1::hypertrophy}}.",
+      "answer": "hypertrophy",
+      "clozeNumber": 1,
+      "topic": "Hypertrophy",
+      "slide": 51,
+      "images": [
+        "ci-visual-12"
+      ],
+      "answerImages": [
+        "ci-slide-51"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-13-c1",
+      "noteId": "ci-visual-13",
+      "type": "cloze",
+      "text": "The right-hand group contains more cells of similar size. This illustrates {{c1::hyperplasia}}.",
+      "question": "The right-hand group contains more cells of similar size. This illustrates {{c1::hyperplasia}}.",
+      "answer": "hyperplasia",
+      "clozeNumber": 1,
+      "topic": "Hyperplasia",
+      "slide": 53,
+      "images": [
+        "ci-visual-13"
+      ],
+      "answerImages": [
+        "ci-slide-53"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-14-c1",
+      "noteId": "ci-visual-14",
+      "type": "cloze",
+      "text": "Cells on the right are smaller and occupy less tissue volume. This change is {{c1::atrophy}}.",
+      "question": "Cells on the right are smaller and occupy less tissue volume. This change is {{c1::atrophy}}.",
+      "answer": "atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 56,
+      "images": [
+        "ci-visual-14"
+      ],
+      "answerImages": [
+        "ci-slide-56"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-15-c1",
+      "noteId": "ci-visual-15",
+      "type": "cloze",
+      "text": "The thinner calf indicated by the arrow follows reduced limb use. This is {{c1::disuse atrophy}}.",
+      "question": "The thinner calf indicated by the arrow follows reduced limb use. This is {{c1::disuse atrophy}}.",
+      "answer": "disuse atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 57,
+      "images": [
+        "ci-visual-15"
+      ],
+      "answerImages": [
+        "ci-slide-57"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-16-c1",
+      "noteId": "ci-visual-16",
+      "type": "cloze",
+      "text": "Brain B has reduced bulk and wider sulci compared with A. The adaptation illustrated is {{c1::atrophy}}.",
+      "question": "Brain B has reduced bulk and wider sulci compared with A. The adaptation illustrated is {{c1::atrophy}}.",
+      "answer": "atrophy",
+      "clozeNumber": 1,
+      "topic": "Atrophy",
+      "slide": 58,
+      "images": [
+        "ci-visual-16"
+      ],
+      "answerImages": [
+        "ci-slide-58"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-17-c1",
+      "noteId": "ci-visual-17",
+      "type": "cloze",
+      "text": "In this bronchial diagram, ciliated columnar cells are replaced by squamous cells. The process is {{c1::metaplasia}}.",
+      "question": "In this bronchial diagram, ciliated columnar cells are replaced by squamous cells. The process is {{c1::metaplasia}}.",
+      "answer": "metaplasia",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 61,
+      "images": [
+        "ci-visual-17"
+      ],
+      "answerImages": [
+        "ci-slide-61"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-18-c1",
+      "noteId": "ci-visual-18",
+      "type": "cloze",
+      "text": "This bronchial histology illustrates a switch from columnar to squamous epithelium. The adaptation is {{c1::metaplasia}}.",
+      "question": "This bronchial histology illustrates a switch from columnar to squamous epithelium. The adaptation is {{c1::metaplasia}}.",
+      "answer": "metaplasia",
+      "clozeNumber": 1,
+      "topic": "Metaplasia",
+      "slide": 61,
+      "images": [
+        "ci-visual-18"
+      ],
+      "answerImages": [
+        "ci-slide-61"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-19-c1",
+      "noteId": "ci-visual-19",
+      "type": "cloze",
+      "text": "The right-hand cervical epithelium loses normal maturation through its thickness. The lecture identifies this as {{c1::CIN III (severe dysplasia)}}.",
+      "question": "The right-hand cervical epithelium loses normal maturation through its thickness. The lecture identifies this as {{c1::CIN III (severe dysplasia)}}.",
+      "answer": "CIN III (severe dysplasia)",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 62,
+      "images": [
+        "ci-visual-19"
+      ],
+      "answerImages": [
+        "ci-slide-62"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-20-c1",
+      "noteId": "ci-visual-20",
+      "type": "cloze",
+      "text": "The epithelium becomes increasingly disordered from left to right. The cellular change is {{c1::dysplasia}}.",
+      "question": "The epithelium becomes increasingly disordered from left to right. The cellular change is {{c1::dysplasia}}.",
+      "answer": "dysplasia",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 66,
+      "images": [
+        "ci-visual-20"
+      ],
+      "answerImages": [
+        "ci-slide-66"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-21-c1",
+      "noteId": "ci-visual-21",
+      "type": "cloze",
+      "text": "In this epithelial infection diagram, viral DNA initially persists in the deepest layer, the {{c1::basal layer}}.",
+      "question": "In this epithelial infection diagram, viral DNA initially persists in the deepest layer, the {{c1::basal layer}}.",
+      "answer": "basal layer",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 73,
+      "images": [
+        "ci-visual-21"
+      ],
+      "answerImages": [
+        "ci-slide-73"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-22-c1",
+      "noteId": "ci-visual-22",
+      "type": "cloze",
+      "text": "This diagram links intracellular peptide presentation to recognition at the membrane. The presenting molecule is {{c1::MHC class I}}.",
+      "question": "This diagram links intracellular peptide presentation to recognition at the membrane. The presenting molecule is {{c1::MHC class I}}.",
+      "answer": "MHC class I",
+      "clozeNumber": 1,
+      "topic": "Papillomavirus research · extension",
+      "slide": 77,
+      "images": [
+        "ci-visual-22"
+      ],
+      "answerImages": [
+        "ci-slide-77"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "ci-visual-23-c1",
+      "noteId": "ci-visual-23",
+      "type": "cloze",
+      "text": "The lecture’s final cervical histology panel shows abnormal cells extending into underlying tissue. This illustrates {{c1::invasive carcinoma}}.",
+      "question": "The lecture’s final cervical histology panel shows abnormal cells extending into underlying tissue. This illustrates {{c1::invasive carcinoma}}.",
+      "answer": "invasive carcinoma",
+      "clozeNumber": 1,
+      "topic": "Dysplasia & invasion",
+      "slide": 78,
+      "images": [
+        "ci-visual-23"
+      ],
+      "answerImages": [
+        "ci-slide-78"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Pathobiology– LS5009",
+      "text": "Pathobiology– LS5009\nLecture 1 \nCellular Injury I \n(2026)\nDr Hossein Ashrafi (DVM, PhD)\nAssociate Professor in Pathology\n1\nFaculty Health, Science, Social Care and Education\n- School of Life Sciences, Pharmacy and Chemistry",
+      "images": [
+        "ci-slide-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Aims",
+      "text": "Aims\n• To introduce the concept of cell injury and \ndisease\nCell Injury (I)\nObjectives \n•\nTo outline the concept of cell injury and disease\n•\nTo briefly review causes of cell injury \n2",
+      "images": [
+        "ci-slide-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "•Kumar, Abbas, & Aster, & Deyrup (2022) Robbins & Kumar",
+      "text": "•Kumar, Abbas, & Aster, & Deyrup (2022) Robbins & Kumar \nBasic Pathology (11th  Ed). Hardcover ISBN: 9780323790192\nChapter 1\nUnderwood (2009) General and Systemic Pathology (5th Ed). \nChurchill Livingstone ISBN-10: 0443068887. Chapter 1,2 \nLakhani SR, Dilly SA & Finlayson CJ (2009) Basic Pathology (4th \nEd). Arnold. ISBN 0340810017. Chapter 1\nMera (1997) Understanding Disease. Stanley Thornes. Chapter 4\n \nWoolf (2000) Cell, Tissue and Disease (3rd Ed). Saunders.  Chapter 2\n❖References\n3",
+      "images": [
+        "ci-slide-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Good Book",
+      "text": "4\nGood Book",
+      "images": [
+        "ci-slide-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "❖ The word cell comes from the Latin cellula, meaning,",
+      "text": "❖ The word cell comes from the Latin cellula, meaning, \n- a small room -\nWhat’s a cell?\n5",
+      "images": [
+        "ci-slide-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "www.tray.k12.ca.us/.../Derby/Derby-Physio.html",
+      "text": "www.tray.k12.ca.us/.../Derby/Derby-Physio.html\nwww.tray.k12.ca.us/.../Derby/Derby-Physio.html\n➢ Humans have an estimated 100 trillion or 1014 cells\nEukaryotic Cells (Review)\n➢It is the smallest unit of an organism and is often called \nthe building block of life\n6",
+      "images": [
+        "ci-slide-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "➢ All cells are surrounded by a cell",
+      "text": "➢ All cells are surrounded by a cell \nmembrane made of phospholipids and \nproteins\n➢Eukaryotic cells have a nucleus that controls \nthe workings of the cell\n➢ Inside a cell is the jelly like substance called cytoplasm\nEukaryotic Cells (Review)\nTaken from Essential Cell Biology (Alberts)\n7",
+      "images": [
+        "ci-slide-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "➢ The other cell organelles",
+      "text": "➢ The other cell organelles \ninclude the endoplasmic \nreticulum,(rough & smooth) \nmitochondria, Golgi \napparatus, ribosomes, \nlysosomes, centrioles, \nnucleolus \n➢Cytoplasm contains the nucleus and other organelles\nEukaryotic Cells (Review)\nwww.tray.k12.ca.us/.../Derby/Derby-\nPhysio.html\nwww.tray.k12.ca.us/.../Derby/Derby Physio.html\n8",
+      "images": [
+        "ci-slide-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Eukaryotic Cells (Review)",
+      "text": "Eukaryotic Cells (Review)\nwww.tray.k12.ca.us/.../Derby/Derby-\nPhysio.html\nwww.tray.k12.ca.us/.../Derby/Derby Physio.html\n➢ Cell can take in nutrients, \nconvert these nutrients into \nenergy, carry out specialised \nfunctions, and reproduce as \nnecessary\n9",
+      "images": [
+        "ci-slide-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Normal cell is in a steady state",
+      "text": "Normal cell is in a steady state \n“Homeostasis”\nHomeo = alike, same\nStasis = always, staying \nCells actively control the composition of their immediate \nenvironment and intracellular setting within a narrow range \nof physiological parameters\n219.221.200.61/ywwy/zbsw(E)/edetail6.htm\nA is phase contrast and B is fluorescence micrographs.\nThe microinjected cell with Lucifer yellow is marked by a \nblack dot.\nNormal\nNormal\nA\nB\nBy Dr H Ashrafi, Research work\n• Cells can exchange materials with their surroundings\n10",
+      "images": [
+        "ci-slide-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Atoms, molecules, cells, tissues, organs, and organ systems are the body's building blocks.",
+      "text": "Atoms, molecules, cells, tissues, organs, and organ systems are the body's building blocks. \nBuilding the Body\nLevels of the body from smallest to largest\n(Taken from Anatomy and Physiology for DUMMIES 2002)\nA human body consists of :\n• Cells (live or dead) • Extracellular Matrix\ne.g. Basal lamina, Collagen ...\n• Extracellular Fluid (ECF)\ne.g. Blood plasma, Lymph, Cerebrospinal fluid (CSF), …\n❖ Change in Homeostasis due to Injury causes disease \n11",
+      "images": [
+        "ci-slide-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Cell injury       disease",
+      "text": "Cell injury       disease\nWhat is a disease?\n12",
+      "images": [
+        "ci-slide-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Definition of Disease",
+      "text": "Definition of Disease\nCell Injury and the Concept of Disease\nMay vary according to different authors: \nDisease is a word of French origin and, literally means \ndiscomfort\n• Dis + Ease = Disease; Lack of ease; Uneasiness; Trouble\n❖ Disease is any departure from a normal state of health\n13",
+      "images": [
+        "ci-slide-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "• A condition in which the normal function of some part or organ",
+      "text": "• A condition in which the normal function of some part or organ \nof the body is disturbed.\nDisease\n14",
+      "images": [
+        "ci-slide-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Familiarise yourself to the following Terminology",
+      "text": "Familiarise yourself to the following Terminology\n (Important points)\nSymptoms : Disease presents with many 'problems, eg. Pain \nSigns: Abnormalities noticed by physician, eg. Abnormal heart sounds \nDiagnosis: Finding the nature of disease \nPrognosis: Predicting the future course of disease\n15",
+      "images": [
+        "ci-slide-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "How does it happen?!",
+      "text": "How does it happen?!\nTaken from basic medical science; ISBN 978-0-7234-3427-6\n16",
+      "images": [
+        "ci-slide-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "•",
+      "text": "•\nThe Perfect World\n•\nThe Real World\nCOLD\nFLU\nCHICKEN \nPOX\nSTOMACH \nUPSET\nHELP \nME !\nHELP !\nHELP \nME!\nThe body is under constant attack by microorganisms in the environment\n17",
+      "images": [
+        "ci-slide-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Pathogens",
+      "text": "Pathogens\nThe body is under constant attack by microorganisms in \nthe environment, as well as other factors\n18",
+      "images": [
+        "ci-slide-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "❖ Genetic (diseases happening in families)",
+      "text": "❖ Genetic (diseases happening in families)\nSome abnormality of base sequence in the DNA\nCauses of cell injury\nMultifactorial\nClassified into three Major groups\n“No more “one cause to one disease”  \nGenetic factors affect acquired diseases and environment has \nprofound effect on genetic diseases.\n❖ Acquired (develop after birth)\nEnvironmental factor or external factors\n❖ Congenital (present from birth)\nThey develop during foetal life and are present at birth. Although they often have \na genetic basis they can be acquired.  \n19",
+      "images": [
+        "ci-slide-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "❖Environmental agents (Acquired)",
+      "text": "❖Environmental agents (Acquired)\nHypoxia (oxygen deficiency) and ischemia (blood flow deficiency)\n“Physical” agents\n“Chemical” agents \nInfections \nNutritional defects\nImmunological reactions\nCauses of cell injury\n❑Summery\ninternal or external factors.\n❖Genetic defects\n❖Congenital\n20",
+      "images": [
+        "ci-slide-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Causes of cell injury and cell death",
+      "text": "Causes of cell injury and cell death\n1.  \nIschaemia   \n \nlack of blood flow through a tissue \n \nleads to hypoxia/anoxia etc.\n21",
+      "images": [
+        "ci-slide-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Disrupts oxidative metabolism and leads to",
+      "text": "Disrupts oxidative metabolism and leads to \ncell injury and death (infarction).\nIschaemia \nIf cardiac ischemia lasts too long, the \nstarved heart tissue dies. This event \ndefines a heart attack, otherwise known as \nmyocardial infarction — literally, \"death of \nheart muscle.\"\nwww.ghi.com/topic.aspx?page=332\nCerebral Ischemia \nusd316.k12.ks.us\nBrains control behaviour either by activating \nmuscles, or by causing secretion of \nchemicals such as hormones.\n22",
+      "images": [
+        "ci-slide-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "➢excessive heat/cold",
+      "text": "➢excessive heat/cold \n \nExtremes of temperature cause injury.  Low temperature induces vasoconstriction \nand impairment of blood supply. Heat applied locally causes burns of varying \ndegrees\nCauses of cell injury and cell death\n2. Physical agents  \n➢Radiation \n \nVarious kinds of radiation may damage tissue as in sunburn or X-ray burns. \n \n➢Electric Current\n \nSudden death may be caused by electric currents of high voltage\n➢trauma \n \nMechanical trauma is the most direct and obvious kind of injury and results in \nwounds, bruises, fractures of bone, dislocation of joints and rupture of internal \norgans .\n23",
+      "images": [
+        "ci-slide-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Injury caused by Physical agents",
+      "text": "Injury caused by Physical agents  \n24\nhttps://www.newsforpublic.com/wp-\ncontent/uploads/2019/04/Burn-Injury.jpg",
+      "images": [
+        "ci-slide-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "3. Chemical Agents",
+      "text": "3. Chemical Agents \nCauses of cell injury and cell death\n➢ \nCell injury may result from disruption of \nspecific cellular pathways: \n \nChemical injury may be produced by virtually any compound. A \ncompound can react directly with some critical molecular \ncomponent of the cell interfering with its function (e.g. cyanide \ninactivates the enzyme cytochrome oxidase in mitochondria \nrequired for aerobic respiration). \nTrace amounts of it, can kill an animal within minutes\n25",
+      "images": [
+        "ci-slide-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "(A & B) Washerwoman hand palms caused by prolonged immersion in",
+      "text": "(A & B) Washerwoman hand palms caused by prolonged immersion in \nwater (liquid wash, etc...)\nTaken from Forensic pathology By Dominick J. Di Maio\n➢ or from chronic exposure to injurious \nchemicals over time\nChemical Agents \n26",
+      "images": [
+        "ci-slide-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "A. Microscopically with cirrhosis, the regenerative nodules of hepatocytes are",
+      "text": "A. Microscopically with cirrhosis, the regenerative nodules of hepatocytes are \nsurrounded by fibrous connective tissue. B. Macroscopic picture\nhttp://library.med.utah.edu/WebPath/LIVEHTML/LIVER008.html\n➢ Cirrhotic Liver\nReplacement of liver tissue by fibrous scar tissue as well as regenerative nodules \nA\nB\nChemical Agents \n❖chronic exposure to ethyl alcohol\n27",
+      "images": [
+        "ci-slide-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Causes of cell injury and cell death",
+      "text": "Causes of cell injury and cell death\n4. Infectious Agents \n➢ Very important cause of cell injury and cell death.  \nEffects may be directly from infectious agent or \nimmune response to it.\n28",
+      "images": [
+        "ci-slide-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Infectious Agents",
+      "text": "Infectious Agents \n➢ Many species of viruses, bacteria, protozoa \nand fungi (We speak of them as pathogens) are able \nto invade and multiply within host and cause \ndisease.\nPapillomavirus\n29\nPathogens",
+      "images": [
+        "ci-slide-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "BPV-2",
+      "text": "BPV-2\nBPV-1\nBPV-6\nBPV-5\nSkin, teat and udder, papillomatosis in cattle  \nBovine Papilloma\nHuman Papilloma\nSkin\nhttp://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Papilloma_skin.jpg/448px-Papilloma_skin.jpg\n30",
+      "images": [
+        "ci-slide-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "5. Nutritional Disorders - Malnutrition",
+      "text": "5. Nutritional Disorders - Malnutrition \nCauses of cell injury and cell death\nOver nutrition – \nmain problem in Societies:-  \nleads to obesity which is linked to a number of \ndisorders particularly premature cardiovascular \ndisease\nhttp://feliciamurphy.org/images/obisity.jpg\n31",
+      "images": [
+        "ci-slide-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "5. Nutritional Disorders - Malnutrition",
+      "text": "5. Nutritional Disorders - Malnutrition \nUnder nutrition – \ncommon in less developed regions of the world:\nDeficiency in any of the main classes of foodstuffs may also \nbe harmful.  E.g., a lack of iron in the diet can cause severe \nanaemia in young people.  Deficiency of Vitamin D will \nprevent the proper development of bone.\nhttp://upload.wikimedia.org/wikipedia/commons/4/46/Kwashiorkor_6903.jpg\n32",
+      "images": [
+        "ci-slide-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Vitamin D deficiency",
+      "text": "Vitamin D deficiency\nwww.thachers.org/medical.htm\nwww.healthofchildren.com/U-Z/Vitamin-D-Defici...\n33",
+      "images": [
+        "ci-slide-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Causes of cell injury and cell death",
+      "text": "Causes of cell injury and cell death\n6. Immunological Disorders\n➢\nThe immune system is designed to protect human but in \ncertain circumstances reactions damage tissue.\ne.g. ● Autoimmune disease \n● hypersensitivity reactions \n➢ Autoimmunity may develop in which antibodies of lymphocytes \nare directed against the body’s own tissue.\nPsoriasis\n34",
+      "images": [
+        "ci-slide-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "7.Genetic Disorders",
+      "text": "7.Genetic Disorders \nCauses of cell injury and cell death\nsome abnormality of base sequence in the DNA of the fertilised ovum and the cells derived \nfrom it.\ne.g. ● sickle cell disease, \nis a life-long blood disorder characterized by red blood cell that assume an abnormal, \nrigid sickle shape. Sickling decreases the cells' flexibility and results in a risk of various \ncomplications. The sickling occurs because of a mutation in hemoglobin gene\nNormal and sickle-shaped red blood cells\n35",
+      "images": [
+        "ci-slide-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "7.Genetic Disorders",
+      "text": "7.Genetic Disorders \nCauses of cell injury and cell death\n● familial hyperlipidaemia \nDiseases existing in families are known as Familial disorders\ninherited metabolic disorders resulting in an excess of cholesterol and/or triglyceride in \nthe blood. High levels of cholesterol in the blood may be associated with heart disease \nand strokes. \nwww.gpgenes.co.uk/serumLipids.php\nA Patient with High Serum Lipids\n36",
+      "images": [
+        "ci-slide-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "8. Congenital",
+      "text": "8. Congenital\nCongenital implies only that the disease was present at birth.\nCauses of cell injury and cell death\ne.g. Cerebellar hypoplasia\n In calves where the cerebellum fails to develop can be due to transmission of the \nvirus of mucosal disease from mother to foetus during pregnancy.\ns107.photobucket.com/albums/m298/denholml/Let...\nLethal congenital hydrocephalus \nDevelopmental defects seen at birth are caused by defects in the cellular \nprocesses of development.\nThe term congenital does not imply or exclude a genetic cause. A congenital disorder can be \nrecognized before birth (prenatally), at birth, or many years later\n37",
+      "images": [
+        "ci-slide-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "❖ Definition of Disease",
+      "text": "❖ Definition of Disease \nSummary Slide\n❖ Causes of cell injury and cell death:\n➢Ischaemia \n➢Physical/Chemical/Infectious Agents\n➢Nutritional Disorders\n➢Immunological Disorders \n➢Genetic Disorders \n➢Congenital\n38",
+      "images": [
+        "ci-slide-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "What are the major causes of cell injury? Mention examples?",
+      "text": "What are the major causes of cell injury? Mention examples?\nQuestions\nWhat is a congenital disorder?\nWhat is ischemia? Give an example.\n39",
+      "images": [
+        "ci-slide-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Cellular Injury II",
+      "text": "Cellular Injury II \n40\nReaction of the Cell to Injury",
+      "images": [
+        "ci-slide-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Aims",
+      "text": "Aims\n❖ To examine effects of injury on the cell and types of \ncell response to the injury\nObjectives \n➢To outline cell types by their capacity for cell division\n➢To  briefly review cell response to the injury \n➢Cellular adaptation and cell death\n➢ Outline various types of cellular adaptation\n41",
+      "images": [
+        "ci-slide-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "•",
+      "text": "•\nThe Perfect World\n•\nThe Real World\nCOLD\nFLU\nCHICKEN \nPOX\nSTOMACH \nUPSET\nHELP \nME !\nHELP !\nHELP \nME!\nThe body is under constant attack by microorganisms in the environment\n42",
+      "images": [
+        "ci-slide-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "❖Divided into three types by their capacity for cell division",
+      "text": "❖Divided into three types by their capacity for cell division\nCell types\n➢ cells which divide and replicate continuously.\ne.g. squamous cells in the epidermis\nHealthy cervical cells\nwww.cap.org/apps/docs/reference/myBiopsy/Cerv\nwww.guardian.co.uk/lifeandstyle/besttreatment...\n43",
+      "images": [
+        "ci-slide-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Cell types",
+      "text": "Cell types\n➢ cells which do not normally replicate continuously but are \ncapable of cell division in response to demand \ne.g. Liver cells\nLiver cells\nhplusclub.com/hblog/category/uncategorized\n44",
+      "images": [
+        "ci-slide-44"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Cell types",
+      "text": "Cell types\nwww.shutterpoint.com/Photos-ViewPhoto.cfm?id=332383\nNeuron cell\n➢ cells which are incapable of cell division.  \ne.g. neurones and cardiac muscle cells.\n45",
+      "images": [
+        "ci-slide-45"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "• If the injury is too severe (“irreversible injury”), the",
+      "text": "• If the injury is too severe (“irreversible injury”), the \naffected cells die.\n• Under physiological stresses or pathological stimuli \n(“injury”), cells can undergo adaptation to achieve a new \nsteady state in the new environment. (“Adaptation”)\nResponse to Injury\n“Overview”\n•\nFactors causing cell injury can lead to:\n–\nCellular adaptation: non – lethal/reversible injury \n–\nCell death: lethal/irreversible injury\n46",
+      "images": [
+        "ci-slide-46"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Reaction of the Cell to Injury",
+      "text": "Reaction of the Cell to Injury\nIncreased \ncellular activity\nHypertrophy\nincrease in the size of cells \nHyperplasia\nincreased number of cells \nDecreased \ncellular activity\nAtrophy\nshrinkage of cells \nChange in cell \ntype or position\nMetaplasia\ntransformation or \nreplacement of one adult cell \ntype with another \nDysplasia\nLoss of cell orientation\nCellular \nAdaptation\n47",
+      "images": [
+        "ci-slide-47"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "REACTION OF CELL TO INJURY",
+      "text": "REACTION OF CELL TO INJURY\n“General Considerations”\n➢\nMorphology becomes apparent late in cell injury.\n➢\nReaction of cell to injury depends on type of injury, \nduration and severity. \n➢\nReaction of cell to injury also depends on the type, \nstate & adaptability of the cell.\n48",
+      "images": [
+        "ci-slide-48"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Cell Adaptation",
+      "text": "Cell Adaptation\nHypertrophy \n● increase in the size of cells which results in enlargement\n➢ It is mostly seen in cells that cannot divide,  e.g. skeletal muscle & \ncardiac muscle,  these cells cannot adapt to increased functional demands \nby mitotic division.\n➢ Is caused either by increased functional demand or by specific endocrine \nstimulations\n➢ Not only the size, but also the phenotype of individual cells can be altered \nin hypertrophy\n➢ With increasing demand, hypertrophy can reach a limit beyond the size \nlimitation and organ failure can occur\n➢ The changes usually revert to normal if the cause is removed. \n49",
+      "images": [
+        "ci-slide-49"
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Hypertrophy",
+      "text": "Hypertrophy \n● increase in the size of cells which results in enlargement\n(Taken from Lakhani et al.  1998)\n50",
+      "images": [
+        "ci-slide-50"
+      ]
+    },
+    {
+      "number": 51,
+      "topic": "Feline Cardiomyopathy",
+      "text": "Feline Cardiomyopathy\nDiseased\n“Heart of a cat with a small tumour in the thyroid gland”\nDemand has been put on the heart by an excess of thyroid hormone\nHypertrophy \nNormal\n51",
+      "images": [
+        "ci-slide-51"
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Hyperplasia",
+      "text": "Hyperplasia\n An increase in number of cells\nIt is mostly seen in cells capable of mitotic division the response to an \nincreased functional demand may be to divide. \n❖ Hyperplasia can be classified as: \n• physiologic - hormonal (e.g., breast and uterus during pregnancy) \n• compensatory - regeneration of liver following partial hepatectomy. \n• pathologic - excessive hormonal stimulation , auto immune disease, Psoriasis\nCell Adaptation\n52",
+      "images": [
+        "ci-slide-52"
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Hyperplasia",
+      "text": "Hyperplasia\n An increase in number of cells\n(Taken from Lakhani et al.  1998)\nAdrenocorticotropic hormone\n (ACTH)\n53",
+      "images": [
+        "ci-slide-53"
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Hyperplasia",
+      "text": "Hyperplasia\nBenign Prostatic Hyperplasia\nHormonal\nChronic irritation of skin\n(Autoimmune)\nPsoriasis\n54",
+      "images": [
+        "ci-slide-54"
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Cell Adaptation",
+      "text": "Cell Adaptation\nAtrophy \nA decrease in size by loss of cellular substance\n or number of cells \n❖ Atrophy--shrinkage of cells; classified as: \n➢ Physiologic - due to decreased workload (e.g., decreased size of uterus \nfollowing child birth, or disease) \n➢ Pathologic - primarily due to decreased workload  (Disuse atrophy), \ndenervation of muscle (Denervation atrophy), decreased blood supply  (Brain \natrophy), nutritional deficiency\n55",
+      "images": [
+        "ci-slide-55"
+      ]
+    },
+    {
+      "number": 56,
+      "topic": "(Taken from Lakhani et al.  1998)",
+      "text": "(Taken from Lakhani et al.  1998)\nAtrophy \nA decrease in size or number of cells \n56",
+      "images": [
+        "ci-slide-56"
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Atrophy",
+      "text": "Atrophy\nAtrophy of disuse\n57\nThis leg may have a problem in the joint with Arthritis\nhttps://i.pinimg.com/736x/7d/8b/f0/7d8bf0ca49d81c3a6\n0d59e4c9d9e48a5.jpg",
+      "images": [
+        "ci-slide-57"
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Atrophy. A, Normal brain of a young adult. B, Atrophy of the brain in an 82-",
+      "text": "Atrophy. A, Normal brain of a young adult. B, Atrophy of the brain in an 82-\nyear-old male with atherosclerotic disease. Atrophy of the brain is due to aging and \nreduced blood supply.  The meninges have been stripped from the right half of each \nspecimen to reveal the surface of the brain.\nA\nB\nAtrophy\n58",
+      "images": [
+        "ci-slide-58"
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Cell Adaptation",
+      "text": "Cell Adaptation\n“Change in cell type or position”\n1. Metaplasia \nThe transformation or substitution of one type of adult cell for another adult cell type\n❖Metaplasia is a cellular adaptation in which original cells are replaced by \ncells that are better suited to tolerate a specific abnormal environment\n❖Because of metaplasia, normal protective mechanisms may be lost\n❖Metaplastic changes seem to precede the development of cancer, in some \ninstances\n59",
+      "images": [
+        "ci-slide-59"
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Metaplasia",
+      "text": "Metaplasia \nIn habitual cigarette smoker\nthe change from columnar to squamous cells in respiratory tract\n60",
+      "images": [
+        "ci-slide-60"
+      ]
+    },
+    {
+      "number": 61,
+      "topic": "Metaplasia of normal columnar (left) to squamous epithelium (right) in a bronchus, shown",
+      "text": "Metaplasia of normal columnar (left) to squamous epithelium (right) in a bronchus, shown \n(A) schematically and (B) histologically. (From Robins Basic Pathology chapter 1)\nB\nMetaplasia \nIn habitual cigarette smoker\nthe change from columnar to squamous cells in respiratory tract\n61",
+      "images": [
+        "ci-slide-61"
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Cervical Intraepithelial Neoplasia (CIN) III",
+      "text": "Cervical Intraepithelial Neoplasia (CIN) III\nPre-neoplastic of cervical metaplasia which precedes \ncervical cancer \nHigh numbers of integrated HPV \ngenomes “Cells divide throughout the \nthickness of the  epithelium”\nCIN III\nNormal mucosa\nNo infection or sub-clinical infection \n“Only cells in the basal layer divide”\nMetaplasia \n62",
+      "images": [
+        "ci-slide-62"
+      ]
+    },
+    {
+      "number": 63,
+      "topic": "Metaplasia",
+      "text": "Metaplasia \nSteatosis (fatty change) in a rib eye steak\nReplacement of muscle by fat\n63",
+      "images": [
+        "ci-slide-63"
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "2. Dysplasia",
+      "text": "2. Dysplasia \n❖Is a vague term used to describe abnormal development \nin an organ or disorganisation of cells in a tissue\nCell Adaptation\n➢ Dysplasia is a step toward cancer.\n➢ May progress to malignant neoplasms (abnormal \nmass of tissue)\n➢ Dysplastic tissues may also show loss of normal \narchitectural relationships between cells.  \n64",
+      "images": [
+        "ci-slide-64"
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Cancer Research UK",
+      "text": "Cancer Research UK\nDysplasia \n“Cells having disordered arrangement”\n❖ An increased rate of cell division can be coupled with a \nloss of maturation of the resultant cells. \n65",
+      "images": [
+        "ci-slide-65"
+      ]
+    },
+    {
+      "number": 66,
+      "topic": "Dysplasia (cervical intraepithelial neoplasia CIN)",
+      "text": "Dysplasia (cervical intraepithelial neoplasia CIN)  \nTaken from Lakhani et al. (1998)  \nDysplasia \n66",
+      "images": [
+        "ci-slide-66"
+      ]
+    },
+    {
+      "number": 67,
+      "topic": "E.g. Cervical dysplasia",
+      "text": "E.g. Cervical dysplasia\nDysplasia \nCervical dysplasia\nNormal cervix\n67",
+      "images": [
+        "ci-slide-67"
+      ]
+    },
+    {
+      "number": 68,
+      "topic": "❖Environmental agents (Acquired)",
+      "text": "❖Environmental agents (Acquired)\nHypoxia (oxygen deficiency) and ischemia (blood flow deficiency)\n“Physical” agents\n“Chemical” agents \nInfections \nNutritional defects\nImmunological reactions\n❖Genetic defects\n❖Congenital\nCauses of cell injury\n❑review\ninternal or external factors.\n68",
+      "images": [
+        "ci-slide-68"
+      ]
+    },
+    {
+      "number": 69,
+      "topic": "REACTION OF CELL TO INJURY",
+      "text": "REACTION OF CELL TO INJURY\n69\nInfection by Papillomavirus (PV)\n(PV & Cancer)\nMy research area!",
+      "images": [
+        "ci-slide-69"
+      ]
+    },
+    {
+      "number": 70,
+      "topic": "Papillomaviruses and their hosts",
+      "text": "Papillomaviruses and their hosts\nBPV\nCRPV\nCOPV (Canine Oral )\nHPV\n70",
+      "images": [
+        "ci-slide-70"
+      ]
+    },
+    {
+      "number": 71,
+      "topic": "Hyde-and-seek:",
+      "text": "Hyde-and-seek: \nthe games papillomavirus plays\nThe Molecular basis of cellular changes by Papillomavirus \n71",
+      "images": [
+        "ci-slide-71"
+      ]
+    },
+    {
+      "number": 72,
+      "topic": "Papillomavirus is an oncogenic virus, causes",
+      "text": "Papillomavirus is an oncogenic virus, causes \nlesions that can persist and progress to cancer\n❖ Small DNA tumour virus\n❖Circular DNA approx. 8 kb long\n❖ Infects mucous and cutaneous epithelia\n❖ Induces papillomas/warts\n❖ Pre-malignant lesion can progress to cancer\nFor reference only\n72",
+      "images": [
+        "ci-slide-72"
+      ]
+    },
+    {
+      "number": 73,
+      "topic": "Papillomavirus is an oncogenic virus, causes",
+      "text": "Papillomavirus is an oncogenic virus, causes \nlesions that can persist and progress to cancer\nBasal layer\nSpinous layer\nGranular layer\nSquamous layer\nvirus infects\nthrough cuts\nviral genome\namplification\nvirus\nassembly\nShedding\nof virus\ninfection and\npersistence of\nViral DNA\nNormal\nVirus infection\nDividing\ncells\nFree virus\nDead cells\n73",
+      "images": [
+        "ci-slide-73"
+      ]
+    },
+    {
+      "number": 74,
+      "topic": "❖Playing hide and seek:",
+      "text": "❖Playing hide and seek:\nVirus hides\nSTOP\nImmune cell seeks\nGO\n●Virus needs viable cells to generate infectious progeny\n●The host wants to kill the infected cells\n74",
+      "images": [
+        "ci-slide-74"
+      ]
+    },
+    {
+      "number": 75,
+      "topic": "Why does papillomavirus persist?",
+      "text": "Why does papillomavirus persist?\n• the virus actively fights the immune system\n \n(the viral oncoproteins are immunomodulators)\nE5, transforming oncoprotein protein in HPVs, and in \nBPVs\nLocalised primarily in the cell Golgi apparatus (GA) \n75",
+      "images": [
+        "ci-slide-75"
+      ]
+    },
+    {
+      "number": 76,
+      "topic": "TAP",
+      "text": "TAP\nE5\nE5\n?\nThe processing of viral proteins for presentation of \npeptides to cytotoxic T cells \nMajor Histocompatibiltiy complex \n(MHC)\n76",
+      "images": [
+        "ci-slide-76"
+      ]
+    },
+    {
+      "number": 77,
+      "topic": "Y Assembled MHC class I with bound peptide",
+      "text": "Y Assembled MHC class I with bound peptide\n●\nGolgi apparatus\nPlasma membrane\nY\n●\n●\n●\n●\nY\nY\nY\nY\n●\nCytotoxic T cell\nTransport of Class I MHC with \nbound peptide to cell surface\nRecognition by cytotoxic T cell\nE5\nAn onco-protein called E5 (localised primarily in the cell golgi \napparatus) interacts with MHC I and prevents the transport of MHC I \nto the cell surface, therefore the infected cells escape the \nsurveillance mechanisms (Ashrafi et al,  2002; 2005; 2006) \nHow?\n77",
+      "images": [
+        "ci-slide-77"
+      ]
+    },
+    {
+      "number": 78,
+      "topic": "Normal mucosa",
+      "text": "Normal mucosa\nNo infection or\nsub-clinical infection\nOnly cells in the basal \nlayer divide\nCancer\nHighest numbers\nof integrated HPV\ngenomes\nHigh numbers\nof integrated HPV\ngenomes\nCIN III\nCells divide throughout\nthe thickness of the \nepithelium\nCells divide and invade\nCervical Cancer\n78",
+      "images": [
+        "ci-slide-78"
+      ]
+    },
+    {
+      "number": 79,
+      "topic": "Slide 79",
+      "text": "79",
+      "images": [
+        "ci-slide-79"
+      ]
+    },
+    {
+      "number": 80,
+      "topic": "Questions",
+      "text": "Questions\n3. What is cell adaptation? Mention two examples?\nOn the basis of cell capacity for the division, what are the \nthree major types of cells?\n80",
+      "images": [
+        "ci-slide-80"
+      ]
+    }
+  ],
+  "media": {
+    "ci-slide-1": "cell-injury/slide-01.jpg",
+    "ci-slide-2": "cell-injury/slide-02.jpg",
+    "ci-slide-3": "cell-injury/slide-03.jpg",
+    "ci-slide-4": "cell-injury/slide-04.jpg",
+    "ci-slide-5": "cell-injury/slide-05.jpg",
+    "ci-slide-6": "cell-injury/slide-06.jpg",
+    "ci-slide-7": "cell-injury/slide-07.jpg",
+    "ci-slide-8": "cell-injury/slide-08.jpg",
+    "ci-slide-9": "cell-injury/slide-09.jpg",
+    "ci-slide-10": "cell-injury/slide-10.jpg",
+    "ci-slide-11": "cell-injury/slide-11.jpg",
+    "ci-slide-12": "cell-injury/slide-12.jpg",
+    "ci-slide-13": "cell-injury/slide-13.jpg",
+    "ci-slide-14": "cell-injury/slide-14.jpg",
+    "ci-slide-15": "cell-injury/slide-15.jpg",
+    "ci-slide-16": "cell-injury/slide-16.jpg",
+    "ci-slide-17": "cell-injury/slide-17.jpg",
+    "ci-slide-18": "cell-injury/slide-18.jpg",
+    "ci-slide-19": "cell-injury/slide-19.jpg",
+    "ci-slide-20": "cell-injury/slide-20.jpg",
+    "ci-slide-21": "cell-injury/slide-21.jpg",
+    "ci-slide-22": "cell-injury/slide-22.jpg",
+    "ci-slide-23": "cell-injury/slide-23.jpg",
+    "ci-slide-24": "cell-injury/slide-24.jpg",
+    "ci-slide-25": "cell-injury/slide-25.jpg",
+    "ci-slide-26": "cell-injury/slide-26.jpg",
+    "ci-slide-27": "cell-injury/slide-27.jpg",
+    "ci-slide-28": "cell-injury/slide-28.jpg",
+    "ci-slide-29": "cell-injury/slide-29.jpg",
+    "ci-slide-30": "cell-injury/slide-30.jpg",
+    "ci-slide-31": "cell-injury/slide-31.jpg",
+    "ci-slide-32": "cell-injury/slide-32.jpg",
+    "ci-slide-33": "cell-injury/slide-33.jpg",
+    "ci-slide-34": "cell-injury/slide-34.jpg",
+    "ci-slide-35": "cell-injury/slide-35.jpg",
+    "ci-slide-36": "cell-injury/slide-36.jpg",
+    "ci-slide-37": "cell-injury/slide-37.jpg",
+    "ci-slide-38": "cell-injury/slide-38.jpg",
+    "ci-slide-39": "cell-injury/slide-39.jpg",
+    "ci-slide-40": "cell-injury/slide-40.jpg",
+    "ci-slide-41": "cell-injury/slide-41.jpg",
+    "ci-slide-42": "cell-injury/slide-42.jpg",
+    "ci-slide-43": "cell-injury/slide-43.jpg",
+    "ci-slide-44": "cell-injury/slide-44.jpg",
+    "ci-slide-45": "cell-injury/slide-45.jpg",
+    "ci-slide-46": "cell-injury/slide-46.jpg",
+    "ci-slide-47": "cell-injury/slide-47.jpg",
+    "ci-slide-48": "cell-injury/slide-48.jpg",
+    "ci-slide-49": "cell-injury/slide-49.jpg",
+    "ci-slide-50": "cell-injury/slide-50.jpg",
+    "ci-slide-51": "cell-injury/slide-51.jpg",
+    "ci-slide-52": "cell-injury/slide-52.jpg",
+    "ci-slide-53": "cell-injury/slide-53.jpg",
+    "ci-slide-54": "cell-injury/slide-54.jpg",
+    "ci-slide-55": "cell-injury/slide-55.jpg",
+    "ci-slide-56": "cell-injury/slide-56.jpg",
+    "ci-slide-57": "cell-injury/slide-57.jpg",
+    "ci-slide-58": "cell-injury/slide-58.jpg",
+    "ci-slide-59": "cell-injury/slide-59.jpg",
+    "ci-slide-60": "cell-injury/slide-60.jpg",
+    "ci-slide-61": "cell-injury/slide-61.jpg",
+    "ci-slide-62": "cell-injury/slide-62.jpg",
+    "ci-slide-63": "cell-injury/slide-63.jpg",
+    "ci-slide-64": "cell-injury/slide-64.jpg",
+    "ci-slide-65": "cell-injury/slide-65.jpg",
+    "ci-slide-66": "cell-injury/slide-66.jpg",
+    "ci-slide-67": "cell-injury/slide-67.jpg",
+    "ci-slide-68": "cell-injury/slide-68.jpg",
+    "ci-slide-69": "cell-injury/slide-69.jpg",
+    "ci-slide-70": "cell-injury/slide-70.jpg",
+    "ci-slide-71": "cell-injury/slide-71.jpg",
+    "ci-slide-72": "cell-injury/slide-72.jpg",
+    "ci-slide-73": "cell-injury/slide-73.jpg",
+    "ci-slide-74": "cell-injury/slide-74.jpg",
+    "ci-slide-75": "cell-injury/slide-75.jpg",
+    "ci-slide-76": "cell-injury/slide-76.jpg",
+    "ci-slide-77": "cell-injury/slide-77.jpg",
+    "ci-slide-78": "cell-injury/slide-78.jpg",
+    "ci-slide-79": "cell-injury/slide-79.jpg",
+    "ci-slide-80": "cell-injury/slide-80.jpg",
+    "ci-panel-cell": "cell-injury/panel-cell.jpg",
+    "ci-panel-membrane": "cell-injury/panel-membrane.jpg",
+    "ci-panel-homeostasis": "cell-injury/panel-homeostasis.jpg",
+    "ci-panel-organisation": "cell-injury/panel-organisation.jpg",
+    "ci-panel-brain-ischaemia": "cell-injury/panel-brain-ischaemia.jpg",
+    "ci-panel-heart-ischaemia": "cell-injury/panel-heart-ischaemia.jpg",
+    "ci-panel-cirrhosis": "cell-injury/panel-cirrhosis.jpg",
+    "ci-panel-livers": "cell-injury/panel-livers.jpg",
+    "ci-panel-papillomavirus": "cell-injury/panel-papillomavirus.jpg",
+    "ci-panel-vitamin-d": "cell-injury/panel-vitamin-d.jpg",
+    "ci-panel-sickle-cells": "cell-injury/panel-sickle-cells.jpg",
+    "ci-panel-skin": "cell-injury/panel-skin.jpg",
+    "ci-panel-hepatocytes": "cell-injury/panel-hepatocytes.jpg",
+    "ci-panel-neuron": "cell-injury/panel-neuron.jpg",
+    "ci-panel-hypertrophy": "cell-injury/panel-hypertrophy.jpg",
+    "ci-panel-hearts": "cell-injury/panel-hearts.jpg",
+    "ci-panel-hyperplasia": "cell-injury/panel-hyperplasia.jpg",
+    "ci-panel-atrophy": "cell-injury/panel-atrophy.jpg",
+    "ci-panel-disuse": "cell-injury/panel-disuse.jpg",
+    "ci-panel-brain-atrophy": "cell-injury/panel-brain-atrophy.jpg",
+    "ci-panel-metaplasia": "cell-injury/panel-metaplasia.jpg",
+    "ci-panel-cin": "cell-injury/panel-cin.jpg",
+    "ci-panel-dysplasia": "cell-injury/panel-dysplasia.jpg",
+    "ci-panel-pv-lifecycle": "cell-injury/panel-pv-lifecycle.jpg",
+    "ci-panel-mhc": "cell-injury/panel-mhc.jpg",
+    "ci-panel-invasion": "cell-injury/panel-invasion.jpg",
+    "ci-visual-01": "cell-injury/visual-01.jpg",
+    "ci-visual-02": "cell-injury/visual-02.jpg",
+    "ci-visual-03": "cell-injury/visual-03.jpg",
+    "ci-visual-04": "cell-injury/visual-04.jpg",
+    "ci-visual-05": "cell-injury/visual-05.jpg",
+    "ci-visual-06": "cell-injury/visual-06.jpg",
+    "ci-visual-07": "cell-injury/visual-07.jpg",
+    "ci-visual-08": "cell-injury/visual-08.jpg",
+    "ci-visual-09": "cell-injury/visual-09.jpg",
+    "ci-visual-10": "cell-injury/visual-10.jpg",
+    "ci-visual-11": "cell-injury/visual-11.jpg",
+    "ci-visual-12": "cell-injury/visual-12.jpg",
+    "ci-visual-13": "cell-injury/visual-13.jpg",
+    "ci-visual-14": "cell-injury/visual-14.jpg",
+    "ci-visual-15": "cell-injury/visual-15.jpg",
+    "ci-visual-16": "cell-injury/visual-16.jpg",
+    "ci-visual-17": "cell-injury/visual-17.jpg",
+    "ci-visual-18": "cell-injury/visual-18.jpg",
+    "ci-visual-19": "cell-injury/visual-19.jpg",
+    "ci-visual-20": "cell-injury/visual-20.jpg",
+    "ci-visual-21": "cell-injury/visual-21.jpg",
+    "ci-visual-22": "cell-injury/visual-22.jpg",
+    "ci-visual-23": "cell-injury/visual-23.jpg"
+  },
+  "mediaCredits": {
+    "ci-panel-cell": {
+      "title": "Animal cell and organelles",
+      "credit": "Supplied LS5009 lecture · slide 6 · original credit on source slide"
+    },
+    "ci-panel-membrane": {
+      "title": "Phospholipid bilayer and membrane proteins",
+      "credit": "Supplied LS5009 lecture · slide 7 · original credit on source slide"
+    },
+    "ci-panel-homeostasis": {
+      "title": "Normal cells: phase-contrast and fluorescence microscopy",
+      "credit": "Supplied LS5009 lecture · slide 10 · original credit on source slide"
+    },
+    "ci-panel-organisation": {
+      "title": "Cells, tissues, organs and organ systems",
+      "credit": "Supplied LS5009 lecture · slide 11 · original credit on source slide"
+    },
+    "ci-panel-brain-ischaemia": {
+      "title": "Cerebral blood-vessel blockage",
+      "credit": "Supplied LS5009 lecture · slide 22 · original credit on source slide"
+    },
+    "ci-panel-heart-ischaemia": {
+      "title": "Coronary blockage and ischaemic heart muscle",
+      "credit": "Supplied LS5009 lecture · slide 22 · original credit on source slide"
+    },
+    "ci-panel-cirrhosis": {
+      "title": "Cirrhosis: regenerative nodules and fibrosis",
+      "credit": "Supplied LS5009 lecture · slide 27 · original credit on source slide"
+    },
+    "ci-panel-livers": {
+      "title": "Nodular cirrhotic liver compared with smooth healthy liver",
+      "credit": "Supplied LS5009 lecture · slide 27 · original credit on source slide"
+    },
+    "ci-panel-papillomavirus": {
+      "title": "Papillomavirus particles in the lecture micrograph",
+      "credit": "Supplied LS5009 lecture · slide 29 · original credit on source slide"
+    },
+    "ci-panel-vitamin-d": {
+      "title": "Bone deformity in vitamin D deficiency",
+      "credit": "Supplied LS5009 lecture · slide 33 · original credit on source slide"
+    },
+    "ci-panel-sickle-cells": {
+      "title": "Normal and sickled red blood cells",
+      "credit": "Supplied LS5009 lecture · slide 35 · original credit on source slide"
+    },
+    "ci-panel-skin": {
+      "title": "Renewing squamous epithelium and basal cells",
+      "credit": "Supplied LS5009 lecture · slide 43 · original credit on source slide"
+    },
+    "ci-panel-hepatocytes": {
+      "title": "Hepatocytes: cells that can re-enter the cell cycle",
+      "credit": "Supplied LS5009 lecture · slide 44 · original credit on source slide"
+    },
+    "ci-panel-neuron": {
+      "title": "Neuron: limited regenerative capacity",
+      "credit": "Supplied LS5009 lecture · slide 45 · original credit on source slide"
+    },
+    "ci-panel-hypertrophy": {
+      "title": "Same number of cells, larger cell size",
+      "credit": "Supplied LS5009 lecture · slide 50 · original credit on source slide"
+    },
+    "ci-panel-hearts": {
+      "title": "Normal and enlarged feline hearts",
+      "credit": "Supplied LS5009 lecture · slide 51 · original credit on source slide"
+    },
+    "ci-panel-hyperplasia": {
+      "title": "Increased cell number",
+      "credit": "Supplied LS5009 lecture · slide 53 · original credit on source slide"
+    },
+    "ci-panel-atrophy": {
+      "title": "Smaller cells and reduced tissue mass",
+      "credit": "Supplied LS5009 lecture · slide 56 · original credit on source slide"
+    },
+    "ci-panel-disuse": {
+      "title": "Unequal calf muscle bulk after reduced use",
+      "credit": "Supplied LS5009 lecture · slide 57 · original credit on source slide"
+    },
+    "ci-panel-brain-atrophy": {
+      "title": "Normal brain A and atrophic brain B",
+      "credit": "Supplied LS5009 lecture · slide 58 · original credit on source slide"
+    },
+    "ci-panel-metaplasia": {
+      "title": "Bronchial columnar-to-squamous change: schematic and histology",
+      "credit": "Supplied LS5009 lecture · slide 61 · original credit on source slide"
+    },
+    "ci-panel-cin": {
+      "title": "Normal epithelium and CIN III histology",
+      "credit": "Supplied LS5009 lecture · slide 62 · original credit on source slide"
+    },
+    "ci-panel-dysplasia": {
+      "title": "Normal maturation compared with increasing epithelial dysplasia",
+      "credit": "Supplied LS5009 lecture · slide 66 · original credit on source slide"
+    },
+    "ci-panel-pv-lifecycle": {
+      "title": "Papillomavirus infection in differentiating epithelium",
+      "credit": "Supplied LS5009 lecture · slide 73 · original credit on source slide"
+    },
+    "ci-panel-mhc": {
+      "title": "MHC class I transport and cytotoxic T-cell recognition",
+      "credit": "Supplied LS5009 lecture · slide 77 · original credit on source slide"
+    },
+    "ci-panel-invasion": {
+      "title": "Normal mucosa, CIN III and invasive cervical carcinoma",
+      "credit": "Supplied LS5009 lecture · slide 78 · original credit on source slide"
+    },
+    "ci-visual-01": {
+      "title": "Visual recall · slide 7",
+      "credit": "Supplied LS5009 lecture · slide 7 · original credit on source slide"
+    },
+    "ci-visual-02": {
+      "title": "Visual recall · slide 22",
+      "credit": "Supplied LS5009 lecture · slide 22 · original credit on source slide"
+    },
+    "ci-visual-03": {
+      "title": "Visual recall · slide 22",
+      "credit": "Supplied LS5009 lecture · slide 22 · original credit on source slide"
+    },
+    "ci-visual-04": {
+      "title": "Visual recall · slide 27",
+      "credit": "Supplied LS5009 lecture · slide 27 · original credit on source slide"
+    },
+    "ci-visual-05": {
+      "title": "Visual recall · slide 27",
+      "credit": "Supplied LS5009 lecture · slide 27 · original credit on source slide"
+    },
+    "ci-visual-06": {
+      "title": "Visual recall · slide 33",
+      "credit": "Supplied LS5009 lecture · slide 33 · original credit on source slide"
+    },
+    "ci-visual-07": {
+      "title": "Visual recall · slide 35",
+      "credit": "Supplied LS5009 lecture · slide 35 · original credit on source slide"
+    },
+    "ci-visual-08": {
+      "title": "Visual recall · slide 43",
+      "credit": "Supplied LS5009 lecture · slide 43 · original credit on source slide"
+    },
+    "ci-visual-09": {
+      "title": "Visual recall · slide 44",
+      "credit": "Supplied LS5009 lecture · slide 44 · original credit on source slide"
+    },
+    "ci-visual-10": {
+      "title": "Visual recall · slide 45",
+      "credit": "Supplied LS5009 lecture · slide 45 · original credit on source slide"
+    },
+    "ci-visual-11": {
+      "title": "Visual recall · slide 50",
+      "credit": "Supplied LS5009 lecture · slide 50 · original credit on source slide"
+    },
+    "ci-visual-12": {
+      "title": "Visual recall · slide 51",
+      "credit": "Supplied LS5009 lecture · slide 51 · original credit on source slide"
+    },
+    "ci-visual-13": {
+      "title": "Visual recall · slide 53",
+      "credit": "Supplied LS5009 lecture · slide 53 · original credit on source slide"
+    },
+    "ci-visual-14": {
+      "title": "Visual recall · slide 56",
+      "credit": "Supplied LS5009 lecture · slide 56 · original credit on source slide"
+    },
+    "ci-visual-15": {
+      "title": "Visual recall · slide 57",
+      "credit": "Supplied LS5009 lecture · slide 57 · original credit on source slide"
+    },
+    "ci-visual-16": {
+      "title": "Visual recall · slide 58",
+      "credit": "Supplied LS5009 lecture · slide 58 · original credit on source slide"
+    },
+    "ci-visual-17": {
+      "title": "Visual recall · slide 61",
+      "credit": "Supplied LS5009 lecture · slide 61 · original credit on source slide"
+    },
+    "ci-visual-18": {
+      "title": "Visual recall · slide 61",
+      "credit": "Supplied LS5009 lecture · slide 61 · original credit on source slide"
+    },
+    "ci-visual-19": {
+      "title": "Visual recall · slide 62",
+      "credit": "Supplied LS5009 lecture · slide 62 · original credit on source slide"
+    },
+    "ci-visual-20": {
+      "title": "Visual recall · slide 66",
+      "credit": "Supplied LS5009 lecture · slide 66 · original credit on source slide"
+    },
+    "ci-visual-21": {
+      "title": "Visual recall · slide 73",
+      "credit": "Supplied LS5009 lecture · slide 73 · original credit on source slide"
+    },
+    "ci-visual-22": {
+      "title": "Visual recall · slide 77",
+      "credit": "Supplied LS5009 lecture · slide 77 · original credit on source slide"
+    },
+    "ci-visual-23": {
+      "title": "Visual recall · slide 78",
+      "credit": "Supplied LS5009 lecture · slide 78 · original credit on source slide"
+    }
+  },
+  "editorialNotes": [
+    "Source references use PDF page numbers, which also match the printed slide numbers. The two lectures are organised together by topic.",
+    "Slide 6 gives an outdated human cell-count estimate; it is not tested. Cytoplasm is defined as the cellular contents outside the nucleus, correcting the loose wording on slide 8.",
+    "Mature neurons and cardiomyocytes have very limited regenerative capacity; the traditional permanent-cell category is used without claiming that all renewal is impossible.",
+    "CIN III is severe epithelial dysplasia, not simple metaplasia. Invasion through the basement membrane distinguishes invasive carcinoma. HPV integration is not treated as a numerical diagnostic criterion.",
+    "Fatty infiltration of muscle in the steak photograph on slide 63 is not used as a standard example of epithelial metaplasia or intracellular steatosis.",
+    "Papillomavirus research is labelled as an extension section. Persistence and cancer risk depend on virus type and context; not all HPV infections progress to cancer. The E5/MHC-I mechanism is presented as the lecture’s research model, not a universal mechanism for every HPV type.",
+    "Pathology images illustrate the lecture concepts; pictures alone are not presented as sufficient to establish a clinical diagnosis.",
+    "Normal source slides are retained in full. Visual prompt crops remove explanatory labels, and image credits refer back to the lecture source."
+  ]
+}

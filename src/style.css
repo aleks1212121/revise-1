@@ -93,3 +93,14 @@
  .study-mode .flashcard:has(.slide-pictures img)>:not(.slide-pictures){grid-column:1}
  .study-mode .flashcard .slide-pictures{grid-column:2;grid-row:1/span 5;margin:0}
 }
+@media(max-width:640px){
+ aside{padding:10px 14px;gap:3px}
+ .brand{font-size:18px;gap:4px}
+ .brand-icon{font-size:21px}
+ .nav{font-size:15px;padding:7px 3px}
+ .nav span{font-size:7px;white-space:nowrap}
+ .study-mode .header-actions,.study-mode .content>.eyebrow{display:none}
+ .study-mode header{min-height:36px;padding:7px 14px}
+ .study-mode .study-diagrams img{height:130px}
+ .study-mode .study-diagrams figcaption{font-size:9px}
+}

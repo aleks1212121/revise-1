@@ -5,6 +5,7 @@ import {isDue,schedule,intervalLabel,nextReviewLabel,migrateSchedule,preserveSch
 import {addStudyVisuals} from './visuals.js';
 import {backendURL,generateAI} from './ai.js';
 import './style.css';
+const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cell injury I & II'}];
 let deck=null,lectures=[],uploadFile=null,uploadTitle='',uploadMode='ai',aiToken='',aiReady=false;
 let aiEndpoint='';try{aiEndpoint=localStorage.getItem('micro-ai-url')||''}catch{}
 let view='study',index=0,flipped=false,filter='due',visualHint=false,illustrationIndex=0,section='all',search='',queue=[],busy=false,message='',editing=null;
@@ -16,7 +17,7 @@ function mediaURL(id){
  const src=deck?.media?.[id];
  if(typeof src!=='string')return '';
  if(/^data:image\/(png|jpeg|gif|webp);base64,[A-Za-z0-9+/=]+$/.test(src))return src;
- if(/^((?:lecture|genetic-variation)\/[a-z0-9-]+\.jpg|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
+ if(/^((?:lecture|genetic-variation|cell-injury)\/[a-z0-9-]+\.jpg|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
  return '';
 }
 function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}
@@ -47,7 +48,7 @@ function resetQueue(){queue=cards().filter(matchesFilter).sort((a,b)=>filter==='
 function current(){return cards().find(c=>c.id===queue[index])}
 function render(){
  const all=cards(),known=all.filter(c=>c.status==='known').length,c=current();
- document.querySelector('#app').innerHTML=`<aside><a class="brand" href="#"><span class="brand-icon">✳</span> micro<span class="brand-dot">.</span></a><div class="workspace-label">YOUR WORKSPACE</div><button class="nav ${view==='lectures'?'active':''}" data-view="lectures">▤ <span>Lectures</span><small>${lectures.length}</small></button><button class="nav ${view==='study'?'active':''}" data-view="study">▱ <span>Study cards</span></button><button class="nav ${view==='library'?'active':''}" data-view="library">▦ <span>Card library</span><small>${all.length}</small></button><button class="nav ${view==='slides'?'active':''}" data-view="slides">▧ <span>Slide reference</span></button><div class="sidebar-lectures"><div class="workspace-label">LECTURE DECKS</div>${lectures.map(l=>`<button class="lecture-shortcut ${l.lectureId===deck?.lectureId?'active':''}" data-open-lecture="${esc(l.lectureId)}" title="${esc(l.title)}"><span>${esc(l.lectureId==='microorganisms'?'Microorganisms':l.lectureId==='genetic-variation'?'Genetic variation':l.title)}</span><small>${l.count}</small></button>`).join('')}</div><div class="aside-bottom"><div class="privacy-dot"></div><div>Made for your mind.<br><small>Stored only in this browser</small></div></div></aside>
+ document.querySelector('#app').innerHTML=`<aside><a class="brand" href="#"><span class="brand-icon">✳</span> micro<span class="brand-dot">.</span></a><div class="workspace-label">YOUR WORKSPACE</div><button class="nav ${view==='lectures'?'active':''}" data-view="lectures">▤ <span>Lectures</span><small>${lectures.length}</small></button><button class="nav ${view==='study'?'active':''}" data-view="study">▱ <span>Study cards</span></button><button class="nav ${view==='library'?'active':''}" data-view="library">▦ <span>Card library</span><small>${all.length}</small></button><button class="nav ${view==='slides'?'active':''}" data-view="slides">▧ <span>Slide reference</span></button><div class="sidebar-lectures"><div class="workspace-label">LECTURE DECKS</div>${lectures.map(l=>`<button class="lecture-shortcut ${l.lectureId===deck?.lectureId?'active':''}" data-open-lecture="${esc(l.lectureId)}" title="${esc(l.title)}"><span>${esc(l.lectureId==='microorganisms'?'Microorganisms':(bundledLectures.find(b=>b.id===l.lectureId)?.label||l.title))}</span><small>${l.count}</small></button>`).join('')}</div><div class="aside-bottom"><div class="privacy-dot"></div><div>Made for your mind.<br><small>Stored only in this browser</small></div></div></aside>
  <main class="${view==='study'&&deck?'study-mode':''}"><header><span>MY LECTURES <span class="slash">/</span> <strong>${esc(deck?.title||'My lectures')}</strong></span><div class="header-actions"><button class="button subtle" id="curated">${deck?.curated?'Reset lecture deck':'Microorganisms deck'}</button><button class="button subtle" id="import-top">＋ Import lecture</button></div></header><section class="content"><div class="eyebrow"><span></span> ${deck?.curated?'LIFE SCIENCES · LS5008 / LS5030':'YOUR PERSONAL STUDY WORKSPACE'}</div><div class="title-row"><div><h1>${deck?.curated?'Small organisms.<br> Big understanding.':view==='lectures'?'Your lectures.<br> Your learning.':esc(deck?.title||'Your personal study space')}</h1><p class="subtitle">A little recall today. A lot more confidence tomorrow.</p></div><div class="micro-art" aria-hidden="true"><i></i><i></i><i></i><b>✳</b><span>THE MICRO WORLD</span></div></div>
  ${deck&&!deck.curated&&deck.generation!=='ai'&&deck.generation!=='local'&&deck.generation!=='reviewed'?'<div class="notice">Your saved deck is still open. Open <strong>Microorganisms deck</strong> above for the 178 focused cloze and visual cards in the reviewed example lecture.</div>':''}
  ${message?`<div role="status" class="notice">${esc(message)}</div>`:''}
@@ -95,7 +96,7 @@ function bind(){
  }else{if(!next.question||!next.answer)return;if(next.id)deck.cards=cards().map(c=>c.id===next.id?next:c);else deck.cards.push({...next,id:crypto.randomUUID(),status:'new'})}
  editing=null;save();resetQueue();render()});
 }
-function rate(rating){const c=current();if(!c||!flipped)return;Object.assign(c,schedule(c,rating));save();message=`${rating==='again'?'Relearning scheduled':'Review saved'} · ${nextReviewLabel(c)}. Cards are never marked done forever.`;if(filter==='due')queue.splice(index,1);else index++;flipped=false;visualHint=false;illustrationIndex=0;render()}
+function rate(rating){const c=current();if(!c||!flipped)return;Object.assign(c,schedule(c,rating));save();message=`${rating==='again'?'Relearning scheduled':'Review saved'} · ${nextReviewLabel(c)}.`;if(filter==='due')queue.splice(index,1);else index++;flipped=false;visualHint=false;illustrationIndex=0;render()}
 function nextDueSummary(){const future=cards().filter(c=>(section==='all'||cardSection(c)===section)&&Number.isFinite(c.dueAt)&&c.dueAt>Date.now()).sort((a,b)=>a.dueAt-b.dueAt);return future.length?`Next refresher: ${esc(nextReviewLabel(future[0]))}. Come back then, or practise any card now.`:'No cards are due in this section. You can still practise all cards.'}
 function captureEditor(){
  const data=new FormData(document.getElementById('edit-form'));
@@ -123,13 +124,19 @@ render();
 loadDeck().then(async value=>{
  deck=value?addStudyVisuals(migrateSchedule(value)):await loadCurated();resetQueue();await save();
  try{
-  if(!await getLecture('genetic-variation')){
-   const response=await fetch(`${import.meta.env.BASE_URL}genetic-variation/deck.json`);
-   if(!response.ok)throw Error('Could not load the Genetic variation lecture.');
-   await ensureLecture(migrateSchedule(await response.json()));
+  const failed=[];
+  for(const lecture of bundledLectures){
+   try{
+    if(!await getLecture(lecture.id)){
+     const response=await fetch(`${import.meta.env.BASE_URL}${lecture.id}/deck.json`);
+     if(!response.ok)throw Error('Could not load this lecture.');
+     await ensureLecture(migrateSchedule(await response.json()));
+    }
+   }catch{failed.push(lecture.label)}
   }
   lectures=await listLectures();
- }catch{message='Your current deck is saved. Refresh to retry adding the Genetic variation lecture.'}
+  if(failed.length)message=`Your current deck is saved. Refresh to retry adding: ${failed.join(', ')}.`;
+ }catch{message='Your current deck is saved. Refresh to retry loading the lecture collection.'}
  render();
 }).catch(()=>{message='Browser storage is unavailable. Export your deck to keep a copy.';render()});
 

@@ -2,9 +2,13 @@
 
 A static, local-first flashcard app for the LS5008 / LS5030 lecture. The included deck was written from the uploaded 65-slide lecture PDF and contains **178 focused cloze cards**, including **7 visual-recall cards** using cropped slide pictures. Every card has a source slide; all 65 slide references are included.
 
-The collection also includes **Lecture 2 — Genetic variation**: **161 reviewed cloze cards**, including **10 visual cards** drawn from eight diagram crops, with all **47 source slides**. It is automatically added to the sidebar and Lectures collection, without replacing your active deck, edits or review schedules. Switching lectures keeps progress separate. Both bundled decks are free to study and require no AI service, account or API key.
+The collection also includes **Lecture 2 — Genetic variation**: **161 reviewed cloze cards**, including **10 visual cards** drawn from eight diagram crops, with all **47 source slides**. It is automatically added to the sidebar and Lectures collection, without replacing your active deck, edits or review schedules. Switching lectures keeps progress separate. All bundled decks are free to study and require no AI service, account or API key.
 
 The genetics deck covers genotype/phenotype, the genetic code, mutation classes, coding and non-coding effects, sickle-cell disease, cystic fibrosis, Huntington’s disease, splicing and inheritance mechanisms. It includes practical classification and mechanism questions. Source slide 35 incorrectly says glutamine → valine for sickle-cell disease; the cards use **glutamate → valine** and explain the correction. The outdated essential-amino-acid count on slide 15 is not tested. Original source slides remain available.
+
+The collection now includes **Cellular injury I & II (LS5009)**, written from Dr Ashrafi’s 80-page lecture PDF: **196 cloze cards**, with **23 visual questions** and **128 text cards linked to targeted illustrations**. There are 26 supporting diagram/photo crops plus 23 visual-prompt crops from the lecture, covering cell membranes, ischaemia, cirrhosis, vitamin D deficiency, sickled cells, cell renewal, hypertrophy, hyperplasia, atrophy, metaplasia, dysplasia and papillomavirus research. The deck appears automatically as **Cell injury I & II** in the sidebar.
+
+Illustrations are available through **Show visual hint** before answering and appear alongside the answer after reveal. Visual questions show crops with answer headings excluded; the full source slide appears on reveal. Credits link each crop back to its lecture slide. The extension section clearly marks papillomavirus research. Cards distinguish CIN III from simple metaplasia and distinguish invasive cancer by basement-membrane invasion; source simplifications are explained rather than taught as absolute rules.
 
 ## Run and validate
 
@@ -47,7 +51,7 @@ In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as
 
 https://aleks1212121.github.io/revise-1/
 
-For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Public lecture images and deck content are in `public/lecture/` and `public/genetic-variation/` and copied into the build.
+For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Public lecture images and deck content are in `public/lecture/`, `public/genetic-variation/` and `public/cell-injury/` and copied into the build.
 
 ## Editorial notes
 
