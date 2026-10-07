@@ -111,3 +111,9 @@ To check phone interactions, build the app, run `npm run preview -- --port 4189`
 Open **Friends & streaks** to see daily slides/cards studied, the last seven days and a streak. Signed-in users can choose a display name, share a friend code, accept requests and compare friends’ Today/Last 7 days leaderboards and overall slide/card coverage. On phones, Friends is in the lecture strip. Study controls remain unchanged.
 
 The owner must run the new [friends.sql migration](supabase/friends.sql) in the existing Supabase SQL Editor to activate sharing; see [Friends setup and counting rules](supabase/FRIENDS.md). Until then, study and deck syncing remain available and the Friends screen explains the missing setup. Guest activity is local. Daily counting begins with this update, uses London midnight and merges across devices without double-counting the same card/day. Only accepted friends receive aggregate statistics; decks, answers, pictures and emails stay private.
+
+## Appearance settings
+
+Open **Settings** in the sidebar or phone lecture strip. Choose Light, Dark or Match device, then Forest, Ocean, Lavender or Rose. Match device follows the operating system's colour preference automatically. Choices persist in this browser across reloads and sign-ins; each device can use its own appearance. Original lecture images retain their colours.
+
+After building and starting the preview on port 4189, `npm run test:appearance:browser` checks all eight colour combinations for readable text contrast, persistence, system changes, account inputs and phone grading.

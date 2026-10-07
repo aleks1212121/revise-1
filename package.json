@@ -11,7 +11,8 @@
     "start:ai": "node server/index.js",
     "test:accounts:browser": "node scripts/check-accounts.cjs",
     "test:phone:browser": "node scripts/check-phone.cjs",
-    "test:friends:browser": "node scripts/check-friends.cjs"
+    "test:friends:browser": "node scripts/check-friends.cjs",
+    "test:appearance:browser": "node scripts/check-appearance.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
