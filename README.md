@@ -117,3 +117,7 @@ The owner must run the new [friends.sql migration](supabase/friends.sql) in the 
 Open **Settings** in the sidebar or phone lecture strip. Choose Light, Dark or Match device, then Forest, Ocean, Lavender or Rose. Match device follows the operating system's colour preference automatically. Choices persist in this browser across reloads and sign-ins; each device can use its own appearance. Original lecture images retain their colours.
 
 After building and starting the preview on port 4189, `npm run test:appearance:browser` checks all eight colour combinations for readable text contrast, persistence, system changes, account inputs and phone grading.
+
+## Welcome screen
+
+New tab sessions open with a playful CHUDS.org welcome and floating dog photos. **Let’s revise** or Escape dismisses it; refreshing in the same tab keeps it dismissed. The animation respects the device's reduced-motion preference. The dialog holds keyboard focus until dismissed, while decks and accounts continue loading underneath. Run `npm run test:welcome:browser` against the preview to check desktop, phone, landscape, reduced motion and dismissal.

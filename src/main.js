@@ -12,6 +12,7 @@ import {touchRenderGate} from './touch-render.js';
 import {recordStudy} from './activity.js';
 import {friendsWorkspace} from './friends.js';
 import {appearanceSettings} from './appearance.js';
+import {showWelcome} from './welcome.js';
 import './style.css';
 import './themes.css';
 let authClient=null,accountUser=null,syncEngine=null,accountReady=false,accountError='',authNotice='',authWorking=false,recovering=false;
@@ -59,6 +60,7 @@ function matchesFilter(c){return (section==='all'||cardSection(c)===section)&&(f
 function resetQueue(){queue=cards().filter(matchesFilter).sort((a,b)=>filter==='due'?(a.status==='new')-(b.status==='new')||((a.dueAt||0)-(b.dueAt||0)):0).map(c=>c.id);index=0;flipped=false;visualHint=false;illustrationIndex=0}
 function current(){return cards().find(c=>c.id===queue[index])}
 const appearance=appearanceSettings({render:()=>{if(view==='settings')render()}});
+showWelcome();
 const friends=friendsWorkspace({client:()=>authClient,user:()=>accountUser,decks:()=>allLectures(),waitSave:()=>pendingSave,sync:()=>syncEngine?.sync(),render:()=>render()});
 const touchGate=touchRenderGate({document,enabled:()=>view==='study'&&matchMedia('(pointer: coarse)').matches,flush:()=>render()});
 function render(){
