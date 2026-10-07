@@ -1,4 +1,4 @@
-# Micro — Lecture flashcards
+# CHUDS.org — Lecture flashcards
 
 A static, local-first flashcard app for the LS5008 / LS5030 lecture. The included deck was written from the uploaded 65-slide lecture PDF and contains **178 focused cloze cards**, including **7 visual-recall cards** using cropped slide pictures. Every card has a source slide; all 65 slide references are included.
 

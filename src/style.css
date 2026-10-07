@@ -141,3 +141,7 @@
 
 .social-mode .header-actions{display:none}
 @media(max-width:1000px){.friends-workspace.has-friends .friend-leaderboard{grid-row:1}.friends-workspace.has-friends .friends-grid>div{grid-row:2}}
+
+.brand-name{font-size:20px;letter-spacing:-.6px;white-space:nowrap}
+@media(min-width:641px){.brand{margin:0 0 61px;gap:6px}.brand-icon{font-size:28px}}
+@media(max-width:640px){.brand-name{font-size:18px}}
