@@ -13,7 +13,7 @@ npm test
 npm run build
 ```
 
-The Vite base path is `/revise-1/`. New visitors start with the included lecture deck. Existing visitors keep their current deck and can choose **Load improved lecture deck**; export first to preserve a custom deck. The lecture deck reset requires confirmation.
+The Vite base path is `/revise-1/`. New visitors start with the included lecture deck. Existing visitors keep their current deck in the collection and can switch to **Microorganisms deck** without discarding it. The lecture deck reset requires confirmation.
 
 ## Study
 
@@ -29,11 +29,11 @@ Choose Question & answer for conventional cards. Set the source slide to link it
 
 ## Storage and import
 
-Decks, pictures and progress are stored in browser IndexedDB, allowing larger picture-based decks. Existing localStorage decks are read for migration and left intact as a legacy backup. Export creates a portable JSON deck with the pictures embedded. Importing replaces the current deck after confirmation. Export before clearing browser data or changing devices.
+Decks, pictures and progress are stored in browser IndexedDB, allowing larger picture-based decks. Existing localStorage decks are read for migration and left intact as a legacy backup. Export creates a portable JSON deck with the pictures embedded. Importing adds a new lecture to your collection, preserving earlier decks. Export before clearing browser data or changing devices.
 
-PowerPoint imports extract slide text, bold emphasis, and embedded PNG/JPEG/GIF/WebP images locally. Supported factual sentences become draft clozes; other text and image-only slides remain in the reference viewer. These automatic drafts are distinct from the included lecture-based deck. Speaker notes, vector-only images, animations and OCR are not supported. The app does not accept PDF imports; the provided PDF was read during development to create the included deck.
+PowerPoint imports extract slide text, bold emphasis, and embedded PNG/JPEG/GIF/WebP images locally. Supported factual sentences become draft clozes; other text and image-only slides remain in the reference viewer. These automatic drafts are distinct from the included lecture-based deck. Speaker notes, vector-only images, animations and OCR are not supported. PDF uploads are rendered locally into source-page images and their text is extracted. The bundled example deck was written from the original PDF during development.
 
-No backend or API keys are needed. Card data is rendered as escaped text. Only embedded raster-image data and the included lecture image paths can be displayed.
+No backend or API keys are needed for study, local drafts or deck organisation. Optional AI generation uses the separate secure backend described below. Card data is rendered as escaped text. Only embedded raster-image data and the included lecture image paths can be displayed.
 
 ## GitHub Pages
 
@@ -70,3 +70,12 @@ Ten original labeled study schematics illustrate bacterial cells, Gram-positive/
 Relevant cards offer **Show visual hint** before reveal, and show their illustrations after reveal. Hints contain labels and may help reveal the answer; leave them closed when testing unaided recall. Original lecture microscopy and source slides remain available. Saved lecture decks receive these additional illustrations automatically without resetting their progress. JSON exports embed both slide images and study diagrams.
 
 The optional illustration source is `scripts/generate-study-illustrations.py` (requires Python, Pillow and the DejaVu Sans font). It is not needed to run or deploy the app; the generated PNG assets are committed.
+
+
+## Upload and organise more lectures
+
+Choose **Lectures** in the workspace sidebar to upload PDF/PPTX files, name lectures, switch decks and keep separate review schedules. JSON deck imports also add separate lectures. Decks, source pictures and progress remain in browser IndexedDB. The original Microorganisms deck stays in the collection.
+
+**AI-written cloze cards** reads text and pictures using the separate backend and groups cards by topic, with short explanations and source references. **Local draft cards** is a clearly labeled offline alternative; it is not AI. AI generation is unavailable until the backend is deployed and connected. The Render Blueprint is ready in `render.yaml`; complete [AI setup](docs/AI-SETUP.md) to activate it.
+
+All slide-reading, deck collection and study code still deploys as a static GitHub Pages app. The API key stays only in the Render environment. Backend tests and browser checks use fixture responses; real provider generation is unverified until credentials and hosting are supplied.

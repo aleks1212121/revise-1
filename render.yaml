@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: micro-lecture-ai
+    runtime: node
+    plan: free
+    buildCommand: npm ci
+    startCommand: npm run start:ai
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.22.0
+      - key: APP_AI_KEY
+        sync: false
+      - key: AI_ACCESS_TOKEN
+        generateValue: true
+      - key: AI_MODEL
+        value: gpt-4.1
+      - key: ALLOWED_ORIGINS
+        value: https://aleks1212121.github.io,http://localhost:5173,http://localhost:4173
