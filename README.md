@@ -105,3 +105,9 @@ Guest and account collections are stored separately. **Import this browser’s g
 On phones, a fixed bottom bar shows **Reveal answer**, then switches to the four review ratings after revealing. You can reveal and rate without scrolling down, including in landscape. Next/Previous also stay in the bar, with larger touch targets. Background syncing waits for an active study tap to finish before rebuilding its controls or changing the visible card. The desktop study layout is unchanged.
 
 To check phone interactions, build the app, run `npm run preview -- --port 4189`, then run `npm run test:phone:browser` with Playwright Chromium installed. `CHROMIUM_PATH` can point to an existing Chromium executable. These fixture checks cover Android-style touch input, taps during syncing, all ratings, review persistence after reload and three phone sizes.
+
+## Friends, daily activity and streaks
+
+Open **Friends & streaks** to see daily slides/cards studied, the last seven days and a streak. Signed-in users can choose a display name, share a friend code, accept requests and compare friends’ Today/Last 7 days leaderboards and overall slide/card coverage. On phones, Friends is in the lecture strip. Study controls remain unchanged.
+
+The owner must run the new [friends.sql migration](supabase/friends.sql) in the existing Supabase SQL Editor to activate sharing; see [Friends setup and counting rules](supabase/FRIENDS.md). Until then, study and deck syncing remain available and the Friends screen explains the missing setup. Guest activity is local. Daily counting begins with this update, uses London midnight and merges across devices without double-counting the same card/day. Only accepted friends receive aggregate statistics; decks, answers, pictures and emails stay private.

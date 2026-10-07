@@ -4,7 +4,7 @@ const A='11111111-1111-4111-8111-111111111111', B='22222222-2222-4222-8222-22222
 const rows=new Map(), errors=[];let offline=false;
 const user=id=>({id,aud:'authenticated',role:'authenticated',email:id===A?'a@example.test':'b@example.test',email_confirmed_at:new Date().toISOString(),app_metadata:{provider:'email'},user_metadata:{},created_at:new Date().toISOString()});
 const token=id=>[Buffer.from(JSON.stringify({alg:'HS256',typ:'JWT'})).toString('base64url'),Buffer.from(JSON.stringify({sub:id,role:'authenticated',aud:'authenticated',exp:Math.floor(Date.now()/1000)+3600,iss:'https://fixture.supabase.co/auth/v1',email:user(id).email})).toString('base64url'),'ZmFrZQ'].join('.');
-async function fixture(context){
+async function fixture(context,{socialHandler}={}){
  await context.route('**/account-config.json',r=>r.fulfill({json:{supabaseUrl:'https://fixture.supabase.co',supabasePublishableKey:'sb_publishable_fixture'}}));
  await context.route(/https:\/\/[^/]+\.supabase\.co\//,async r=>{
   const req=r.request(),url=new URL(req.url());if(url.hostname!=='fixture.supabase.co'){errors.push('Build uses a real Supabase project; rebuild without account configuration for fixture tests.');return r.abort()}const headers={'access-control-allow-origin':'*','access-control-allow-headers':'*','access-control-allow-methods':'*'};
@@ -20,6 +20,7 @@ async function fixture(context){
   if(offline)return r.abort('internetdisconnected');
   assert.ok(id===A||id===B,'REST requires signed-in identity');
   if(!rows.has(id))rows.set(id,new Map());const collection=rows.get(id);
+  if(socialHandler){const handled=await socialHandler(url.pathname.split('/').pop(),body,id);if(handled)return respond(handled.error||handled.data,handled.error?400:200)}
   if(url.pathname.endsWith('/study_decks'))return respond([...collection.values()]);
   if(url.pathname.endsWith('/save_study_deck')){
    if(body.p_lecture_id==='')return respond({code:'P0001',message:'Invalid lecture payload'},400);
@@ -74,4 +75,4 @@ if(require.main===module)(async()=>{
  }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exitCode=1});
 
-module.exports={fixture,rows,A};
+module.exports={fixture,rows,A,B};
