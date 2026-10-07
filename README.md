@@ -41,7 +41,7 @@ Choose Question & answer for conventional cards. Set the source slide to link it
 
 ## Storage and import
 
-Decks, pictures and progress are stored in browser IndexedDB, allowing larger picture-based decks. Existing localStorage decks are read for migration and left intact as a legacy backup. Export creates a portable JSON deck with the pictures embedded. Importing adds a new lecture to your collection, preserving earlier decks. Export before clearing browser data or changing devices.
+Decks, pictures and progress are stored in browser IndexedDB, allowing larger picture-based decks. Existing localStorage decks are read for migration and left intact as a legacy backup. Export creates a portable JSON deck with the pictures embedded. Importing adds a new lecture to your collection, preserving earlier decks. Export before clearing browser data. Guest progress is separate on each device; optional accounts can sync it after the free cloud service is configured (see below).
 
 PowerPoint imports extract slide text, bold emphasis, and embedded PNG/JPEG/GIF/WebP images locally. Supported factual sentences become draft clozes; other text and image-only slides remain in the reference viewer. These automatic drafts are distinct from the included lecture-based deck. Speaker notes, vector-only images, animations and OCR are not supported. PDF uploads are rendered locally into source-page images and their text is extracted. The bundled example deck was written from the original PDF during development.
 
@@ -73,7 +73,7 @@ Cards are never marked done forever. This app uses a simple progressive schedule
 
 Due times, last ratings, review counts and lapses are saved in IndexedDB and included in JSON backups. Older confident cards without a timer are made due on upgrade; existing schedules and edits are retained. Editing linked cloze cards preserves each card's own schedule, and newly added deletion numbers start unscheduled.
 
-The due queue checks every 30 seconds while the app is open and when its tab becomes visible. If the app is closed, open it again to see the cards due. It does not send background or phone notifications. Progress is local to your browser; export/import to move it between devices. All cards remains available for optional practice before a scheduled review.
+The due queue checks every 30 seconds while the app is open and when its tab becomes visible. If the app is closed, open it again to see the cards due. It does not send background or phone notifications. Guest progress is local to your browser; export/import can move it between devices. After account activation, signing in on each device syncs your private collection and review dates. All cards remains available for optional practice before a scheduled review.
 
 ## Additional study visuals
 
@@ -91,3 +91,11 @@ Choose **Lectures** in the workspace sidebar to upload PDF/PPTX files, name lect
 **AI-written cloze cards** reads text and pictures using the separate backend and groups cards by topic, with short explanations and source references. **Local draft cards** is a clearly labeled offline alternative; it is not AI. AI generation is unavailable until the backend is deployed and connected. The Render Blueprint is ready in `render.yaml`; complete [AI setup](docs/AI-SETUP.md) to activate it.
 
 All slide-reading, deck collection and study code still deploys as a static GitHub Pages app. The API key stays only in the Render environment. Backend tests and browser checks use fixture responses; real provider generation is unverified until credentials and hosting are supplied.
+
+## Free accounts and device sync
+
+The **Sign in** area supports email/password accounts, confirmation emails, password resets, and private lecture/progress syncing through Supabase. Activation needs an owner-created free Supabase project; this repository intentionally contains no live project credentials. Follow [the account setup guide](supabase/SETUP.md), run [the database setup](supabase/setup.sql), and configure the public Project URL and publishable key. GitHub Pages remains a static site. No paid AI service is involved in accounts.
+
+Guest and account collections are stored separately. **Import this browser’s guest progress** copies existing reviews into the signed-in account while preserving the guest copy. Wait for **Synced** before switching devices. Reviews of different cards merge; the latest timestamp wins for simultaneous reviews of the same card. Locally saved changes retry after reconnecting while the app is open. Free-tier storage, bandwidth and inactivity limits still apply.
+
+`npm test` checks card/schedule behavior, sync conflicts, and account row isolation against a local PostgreSQL-compatible database. The browser account checks use fixture authentication responses; live sign-in and email delivery remain unverified until a Supabase project is activated.
