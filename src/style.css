@@ -109,13 +109,27 @@
 
 .account-connection{margin-top:18px;padding-top:12px;border-top:1px solid #e4e8dc;display:flex;flex-direction:column;align-items:flex-start;gap:5px}.account-connection small{color:#7d8572;font-size:11px}
 
-/* Phone controls stay in reach as answers and source pictures change height. */
-@media(max-width:700px){
- .study-mode .content{padding-bottom:calc(124px + env(safe-area-inset-bottom,0px))}
- .study-mode .study-controls{display:block;position:fixed;left:0;right:0;bottom:0;z-index:3;padding:8px 14px calc(6px + env(safe-area-inset-bottom,0px));background:#f7f8f4;border-top:1px solid #dfe5d5;box-shadow:0 -4px 16px #25352b0a}
- .study-mode .study-controls .rating{margin:0 0 4px;gap:6px}
- .study-mode .study-controls .rating .button{min-height:48px;font-size:11px}
+/* A phone review dock: reveal first, then rate without moving down the page. */
+.phone-reveal{display:none}
+@media(max-width:700px), (hover:none) and (pointer:coarse) and (max-width:1024px){
+ .study-mode .title-row{display:none}
+ .study-mode .content{padding-bottom:calc(148px + env(safe-area-inset-bottom,0px))}
+ .study-mode .study-controls{display:block;position:fixed;left:0;right:0;bottom:0;z-index:3;padding:10px 14px calc(8px + env(safe-area-inset-bottom,0px));background:#fff;border-top:1px solid #dfe5d5;box-shadow:0 -6px 20px #25352b0d}
+ .study-mode .study-controls:not(.answer-visible) .rating{display:none}
+ .study-mode .study-controls:not(.answer-visible) .phone-reveal{display:flex;width:100%;min-height:48px;margin-bottom:6px;font-size:14px}
+ .study-mode .study-controls.answer-visible::before{content:'How well did you remember?';display:block;margin-bottom:7px;font-size:11px;font-weight:600;color:#526e43;text-align:center}
+ .study-mode .study-controls .rating{display:flex;margin:0 0 6px;gap:6px}
+ .study-mode .study-controls .rating .button{flex:1;min-width:0;min-height:48px;padding:7px 4px;font-size:12px}
+ .study-mode .study-controls .rating kbd{display:none}
+ .study-mode .study-controls .rating .button small{font-size:9px}
  .study-mode .study-controls .card-navigation button{min-height:44px;min-width:100px;font-size:12px;padding:10px 14px;background:#eef2e8;border-radius:7px;color:#526e43}
  .study-mode .study-controls button,.study-mode .flashcard{touch-action:manipulation}
  .study-mode .card-navigation>span{display:none}
 }
+@media(min-width:701px) and (max-width:1024px) and (hover:none) and (pointer:coarse){
+ aside{overflow-y:auto;overscroll-behavior:contain}
+ aside>*{flex-shrink:0}
+ .study-mode .study-controls{left:180px}
+ .study-mode .stats{display:none}
+}
+@media(min-width:901px) and (max-width:1024px) and (hover:none) and (pointer:coarse){.study-mode .study-controls{left:224px}}

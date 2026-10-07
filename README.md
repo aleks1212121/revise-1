@@ -102,6 +102,6 @@ Guest and account collections are stored separately. **Import this browser’s g
 
 ## Phone study controls
 
-On phone-sized screens, Next/Previous and the four review ratings stay in a bottom bar with larger touch targets. Reveal the answer before rating. Background syncing waits for an active study tap to finish before rebuilding its controls or changing the visible card. The desktop study layout is unchanged.
+On phones, a fixed bottom bar shows **Reveal answer**, then switches to the four review ratings after revealing. You can reveal and rate without scrolling down, including in landscape. Next/Previous also stay in the bar, with larger touch targets. Background syncing waits for an active study tap to finish before rebuilding its controls or changing the visible card. The desktop study layout is unchanged.
 
 To check phone interactions, build the app, run `npm run preview -- --port 4189`, then run `npm run test:phone:browser` with Playwright Chromium installed. `CHROMIUM_PATH` can point to an existing Chromium executable. These fixture checks cover Android-style touch input, taps during syncing, all ratings, review persistence after reload and three phone sizes.
