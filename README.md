@@ -132,3 +132,11 @@ The main navigation contains **Study** and **Lectures**. A single current-lectur
 ## Lecture collection progress
 
 **Lectures** shows the collection first, with a study-coverage bar, cards reviewed at least once, confident cards and cards due for each deck. Coverage remains recorded after an Again review; due dates and confidence still reflect the review schedule. The upload form is below the collection, and optional AI connection settings are collapsed underneath. `npm run test:lectures:browser` checks progress, reload persistence, the stacked layout and uploads on desktop and phone.
+
+## Voice practice
+
+Expand **Voice practice** under a study card. **Dictate answer** transcribes your response into an editable text box; **Read question/answer aloud** speaks the currently visible card. Blanks remain hidden until reveal. Optionally enable **Read answers aloud when I reveal them** for spoken replies. Compare your response and select Again/Hard/Good/Easy yourself; this is browser speech, without an AI tutor or automatic grading.
+
+Android Chrome supports browser dictation, subject to microphone permission, network availability and the device's speech service. Other browsers may offer read-aloud only, or neither; typing and ordinary flashcard controls remain available. Browser speech recognition may send audio to its provider. This app does not record/upload audio or persist dictated text in decks or account sync. Dictation clears on card/page/account changes. Read-aloud prefers an English voice installed locally, with a browser-selected voice as fallback. Closing Voice practice, leaving the page, hiding the tab or changing the card stops speech/microphone capture.
+
+`npm run test:voice:browser` uses speech fixtures to check reading, hidden answers, opt-in spoken replies, transcription, permission-denied and unsupported-browser fallbacks, and phone grading. Real microphone recognition and speaker output depend on the user's browser and device and are not verified by these fixture checks.
