@@ -22,6 +22,8 @@ Different cards reviewed on different devices are merged. For simultaneous revie
 
 ## Check the live setup
 
+On the app’s account screen, choose **Check connection**. Before signing in it checks the live Email provider; after signing in it verifies the session, deck-table access and the sync function using an invalid input that is rejected before any write. This does not send an email or change a deck.
+
 Create two test accounts yourself. In account A, rate a card, wait for **Synced**, then sign in as A in another browser and confirm the review date. Sign in as B and confirm A’s progress is absent. Test a guest import and sign-out to confirm that guest data stays separate. Test confirmation and password-reset links with the configured return URL.
 
 Local automated tests exercise the merge rules, the SQL function and row-level access in a PostgreSQL-compatible test engine, and the browser sign-in/sync flow using fixture responses. They do not establish that an unconfigured live Supabase project works. Account activation, live email delivery and hosted authentication must be checked after the project settings are supplied.
