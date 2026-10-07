@@ -10,6 +10,10 @@ The collection now includes **Cellular injury I & II (LS5009)**, written from Dr
 
 Illustrations are available through **Show visual hint** before answering and appear alongside the answer after reveal. Visual questions show crops with answer headings excluded; the full source slide appears on reveal. Credits link each crop back to its lecture slide. The extension section clearly marks papillomavirus research. Cards distinguish CIN III from simple metaplasia and distinguish invasive cancer by basement-membrane invasion; source simplifications are explained rather than taught as absolute rules.
 
+The collection includes **Cell death — Lecture 3 (LS5009)** from Dr Ashrafi’s 30-slide lecture: **115 cloze cards**, including **15 visual questions** and **100 text cards with targeted illustrations** from 13 lecture figure crops. Topics include necrotic morphology, coagulative/liquefactive/caseous/fat necrosis, gangrene, apoptotic roles and morphology, p53 and disease, and necrosis–apoptosis comparisons. It appears automatically as **Cell death** in the sidebar, without resetting other lectures or saved progress. All 30 original slides are included.
+
+The cell-death cards correct the comparison table’s simplifications: apoptosis can be physiological or pathological, necrosis can include nuclear fragmentation, and dry gangrene does not require infection. Source notes explain these distinctions.
+
 ## Run and validate
 
 Requires Node.js 20.19+ or 22.12+.
@@ -51,7 +55,7 @@ In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as
 
 https://aleks1212121.github.io/revise-1/
 
-For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Public lecture images and deck content are in `public/lecture/`, `public/genetic-variation/` and `public/cell-injury/` and copied into the build.
+For another static host, adjust the Vite `base` path, run `npm run build` and publish `dist/`. No Node server is needed in production. Generated build output and `node_modules/` are ignored. Vite copies the public lecture images and deck content from `public/lecture/`, `public/genetic-variation/`, `public/cell-injury/` and `public/cell-death/` into the build.
 
 ## Editorial notes
 

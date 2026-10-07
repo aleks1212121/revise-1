@@ -1,0 +1,2751 @@
+{
+  "version": 2,
+  "lectureId": "cell-death",
+  "generation": "reviewed",
+  "title": "Cell death — Lecture 3",
+  "source": "LS5009 · Dr Hossein Ashrafi · Cellular Injury III · 2026 student notes · 30 slides",
+  "cards": [
+    {
+      "id": "cd-1-c1",
+      "noteId": "cd-1",
+      "type": "cloze",
+      "text": "When injury exceeds a cell’s capacity to adapt and recover, it becomes {{c1::irreversible}} and can lead to cell death.",
+      "question": "When injury exceeds a cell’s capacity to adapt and recover, it becomes {{c1::irreversible}} and can lead to cell death.",
+      "answer": "irreversible",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 4,
+      "images": [
+        "cd-slide-4"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-2-c1",
+      "noteId": "cd-2",
+      "type": "cloze",
+      "text": "Adaptation establishes a {{c1::new steady state}}; irreversible injury leads to cell death rather than successful adaptation.",
+      "question": "Adaptation establishes a {{c1::new steady state}}; irreversible injury leads to cell death rather than successful adaptation.",
+      "answer": "new steady state",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 4,
+      "images": [
+        "cd-slide-4"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-3-c1",
+      "noteId": "cd-3",
+      "type": "cloze",
+      "text": "The two cell-death patterns emphasised in this lecture are {{c1::necrosis}} and {{c2::apoptosis}}.",
+      "question": "The two cell-death patterns emphasised in this lecture are {{c1::necrosis}} and {{c2::apoptosis}}.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 5,
+      "images": [
+        "cd-slide-5"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-3-c2",
+      "noteId": "cd-3",
+      "type": "cloze",
+      "text": "The two cell-death patterns emphasised in this lecture are {{c1::necrosis}} and {{c2::apoptosis}}.",
+      "question": "The two cell-death patterns emphasised in this lecture are {{c1::necrosis}} and {{c2::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 2,
+      "topic": "Injury & cell-death overview",
+      "slide": 5,
+      "images": [
+        "cd-slide-5"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-4-c1",
+      "noteId": "cd-4",
+      "type": "cloze",
+      "text": "Necrosis and apoptosis differ in morphology, mechanisms and their roles in {{c1::physiology and disease}}.",
+      "question": "Necrosis and apoptosis differ in morphology, mechanisms and their roles in {{c1::physiology and disease}}.",
+      "answer": "physiology and disease",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 5,
+      "images": [
+        "cd-slide-5"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-5-c1",
+      "noteId": "cd-5",
+      "type": "cloze",
+      "text": "Apoptosis is an organised cellular death programme that can be triggered by {{c1::internal or external signals}}.",
+      "question": "Apoptosis is an organised cellular death programme that can be triggered by {{c1::internal or external signals}}.",
+      "answer": "internal or external signals",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 6,
+      "images": [
+        "cd-slide-6"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-6-c1",
+      "noteId": "cd-6",
+      "type": "cloze",
+      "text": "Mechanical injury and toxic chemicals can cause cell death with a {{c1::necrotic}} pattern.",
+      "question": "Mechanical injury and toxic chemicals can cause cell death with a {{c1::necrotic}} pattern.",
+      "answer": "necrotic",
+      "clozeNumber": 1,
+      "topic": "Injury & cell-death overview",
+      "slide": 6,
+      "images": [
+        "cd-slide-6"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-7-c1",
+      "noteId": "cd-7",
+      "type": "cloze",
+      "text": "Necrosis describes the morphological changes of dead cells within {{c1::living tissue}}.",
+      "question": "Necrosis describes the morphological changes of dead cells within {{c1::living tissue}}.",
+      "answer": "living tissue",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 7,
+      "images": [
+        "cd-slide-7"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-8-c1",
+      "noteId": "cd-8",
+      "type": "cloze",
+      "text": "Necrosis is a {{c1::pathological}} process, unlike physiological removal of cells during normal development.",
+      "question": "Necrosis is a {{c1::pathological}} process, unlike physiological removal of cells during normal development.",
+      "answer": "pathological",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 7,
+      "images": [
+        "cd-slide-7"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-9-c1",
+      "noteId": "cd-9",
+      "type": "cloze",
+      "text": "Hypoxia, ischaemia, infection, toxins and mechanical damage can cause {{c1::necrosis}}.",
+      "question": "Hypoxia, ischaemia, infection, toxins and mechanical damage can cause {{c1::necrosis}}.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 7,
+      "images": [
+        "cd-slide-7"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-10-c1",
+      "noteId": "cd-10",
+      "type": "cloze",
+      "text": "Can a necrotic cell resume normal integrated function? {{c1::No—the cell-death changes are irreversible}}.",
+      "question": "Can a necrotic cell resume normal integrated function? {{c1::No—the cell-death changes are irreversible}}.",
+      "answer": "No—the cell-death changes are irreversible",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 7,
+      "images": [
+        "cd-slide-7"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-11-c1",
+      "noteId": "cd-11",
+      "type": "cloze",
+      "text": "Necrotic cells typically {{c1::swell}} before membrane disruption and lysis.",
+      "question": "Necrotic cells typically {{c1::swell}} before membrane disruption and lysis.",
+      "answer": "swell",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-12-c1",
+      "noteId": "cd-12",
+      "type": "cloze",
+      "text": "A central feature of necrosis is loss of {{c1::plasma-membrane integrity}}.",
+      "question": "A central feature of necrosis is loss of {{c1::plasma-membrane integrity}}.",
+      "answer": "plasma-membrane integrity",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-13-c1",
+      "noteId": "cd-13",
+      "type": "cloze",
+      "text": "When the plasma membrane ruptures, cellular contents {{c1::leak into surrounding tissue}}.",
+      "question": "When the plasma membrane ruptures, cellular contents {{c1::leak into surrounding tissue}}.",
+      "answer": "leak into surrounding tissue",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-14-c1",
+      "noteId": "cd-14",
+      "type": "cloze",
+      "text": "Leakage from necrotic cells can injure neighbours and stimulate {{c1::inflammation}}.",
+      "question": "Leakage from necrotic cells can injure neighbours and stimulate {{c1::inflammation}}.",
+      "answer": "inflammation",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-15-c1",
+      "noteId": "cd-15",
+      "type": "cloze",
+      "text": "Severe lysosomal membrane damage releases {{c1::digestive enzymes}} into the cytoplasm.",
+      "question": "Severe lysosomal membrane damage releases {{c1::digestive enzymes}} into the cytoplasm.",
+      "answer": "digestive enzymes",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-16-c1",
+      "noteId": "cd-16",
+      "type": "cloze",
+      "text": "Enzymatic breakdown of a dead cell contributes to {{c1::cell lysis}}.",
+      "question": "Enzymatic breakdown of a dead cell contributes to {{c1::cell lysis}}.",
+      "answer": "cell lysis",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-17-c1",
+      "noteId": "cd-17",
+      "type": "cloze",
+      "text": "Mitochondrial swelling and rupture are features of the lecture’s {{c1::necrotic-cell}} sequence.",
+      "question": "Mitochondrial swelling and rupture are features of the lecture’s {{c1::necrotic-cell}} sequence.",
+      "answer": "necrotic-cell",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-18-c1",
+      "noteId": "cd-18",
+      "type": "cloze",
+      "text": "Why is necrosis commonly inflammatory? {{c1::Membrane rupture releases intracellular material into the surrounding tissue}}.",
+      "question": "Why is necrosis commonly inflammatory? {{c1::Membrane rupture releases intracellular material into the surrounding tissue}}.",
+      "answer": "Membrane rupture releases intracellular material into the surrounding tissue",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-slide-8"
+      ],
+      "illustrations": [
+        "cd-panel-necrosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-19-c1",
+      "noteId": "cd-19",
+      "type": "cloze",
+      "text": "In an infarct, necrotic tissue lies beside {{c1::surviving tissue}}, allowing comparison of their morphology.",
+      "question": "In an infarct, necrotic tissue lies beside {{c1::surviving tissue}}, allowing comparison of their morphology.",
+      "answer": "surviving tissue",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 9,
+      "images": [
+        "cd-slide-9"
+      ],
+      "illustrations": [
+        "cd-panel-kidney-histology"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-20-c1",
+      "noteId": "cd-20",
+      "type": "cloze",
+      "text": "Coagulative, liquefactive, caseous and fat necrosis describe different {{c1::tissue patterns}} of necrosis.",
+      "question": "Coagulative, liquefactive, caseous and fat necrosis describe different {{c1::tissue patterns}} of necrosis.",
+      "answer": "tissue patterns",
+      "clozeNumber": 1,
+      "topic": "Necrosis patterns",
+      "slide": 10,
+      "images": [
+        "cd-slide-10"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-21-c1",
+      "noteId": "cd-21",
+      "type": "cloze",
+      "text": "The pattern of necrosis depends partly on the {{c1::tissue and type of injury}}, rather than all dead tissues looking identical.",
+      "question": "The pattern of necrosis depends partly on the {{c1::tissue and type of injury}}, rather than all dead tissues looking identical.",
+      "answer": "tissue and type of injury",
+      "clozeNumber": 1,
+      "topic": "Necrosis patterns",
+      "slide": 10,
+      "images": [
+        "cd-slide-10"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-22-c1",
+      "noteId": "cd-22",
+      "type": "cloze",
+      "text": "In coagulative necrosis, recognisable {{c1::cell outlines and tissue architecture}} are initially preserved.",
+      "question": "In coagulative necrosis, recognisable {{c1::cell outlines and tissue architecture}} are initially preserved.",
+      "answer": "cell outlines and tissue architecture",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-23-c1",
+      "noteId": "cd-23",
+      "type": "cloze",
+      "text": "Coagulative necrotic tissue is often relatively {{c1::firm}}.",
+      "question": "Coagulative necrotic tissue is often relatively {{c1::firm}}.",
+      "answer": "firm",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-24-c1",
+      "noteId": "cd-24",
+      "type": "cloze",
+      "text": "Renal infarction is a classic example of {{c1::coagulative necrosis}}.",
+      "question": "Renal infarction is a classic example of {{c1::coagulative necrosis}}.",
+      "answer": "coagulative necrosis",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-25-c1",
+      "noteId": "cd-25",
+      "type": "cloze",
+      "text": "Denaturation of structural proteins and enzymes slows {{c1::proteolytic digestion}}, helping preserve dead-cell outlines.",
+      "question": "Denaturation of structural proteins and enzymes slows {{c1::proteolytic digestion}}, helping preserve dead-cell outlines.",
+      "answer": "proteolytic digestion",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-26-c1",
+      "noteId": "cd-26",
+      "type": "cloze",
+      "text": "Coagulative necrotic debris is eventually removed by {{c1::phagocytosis}}.",
+      "question": "Coagulative necrotic debris is eventually removed by {{c1::phagocytosis}}.",
+      "answer": "phagocytosis",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-27-c1",
+      "noteId": "cd-27",
+      "type": "cloze",
+      "text": "A kidney infarct retains ghost-like cell outlines. The expected pattern is {{c1::coagulative necrosis}}.",
+      "question": "A kidney infarct retains ghost-like cell outlines. The expected pattern is {{c1::coagulative necrosis}}.",
+      "answer": "coagulative necrosis",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-slide-11"
+      ],
+      "illustrations": [
+        "cd-panel-kidney"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-28-c1",
+      "noteId": "cd-28",
+      "type": "cloze",
+      "text": "In the lecture’s renal-infarct micrograph, N labels normal kidney and I labels the {{c1::infarcted tissue}}.",
+      "question": "In the lecture’s renal-infarct micrograph, N labels normal kidney and I labels the {{c1::infarcted tissue}}.",
+      "answer": "infarcted tissue",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 12,
+      "images": [
+        "cd-slide-12"
+      ],
+      "illustrations": [
+        "cd-panel-kidney-histology"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-29-c1",
+      "noteId": "cd-29",
+      "type": "cloze",
+      "text": "Preserved architecture does not mean preserved viability: cells with retained outlines can still be {{c1::dead}}.",
+      "question": "Preserved architecture does not mean preserved viability: cells with retained outlines can still be {{c1::dead}}.",
+      "answer": "dead",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 12,
+      "images": [
+        "cd-slide-12"
+      ],
+      "illustrations": [
+        "cd-panel-kidney-histology"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-30-c1",
+      "noteId": "cd-30",
+      "type": "cloze",
+      "text": "In liquefactive necrosis, enzymatic digestion turns dead tissue into a {{c1::soft or liquid mass}}.",
+      "question": "In liquefactive necrosis, enzymatic digestion turns dead tissue into a {{c1::soft or liquid mass}}.",
+      "answer": "soft or liquid mass",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-slide-13"
+      ],
+      "illustrations": [
+        "cd-panel-brain"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-31-c1",
+      "noteId": "cd-31",
+      "type": "cloze",
+      "text": "A brain infarct classically undergoes {{c1::liquefactive necrosis}}.",
+      "question": "A brain infarct classically undergoes {{c1::liquefactive necrosis}}.",
+      "answer": "liquefactive necrosis",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-slide-13"
+      ],
+      "illustrations": [
+        "cd-panel-brain"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-32-c1",
+      "noteId": "cd-32",
+      "type": "cloze",
+      "text": "Liquefactive necrosis removes recognisable architecture through {{c1::digestion of dead cells}}.",
+      "question": "Liquefactive necrosis removes recognisable architecture through {{c1::digestion of dead cells}}.",
+      "answer": "digestion of dead cells",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-slide-13"
+      ],
+      "illustrations": [
+        "cd-panel-brain"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-33-c1",
+      "noteId": "cd-33",
+      "type": "cloze",
+      "text": "A renal infarct is typically coagulative; a cerebral infarct is typically {{c1::liquefactive}}.",
+      "question": "A renal infarct is typically coagulative; a cerebral infarct is typically {{c1::liquefactive}}.",
+      "answer": "liquefactive",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-slide-13"
+      ],
+      "illustrations": [
+        "cd-panel-brain"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-34-c1",
+      "noteId": "cd-34",
+      "type": "cloze",
+      "text": "An ischaemic brain lesion dissolves rather than retaining firm cell outlines. This illustrates {{c1::liquefactive necrosis}}.",
+      "question": "An ischaemic brain lesion dissolves rather than retaining firm cell outlines. This illustrates {{c1::liquefactive necrosis}}.",
+      "answer": "liquefactive necrosis",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-slide-13"
+      ],
+      "illustrations": [
+        "cd-panel-brain"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-35-c1",
+      "noteId": "cd-35",
+      "type": "cloze",
+      "text": "Caseous necrosis has a characteristic {{c1::cheese-like}} gross appearance.",
+      "question": "Caseous necrosis has a characteristic {{c1::cheese-like}} gross appearance.",
+      "answer": "cheese-like",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 14,
+      "images": [
+        "cd-slide-14"
+      ],
+      "illustrations": [
+        "cd-panel-caseous-lung"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Caseous necrosis loses architecture; classic coagulative necrosis initially preserves it."
+    },
+    {
+      "id": "cd-36-c1",
+      "noteId": "cd-36",
+      "type": "cloze",
+      "text": "Tuberculosis lesions are a classic setting for {{c1::caseous necrosis}}.",
+      "question": "Tuberculosis lesions are a classic setting for {{c1::caseous necrosis}}.",
+      "answer": "caseous necrosis",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 14,
+      "images": [
+        "cd-slide-14"
+      ],
+      "illustrations": [
+        "cd-panel-caseous-lung"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-37-c1",
+      "noteId": "cd-37",
+      "type": "cloze",
+      "text": "The lecture’s tuberculous lung contains {{c1::yellow-white, cheesy debris}}.",
+      "question": "The lecture’s tuberculous lung contains {{c1::yellow-white, cheesy debris}}.",
+      "answer": "yellow-white, cheesy debris",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 14,
+      "images": [
+        "cd-slide-14"
+      ],
+      "illustrations": [
+        "cd-panel-caseous-lung"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-38-c1",
+      "noteId": "cd-38",
+      "type": "cloze",
+      "text": "Does caseous necrosis preserve recognisable architecture like classic coagulative necrosis? {{c1::No—caseous tissue is disrupted into amorphous necrotic debris}}.",
+      "question": "Does caseous necrosis preserve recognisable architecture like classic coagulative necrosis? {{c1::No—caseous tissue is disrupted into amorphous necrotic debris}}.",
+      "answer": "No—caseous tissue is disrupted into amorphous necrotic debris",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 14,
+      "images": [
+        "cd-slide-14"
+      ],
+      "illustrations": [
+        "cd-panel-caseous-lung"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-39-c1",
+      "noteId": "cd-39",
+      "type": "cloze",
+      "text": "The lecture’s bovine-bronchus specimen demonstrates {{c1::caseous necrosis}}.",
+      "question": "The lecture’s bovine-bronchus specimen demonstrates {{c1::caseous necrosis}}.",
+      "answer": "caseous necrosis",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 15,
+      "images": [
+        "cd-slide-15"
+      ],
+      "illustrations": [
+        "cd-panel-caseous-bronchus"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-40-c1",
+      "noteId": "cd-40",
+      "type": "cloze",
+      "text": "Enzymatic fat necrosis is especially associated with release of {{c1::pancreatic lipases}}.",
+      "question": "Enzymatic fat necrosis is especially associated with release of {{c1::pancreatic lipases}}.",
+      "answer": "pancreatic lipases",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-41-c1",
+      "noteId": "cd-41",
+      "type": "cloze",
+      "text": "Lipases split neutral fat into {{c1::glycerol}} and {{c2::fatty acids}}.",
+      "question": "Lipases split neutral fat into {{c1::glycerol}} and {{c2::fatty acids}}.",
+      "answer": "glycerol",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-41-c2",
+      "noteId": "cd-41",
+      "type": "cloze",
+      "text": "Lipases split neutral fat into {{c1::glycerol}} and {{c2::fatty acids}}.",
+      "question": "Lipases split neutral fat into {{c1::glycerol}} and {{c2::fatty acids}}.",
+      "answer": "fatty acids",
+      "clozeNumber": 2,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-42-c1",
+      "noteId": "cd-42",
+      "type": "cloze",
+      "text": "Released fatty acids can combine with {{c1::calcium}} to form insoluble soaps.",
+      "question": "Released fatty acids can combine with {{c1::calcium}} to form insoluble soaps.",
+      "answer": "calcium",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-43-c1",
+      "noteId": "cd-43",
+      "type": "cloze",
+      "text": "Calcium-soap formation following fat breakdown is called {{c1::saponification}}.",
+      "question": "Calcium-soap formation following fat breakdown is called {{c1::saponification}}.",
+      "answer": "saponification",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-44-c1",
+      "noteId": "cd-44",
+      "type": "cloze",
+      "text": "Chalky white deposits in damaged fatty tissue can represent {{c1::fat necrosis with saponification}}.",
+      "question": "Chalky white deposits in damaged fatty tissue can represent {{c1::fat necrosis with saponification}}.",
+      "answer": "fat necrosis with saponification",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-45-c1",
+      "noteId": "cd-45",
+      "type": "cloze",
+      "text": "Pancreatic injury releases digestive enzymes into surrounding fat. The expected local pattern is {{c1::enzymatic fat necrosis}}.",
+      "question": "Pancreatic injury releases digestive enzymes into surrounding fat. The expected local pattern is {{c1::enzymatic fat necrosis}}.",
+      "answer": "enzymatic fat necrosis",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-46-c1",
+      "noteId": "cd-46",
+      "type": "cloze",
+      "text": "The white deposits of fat necrosis are chemically related to {{c1::calcium salts of fatty acids}}, not simply intact stored fat.",
+      "question": "The white deposits of fat necrosis are chemically related to {{c1::calcium salts of fatty acids}}, not simply intact stored fat.",
+      "answer": "calcium salts of fatty acids",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-slide-16"
+      ],
+      "illustrations": [
+        "cd-panel-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-47-c1",
+      "noteId": "cd-47",
+      "type": "cloze",
+      "text": "Fat necrosis can occur in adipose tissue at sites outside the pancreas; the lecture shows {{c1::perirenal fat}} in a cow.",
+      "question": "Fat necrosis can occur in adipose tissue at sites outside the pancreas; the lecture shows {{c1::perirenal fat}} in a cow.",
+      "answer": "perirenal fat",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 17,
+      "images": [
+        "cd-slide-17"
+      ],
+      "illustrations": [
+        "cd-panel-perirenal-fat"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-48-c1",
+      "noteId": "cd-48",
+      "type": "cloze",
+      "text": "Gangrene is a clinical term often used for extensive {{c1::ischaemic necrosis}} of a limb.",
+      "question": "Gangrene is a clinical term often used for extensive {{c1::ischaemic necrosis}} of a limb.",
+      "answer": "ischaemic necrosis",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-slide-18"
+      ],
+      "illustrations": [
+        "cd-panel-gangrene"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false,
+      "explanation": "Dry gangrene need not be infected; wet gangrene has superimposed infection."
+    },
+    {
+      "id": "cd-49-c1",
+      "noteId": "cd-49",
+      "type": "cloze",
+      "text": "The distal foot and toes in a person with diabetes are a typical setting for {{c1::gangrene}}.",
+      "question": "The distal foot and toes in a person with diabetes are a typical setting for {{c1::gangrene}}.",
+      "answer": "gangrene",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-slide-18"
+      ],
+      "illustrations": [
+        "cd-panel-gangrene"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-50-c1",
+      "noteId": "cd-50",
+      "type": "cloze",
+      "text": "Dry gangrene is predominantly ischaemic; wet gangrene includes {{c1::superimposed infection}}.",
+      "question": "Dry gangrene is predominantly ischaemic; wet gangrene includes {{c1::superimposed infection}}.",
+      "answer": "superimposed infection",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-slide-18"
+      ],
+      "illustrations": [
+        "cd-panel-gangrene"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-51-c1",
+      "noteId": "cd-51",
+      "type": "cloze",
+      "text": "Is infection required for every case of gangrene? {{c1::No—dry gangrene can occur without infection}}.",
+      "question": "Is infection required for every case of gangrene? {{c1::No—dry gangrene can occur without infection}}.",
+      "answer": "No—dry gangrene can occur without infection",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-slide-18"
+      ],
+      "illustrations": [
+        "cd-panel-gangrene"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-52-c1",
+      "noteId": "cd-52",
+      "type": "cloze",
+      "text": "Impaired blood supply causes gangrenous necrosis by depriving tissue of {{c1::oxygen and nutrients}}.",
+      "question": "Impaired blood supply causes gangrenous necrosis by depriving tissue of {{c1::oxygen and nutrients}}.",
+      "answer": "oxygen and nutrients",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-slide-18"
+      ],
+      "illustrations": [
+        "cd-panel-gangrene"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-53-c1",
+      "noteId": "cd-53",
+      "type": "cloze",
+      "text": "Apoptosis can be initiated by signals originating inside the cell or from {{c1::outside the cell}}.",
+      "question": "Apoptosis can be initiated by signals originating inside the cell or from {{c1::outside the cell}}.",
+      "answer": "outside the cell",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 19,
+      "images": [
+        "cd-slide-19"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-54-c1",
+      "noteId": "cd-54",
+      "type": "cloze",
+      "text": "Apoptosis commonly removes {{c1::individual cells or small groups of cells}} while neighbouring tissue remains functional.",
+      "question": "Apoptosis commonly removes {{c1::individual cells or small groups of cells}} while neighbouring tissue remains functional.",
+      "answer": "individual cells or small groups of cells",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 20,
+      "images": [
+        "cd-slide-20"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-55-c1",
+      "noteId": "cd-55",
+      "type": "cloze",
+      "text": "Apoptosis is a regulated process under cellular control, rather than simple {{c1::rupture from overwhelming damage}}.",
+      "question": "Apoptosis is a regulated process under cellular control, rather than simple {{c1::rupture from overwhelming damage}}.",
+      "answer": "rupture from overwhelming damage",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 20,
+      "images": [
+        "cd-slide-20"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-56-c1",
+      "noteId": "cd-56",
+      "type": "cloze",
+      "text": "The term apoptosis originally refers to {{c1::leaves falling from a tree}}.",
+      "question": "The term apoptosis originally refers to {{c1::leaves falling from a tree}}.",
+      "answer": "leaves falling from a tree",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 20,
+      "images": [
+        "cd-slide-20"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-57-c1",
+      "noteId": "cd-57",
+      "type": "cloze",
+      "text": "Removal of cells between developing digits helps form separate {{c1::fingers and toes}}.",
+      "question": "Removal of cells between developing digits helps form separate {{c1::fingers and toes}}.",
+      "answer": "fingers and toes",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 21,
+      "images": [
+        "cd-slide-21"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-58-c1",
+      "noteId": "cd-58",
+      "type": "cloze",
+      "text": "Resorption of the tadpole tail is a developmental example of {{c1::apoptosis}}.",
+      "question": "Resorption of the tadpole tail is a developmental example of {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 21,
+      "images": [
+        "cd-slide-21"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-59-c1",
+      "noteId": "cd-59",
+      "type": "cloze",
+      "text": "Apoptosis contributes to normal tissue turnover, including cyclical changes in the {{c1::uterine lining}}.",
+      "question": "Apoptosis contributes to normal tissue turnover, including cyclical changes in the {{c1::uterine lining}}.",
+      "answer": "uterine lining",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 21,
+      "images": [
+        "cd-slide-21"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-60-c1",
+      "noteId": "cd-60",
+      "type": "cloze",
+      "text": "Virus-infected cells, cells with severe DNA damage and abnormal cells may be eliminated by {{c1::apoptosis}}.",
+      "question": "Virus-infected cells, cells with severe DNA damage and abnormal cells may be eliminated by {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 21,
+      "images": [
+        "cd-slide-21"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-61-c1",
+      "noteId": "cd-61",
+      "type": "cloze",
+      "text": "Apoptosis contributes to development as well as {{c1::removal of potentially harmful cells}}.",
+      "question": "Apoptosis contributes to development as well as {{c1::removal of potentially harmful cells}}.",
+      "answer": "removal of potentially harmful cells",
+      "clozeNumber": 1,
+      "topic": "Apoptosis: roles & signals",
+      "slide": 21,
+      "images": [
+        "cd-slide-21"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-62-c1",
+      "noteId": "cd-62",
+      "type": "cloze",
+      "text": "The DNA-damage response described in the lecture involves the tumour-suppressor protein {{c1::p53}}.",
+      "question": "The DNA-damage response described in the lecture involves the tumour-suppressor protein {{c1::p53}}.",
+      "answer": "p53",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 23,
+      "images": [
+        "cd-slide-23"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-63-c1",
+      "noteId": "cd-63",
+      "type": "cloze",
+      "text": "p53 can help coordinate repair responses; if damage cannot be resolved, it can promote {{c1::apoptosis}}.",
+      "question": "p53 can help coordinate repair responses; if damage cannot be resolved, it can promote {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 23,
+      "images": [
+        "cd-slide-23"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-64-c1",
+      "noteId": "cd-64",
+      "type": "cloze",
+      "text": "Apoptotic removal of a cell with irreparable DNA damage prevents survival of a potentially {{c1::genetically abnormal cell}}.",
+      "question": "Apoptotic removal of a cell with irreparable DNA damage prevents survival of a potentially {{c1::genetically abnormal cell}}.",
+      "answer": "genetically abnormal cell",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 23,
+      "images": [
+        "cd-slide-23"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-65-c1",
+      "noteId": "cd-65",
+      "type": "cloze",
+      "text": "Cytotoxic T lymphocytes can trigger apoptosis in {{c1::virus-infected cells}}.",
+      "question": "Cytotoxic T lymphocytes can trigger apoptosis in {{c1::virus-infected cells}}.",
+      "answer": "virus-infected cells",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 23,
+      "images": [
+        "cd-slide-23"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-66-c1",
+      "noteId": "cd-66",
+      "type": "cloze",
+      "text": "Does every DNA-damage signal automatically lead to apoptosis? {{c1::No—the cell may first repair the damage; death depends on the damage and response}}.",
+      "question": "Does every DNA-damage signal automatically lead to apoptosis? {{c1::No—the cell may first repair the damage; death depends on the damage and response}}.",
+      "answer": "No—the cell may first repair the damage; death depends on the damage and response",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 23,
+      "images": [
+        "cd-slide-23"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-67-c1",
+      "noteId": "cd-67",
+      "type": "cloze",
+      "text": "Deficient apoptosis can allow abnormal cells to survive and contribute to {{c1::cancer}}.",
+      "question": "Deficient apoptosis can allow abnormal cells to survive and contribute to {{c1::cancer}}.",
+      "answer": "cancer",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 24,
+      "images": [
+        "cd-slide-24"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-68-c1",
+      "noteId": "cd-68",
+      "type": "cloze",
+      "text": "Loss of normal p53 function can weaken elimination of cells with {{c1::damaged DNA}}.",
+      "question": "Loss of normal p53 function can weaken elimination of cells with {{c1::damaged DNA}}.",
+      "answer": "damaged DNA",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 24,
+      "images": [
+        "cd-slide-24"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-69-c1",
+      "noteId": "cd-69",
+      "type": "cloze",
+      "text": "Some viruses interfere with p53-dependent responses, helping infected cells {{c1::evade elimination}}.",
+      "question": "Some viruses interfere with p53-dependent responses, helping infected cells {{c1::evade elimination}}.",
+      "answer": "evade elimination",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 24,
+      "images": [
+        "cd-slide-24"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-70-c1",
+      "noteId": "cd-70",
+      "type": "cloze",
+      "text": "The high-risk HPV type used as an example in the lecture is {{c1::HPV16}}.",
+      "question": "The high-risk HPV type used as an example in the lecture is {{c1::HPV16}}.",
+      "answer": "HPV16",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 24,
+      "images": [
+        "cd-slide-24"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-71-c1",
+      "noteId": "cd-71",
+      "type": "cloze",
+      "text": "Failure to remove a damaged cell can promote cancer; excessive removal of needed cells can cause {{c1::tissue loss}}.",
+      "question": "Failure to remove a damaged cell can promote cancer; excessive removal of needed cells can cause {{c1::tissue loss}}.",
+      "answer": "tissue loss",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 24,
+      "images": [
+        "cd-slide-24"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-72-c1",
+      "noteId": "cd-72",
+      "type": "cloze",
+      "text": "Excessive apoptosis can contribute to pathological {{c1::loss of functional cells}}.",
+      "question": "Excessive apoptosis can contribute to pathological {{c1::loss of functional cells}}.",
+      "answer": "loss of functional cells",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 25,
+      "images": [
+        "cd-slide-25"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-73-c1",
+      "noteId": "cd-73",
+      "type": "cloze",
+      "text": "The neurodegenerative examples discussed are {{c1::Alzheimer’s disease}} and {{c2::Parkinson’s disease}}.",
+      "question": "The neurodegenerative examples discussed are {{c1::Alzheimer’s disease}} and {{c2::Parkinson’s disease}}.",
+      "answer": "Alzheimer’s disease",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 25,
+      "images": [
+        "cd-slide-25"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-73-c2",
+      "noteId": "cd-73",
+      "type": "cloze",
+      "text": "The neurodegenerative examples discussed are {{c1::Alzheimer’s disease}} and {{c2::Parkinson’s disease}}.",
+      "question": "The neurodegenerative examples discussed are {{c1::Alzheimer’s disease}} and {{c2::Parkinson’s disease}}.",
+      "answer": "Parkinson’s disease",
+      "clozeNumber": 2,
+      "topic": "p53, infection & disease",
+      "slide": 25,
+      "images": [
+        "cd-slide-25"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-74-c1",
+      "noteId": "cd-74",
+      "type": "cloze",
+      "text": "Are neurodegenerative diseases explained solely by excess apoptosis? {{c1::No—they are multifactorial, and cell death is only part of their pathology}}.",
+      "question": "Are neurodegenerative diseases explained solely by excess apoptosis? {{c1::No—they are multifactorial, and cell death is only part of their pathology}}.",
+      "answer": "No—they are multifactorial, and cell death is only part of their pathology",
+      "clozeNumber": 1,
+      "topic": "p53, infection & disease",
+      "slide": 25,
+      "images": [
+        "cd-slide-25"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-75-c1",
+      "noteId": "cd-75",
+      "type": "cloze",
+      "text": "The lecture links death signalling to mitochondrial changes, chromatin fragmentation and {{c1::apoptotic-body formation}}.",
+      "question": "The lecture links death signalling to mitochondrial changes, chromatin fragmentation and {{c1::apoptotic-body formation}}.",
+      "answer": "apoptotic-body formation",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 26,
+      "images": [
+        "cd-slide-26"
+      ],
+      "illustrations": [
+        "cd-panel-signalling"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-76-c1",
+      "noteId": "cd-76",
+      "type": "cloze",
+      "text": "In apoptosis, surface blebbing is distinct from early {{c1::plasma-membrane rupture}}.",
+      "question": "In apoptosis, surface blebbing is distinct from early {{c1::plasma-membrane rupture}}.",
+      "answer": "plasma-membrane rupture",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 26,
+      "images": [
+        "cd-slide-26"
+      ],
+      "illustrations": [
+        "cd-panel-signalling"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-77-c1",
+      "noteId": "cd-77",
+      "type": "cloze",
+      "text": "Apoptotic cells typically {{c1::shrink}}, rather than swelling like classic necrotic cells.",
+      "question": "Apoptotic cells typically {{c1::shrink}}, rather than swelling like classic necrotic cells.",
+      "answer": "shrink",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-78-c1",
+      "noteId": "cd-78",
+      "type": "cloze",
+      "text": "Chromatin condenses and DNA undergoes {{c1::fragmentation}} during apoptosis.",
+      "question": "Chromatin condenses and DNA undergoes {{c1::fragmentation}} during apoptosis.",
+      "answer": "fragmentation",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-79-c1",
+      "noteId": "cd-79",
+      "type": "cloze",
+      "text": "Apoptotic cells form surface {{c1::blebs}} while initially retaining membrane integrity.",
+      "question": "Apoptotic cells form surface {{c1::blebs}} while initially retaining membrane integrity.",
+      "answer": "blebs",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-80-c1",
+      "noteId": "cd-80",
+      "type": "cloze",
+      "text": "Cell fragments enclosed by membrane are called {{c1::apoptotic bodies}}.",
+      "question": "Cell fragments enclosed by membrane are called {{c1::apoptotic bodies}}.",
+      "answer": "apoptotic bodies",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-81-c1",
+      "noteId": "cd-81",
+      "type": "cloze",
+      "text": "Apoptotic bodies contain cellular material inside {{c1::intact membrane-bound packages}}.",
+      "question": "Apoptotic bodies contain cellular material inside {{c1::intact membrane-bound packages}}.",
+      "answer": "intact membrane-bound packages",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-82-c1",
+      "noteId": "cd-82",
+      "type": "cloze",
+      "text": "Phagocytes, including {{c1::macrophages}}, engulf apoptotic bodies.",
+      "question": "Phagocytes, including {{c1::macrophages}}, engulf apoptotic bodies.",
+      "answer": "macrophages",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-83-c1",
+      "noteId": "cd-83",
+      "type": "cloze",
+      "text": "Prompt packaging and clearance usually prevent release of cell contents and limit {{c1::inflammation}}.",
+      "question": "Prompt packaging and clearance usually prevent release of cell contents and limit {{c1::inflammation}}.",
+      "answer": "inflammation",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-84-c1",
+      "noteId": "cd-84",
+      "type": "cloze",
+      "text": "A shrunken cell fragments into membrane-bound bodies that are engulfed. This morphology indicates {{c1::apoptosis}}.",
+      "question": "A shrunken cell fragments into membrane-bound bodies that are engulfed. This morphology indicates {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-slide-27"
+      ],
+      "illustrations": [
+        "cd-panel-apoptosis"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-85-c1",
+      "noteId": "cd-85",
+      "type": "cloze",
+      "text": "Rounded cells with shrinkage and membrane blebbing illustrate {{c1::apoptotic morphology}} in the lecture micrograph.",
+      "question": "Rounded cells with shrinkage and membrane blebbing illustrate {{c1::apoptotic morphology}} in the lecture micrograph.",
+      "answer": "apoptotic morphology",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 28,
+      "images": [
+        "cd-slide-28"
+      ],
+      "illustrations": [
+        "cd-panel-apoptotic-cells"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-86-c1",
+      "noteId": "cd-86",
+      "type": "cloze",
+      "text": "Necrosis typically causes cell {{c1::swelling}}; apoptosis typically causes cell {{c2::shrinkage}}.",
+      "question": "Necrosis typically causes cell {{c1::swelling}}; apoptosis typically causes cell {{c2::shrinkage}}.",
+      "answer": "swelling",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-86-c2",
+      "noteId": "cd-86",
+      "type": "cloze",
+      "text": "Necrosis typically causes cell {{c1::swelling}}; apoptosis typically causes cell {{c2::shrinkage}}.",
+      "question": "Necrosis typically causes cell {{c1::swelling}}; apoptosis typically causes cell {{c2::shrinkage}}.",
+      "answer": "shrinkage",
+      "clozeNumber": 2,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-87-c1",
+      "noteId": "cd-87",
+      "type": "cloze",
+      "text": "The plasma membrane is disrupted in classic necrosis but initially {{c1::intact}} in apoptosis.",
+      "question": "The plasma membrane is disrupted in classic necrosis but initially {{c1::intact}} in apoptosis.",
+      "answer": "intact",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-88-c1",
+      "noteId": "cd-88",
+      "type": "cloze",
+      "text": "Cellular contents leak during necrosis; apoptotic contents are initially {{c1::packaged into membrane-bound bodies}}.",
+      "question": "Cellular contents leak during necrosis; apoptotic contents are initially {{c1::packaged into membrane-bound bodies}}.",
+      "answer": "packaged into membrane-bound bodies",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-89-c1",
+      "noteId": "cd-89",
+      "type": "cloze",
+      "text": "A strong local inflammatory response is more characteristic of {{c1::necrosis}} than promptly cleared apoptosis.",
+      "question": "A strong local inflammatory response is more characteristic of {{c1::necrosis}} than promptly cleared apoptosis.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-90-c1",
+      "noteId": "cd-90",
+      "type": "cloze",
+      "text": "Apoptosis can be {{c1::physiological or pathological}}, despite the lecture table listing only physiological.",
+      "question": "Apoptosis can be {{c1::physiological or pathological}}, despite the lecture table listing only physiological.",
+      "answer": "physiological or pathological",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-91-c1",
+      "noteId": "cd-91",
+      "type": "cloze",
+      "text": "Can necrosis include nuclear fragmentation? {{c1::Yes—necrotic nuclei may shrink, fragment or dissolve}}.",
+      "question": "Can necrosis include nuclear fragmentation? {{c1::Yes—necrotic nuclei may shrink, fragment or dissolve}}.",
+      "answer": "Yes—necrotic nuclei may shrink, fragment or dissolve",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-92-c1",
+      "noteId": "cd-92",
+      "type": "cloze",
+      "text": "Apoptosis is usually minimally inflammatory because fragments are {{c1::contained and rapidly phagocytosed}}.",
+      "question": "Apoptosis is usually minimally inflammatory because fragments are {{c1::contained and rapidly phagocytosed}}.",
+      "answer": "contained and rapidly phagocytosed",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-93-c1",
+      "noteId": "cd-93",
+      "type": "cloze",
+      "text": "Necrosis ends in loss of membrane integrity and lysis; apoptosis ends in fragmentation and {{c1::phagocytic clearance}}.",
+      "question": "Necrosis ends in loss of membrane integrity and lysis; apoptosis ends in fragmentation and {{c1::phagocytic clearance}}.",
+      "answer": "phagocytic clearance",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 29,
+      "images": [
+        "cd-slide-29"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-94-c1",
+      "noteId": "cd-94",
+      "type": "cloze",
+      "text": "A swollen cell ruptures and spills material into tissue. The classic pattern is {{c1::necrosis}}.",
+      "question": "A swollen cell ruptures and spills material into tissue. The classic pattern is {{c1::necrosis}}.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 30,
+      "images": [
+        "cd-slide-30"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-95-c1",
+      "noteId": "cd-95",
+      "type": "cloze",
+      "text": "A cell shrinks and releases membrane-bound bodies that are promptly engulfed. The classic pattern is {{c1::apoptosis}}.",
+      "question": "A cell shrinks and releases membrane-bound bodies that are promptly engulfed. The classic pattern is {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 30,
+      "images": [
+        "cd-slide-30"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-96-c1",
+      "noteId": "cd-96",
+      "type": "cloze",
+      "text": "Does membrane blebbing alone prove apoptosis? {{c1::No—interpret it alongside shrinkage, nuclear changes, membrane integrity and clearance}}.",
+      "question": "Does membrane blebbing alone prove apoptosis? {{c1::No—interpret it alongside shrinkage, nuclear changes, membrane integrity and clearance}}.",
+      "answer": "No—interpret it alongside shrinkage, nuclear changes, membrane integrity and clearance",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 30,
+      "images": [
+        "cd-slide-30"
+      ],
+      "illustrations": [
+        "cd-panel-comparison"
+      ],
+      "showImagesFront": false,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-1-c1",
+      "noteId": "cd-visual-1",
+      "type": "cloze",
+      "text": "The sequence shows swelling followed by membrane disruption and leakage. This pattern is {{c1::necrosis}}.",
+      "question": "The sequence shows swelling followed by membrane disruption and leakage. This pattern is {{c1::necrosis}}.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Necrosis: mechanisms & morphology",
+      "slide": 8,
+      "images": [
+        "cd-visual-01"
+      ],
+      "answerImages": [
+        "cd-slide-8"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-2-c1",
+      "noteId": "cd-visual-2",
+      "type": "cloze",
+      "text": "This is the lecture’s renal infarct. The characteristic tissue-death pattern in this setting is {{c1::coagulative necrosis}}.",
+      "question": "This is the lecture’s renal infarct. The characteristic tissue-death pattern in this setting is {{c1::coagulative necrosis}}.",
+      "answer": "coagulative necrosis",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 11,
+      "images": [
+        "cd-visual-02"
+      ],
+      "answerImages": [
+        "cd-slide-11"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-3-c1",
+      "noteId": "cd-visual-3",
+      "type": "cloze",
+      "text": "Compare normal kidney N with infarcted tissue I. Retained tubular outlines in dead tissue support a {{c1::coagulative}} pattern.",
+      "question": "Compare normal kidney N with infarcted tissue I. Retained tubular outlines in dead tissue support a {{c1::coagulative}} pattern.",
+      "answer": "coagulative",
+      "clozeNumber": 1,
+      "topic": "Coagulative necrosis",
+      "slide": 12,
+      "images": [
+        "cd-visual-03"
+      ],
+      "answerImages": [
+        "cd-slide-12"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-4-c1",
+      "noteId": "cd-visual-4",
+      "type": "cloze",
+      "text": "In this brain infarct, dead tissue is dissolved rather than remaining firm. The pattern is {{c1::liquefactive necrosis}}.",
+      "question": "In this brain infarct, dead tissue is dissolved rather than remaining firm. The pattern is {{c1::liquefactive necrosis}}.",
+      "answer": "liquefactive necrosis",
+      "clozeNumber": 1,
+      "topic": "Liquefactive necrosis",
+      "slide": 13,
+      "images": [
+        "cd-visual-04"
+      ],
+      "answerImages": [
+        "cd-slide-13"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-5-c1",
+      "noteId": "cd-visual-5",
+      "type": "cloze",
+      "text": "The lecture’s tuberculous lung has pale, cheese-like debris. This is {{c1::caseous necrosis}}.",
+      "question": "The lecture’s tuberculous lung has pale, cheese-like debris. This is {{c1::caseous necrosis}}.",
+      "answer": "caseous necrosis",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 14,
+      "images": [
+        "cd-visual-05"
+      ],
+      "answerImages": [
+        "cd-slide-14"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-6-c1",
+      "noteId": "cd-visual-6",
+      "type": "cloze",
+      "text": "This bovine bronchus contains the lecture’s cheese-like necrotic material. The subtype is {{c1::caseous necrosis}}.",
+      "question": "This bovine bronchus contains the lecture’s cheese-like necrotic material. The subtype is {{c1::caseous necrosis}}.",
+      "answer": "caseous necrosis",
+      "clozeNumber": 1,
+      "topic": "Caseous necrosis",
+      "slide": 15,
+      "images": [
+        "cd-visual-06"
+      ],
+      "answerImages": [
+        "cd-slide-15"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-7-c1",
+      "noteId": "cd-visual-7",
+      "type": "cloze",
+      "text": "The chalky deposits in damaged fat after pancreatic injury represent {{c1::saponification (calcium-soap formation)}}.",
+      "question": "The chalky deposits in damaged fat after pancreatic injury represent {{c1::saponification (calcium-soap formation)}}.",
+      "answer": "saponification (calcium-soap formation)",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 16,
+      "images": [
+        "cd-visual-07"
+      ],
+      "answerImages": [
+        "cd-slide-16"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-8-c1",
+      "noteId": "cd-visual-8",
+      "type": "cloze",
+      "text": "These pale lesions in perirenal adipose tissue illustrate {{c1::fat necrosis}}.",
+      "question": "These pale lesions in perirenal adipose tissue illustrate {{c1::fat necrosis}}.",
+      "answer": "fat necrosis",
+      "clozeNumber": 1,
+      "topic": "Fat necrosis",
+      "slide": 17,
+      "images": [
+        "cd-visual-08"
+      ],
+      "answerImages": [
+        "cd-slide-17"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-9-c1",
+      "noteId": "cd-visual-9",
+      "type": "cloze",
+      "text": "The lecture’s ischaemic distal-limb tissue illustrates {{c1::gangrene}}; infection is not necessary in the dry form.",
+      "question": "The lecture’s ischaemic distal-limb tissue illustrates {{c1::gangrene}}; infection is not necessary in the dry form.",
+      "answer": "gangrene",
+      "clozeNumber": 1,
+      "topic": "Gangrene",
+      "slide": 18,
+      "images": [
+        "cd-visual-09"
+      ],
+      "answerImages": [
+        "cd-slide-18"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-10-c1",
+      "noteId": "cd-visual-10",
+      "type": "cloze",
+      "text": "These small membrane-bound fragments formed by a dying cell are {{c1::apoptotic bodies}}.",
+      "question": "These small membrane-bound fragments formed by a dying cell are {{c1::apoptotic bodies}}.",
+      "answer": "apoptotic bodies",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 26,
+      "images": [
+        "cd-visual-10"
+      ],
+      "answerImages": [
+        "cd-slide-26"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-11-c1",
+      "noteId": "cd-visual-11",
+      "type": "cloze",
+      "text": "This diagram shows cell shrinkage, fragmentation and removal of membrane-bound bodies. The process is {{c1::apoptosis}}.",
+      "question": "This diagram shows cell shrinkage, fragmentation and removal of membrane-bound bodies. The process is {{c1::apoptosis}}.",
+      "answer": "apoptosis",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 27,
+      "images": [
+        "cd-visual-11"
+      ],
+      "answerImages": [
+        "cd-slide-27"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-12-c1",
+      "noteId": "cd-visual-12",
+      "type": "cloze",
+      "text": "The rounded, blebbing cells in the lecture micrograph illustrate {{c1::apoptotic morphology}}.",
+      "question": "The rounded, blebbing cells in the lecture micrograph illustrate {{c1::apoptotic morphology}}.",
+      "answer": "apoptotic morphology",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 28,
+      "images": [
+        "cd-visual-12"
+      ],
+      "answerImages": [
+        "cd-slide-28"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-13-c1",
+      "noteId": "cd-visual-13",
+      "type": "cloze",
+      "text": "The left-hand sequence shows a swollen cell breaking down with leakage. It illustrates {{c1::necrosis}}.",
+      "question": "The left-hand sequence shows a swollen cell breaking down with leakage. It illustrates {{c1::necrosis}}.",
+      "answer": "necrosis",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 30,
+      "images": [
+        "cd-visual-13"
+      ],
+      "answerImages": [
+        "cd-slide-30"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-14-c1",
+      "noteId": "cd-visual-14",
+      "type": "cloze",
+      "text": "The right-hand sequence packages cellular fragments rather than spilling them. The membrane-bound fragments are {{c1::apoptotic bodies}}.",
+      "question": "The right-hand sequence packages cellular fragments rather than spilling them. The membrane-bound fragments are {{c1::apoptotic bodies}}.",
+      "answer": "apoptotic bodies",
+      "clozeNumber": 1,
+      "topic": "Compare necrosis & apoptosis",
+      "slide": 30,
+      "images": [
+        "cd-visual-14"
+      ],
+      "answerImages": [
+        "cd-slide-30"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    },
+    {
+      "id": "cd-visual-15-c1",
+      "noteId": "cd-visual-15",
+      "type": "cloze",
+      "text": "The last step in this apoptotic-cell diagram is uptake of the fragments by a {{c1::phagocyte}}.",
+      "question": "The last step in this apoptotic-cell diagram is uptake of the fragments by a {{c1::phagocyte}}.",
+      "answer": "phagocyte",
+      "clozeNumber": 1,
+      "topic": "Apoptotic morphology & clearance",
+      "slide": 30,
+      "images": [
+        "cd-visual-15"
+      ],
+      "answerImages": [
+        "cd-slide-30"
+      ],
+      "illustrations": [],
+      "showImagesFront": true,
+      "status": "new",
+      "draft": false
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Cellular Injury III",
+      "text": "Cellular Injury III \nDr Hossein Ashrafi (DVM, PhD)\nAssociate Professor in Pathology\nPathobiology– LS5009\nLecture 3\n2026\nTypes of cell death\nFaculty Health, Science, Social Care and Education\n- School of Life Sciences, Pharmacy and Chemistry",
+      "images": [
+        "cd-slide-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Aims",
+      "text": "Aims\n❖ To examine effects of lethal cell injury and types \nof cell death\nObjectives \n➢To outline types of cell death\n➢Examine necrosis and the morphological changes\n➢An overview on Apoptosis",
+      "images": [
+        "cd-slide-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Kumar, Abbas, & Aster (2014) Robbins Basic Pathology (9th Ed).",
+      "text": "Kumar, Abbas, & Aster (2014) Robbins Basic Pathology (9th Ed). \nSaunders. ISBN: 9781437717815 Chapter 1\nUnderwood (2009) General and Systemic Pathology (5th Ed). \nChurchill Livingstone ISBN-10: 0443068887. Chapter 1,2 \nLakhani SR, Dilly SA & Finlayson CJ (2009) Basic Pathology (4th \nEd). Arnold. ISBN 0340810017. Chapter 1\nMera (1997) Understanding Disease. Stanley Thornes. Chapter 4\n \nWoolf (2000) Cell, Tissue and Disease (3rd Ed). Saunders.  Chapter 2\n❖References\n3",
+      "images": [
+        "cd-slide-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "• If the injury is too severe (“irreversible injury”),",
+      "text": "• If the injury is too severe (“irreversible injury”), \nthe affected cells die.\n (cell death) \n• Under physiological stresses or pathological \nstimuli (“injury”), cells can undergo adaptation to \nachieve a new steady state in the new environment. \n(“Adaptation”)\nResponse to Injury\n“Overview”",
+      "images": [
+        "cd-slide-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Irreversibly",
+      "text": "Irreversibly \nInjured cell\nDead cell\nApoptosis\nNecrosis\nTypes of cell death\nDiffer in their morphology, mechanisms, and roles in disease and physiology",
+      "images": [
+        "cd-slide-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "❖Necrosis",
+      "text": "❖Necrosis\n➢Cell death by injury\n-Mechanical damage \n-Exposure to toxic chemicals, etc…. \n❖Apoptosis\n➢Cell death by suicide\n-Internal signals\n-External signals\nTypes of cell death",
+      "images": [
+        "cd-slide-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "❖Necrosis",
+      "text": "❖Necrosis\n(From Greek= dead)\n➢ Necrosis is always a pathologic process caused by \nexternal factors:\n– Mechanical damage\n–  Infections\n– Exposure to toxic chemicals\n– Hypoxia\n– Ischemia\nThe premature death of cells and living tissue\n❖ The changes are irreversible so no further integrated functions are \npossible",
+      "images": [
+        "cd-slide-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Necrotic cells undergo a characteristic series of",
+      "text": "Necrotic cells undergo a characteristic series of \nchanges\nMitochondria swell and rupture\nPlasma membrane ruptures\nCell contents spill out\nAffects neighbouring cells\nEnds with total cell lysis\nStimulates an inflammatory response\nNormal\n➢ When \ndamage to \nmembranes is \nsevere, \nenzymes leak \nout of \nlysosomes, \nenter the \ncytoplasm, and \ndigest the cell, \nresulting in \nnecrosis. \nPicture adapted from Walker NI, et al: Patterns of cell death.  Robbins Basic Pathology, Chapter 1",
+      "images": [
+        "cd-slide-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "❖ Necrosis",
+      "text": "❖ Necrosis \nMorphologic changes seen in dead cells within living tissue\nDead tissue\nLiving tissue\nRenal infarct",
+      "images": [
+        "cd-slide-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "➢ Coagulative necrosis",
+      "text": "➢ Coagulative necrosis\n❖ Types of Necrosis \nTissues or organs display certain macroscopic changes\n➢ Liquefactive necrosis\n➢ Caseous necrosis\n➢ Fat necrosis\n➢ Gangrenous necrosis",
+      "images": [
+        "cd-slide-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "The outline of the dead cells are maintained and the tissue is somewhat firm",
+      "text": "The outline of the dead cells are maintained and the tissue is somewhat firm\nCoagulative necrosis \ne.g.  Renal infarction  \nNecrosis\nRobbins Basic Pathology, Chapter 1 \nPresumably the injury denatures not only structural proteins but also enzymes and so blocks \nthe proteolysis of the dead cells;. Ultimately, the necrotic cells are removed by phagocytosis of \nthe cellular debris",
+      "images": [
+        "cd-slide-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Coagulative necrosis",
+      "text": "Coagulative necrosis \nI\nN\nMicroscopic view of the edge of\nthe infarct, with normal kidney (N) and necrotic cells in the \ninfarct (I).\nRobbins Basic Pathology, Chapter 1",
+      "images": [
+        "cd-slide-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Liquifactive necrosis",
+      "text": "Liquifactive necrosis \ne.g. Brain Infarction \nNecrosis\nAn infarct in the brain, showing dissolution\nof the tissue.\nRobbins Basic Pathology, Chapter 1 \nThis occurs in tissue rich in fluid such as the brain \nWhatever the pathogenesis, liquefaction completely digests the dead cells, \nthe affected area becomes soft and is transformed to a turbid liquid.",
+      "images": [
+        "cd-slide-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "A form of coagulative necrosis (cheese-like)",
+      "text": "A form of coagulative necrosis (cheese-like)\nCaseous necrosis\ne.g. tuberculosis lesions \nA tuberculous lung with a large area of caseous  necrosis containing \nyellow-white and cheesy debris.\nNecrosis",
+      "images": [
+        "cd-slide-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Caseous necrosis in the bronchus of a cow",
+      "text": "Caseous necrosis in the bronchus of a cow\nNecrosis",
+      "images": [
+        "cd-slide-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "enzymatic digestion of fat",
+      "text": "enzymatic digestion of fat \nFat necrosis\ne.g. necrosis of fat by pancreatic enzymes\nFatty necrosis Pancreas\nThe areas of white chalky deposits represent foci of fat \nnecrosis with calcium soap formation (saponification) at \nsites of lipid breakdown in the mesentery.\ncell death is found in fatty tissue and is seen especially following damage \nto the pancreas. Lipases released from the pancreas split the neutral fat \nin lipid cells into glycerol and fatty acids, which diffuse out of the cells.",
+      "images": [
+        "cd-slide-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Fat necrosis in the perirenal fat of a cow",
+      "text": "Fat necrosis in the perirenal fat of a cow",
+      "images": [
+        "cd-slide-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Necrosis (secondary to ischemia) usually with superimposed",
+      "text": "Necrosis (secondary to ischemia) usually with superimposed \ninfection. \nGangrenous necrosis \ne.g. necrosis of distal limbs, usually foot and toes in diabetes",
+      "images": [
+        "cd-slide-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "❖Apoptosis",
+      "text": "❖Apoptosis\n➢Cell death by suicide\n-Internal signals\n-External signals",
+      "images": [
+        "cd-slide-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Apoptosis",
+      "text": "Apoptosis\n• In pathology used to describe specific type of cell \ndeath:\n• Involves death of individual cells or small groups \nof cells in a tissue where remaining cells continue to \nfunction normally.\n• may be under physiological or genetic control.\n• From Greek: \n– first used to describe individual leaves falling from a tree",
+      "images": [
+        "cd-slide-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Why should a cell commit suicide?",
+      "text": "Why should a cell commit suicide?\n➢Apoptosis is needed for proper development\n \n–The resorption of the tadpole tail  \n–The formation of the fingers and toes of the fetus \n–The sloughing off of the inner lining of the uterus\n➢Apoptosis is needed to destroy cells \n \n \n–Cells infected with viruses \n–Cells with DNA damage \n–Cancer cells",
+      "images": [
+        "cd-slide-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Importance of Apoptosis",
+      "text": "Importance of Apoptosis",
+      "images": [
+        "cd-slide-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Apoptosis",
+      "text": "Apoptosis\n➢Apoptosis is needed to destroy cells that represent a \nthreat to the integrity of the organism\n– Cells with damaged DNA \nDNA damage activates a protein called p53 which can facilitate DNA repair.  If \nthis is not successful the p53 system can then induce apoptosis and so \neliminate the damaged cells.  \n– Cells infected with viruses\nelimination of viral infected cells by T lymphocytes",
+      "images": [
+        "cd-slide-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Apoptosis and disease",
+      "text": "Apoptosis and disease\n1. Deficient apoptosis\n– Cancers\nDysfunction of Tumor suppressor gene (p53)\n– Viral Infections\nSome viruses can degrade p53 function\nE.g. Human Papillomavirus type 16 causative agent of Cervical \nCancer",
+      "images": [
+        "cd-slide-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "2. Excess apoptosis",
+      "text": "2. Excess apoptosis\nNeurodegenerative diseases\n– Alzheimers Disease\n– Parkinsons Disease\nApoptosis and disease",
+      "images": [
+        "cd-slide-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Signal from",
+      "text": "Signal from \ncontrol gene\nActivation of death genes in the \nnucleus\nDiffusion of death gene products throughout the cell\nMitochondrial \nshutdown\nFragmentation \nof chromatin\nCell surface \nbreakdown\nApoptosis\nNormal",
+      "images": [
+        "cd-slide-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Apoptotic cells undergo a characteristic series of changes",
+      "text": "Apoptotic cells undergo a characteristic series of changes\n•DNA fragments\n•Cytoplasm shrinks and membrane blebs\n-but no loss of membrane integrity-\n•Contents are packed into membrane bound \nstructures termed apoptotic bodies\n(Ends with fragmentation of cell into smaller bodies)\n•Receptors on phagocytic cells (macrophages) \nthen engulf the cell fragments",
+      "images": [
+        "cd-slide-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "our browser does not support JavaScript! Your browser does not support JavaScript!",
+      "text": "our browser does not support JavaScript! Your browser does not support JavaScript! \nApoptotic cells\nNote how the membrane blebs and shrinks and cells round up",
+      "images": [
+        "cd-slide-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Cell",
+      "text": "Cell \n    \n \nSwelling  \n \n \nShrinkage \nNucleus  \n \nNo Fragmentation  \n \nFragmentation \nPlasma membrane  \nDisrupted \n \n \nIntact \nCellular contents  \nEnzymatic digestion \n \nIntact\n \n \n \n(Leak of lysosomal enzymes) \n \nInflammation \n \nFrequent  \n \n \nNone\nPhysiologic/pathologic \nPathologic \n \n \nPhysiologic\nVesicles  \n \n No vesicle formation, \n \nFormation of membrane \n \n \ncomplete lysis \n \n \nbound vesicles \n \n \n \n \n \n \n \n(apoptotic bodies)\nFeatures of Necrosis and Apoptosis\nFeature \n \nNecrosis \n \n    \nApoptosis",
+      "images": [
+        "cd-slide-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Cellular features of necrosis (left) .",
+      "text": "Cellular features of necrosis (left) . \nSigns of cytoplasmic blebs, and digestion and leakage of cellular components. \nApoptosis (right). \nThe initial changes consist of nuclear chromatin condensation and fragmentation, followed by \ncytoplasmic budding and phagocytosis of the extruded apoptotic bodies.\n(Adapted from Walker NI, et al: Patterns of cell death).  Robbins Basic Pathology, Chapter 1 .\nCell Death\nhttp://www.youtube.com/watch?v=7WRkY8q_F3k",
+      "images": [
+        "cd-slide-30"
+      ]
+    }
+  ],
+  "media": {
+    "cd-slide-1": "cell-death/slide-01.jpg",
+    "cd-slide-2": "cell-death/slide-02.jpg",
+    "cd-slide-3": "cell-death/slide-03.jpg",
+    "cd-slide-4": "cell-death/slide-04.jpg",
+    "cd-slide-5": "cell-death/slide-05.jpg",
+    "cd-slide-6": "cell-death/slide-06.jpg",
+    "cd-slide-7": "cell-death/slide-07.jpg",
+    "cd-slide-8": "cell-death/slide-08.jpg",
+    "cd-slide-9": "cell-death/slide-09.jpg",
+    "cd-slide-10": "cell-death/slide-10.jpg",
+    "cd-slide-11": "cell-death/slide-11.jpg",
+    "cd-slide-12": "cell-death/slide-12.jpg",
+    "cd-slide-13": "cell-death/slide-13.jpg",
+    "cd-slide-14": "cell-death/slide-14.jpg",
+    "cd-slide-15": "cell-death/slide-15.jpg",
+    "cd-slide-16": "cell-death/slide-16.jpg",
+    "cd-slide-17": "cell-death/slide-17.jpg",
+    "cd-slide-18": "cell-death/slide-18.jpg",
+    "cd-slide-19": "cell-death/slide-19.jpg",
+    "cd-slide-20": "cell-death/slide-20.jpg",
+    "cd-slide-21": "cell-death/slide-21.jpg",
+    "cd-slide-22": "cell-death/slide-22.jpg",
+    "cd-slide-23": "cell-death/slide-23.jpg",
+    "cd-slide-24": "cell-death/slide-24.jpg",
+    "cd-slide-25": "cell-death/slide-25.jpg",
+    "cd-slide-26": "cell-death/slide-26.jpg",
+    "cd-slide-27": "cell-death/slide-27.jpg",
+    "cd-slide-28": "cell-death/slide-28.jpg",
+    "cd-slide-29": "cell-death/slide-29.jpg",
+    "cd-slide-30": "cell-death/slide-30.jpg",
+    "cd-panel-necrosis": "cell-death/panel-necrosis.jpg",
+    "cd-panel-kidney": "cell-death/panel-kidney.jpg",
+    "cd-panel-kidney-histology": "cell-death/panel-kidney-histology.jpg",
+    "cd-panel-brain": "cell-death/panel-brain.jpg",
+    "cd-panel-caseous-lung": "cell-death/panel-caseous-lung.jpg",
+    "cd-panel-caseous-bronchus": "cell-death/panel-caseous-bronchus.jpg",
+    "cd-panel-fat": "cell-death/panel-fat.jpg",
+    "cd-panel-perirenal-fat": "cell-death/panel-perirenal-fat.jpg",
+    "cd-panel-gangrene": "cell-death/panel-gangrene.jpg",
+    "cd-panel-signalling": "cell-death/panel-signalling.jpg",
+    "cd-panel-apoptosis": "cell-death/panel-apoptosis.jpg",
+    "cd-panel-apoptotic-cells": "cell-death/panel-apoptotic-cells.jpg",
+    "cd-panel-comparison": "cell-death/panel-comparison.jpg",
+    "cd-visual-01": "cell-death/visual-01.jpg",
+    "cd-visual-02": "cell-death/visual-02.jpg",
+    "cd-visual-03": "cell-death/visual-03.jpg",
+    "cd-visual-04": "cell-death/visual-04.jpg",
+    "cd-visual-05": "cell-death/visual-05.jpg",
+    "cd-visual-06": "cell-death/visual-06.jpg",
+    "cd-visual-07": "cell-death/visual-07.jpg",
+    "cd-visual-08": "cell-death/visual-08.jpg",
+    "cd-visual-09": "cell-death/visual-09.jpg",
+    "cd-visual-10": "cell-death/visual-10.jpg",
+    "cd-visual-11": "cell-death/visual-11.jpg",
+    "cd-visual-12": "cell-death/visual-12.jpg",
+    "cd-visual-13": "cell-death/visual-13.jpg",
+    "cd-visual-14": "cell-death/visual-14.jpg",
+    "cd-visual-15": "cell-death/visual-15.jpg"
+  },
+  "mediaCredits": {
+    "cd-panel-necrosis": {
+      "title": "Necrosis: swelling, membrane rupture and lysis",
+      "credit": "Supplied LS5009 lecture · slide 8 · original figure credit on source slide"
+    },
+    "cd-panel-kidney": {
+      "title": "Renal infarct: pale wedge of necrotic kidney tissue",
+      "credit": "Supplied LS5009 lecture · slide 11 · original figure credit on source slide"
+    },
+    "cd-panel-kidney-histology": {
+      "title": "Normal kidney N beside infarcted tissue I",
+      "credit": "Supplied LS5009 lecture · slide 12 · original figure credit on source slide"
+    },
+    "cd-panel-brain": {
+      "title": "Brain infarct with tissue dissolution",
+      "credit": "Supplied LS5009 lecture · slide 13 · original figure credit on source slide"
+    },
+    "cd-panel-caseous-lung": {
+      "title": "Tuberculous lung with cheese-like necrotic debris",
+      "credit": "Supplied LS5009 lecture · slide 14 · original figure credit on source slide"
+    },
+    "cd-panel-caseous-bronchus": {
+      "title": "Caseous necrosis in a bovine bronchus",
+      "credit": "Supplied LS5009 lecture · slide 15 · original figure credit on source slide"
+    },
+    "cd-panel-fat": {
+      "title": "Chalky fat necrosis with calcium soap formation",
+      "credit": "Supplied LS5009 lecture · slide 16 · original figure credit on source slide"
+    },
+    "cd-panel-perirenal-fat": {
+      "title": "Fat necrosis in bovine perirenal tissue",
+      "credit": "Supplied LS5009 lecture · slide 17 · original figure credit on source slide"
+    },
+    "cd-panel-gangrene": {
+      "title": "Gangrenous ischaemic limb tissue",
+      "credit": "Supplied LS5009 lecture · slide 18 · original figure credit on source slide"
+    },
+    "cd-panel-signalling": {
+      "title": "Lecture schematic: death signalling and apoptotic fragmentation",
+      "credit": "Supplied LS5009 lecture · slide 26 · original figure credit on source slide"
+    },
+    "cd-panel-apoptosis": {
+      "title": "Apoptosis: shrinkage, fragmentation and clearance",
+      "credit": "Supplied LS5009 lecture · slide 27 · original figure credit on source slide"
+    },
+    "cd-panel-apoptotic-cells": {
+      "title": "Lecture micrograph of rounded, blebbing apoptotic cells",
+      "credit": "Supplied LS5009 lecture · slide 28 · original figure credit on source slide"
+    },
+    "cd-panel-comparison": {
+      "title": "Compare membrane rupture with apoptotic-body formation and clearance",
+      "credit": "Supplied LS5009 lecture · slide 30 · original figure credit on source slide"
+    },
+    "cd-visual-01": {
+      "title": "Visual recall · slide 8",
+      "credit": "Supplied LS5009 lecture · slide 8 · original figure credit on source slide"
+    },
+    "cd-visual-02": {
+      "title": "Visual recall · slide 11",
+      "credit": "Supplied LS5009 lecture · slide 11 · original figure credit on source slide"
+    },
+    "cd-visual-03": {
+      "title": "Visual recall · slide 12",
+      "credit": "Supplied LS5009 lecture · slide 12 · original figure credit on source slide"
+    },
+    "cd-visual-04": {
+      "title": "Visual recall · slide 13",
+      "credit": "Supplied LS5009 lecture · slide 13 · original figure credit on source slide"
+    },
+    "cd-visual-05": {
+      "title": "Visual recall · slide 14",
+      "credit": "Supplied LS5009 lecture · slide 14 · original figure credit on source slide"
+    },
+    "cd-visual-06": {
+      "title": "Visual recall · slide 15",
+      "credit": "Supplied LS5009 lecture · slide 15 · original figure credit on source slide"
+    },
+    "cd-visual-07": {
+      "title": "Visual recall · slide 16",
+      "credit": "Supplied LS5009 lecture · slide 16 · original figure credit on source slide"
+    },
+    "cd-visual-08": {
+      "title": "Visual recall · slide 17",
+      "credit": "Supplied LS5009 lecture · slide 17 · original figure credit on source slide"
+    },
+    "cd-visual-09": {
+      "title": "Visual recall · slide 18",
+      "credit": "Supplied LS5009 lecture · slide 18 · original figure credit on source slide"
+    },
+    "cd-visual-10": {
+      "title": "Visual recall · slide 26",
+      "credit": "Supplied LS5009 lecture · slide 26 · original figure credit on source slide"
+    },
+    "cd-visual-11": {
+      "title": "Visual recall · slide 27",
+      "credit": "Supplied LS5009 lecture · slide 27 · original figure credit on source slide"
+    },
+    "cd-visual-12": {
+      "title": "Visual recall · slide 28",
+      "credit": "Supplied LS5009 lecture · slide 28 · original figure credit on source slide"
+    },
+    "cd-visual-13": {
+      "title": "Visual recall · slide 30",
+      "credit": "Supplied LS5009 lecture · slide 30 · original figure credit on source slide"
+    },
+    "cd-visual-14": {
+      "title": "Visual recall · slide 30",
+      "credit": "Supplied LS5009 lecture · slide 30 · original figure credit on source slide"
+    },
+    "cd-visual-15": {
+      "title": "Visual recall · slide 30",
+      "credit": "Supplied LS5009 lecture · slide 30 · original figure credit on source slide"
+    }
+  },
+  "editorialNotes": [
+    "The deck follows the scope of this introductory lecture; necrosis and apoptosis are not an exhaustive list of modern cell-death mechanisms. Necrotic death can also be regulated.",
+    "Slide 29 is simplified: apoptosis occurs in physiological and pathological settings; necrosis can show nuclear shrinkage, fragmentation and dissolution. Apoptosis usually elicits little inflammation when apoptotic bodies are cleared promptly.",
+    "Caseous necrosis is taught as a distinct cheese-like pattern with loss of recognisable architecture, rather than equating it with preserved-architecture coagulative necrosis.",
+    "Gangrene is a clinical description. Dry gangrene can be ischaemic without infection; wet gangrene involves superimposed infection. Infection is not required for all gangrene.",
+    "The lecture’s apoptosis signalling flowchart is schematic, not a universal sequence in which new death-gene transcription is always necessary. Membrane blebbing is distinguished from early membrane rupture.",
+    "p53 helps coordinate responses to DNA damage; it can support repair or promote apoptosis if damage cannot be resolved. Neurodegenerative diseases are multifactorial, so excess apoptosis is not presented as their sole cause.",
+    "Visual prompts use lecture figure crops with answer headings excluded. Images illustrate the source examples and are not presented as independently diagnostic. Full original source slides remain available."
+  ]
+}

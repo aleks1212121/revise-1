@@ -5,7 +5,7 @@ import {isDue,schedule,intervalLabel,nextReviewLabel,migrateSchedule,preserveSch
 import {addStudyVisuals} from './visuals.js';
 import {backendURL,generateAI} from './ai.js';
 import './style.css';
-const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cell injury I & II'}];
+const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cell injury I & II'},{id:'cell-death',label:'Cell death'}];
 let deck=null,lectures=[],uploadFile=null,uploadTitle='',uploadMode='ai',aiToken='',aiReady=false;
 let aiEndpoint='';try{aiEndpoint=localStorage.getItem('micro-ai-url')||''}catch{}
 let view='study',index=0,flipped=false,filter='due',visualHint=false,illustrationIndex=0,section='all',search='',queue=[],busy=false,message='',editing=null;
@@ -17,7 +17,7 @@ function mediaURL(id){
  const src=deck?.media?.[id];
  if(typeof src!=='string')return '';
  if(/^data:image\/(png|jpeg|gif|webp);base64,[A-Za-z0-9+/=]+$/.test(src))return src;
- if(/^((?:lecture|genetic-variation|cell-injury)\/[a-z0-9-]+\.jpg|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
+ if(/^((?:lecture|genetic-variation|cell-injury|cell-death)\/[a-z0-9-]+\.jpg|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
  return '';
 }
 function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}
