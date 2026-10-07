@@ -41,3 +41,4 @@
 :root[data-mode] .workspace-panel label input,:root[data-mode] .workspace-panel select,:root[data-mode] .modal input,:root[data-mode] .modal textarea,:root[data-mode] .modal select{background:var(--theme-panel);color:var(--theme-text);border-color:var(--theme-border)}
 :root[data-mode] .upload-icon{background:var(--theme-soft);color:var(--theme-accent)}
 :root[data-mode] .import-panel{background-image:none}
+:root[data-mode] .micro-art.dog-art{opacity:1}
