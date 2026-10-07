@@ -17,7 +17,7 @@ The Vite base path is `/revise-1/`. New visitors start with the included lecture
 
 ## Study
 
-Click a card or press Space to reveal the missing term. After reveal, press 1 for Still learning or 2 for Got it. Arrow keys navigate. Filter unstudied cards, cards to revisit, or visual cards, and choose a lecture section; shuffle to vary the order.
+Click a card or press Space to reveal the missing term. After reveal, rate Again (1), Hard (2), Good (3), or Easy (4). Each button shows the next review interval. Arrow keys navigate. The default Due now view contains new cards and scheduled refreshers. You can also browse all cards, unstudied cards, cards to revisit, or visual cards, and choose a lecture section; shuffle to vary the order.
 
 The deck tests individual facts, distinctions and structure–function relationships. Visual cards show cropped figures without the answer labels, then reveal the original slide. Text cards show the source slide after reveal. **View source slide** opens the full reference. The research-figure cards distinguish association from causation; the supplied figure alone cannot prove causes of outbreak success.
 
@@ -48,3 +48,25 @@ For another static host, adjust the Vite `base` path, run `npm run build` and pu
 ## Editorial notes
 
 The supplied slides contain some simplifications and a likely “nucleotide” typo on the nucleoid slide. Cards use nucleoid, avoid the ambiguous slime-layer removability statement, and test mycolic-acid properties without repeating an oversimplified Gram-classification claim. The unmodified slides remain available for reference. Full original-slide images retain their source attributions.
+
+
+## Timed refreshers
+
+Cards are never marked done forever. This app uses a simple progressive schedule inspired by spaced repetition, rather than Anki's FSRS algorithm:
+
+- **Again:** relearn in 10 minutes, resetting the interval progression.
+- **Hard:** at least 1 day; later intervals grow slowly (about 1.2×).
+- **Good:** 1 → 3 → 7 → 14 → 30 → 60 → 120 → 180 → 365 days. Reviews continue yearly at the cap.
+- **Easy:** skips one step in that progression (3 days on a new card).
+
+Due times, last ratings, review counts and lapses are saved in IndexedDB and included in JSON backups. Older confident cards without a timer are made due on upgrade; existing schedules and edits are retained. Editing linked cloze cards preserves each card's own schedule, and newly added deletion numbers start unscheduled.
+
+The due queue checks every 30 seconds while the app is open and when its tab becomes visible. If the app is closed, open it again to see the cards due. It does not send background or phone notifications. Progress is local to your browser; export/import to move it between devices. All cards remains available for optional practice before a scheduled review.
+
+## Additional study visuals
+
+Ten original labeled study schematics illustrate bacterial cells, Gram-positive/negative envelopes, peptidoglycan, phospholipid membranes, DNA/plasmids, ribosomes, biofilms, growth phases, motility and mycolic-acid-rich envelopes. They are simplified diagrams, not micrographs or chemically exact molecular structures, and are labeled as not to scale. They are bundled locally in `public/illustrations/`, so they don't depend on third-party image hosting.
+
+Relevant cards offer **Show visual hint** before reveal, and show their illustrations after reveal. Hints contain labels and may help reveal the answer; leave them closed when testing unaided recall. Original lecture microscopy and source slides remain available. Saved lecture decks receive these additional illustrations automatically without resetting their progress. JSON exports embed both slide images and study diagrams.
+
+The optional illustration source is `scripts/generate-study-illustrations.py` (requires Python, Pillow and the DejaVu Sans font). It is not needed to run or deploy the app; the generated PNG assets are committed.
