@@ -146,3 +146,7 @@ Android Chrome supports browser dictation, subject to microphone permission, net
 Open **Modules** in the main navigation to browse Pathobiology (LS5009), Infection and Immunity (LS5008), Medical Genetics (LS5023), and Medical Physiology, Research Methods and Skills (LS5034). Each module shows its lecture count and aggregate study coverage; choosing it filters the collection and preselects the module for uploads. **Lectures** still shows the full collection.
 
 Existing cell injury/death decks default to Pathobiology, microorganisms to Infection and Immunity, and genetic variation to Medical Genetics. Other existing uploads appear as Unassigned. Use each lecture's Module selector to move it; explicit assignments override defaults and sync with the deck using the existing accounts setup. Moving lectures preserves cards, reviews and source pictures. No new Supabase SQL is needed. `npm run test:modules:browser` checks grouping, moving, reload persistence, empty modules and uploads on desktop and phone.
+
+## Viruses lecture deck
+
+**Modules → Infection and Immunity → Revisiting Microbes — Viruses** contains 200 reviewed cloze cards, including 14 visual questions with crops from the uploaded lecture. All 43 original slides and 13 supporting figure panels are bundled. Existing saved reviews remain intact; no paid AI connection is required. See [deck notes](public/viruses/README.md) for coverage and clarifications of misleading source statements.
