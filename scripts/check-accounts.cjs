@@ -23,6 +23,7 @@ async function fixture(context,{socialHandler}={}){
   assert.ok(id===A||id===B,'REST requires signed-in identity');
   if(!rows.has(id))rows.set(id,new Map());const collection=rows.get(id);
   if(socialHandler){const handled=await socialHandler(url.pathname.split('/').pop(),body,id);if(handled)return respond(handled.error||handled.data,handled.error?400:200)}
+  if(url.pathname.endsWith('/is_study_admin'))return respond(false);
   if(url.pathname.endsWith('/study_decks'))return respond([...collection.values()]);
   if(url.pathname.endsWith('/save_study_deck')){
    if(body.p_lecture_id==='')return respond({code:'P0001',message:'Invalid lecture payload'},400);

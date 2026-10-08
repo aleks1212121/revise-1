@@ -200,3 +200,11 @@ Pathobiology now lists **Cellular Injury I** (84 cards, source slides 1–39) an
 The storage adapter presents these as separate lectures while retaining the original `cell-injury` record for cloud compatibility. `rawLectures` supplies that record to sync; `allLectures`/`getLecture` supply the separate parts to the interface. Saves merge changed cards into the original record without touching the other part. Review IDs, clocks, due dates, study-day activity and attempt events are preserved; per-part preference clocks prevent changes to one part overwriting the other part's preferences on another device. Existing combined data splits automatically on read. No SQL migration or reupload is needed. Shared statistics map original source slides to the correct part.
 
 `npm run test:injury-split:browser` checks existing combined progress, the 84/112 split, independent Focus settings, summaries, phone layout and review sync to a second device. Unit checks cover event/activity partitioning and simultaneous preference/review merges.
+
+## Admin mode, slide requests and guests
+
+**My account** includes an admin-code box. Generate your private, single-use code in Supabase SQL Editor using [admin-code.sql](supabase/admin-code.sql) after installing [admin.sql](supabase/admin.sql). Redeeming the code grants access to that account; **Admin mode** switches the interface on/off and is remembered per account in each browser. **More → Admin area** provides a searchable registered-user list with basic synced study totals, plus a private slide inbox with downloads, status updates and replies. Admin authorization is checked by the database, independently of the browser toggle. See [activation and usage](supabase/ADMIN.md).
+
+**Lectures → Send slides to admin** accepts PDF/PPTX files up to 20 MB with a module and message. Students must sign in to send slides; only the sender and admins can read the file and reply. Sending files does not automatically create cards. **Study as guest** and **Switch to guest** are explicit account-screen options; guest progress stays in this browser, separate from accounts, and guests do not appear in the admin list.
+
+`npm run test:admin:browser` verifies the desktop/phone flow using fixture data. The live feature requires the Supabase SQL activation; the public website never contains the admin code or a server secret.

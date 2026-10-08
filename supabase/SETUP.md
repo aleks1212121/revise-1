@@ -29,3 +29,7 @@ Create two test accounts yourself. In account A, rate a card, wait for **Synced*
 Local automated tests exercise the merge rules, the SQL function and row-level access in a PostgreSQL-compatible test engine, and the browser sign-in/sync flow using fixture responses. They do not establish that an unconfigured live Supabase project works. Account activation, live email delivery and hosted authentication must be checked after the project settings are supplied.
 
 To rerun fixture browser checks locally, omit the `VITE_SUPABASE_*` build settings. The test browsers override `account-config.json` with fixture settings, including a blank configuration for the guest fallback test. Run `npm run build`, start `npm run preview -- --port 4189`, then run `npx playwright install chromium` and `npm run test:accounts:browser` in another terminal. If Chromium is already installed, set `CHROMIUM_PATH` to its executable instead of downloading a browser. The script intercepts account configuration and all Supabase traffic in isolated test browsers; it never creates real accounts or sends emails.
+
+## Optional admin mode and slide submissions
+
+Run the migration and generate an activation code as described in [ADMIN.md](ADMIN.md). Admin mode adds a registered-user overview and private slide inbox; it does not change the existing private study-deck policies. Guest study remains available without signing in.

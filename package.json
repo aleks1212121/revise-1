@@ -25,7 +25,8 @@
     "test:statistics:browser": "node scripts/check-statistics.cjs",
     "test:summaries:browser": "node scripts/check-summaries.cjs",
     "test:injury-split:browser": "node scripts/check-injury-split.cjs",
-    "test:retry:browser": "node scripts/check-session-retry.cjs"
+    "test:retry:browser": "node scripts/check-session-retry.cjs",
+    "test:admin:browser": "node scripts/check-admin.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
