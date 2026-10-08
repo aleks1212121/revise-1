@@ -19,7 +19,8 @@
     "test:voice:browser": "node scripts/check-voice.cjs",
     "test:modules:browser": "node scripts/check-modules.cjs",
     "test:viruses:browser": "node scripts/check-viruses.cjs",
-    "test:images:browser": "node scripts/check-image-sizing.cjs"
+    "test:images:browser": "node scripts/check-image-sizing.cjs",
+    "test:study-fit:browser": "node scripts/check-study-fit.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",

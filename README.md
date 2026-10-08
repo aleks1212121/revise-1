@@ -153,4 +153,10 @@ Existing cell injury/death decks default to Pathobiology, microorganisms to Infe
 
 ## Lecture image zoom
 
-Desktop pictures scale to the card's available width with their original proportions; tall figures scroll within a bounded image area. Click or tap a study image to open a large viewer, then use +/− to zoom the actual content up to 400%. Scroll to inspect labels; Close or Escape returns to the same card without revealing/grading it. Images also open with Enter/Space when focused. The viewer follows the selected theme; original image colours stay intact. `npm run test:images:browser` checks scaling, zoom, dismissal and phone grading.
+Study pictures fit the available space with their original proportions and no internal scrollbars. Click or tap a study image to open a large viewer, then use +/− to zoom the actual content up to 400%. Scroll to inspect labels; Close or Escape returns to the same card without revealing/grading it. Images also open with Enter/Space when focused. The viewer follows the selected theme; original image colours stay intact. `npm run test:images:browser` checks scaling, zoom, dismissal and phone grading.
+
+## Compact study layout
+
+The study screen reduces headers and spacing and fits images proportionally without internal image scrollbars. Phone study hides the extra header/stats so the card and fixed rating dock have more room. Longer answer explanations are available through **Explanation**; **Voice practice** is a small button beside the source controls with a floating panel. Escape closes these panels. Read-aloud includes the explanation when it is open. The full-size image viewer and zoom remain available.
+
+`npm run test:study-fit:browser` checks 22 representative revealed virus cards (all visual cards and the longest statements) at 1280×720, 1024×600, 360×640 and 390×844, checking page fit, image scrollbars and phone dock clearance. Voice and image browser checks cover the floating voice controls and zoom.
