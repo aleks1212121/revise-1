@@ -125,7 +125,7 @@ New tab sessions open with a playful CHUDS.org welcome and floating dog photos. 
 
 ## Simple navigation
 
-The main navigation contains **Study** and **Lectures**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
+The main navigation contains **Study**, **Lectures** and **Modules**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
 
 `npm run test:navigation:browser` checks the compact layout, menu access and lecture switching on desktop, small phones and landscape.
 
@@ -140,3 +140,9 @@ Expand **Voice practice** under a study card. **Dictate answer** transcribes you
 Android Chrome supports browser dictation, subject to microphone permission, network availability and the device's speech service. Other browsers may offer read-aloud only, or neither; typing and ordinary flashcard controls remain available. Browser speech recognition may send audio to its provider. This app does not record/upload audio or persist dictated text in decks or account sync. Dictation clears on card/page/account changes. Read-aloud prefers an English voice installed locally, with a browser-selected voice as fallback. Closing Voice practice, leaving the page, hiding the tab or changing the card stops speech/microphone capture.
 
 `npm run test:voice:browser` uses speech fixtures to check reading, hidden answers, opt-in spoken replies, transcription, permission-denied and unsupported-browser fallbacks, and phone grading. Real microphone recognition and speaker output depend on the user's browser and device and are not verified by these fixture checks.
+
+## Modules
+
+Open **Modules** in the main navigation to browse Pathobiology (LS5009), Infection and Immunity (LS5008), Medical Genetics (LS5023), and Medical Physiology, Research Methods and Skills (LS5034). Each module shows its lecture count and aggregate study coverage; choosing it filters the collection and preselects the module for uploads. **Lectures** still shows the full collection.
+
+Existing cell injury/death decks default to Pathobiology, microorganisms to Infection and Immunity, and genetic variation to Medical Genetics. Other existing uploads appear as Unassigned. Use each lecture's Module selector to move it; explicit assignments override defaults and sync with the deck using the existing accounts setup. Moving lectures preserves cards, reviews and source pictures. No new Supabase SQL is needed. `npm run test:modules:browser` checks grouping, moving, reload persistence, empty modules and uploads on desktop and phone.

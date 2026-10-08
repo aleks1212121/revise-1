@@ -1,3 +1,4 @@
+import {moduleFor} from './modules.js';
 import {lectureProgress} from './lecture-progress.js';
 import {stampChanges,mergeDecks,equivalent,cloudPayload} from './sync-model.js';
 const LEGACY='micro-deck-v1';let activeScope='';
@@ -22,7 +23,7 @@ export async function ensureLecture(deck){
  })}finally{db.close()}
 }
 export async function allLectures(scope=activeScope){const db=await database();try{return await new Promise((resolve,reject)=>{const q=db.transaction('decks').objectStore('decks').openCursor(),result=[],prefix=key('lecture:',scope);q.onsuccess=()=>{const cur=q.result;if(!cur){resolve(result);return}if(String(cur.key).startsWith(prefix))result.push(cur.value);cur.continue()};q.onerror=()=>reject(q.error)})}finally{db.close()}}
-export async function listLectures(){return (await allLectures()).map(d=>({lectureId:d.lectureId,title:d.title||'Untitled lecture',count:d.cards.length,...lectureProgress(d.cards),updatedAt:d.updatedAt||0,curated:!!d.curated,generation:d.generation||'imported'})).sort((a,b)=>b.updatedAt-a.updatedAt)}
+export async function listLectures(){return (await allLectures()).map(d=>({lectureId:d.lectureId,title:d.title||'Untitled lecture',moduleId:moduleFor(d),count:d.cards.length,...lectureProgress(d.cards),updatedAt:d.updatedAt||0,curated:!!d.curated,generation:d.generation||'imported'})).sort((a,b)=>b.updatedAt-a.updatedAt)}
 export const getLecture=(id)=>read(`lecture:${id}`);
 // Apply a remote revision atomically. Local edits made during the request stay dirty.
 export async function applyCloud(remote,revision,scope){

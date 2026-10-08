@@ -16,7 +16,8 @@
     "test:welcome:browser": "node scripts/check-welcome.cjs",
     "test:navigation:browser": "node scripts/check-navigation.cjs",
     "test:lectures:browser": "node scripts/check-lectures.cjs",
-    "test:voice:browser": "node scripts/check-voice.cjs"
+    "test:voice:browser": "node scripts/check-voice.cjs",
+    "test:modules:browser": "node scripts/check-modules.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
