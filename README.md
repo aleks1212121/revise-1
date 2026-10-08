@@ -125,7 +125,7 @@ New tab sessions open with a playful CHUDS.org welcome and floating dog photos. 
 
 ## Simple navigation
 
-The main navigation contains **Study**, **Lectures** and **Modules**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
+The main navigation contains **Study**, **Lectures**, **Modules** and **Statistics**. A single current-lecture dropdown switches decks, and one study filter replaces the separate Due/All/Review/New/Visual tabs. **More** contains Friends & streaks, Appearance, My account/Sign in, Card library and Slide reference, plus the existing reset/open-example action. The menu closes when you choose a page, click outside it or press Escape. Review schedules, synced progress, uploads and the phone rating dock stay available.
 
 `npm run test:navigation:browser` checks the compact layout, menu access and lecture switching on desktop, small phones and landscape.
 
@@ -168,3 +168,15 @@ Open **Focus** beside the study filters. Each deck saves its own Importance (all
 Automatic difficulty uses review ratings: Again/Hard → Hard; Easy or confident intervals of at least seven days → Easy; other cards, including unstudied cards → Medium. Importance defaults to a suggested core/supporting classification based on the card's content, with historical details treated as supporting. This is a study suggestion, not an exam prediction. **This card** in Focus lets you override importance/difficulty or restore automatic classification. Reset deck filters restores the full due queue while retaining personal card labels. Preferences and labels sync through existing account deck metadata/content, with independent review clocks; no Supabase migration is required.
 
 `npm test` checks combined filtering, limits, classification, non-destructive selection and independent sync of preferences/labels/reviews. `npm run test:focus:browser` checks combined filters, session limits, future-due cram, hard-first ordering, personal labels, grading, reload persistence, separate deck settings and phone layout.
+
+## Statistics and anonymous shared difficulty
+
+**Statistics** is in the main navigation. Your dashboard groups results by subjects, modules, slides or individual cards, filters by lecture, and highlights strongest/weakest groups after at least five recorded attempts. Good/Easy count as correct, Again as incorrect, and Hard as partial recall. These are self-assessed results. Historical cards retain study coverage, but exact attempt percentages start with this update; earlier outcomes are not invented.
+
+Every new grade records a uniquely identified event in that account's existing deck. Guest data stays in the browser; signed-in attempts sync with the deck. Event union preserves simultaneous offline attempts on different devices without duplicating them, independently of deck settings and the most recent card review. The current account's dashboard remains available if shared statistics is unavailable.
+
+To enable **Everyone · anonymous**, run [supabase/statistics.sql](supabase/statistics.sql) in the existing project's Supabase SQL Editor after setup.sql. The public/publishable app key cannot run database migrations, so this step must be performed in the project dashboard. The migration is safe to repeat and includes all 850 current canonical built-in cards. Private uploads and changed card wording are excluded from shared reports; custom lectures still have personal statistics. Re-run an updated catalog when bundled card wording changes.
+
+The authenticated RPC returns only aggregate counts and canonical card labels, never account identifiers, names, emails, raw review events or private deck content. A card qualifies after at least three separate accounts and five matching recorded attempts. Until then it does not appear. Subject/slide totals aggregate qualifying cards only. Shared results reflect signed-in reviews synced from the updated app. Card difficulty uses (incorrect + 0.5 × partial) / attempts: ≤20% Easy, ≥45% Hard, otherwise Medium; fewer than five attempts means Building data. These labels describe observed recall, not exam importance. Existing Focus difficulty remains based on your own ratings/overrides.
+
+`npm test` checks exact counts, event merging, offline concurrency, weighted grouping and the SQL migration's idempotence, thresholds, canonical wording restrictions, RLS and authenticated-only aggregates. `npm run test:statistics:browser` checks personal percentages, subject/slide/card views, refresh/reload, account isolation, shared reports and phone layout with fixtures.
