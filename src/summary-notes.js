@@ -41,3 +41,16 @@ export function lectureSummary(deck){
  const groups=new Map();for(const card of deck.cards||[]){if(card.showImagesFront)continue;const point=plainCard(card);if(!point||point.length>650)continue;const topic=String(card.topic||'Key points');const points=groups.get(topic)||[];if(!points.includes(point)&&points.length<3)points.push(point);groups.set(topic,points)}
  return {intro:'A quick outline drawn from the cards in this lecture.',reviewed:false,sections:[...groups].slice(0,8).map(([title,points])=>({title,points}))};
 }
+const combinedInjury=LECTURE_SUMMARIES['cell-injury'];
+LECTURE_SUMMARIES['cell-injury']={intro:'Cell basics, disease terminology and the main causes of cellular injury.',sections:[
+ {title:'Cells and homeostasis',points:['A cell is the basic living structural and functional unit. Cells form tissues, which form organs and organ systems.','The cell membrane controls exchanges with the environment; organelles perform specialised functions.','Homeostasis is an actively maintained steady state, rather than the absence of change.']},
+ {title:'Recognise disease',points:['Disease involves disturbance of normal function and may produce structural or functional abnormalities.','Symptoms are experienced by the patient; signs are observable findings.','An acquired condition develops after birth; congenital means present at birth and does not automatically mean inherited.']},
+ combinedInjury.sections[0],
+ {title:'Injury from the environment',points:['Physical injury includes extremes of temperature and other physical stresses. Chemical agents can disturb cellular pathways.','Infectious agents can directly damage tissue and/or provoke damaging host immune responses.','Immune reactions can themselves cause injury, including autoimmunity and hypersensitivity.']},
+ {title:'Nutrition, genetics and congenital injury',points:['Both nutritional excess and deficiency can harm cells; examples include iron deficiency and vitamin D deficiency.','Genetic disorders may arise from DNA changes; familial disorders run in families.','A congenital abnormality may have a genetic or non-genetic cause.']}
+]};
+LECTURE_SUMMARIES['cell-injury-2']={intro:'How cells respond to injury: renewal capacity, adaptation and papillomavirus research.',sections:[
+ combinedInjury.sections[3],combinedInjury.sections[1],combinedInjury.sections[2],
+ {title:'Metaplasia, dysplasia and invasion',points:['Metaplasia changes the differentiated cell type, for example columnar to squamous epithelium in an irritated bronchus.','Dysplasia describes disordered cell growth and maturation; it is not automatically invasive cancer.','Distinguish intraepithelial changes from invasion into surrounding tissue.']},
+ combinedInjury.sections[4]
+]};

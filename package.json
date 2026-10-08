@@ -23,7 +23,8 @@
     "test:study-fit:browser": "node scripts/check-study-fit.cjs",
     "test:focus:browser": "node scripts/check-study-focus.cjs",
     "test:statistics:browser": "node scripts/check-statistics.cjs",
-    "test:summaries:browser": "node scripts/check-summaries.cjs"
+    "test:summaries:browser": "node scripts/check-summaries.cjs",
+    "test:injury-split:browser": "node scripts/check-injury-split.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",

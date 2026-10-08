@@ -1,3 +1,4 @@
+import {injuryCommunity} from './injury-parts.js';
 import {moduleFor,MODULES} from './modules.js';
 export function recordAttempt(deck,card,rating,now=Date.now()){
  if(!['again','hard','good','easy'].includes(rating))return;
@@ -21,5 +22,5 @@ export function personalStats(decks,level='subject',lectureId=''){
  return {total:summarize(totals),rows:[...groups.values()].map(summarize),reviewed,totalCards};
 }
 export function communityRows(records,level='subject',lectureId=''){
- const groups=new Map();for(const r of records){if(lectureId&&r.lectureId!==lectureId)continue;const key=level==='module'?r.moduleId:level==='subject'?JSON.stringify([r.moduleId,r.topic]):level==='slide'?JSON.stringify([r.lectureId,r.slide]):JSON.stringify([r.lectureId,r.cardId]);const label=level==='module'?MODULES.find(m=>m.id===r.moduleId)?.name||'Unassigned':level==='subject'?r.topic:level==='slide'?`${r.lectureTitle} · Slide ${r.slide}`:r.prompt;const row=groups.get(key)||{key,label,correct:0,incorrect:0,partial:0};for(const k of ['correct','incorrect','partial'])row[k]+=Number(r[k])||0;groups.set(key,row)}return [...groups.values()].map(summarize);
+ const groups=new Map();for(const raw of records){const r=injuryCommunity(raw);if(lectureId&&r.lectureId!==lectureId)continue;const key=level==='module'?r.moduleId:level==='subject'?JSON.stringify([r.moduleId,r.topic]):level==='slide'?JSON.stringify([r.lectureId,r.slide]):JSON.stringify([r.lectureId,r.cardId]);const label=level==='module'?MODULES.find(m=>m.id===r.moduleId)?.name||'Unassigned':level==='subject'?r.topic:level==='slide'?`${r.lectureTitle} · Slide ${r.slide}`:r.prompt;const row=groups.get(key)||{key,label,correct:0,incorrect:0,partial:0};for(const k of ['correct','incorrect','partial'])row[k]+=Number(r[k])||0;groups.set(key,row)}return [...groups.values()].map(summarize);
 }

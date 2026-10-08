@@ -6,7 +6,7 @@ import './study-focus.css';
 import {installImageViewer} from './image-viewer.js';
 import { readLecture, readPDF, normalizeDeck } from './lecture.js';
 import { escapeHTML, renderCloze, clozeCards } from './cloze.js';
-import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, applyCloud, importGuestLectures } from './storage.js';
+import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, rawLectures, applyCloud, importGuestLectures } from './storage.js';
 import {isDue,schedule,intervalLabel,nextReviewLabel,migrateSchedule,preserveSchedule} from './scheduler.js';
 import {addStudyVisuals} from './visuals.js';
 import {backendURL,generateAI} from './ai.js';
@@ -34,7 +34,7 @@ document.addEventListener('click',event=>{for(const panel of document.querySelec
 document.addEventListener('keydown',event=>{if(event.key==='Escape')for(const panel of document.querySelectorAll('.answer-context[open],#voice-practice[open],#study-focus[open]'))panel.open=false});
 let authClient=null,accountUser=null,syncEngine=null,accountReady=false,accountError='',authNotice='',authWorking=false,recovering=false;
 let syncState='local',syncLabel='Saved on this device',identityQueue=Promise.resolve();
-const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cell injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'}];
+const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cellular Injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'}];
 let selectedModule='',uploadModule='';
 let deck=null,lectures=[],uploadFile=null,uploadTitle='',uploadMode='ai',aiToken='',aiReady=false;
 let aiEndpoint='';try{aiEndpoint=localStorage.getItem('micro-ai-url')||''}catch{}
@@ -292,7 +292,7 @@ async function changeIdentity(session,event){
  try{
   const restoreRemote=next&&!await loadDeck();let restore=!!restoreRemote;
   await bootDecks();
-  if(next){const owner=next.id;syncEngine=new CloudSync({client:authClient,userId:owner,storage:{allLectures,applyCloud},onStatus:(state,label)=>{if(accountUser?.id!==owner)return;syncState=state;syncLabel=state==='error'?`Not synced: ${label} Changes remain saved on this device.`:label;const field=document.getElementById('sync-status');if(field){field.textContent=syncLabel;field.className=`sync-status ${state}`}else if(!editing)render()},onChange:async rows=>{if(accountUser?.id!==owner)return;if(restore&&rows?.length){const latest=rows.map(r=>r.payload).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0))[0];const saved=await getLecture(latest.lectureId);if(saved){setDeck(addStudyVisuals(migrateSchedule(saved)),true);await save()}}restore=false;await refreshCloudDeck()}});await syncEngine.sync()}
+  if(next){const owner=next.id;syncEngine=new CloudSync({client:authClient,userId:owner,storage:{allLectures:rawLectures,applyCloud},onStatus:(state,label)=>{if(accountUser?.id!==owner)return;syncState=state;syncLabel=state==='error'?`Not synced: ${label} Changes remain saved on this device.`:label;const field=document.getElementById('sync-status');if(field){field.textContent=syncLabel;field.className=`sync-status ${state}`}else if(!editing)render()},onChange:async rows=>{if(accountUser?.id!==owner)return;if(restore&&rows?.length){const latest=rows.map(r=>r.payload).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0))[0];const saved=await getLecture(latest.lectureId);if(saved){setDeck(addStudyVisuals(migrateSchedule(saved)),true);await save()}}restore=false;await refreshCloudDeck()}});await syncEngine.sync()}
  }catch(error){authNotice=error.message||'Could not open this account’s study data.'}finally{busy=false;render();if(view==='friends')friends.open();if(view==='statistics')statistics.open()}
 }
 async function initAccounts(){
