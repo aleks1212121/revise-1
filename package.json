@@ -22,7 +22,8 @@
     "test:images:browser": "node scripts/check-image-sizing.cjs",
     "test:study-fit:browser": "node scripts/check-study-fit.cjs",
     "test:focus:browser": "node scripts/check-study-focus.cjs",
-    "test:statistics:browser": "node scripts/check-statistics.cjs"
+    "test:statistics:browser": "node scripts/check-statistics.cjs",
+    "test:summaries:browser": "node scripts/check-summaries.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
