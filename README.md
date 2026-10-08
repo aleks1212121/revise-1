@@ -208,3 +208,15 @@ The storage adapter presents these as separate lectures while retaining the orig
 **Lectures → Send slides to admin** accepts PDF/PPTX files up to 20 MB with a module and message. Students must sign in to send slides; only the sender and admins can read the file and reply. Sending files does not automatically create cards. **Study as guest** and **Switch to guest** are explicit account-screen options; guest progress stays in this browser, separate from accounts, and guests do not appear in the admin list.
 
 `npm run test:admin:browser` verifies the desktop/phone flow using fixture data. The live feature requires the Supabase SQL activation; the public website never contains the admin code or a server secret.
+
+## Create decks using your ChatGPT account
+
+Enable **Admin mode**, then open **More → Admin area → Make cards with your ChatGPT account**. Name the lecture and choose its module. Optionally choose the original PDF/PPTX (up to 20 MB). In the slide inbox, **Make cards with ChatGPT** fills these settings from the submission and attaches that submitted lecture's pictures during import.
+
+1. Choose **Copy ChatGPT prompt**, open ChatGPT, and attach the lecture there yourself. The prompt asks for focused cloze notes, original page references, explanations and initial importance/difficulty labels in an importable `chuds-deck.json` file. A manual-copy prompt box is available if clipboard permission is unavailable.
+2. Choose ChatGPT's JSON file or paste its complete JSON/code block. **Preview cards** validates it and shows sample questions/answers. Editing the title, module or JSON requires a fresh preview.
+3. Choose **Import as new lecture**. The app expands linked cloze notes, attaches pictures from the original source pages when supplied, and starts every card unstudied. Existing decks and schedules stay intact. Check generated answers against the lecture; the deck is labelled as a draft.
+
+This uses ChatGPT in its own tab with your normal account allowance. CHUDS.org does not connect to your ChatGPT session, upload slides to ChatGPT automatically or use an API key. Import adds a private deck to the admin's own study account and syncs it normally; it does not publish the deck to all students. Card-library export remains available for sharing the resulting JSON manually. No extra SQL migration is needed beyond the admin setup.
+
+`npm run test:chatgpt:browser` exercises prompt copying, submitted-lecture selection, pasted/file JSON, previews, original PDF pictures, module grouping and saved decks on desktop and phone using fixtures. Unit tests cover import validation, fresh schedules and safe content fields.

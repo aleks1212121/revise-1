@@ -16,6 +16,12 @@ The admin inbox shows the sender, module and message, lets you download the orig
 
 The admin user list is paginated and searchable by email. It shows registered accounts, joining/sign-in dates, last sync and aggregate counts of stored decks and studied cards. Counts come from synced deck data, so offline activity appears after sync. Original combined cellular-injury storage counts as one stored deck. This view does not return passwords, private questions or answers. Guest sessions are local and do not appear in the list. Existing private-deck access policies remain in place.
 
+## Make decks with ChatGPT
+
+The admin area includes **Make cards with your ChatGPT account**. Choose **Make cards with ChatGPT** beside an inbox submission to select its title, module and original lecture; alternatively enter your own lecture details and choose a local source file. Copy the prompt, open ChatGPT, and attach the lecture yourself. Return with ChatGPT's JSON file or paste its JSON, preview the sample cards, then import. Original source-slide pictures are attached by page number; references to missing pages are rejected. Without a source file, the result contains text cards.
+
+ChatGPT remains in its own tab and uses your normal account allowance. There are no automatic requests to ChatGPT or OpenAI's API. Imports create fresh private decks in your study account; they do not automatically publish to other students or mark the submission Completed. Review the answers and use the existing card-library Export to share a deck manually. This workflow requires no additional Supabase migration.
+
 ## Guest study
 
 Choose **More → Sign in / Guest → Study as guest**. When signed in, **My account → Switch to guest** saves pending work, attempts sync and signs out on this device. The guest collection is separate and remains saved in this browser. It does not sync between devices. **Import this browser's guest progress** remains available when signing in again. Guests can study and import local decks; sending slides and receiving replies requires an account.

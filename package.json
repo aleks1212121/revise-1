@@ -26,7 +26,8 @@
     "test:summaries:browser": "node scripts/check-summaries.cjs",
     "test:injury-split:browser": "node scripts/check-injury-split.cjs",
     "test:retry:browser": "node scripts/check-session-retry.cjs",
-    "test:admin:browser": "node scripts/check-admin.cjs"
+    "test:admin:browser": "node scripts/check-admin.cjs",
+    "test:chatgpt:browser": "node scripts/check-chatgpt.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
