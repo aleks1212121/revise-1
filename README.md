@@ -29,7 +29,7 @@ The Vite base path is `/revise-1/`. New visitors start with the included lecture
 
 ## Study
 
-Click a card or press Space to reveal the missing term. After reveal, rate Again (1), Hard (2), Good (3), or Easy (4). Each button shows the next review interval. Arrow keys navigate. The default Due now view contains new cards and scheduled refreshers. You can also browse all cards, unstudied cards, cards to revisit, or visual cards, and choose a lecture section; shuffle to vary the order.
+Click a card or press Space to reveal the missing term. After reveal, rate Again (1), Hard (2), Good (3), or Easy (4). Again and Hard show the in-session retry gap; Good and Easy show the next scheduled review interval. Arrow keys navigate. The default Due now view contains new cards and scheduled refreshers. You can also browse all cards, unstudied cards, cards to revisit, or visual cards, and choose a lecture section; shuffle to vary the order.
 
 The deck tests individual facts, distinctions and structure–function relationships. Visual cards show cropped figures without the answer labels, then reveal the original slide. Text cards show the source slide after reveal. **View source slide** opens the full reference. The research-figure cards distinguish association from causation; the supplied figure alone cannot prove causes of outbreak success.
 
@@ -62,12 +62,16 @@ For another static host, adjust the Vite `base` path, run `npm run build` and pu
 The supplied slides contain some simplifications and a likely “nucleotide” typo on the nucleoid slide. Cards use nucleoid, avoid the ambiguous slime-layer removability statement, and test mycolic-acid properties without repeating an oversimplified Gram-classification claim. The unmodified slides remain available for reference. Full original-slide images retain their source attributions.
 
 
-## Timed refreshers
+## In-session retries and timed refreshers
+
+Choose **Again** to repeat a card after three other cards, or **Hard** to repeat after five. It keeps returning until you choose **Good** or **Easy**. If fewer cards remain, it returns sooner; a single remaining card repeats immediately. Unfinished learning cards remain available after reopening the app, and their learning state syncs with your account. The retry loop also works in All cards and Cram sessions.
+
+Run `npm run test:retry:browser` against the built preview on port 4189 to check delayed repeats, repeated failures, reload persistence and completion on desktop and phone.
 
 Cards are never marked done forever. This app uses a simple progressive schedule inspired by spaced repetition, rather than Anki's FSRS algorithm:
 
-- **Again:** relearn in 10 minutes, resetting the interval progression.
-- **Hard:** retry new or relearning cards in 30 minutes. Later intervals grow slowly (about 1.2×), capped below Good so Hard always returns sooner.
+- **Again:** resets the interval progression and saves a 10-minute due time as well as the in-session retry.
+- **Hard:** saves a 30-minute due time for new or relearning cards as well as the in-session retry. Later intervals grow slowly (about 1.2×), capped below Good so Hard always returns sooner.
 - **Good:** 1 → 3 → 7 → 14 → 30 → 60 → 120 → 180 → 365 days. Reviews continue yearly at the cap.
 - **Easy:** skips one step in that progression (3 days on a new card).
 

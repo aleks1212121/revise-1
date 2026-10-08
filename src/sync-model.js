@@ -1,6 +1,6 @@
 import {mergeEvents} from './review-stats.js';
 import {mergeStudyDays} from './activity.js';
-export const scheduleFields=['status','dueAt','lastReviewedAt','intervalDays','reviews','lapses','lastRating','scheduleVersion'];
+export const scheduleFields=['status','dueAt','lastReviewedAt','intervalDays','reviews','lapses','lastRating','scheduleVersion','sessionRetry'];
 const localFields=['_cloudRevision','_cloudDirty'];
 const stable=value=>JSON.stringify(value,(_,v)=>v&&typeof v==='object'&&!Array.isArray(v)?Object.fromEntries(Object.entries(v).sort(([a],[b])=>a.localeCompare(b))):v);
 const content=c=>Object.fromEntries(Object.entries(c).filter(([k])=>!scheduleFields.includes(k)&&!['_contentAt','_reviewAt'].includes(k)));

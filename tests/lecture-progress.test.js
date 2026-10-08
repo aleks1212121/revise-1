@@ -16,3 +16,9 @@ test('empty and untouched lectures display zero coverage',()=>{
  assert.deepEqual(lectureProgress([],now),{total:0,studied:0,confident:0,due:0,percent:0});
  assert.equal(lectureProgress([{},{}],now).percent,0);
 });
+
+test('unfinished learning counts as available before its timer and clears on success',()=>{
+ const again=schedule({},'again',now),hard=schedule({},'hard',now);
+ assert.equal(lectureProgress([again,hard],now).due,2);
+ assert.equal(lectureProgress([schedule(again,'good',now),schedule(hard,'easy',now)],now).due,0);
+});

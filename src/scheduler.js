@@ -14,7 +14,7 @@ export function intervalFor(card,rating){
 }
 export function schedule(card,rating,now=Date.now()){
  const interval=intervalFor(card,rating);
- return {...card,status:rating==='again'||rating==='hard'?'review':'known',dueAt:now+interval,lastReviewedAt:now,intervalDays:rating==='again'?0:interval/DAY,reviews:(Number(card.reviews)||0)+1,lapses:(Number(card.lapses)||0)+(rating==='again'?1:0),lastRating:rating,scheduleVersion:1};
+ return {...card,sessionRetry:rating==='again'||rating==='hard',status:rating==='again'||rating==='hard'?'review':'known',dueAt:now+interval,lastReviewedAt:now,intervalDays:rating==='again'?0:interval/DAY,reviews:(Number(card.reviews)||0)+1,lapses:(Number(card.lapses)||0)+(rating==='again'?1:0),lastRating:rating,scheduleVersion:1};
 }
 export function intervalLabel(card,rating){const interval=intervalFor(card,rating);return interval<DAY?`${Math.round(interval/MINUTE)} min`:`${Math.round(interval/DAY)} day${interval===DAY?'':'s'}`;}
 export function nextReviewLabel(card,now=Date.now()){
@@ -29,7 +29,7 @@ export function migrateSchedule(deck,now=Date.now()){
 }
 export function preserveSchedule(card,old){
  const result={...card};
- for(const key of ['dueAt','lastReviewedAt','intervalDays','reviews','lapses','lastRating','scheduleVersion']){
+ for(const key of ['dueAt','lastReviewedAt','intervalDays','reviews','lapses','lastRating','scheduleVersion','sessionRetry']){
   delete result[key];if(old&&old[key]!==undefined)result[key]=old[key];
  }
  return result;
