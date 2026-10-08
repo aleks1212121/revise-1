@@ -1,3 +1,4 @@
+import {repairVirusCloze} from './virus-cloze.js';
 const MINUTE=60_000, DAY=24*60*MINUTE;
 const STEPS=[1,3,7,14,30,60,120,180,365];
 export function isDue(card,now=Date.now()) {return !Number.isFinite(card.dueAt)||card.dueAt<=now;}
@@ -23,6 +24,7 @@ export function nextReviewLabel(card,now=Date.now()){
 // Saved confidence flags had no timer. Bring those cards back without losing their status.
 export function migrateSchedule(deck,now=Date.now()){
  if(!deck)return deck;
+ deck=repairVirusCloze(deck,now);
  return {...deck,cards:deck.cards.map(c=>Number.isFinite(c.dueAt)?c:{...c,dueAt:now,intervalDays:0,scheduleVersion:1})};
 }
 export function preserveSchedule(card,old){

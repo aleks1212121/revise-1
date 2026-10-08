@@ -7,7 +7,7 @@ for(const phone of [false,true]){
  await p.locator('#flip h2').click();await p.locator('#good').click();await p.reload();await p.locator('#lecture-switch option[value="viruses"]').waitFor({state:'attached'});
  await navigate(p,'modules');await p.locator('[data-module="infection-immunity"]').click();assert.equal(await p.locator('.lecture-item').count(),2);assert.match(await p.locator('.lecture-item').allTextContents().then(x=>x.join(' ')),/1 \/ 178/);
  await navigate(p,'study');await p.locator('#lecture-switch').selectOption('viruses');await p.waitForFunction(()=>document.querySelector('.card-meta')?.textContent.includes('/ 200'));
- await p.locator('#flip h2').click();await p.locator('.study-diagrams img').waitFor();assert.ok(await p.locator('.study-diagrams img').evaluate(async im=>{await im.decode();return im.naturalWidth>100}));await p.locator('#good').click();
+ assert.match(await p.locator('#flip .cloze').innerText(),/\[…\]/);assert.equal(await p.locator('#flip h2').innerText().then(t=>t.includes('{{c')),false);await p.locator('#flip h2').click();assert.ok(await p.locator('#flip .cloze.revealed').innerText());await p.locator('.study-diagrams img').waitFor();assert.ok(await p.locator('.study-diagrams img').evaluate(async im=>{await im.decode();return im.naturalWidth>100}));await p.locator('#good').click();
  await p.locator('#study-filter').selectOption('visual');await p.waitForFunction(()=>document.querySelector('.card-meta')?.textContent.includes('/ 14'));
  for(let i=0;i<14;i++){
   const prompt=p.locator('#flip img');assert.match(await prompt.getAttribute('src'),/\/revise-1\/viruses\/visual-/);assert.ok(await prompt.evaluate(async im=>{await im.decode();return im.naturalWidth>100}));

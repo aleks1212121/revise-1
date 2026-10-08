@@ -9,3 +9,5 @@ Cards clarify source oversimplifications: mature HIV has a conical core; VZV lat
 Images are extracted from the supplied lecture and attributed by slide number. No paid AI service or backend is required to study this deck. New cards use the existing review schedule and account sync.
 
 Validation: `npm test` checks cloze answers, source/media completeness, distinct prompt/answer images and editorial corrections. Against the built preview on port 4189, `npm run test:viruses:browser` checks automatic loading, module grouping, all visual images, supporting diagrams, phone grading, reload persistence and retention of existing microorganism reviews.
+
+Cloze revision 2 uses direct fill-in-the-blank statements throughout, including visual cards. Existing bundled virus cards with the original wording update when opened; review counts, confidence and scheduled due dates are preserved. Personal wording edits are retained. Cards containing valid cloze syntax but an incorrect card type are repaired automatically.

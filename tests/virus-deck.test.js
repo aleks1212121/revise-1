@@ -20,7 +20,8 @@ test('virus visuals use prompt crops, separate answer slides and attributed supp
 test('virus cards clarify genome integration, HIV structure and unavailable source videos',()=>{
  assert.ok(deck.cards.some(c=>c.slide===36&&/episom/i.test(c.answer)));
  assert.ok(deck.cards.some(c=>c.slide===17&&/conical/i.test(c.answer)));
- assert.ok(deck.cards.some(c=>c.slide===37&&/integration/i.test(c.text)&&/^No/.test(c.answer)));
+ assert.ok(deck.cards.every(c=>c.type==='cloze'&&!c.text.includes('?')));
+ assert.ok(deck.cards.some(c=>c.slide===37&&/integration/i.test(c.text)&&/episomal/.test(c.answer)));
  assert.ok(deck.cards.some(c=>c.slide===5&&/not established/i.test(c.answer)));
  assert.equal(deck.cards.filter(c=>[23,24,40].includes(c.slide)).length,0);
  assert.ok(deck.cards.some(c=>c.slide===42&&/nucleic acid/i.test(c.text)));
