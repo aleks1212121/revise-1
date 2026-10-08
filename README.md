@@ -150,3 +150,7 @@ Existing cell injury/death decks default to Pathobiology, microorganisms to Infe
 ## Viruses lecture deck
 
 **Modules → Infection and Immunity → Revisiting Microbes — Viruses** contains 200 reviewed cloze cards, including 14 visual questions with crops from the uploaded lecture. All 43 original slides and 13 supporting figure panels are bundled. Existing saved reviews remain intact; no paid AI connection is required. See [deck notes](public/viruses/README.md) for coverage and clarifications of misleading source statements.
+
+## Lecture image zoom
+
+Desktop pictures scale to the card's available width with their original proportions; tall figures scroll within a bounded image area. Click or tap a study image to open a large viewer, then use +/− to zoom the actual content up to 400%. Scroll to inspect labels; Close or Escape returns to the same card without revealing/grading it. Images also open with Enter/Space when focused. The viewer follows the selected theme; original image colours stay intact. `npm run test:images:browser` checks scaling, zoom, dismissal and phone grading.

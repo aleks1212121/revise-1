@@ -1,3 +1,4 @@
+import {installImageViewer} from './image-viewer.js';
 import { readLecture, readPDF, normalizeDeck } from './lecture.js';
 import { escapeHTML, renderCloze, clozeCards } from './cloze.js';
 import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, applyCloud, importGuestLectures } from './storage.js';
@@ -22,6 +23,7 @@ import './themes.css';
 import './navigation.css';
 import './voice.css';
 import './modules.css';
+installImageViewer();
 let authClient=null,accountUser=null,syncEngine=null,accountReady=false,accountError='',authNotice='',authWorking=false,recovering=false;
 let syncState='local',syncLabel='Saved on this device',identityQueue=Promise.resolve();
 const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cell injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'}];
@@ -41,7 +43,7 @@ function mediaURL(id){
  if(/^((?:lecture|genetic-variation|cell-injury|cell-death|viruses)\/[a-z0-9-]+\.jpg|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
  return '';
 }
-function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}
+function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide" tabindex="0" title="Open image and zoom">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}
 async function loadCurated(){
  const response=await fetch(`${import.meta.env.BASE_URL}lecture/deck.json`);if(!response.ok)throw Error('Could not load the lecture deck. Try refreshing.');
  return addStudyVisuals(migrateSchedule(await response.json()));
