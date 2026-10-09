@@ -22,6 +22,8 @@ test('admin codes, user summaries and slide files enforce server-side permission
   const sql=readFileSync(new URL('../supabase/admin.sql',import.meta.url),'utf8');await db.exec(sql);await db.exec(sql);
   await db.exec(readFileSync(new URL('../supabase/delivery.sql',import.meta.url),'utf8'));
   for(const file of ['admin-view.sql','prepared-decks.sql'])await db.exec(readFileSync(new URL('../supabase/'+file,import.meta.url),'utf8'));
+  await db.exec(readFileSync(new URL('../supabase/admin-tools.sql',import.meta.url),'utf8'));
+  await db.exec(readFileSync(new URL('../supabase/admin-tools.sql',import.meta.url),'utf8'));
   const code=(await db.query(readFileSync(new URL('../supabase/admin-code.sql',import.meta.url),'utf8'))).rows[0].admin_unlock_code;
   assert.ok(code.length>60);
   const login=async id=>db.exec(`reset role;set role authenticated;set request.jwt.claim.sub='${id}';`);
@@ -119,6 +121,13 @@ test('admin codes, user summaries and slide files enforce server-side permission
   await login(A);const installedMotility=(await view(B,'submission-'+freshMotility)).deck,installedTrafficking=(await view(B,'submission-'+freshTrafficking)).deck;
   assert.equal(installedMotility.moduleId,installedTrafficking.moduleId);assert.ok(installedMotility.cards.every(c=>c.status==='new'));assert.equal((await view(B,deliveredId)).deck.cards[0].reviews,5);
   if(process.env.ADMIN_SETUP_SQL){assert.equal(installedMotility.cards.length,71);assert.equal(installedTrafficking.cards.length,103);assert.ok(Object.keys(installedMotility.media).length>10)}
-  await db.exec('reset role;set role anon;');await assert.rejects(db.query('select public.is_study_admin()'),/permission denied/);await assert.rejects(dash(),/permission denied/);await assert.rejects(submit(),/permission denied/);await assert.rejects(view(),/permission denied/);await assert.rejects(db.query('select public.study_admin_prepared_decks()'),/permission denied/);
+  const pack={format:'chuds-lecture-pack',decks:[{id:'pack-test',payload:{...reviewed,source:'pack.pdf',moduleName:'Molecular Biology of the Cell',moduleCode:'LS5001'}}]};
+  const stage=async value=>db.query('select public.stage_study_prepared_pack($1::jsonb) result',[JSON.stringify(value)]);
+  await login(C);await assert.rejects(stage(pack),/Admin access required/);
+  await login(A);const studentSnapshot=await view();assert.equal((await stage(pack)).rows[0].result,1);assert.deepEqual(await view(),studentSnapshot,'staging a pack does not change student data');
+  const invalidPack={...pack,decks:[{...pack.decks[0],payload:{...pack.decks[0].payload,title:'Should roll back'}},{id:'bad',payload:{cards:[]}}]};
+  await assert.rejects(stage(invalidPack),/Invalid prepared lecture/);
+  const stageCatalog=(await db.query('select public.study_admin_prepared_decks() result')).rows[0].result;assert.equal(stageCatalog.find(d=>d.id==='pack-test').title,reviewed.title,'failed pack installation is atomic');
+  await db.exec('reset role;set role anon;');await assert.rejects(db.query('select public.is_study_admin()'),/permission denied/);await assert.rejects(dash(),/permission denied/);await assert.rejects(submit(),/permission denied/);await assert.rejects(view(),/permission denied/);await assert.rejects(db.query('select public.study_admin_prepared_decks()'),/permission denied/);await assert.rejects(stage(pack),/permission denied/);
  }finally{await db.close()}
 });
