@@ -31,6 +31,7 @@ async function fixture(context,{socialHandler}={}){
    if((current?.revision||0)!==body.p_expected_revision)return respond({conflict:true,revision:current?.revision||0,payload:current?.payload||null});
    const row={lecture_id:body.p_lecture_id,payload:structuredClone(body.p_payload),revision:(current?.revision||0)+1};collection.set(row.lecture_id,row);return respond({conflict:false,revision:row.revision,payload:row.payload});
   }
+  if(['study_admin_prepared_decks','study_admin_view_account'].some(name=>url.pathname.endsWith('/'+name)))return respond({code:'PGRST202',message:'Function not installed'},404);
   throw Error('Unhandled fixture '+url);
  });
 }

@@ -21,6 +21,7 @@ test('admin codes, user summaries and slide files enforce server-side permission
   await db.exec(readFileSync(new URL('../supabase/setup.sql',import.meta.url),'utf8'));
   const sql=readFileSync(new URL('../supabase/admin.sql',import.meta.url),'utf8');await db.exec(sql);await db.exec(sql);
   await db.exec(readFileSync(new URL('../supabase/delivery.sql',import.meta.url),'utf8'));
+  for(const file of ['admin-view.sql','prepared-decks.sql'])await db.exec(readFileSync(new URL('../supabase/'+file,import.meta.url),'utf8'));
   const code=(await db.query(readFileSync(new URL('../supabase/admin-code.sql',import.meta.url),'utf8'))).rows[0].admin_unlock_code;
   assert.ok(code.length>60);
   const login=async id=>db.exec(`reset role;set role authenticated;set request.jwt.claim.sub='${id}';`);
@@ -85,6 +86,39 @@ test('admin codes, user summaries and slide files enforce server-side permission
   assert.equal((await db.query('select payload from public.study_decks where lecture_id=$1',[deliveredId])).rows[0].payload.cards[0].reviews,5,'duplicate delivery preserves student reviews');
   assert.equal((await db.query('select status from public.lecture_submissions where id=$1',[ID])).rows[0].status,'completed');
   await login(C);assert.equal((await db.query('select * from public.study_decks where lecture_id=$1',[deliveredId])).rows.length,0,'other accounts cannot access delivered slides or cards');
-  await db.exec('reset role;set role anon;');await assert.rejects(db.query('select public.is_study_admin()'),/permission denied/);await assert.rejects(dash(),/permission denied/);await assert.rejects(submit(),/permission denied/);
+  const view=async(owner=B,lecture=null)=>(await db.query('select public.study_admin_view_account($1,$2) result',[owner,lecture])).rows[0].result;
+  await assert.rejects(view(),/Admin access required/);await assert.rejects(db.query('select public.study_admin_prepared_decks()'),/Admin access required/);await assert.rejects(db.query('select * from public.study_prepared_decks'),/permission denied/);
+  await db.exec('reset role;');
+  const before=(await db.query('select user_id,lecture_id,payload,revision,updated_at from public.study_decks order by user_id,lecture_id')).rows;
+  await login(A);const overview=await view();assert.equal(overview.account.email,'student@example.test');assert.ok(overview.workspace.modules[delivered.moduleId]);assert.equal(overview.lectures.find(l=>l.lecture_id===deliveredId).studied_count,1);
+  assert.equal((await view(B,deliveredId)).deck.cards[0].reviews,5);await assert.rejects(view(C,deliveredId),/Lecture not found/);await assert.rejects(view(B,'__workspace-settings'),/Choose a lecture/);
+  await view(A);await db.exec('reset role;');assert.deepEqual((await db.query('select user_id,lecture_id,payload,revision,updated_at from public.study_decks order by user_id,lecture_id')).rows,before,'inspection does not change payload, revision or update timestamps');
+  await db.exec('reset role;');
+  await db.query("insert into public.study_prepared_decks values('ls5001-cell-motility','LS5001 - Cell motility_7623612.pdf','Cell Motility','Molecular Biology of the Cell','LS5001',$1::jsonb)",[JSON.stringify(reviewed)]);
+  await db.query("insert into public.study_prepared_decks values('ls5001-intracellular-trafficking','LS5001 - Intracellular Trafficking _7623619..pdf','Trafficking','Molecular Biology of the Cell','LS5001',$1::jsonb)",[JSON.stringify({...reviewed,title:'Trafficking'})]);
+  await login(A);const catalog=(await db.query('select public.study_admin_prepared_decks() result')).rows[0].result;assert.equal(catalog.length,2);assert.equal(catalog[0].payload,undefined);assert.equal(catalog[0].card_count,1);
+  await assert.rejects(db.query('select public.deliver_prepared_study_submission($1,$2)',[ID,'ls5001-cell-motility']),/does not match/);
+  await db.exec('reset role;');
+  const auto=readFileSync(new URL('../supabase/auto-deliver-ls5001.sql',import.meta.url),'utf8');
+  await db.exec('begin;');await db.exec(auto);await db.exec('commit;');
+  await db.query("update public.lecture_submissions set file_name='LS5001 - Cell motility_7623612.pdf' where id=$1",[ID]);
+  await db.query("update public.lecture_submissions set file_name='LS5001 - Intracellular Trafficking _7623619..pdf' where id=$1",[ORPHAN]);
+  await db.exec('begin;');await db.exec(auto);await db.exec('commit;');
+  await login(A);await assert.rejects(db.query('select public.deliver_prepared_study_submission($1,$2)',[ID,'ls5001-cell-motility']),/already has a delivered deck/);assert.equal((await view(B,deliveredId)).deck.cards[0].reviews,5);
+  await db.exec('reset role;');
+  await db.query("update public.lecture_submissions set file_name='already-delivered.pdf' where id in ($1,$2)",[ID,ORPHAN]);
+  const freshMotility='dddddddd-dddd-4ddd-8ddd-dddddddddddd',freshTrafficking='eeeeeeee-eeee-4eee-8eee-eeeeeeeeeeee';
+  for(const [id,file] of [[freshMotility,'LS5001 - Cell motility_7623612.pdf'],[freshTrafficking,'LS5001 - Intracellular Trafficking _7623619..pdf']])await db.query("insert into public.lecture_submissions(id,user_id,title,file_name,object_path,file_size) values($1,$2,$3,$3,$4,123)",[id,B,file,id+'/source.pdf']);
+  await db.query("update public.lecture_submissions set file_name='LS5001 - Cell motility_7623612.pdf' where id=$1",[ID]);
+  await db.exec('begin;');await db.exec(auto);await db.exec('commit;');assert.equal((await db.query('select * from public.study_decks where lecture_id=$1',['submission-'+freshMotility])).rows.length,0,'ambiguous source filenames do not assign decks');
+  await db.query("update public.lecture_submissions set file_name='already-delivered.pdf' where id=$1",[ID]);
+  await db.query('update public.lecture_submissions set user_id=$1 where id=$2',[C,freshTrafficking]);
+  await db.exec('begin;');await db.exec(auto);await db.exec('commit;');assert.equal((await db.query('select * from public.study_decks where lecture_id=$1',['submission-'+freshMotility])).rows.length,0,'different senders require explicit inbox selection');
+  await db.query('update public.lecture_submissions set user_id=$1 where id=$2',[B,freshTrafficking]);
+  if(process.env.ADMIN_SETUP_SQL)await db.exec(readFileSync(process.env.ADMIN_SETUP_SQL,'utf8'));else{await db.exec('begin;');await db.exec(auto);await db.exec('commit;')}
+  await login(A);const installedMotility=(await view(B,'submission-'+freshMotility)).deck,installedTrafficking=(await view(B,'submission-'+freshTrafficking)).deck;
+  assert.equal(installedMotility.moduleId,installedTrafficking.moduleId);assert.ok(installedMotility.cards.every(c=>c.status==='new'));assert.equal((await view(B,deliveredId)).deck.cards[0].reviews,5);
+  if(process.env.ADMIN_SETUP_SQL){assert.equal(installedMotility.cards.length,71);assert.equal(installedTrafficking.cards.length,103);assert.ok(Object.keys(installedMotility.media).length>10)}
+  await db.exec('reset role;set role anon;');await assert.rejects(db.query('select public.is_study_admin()'),/permission denied/);await assert.rejects(dash(),/permission denied/);await assert.rejects(submit(),/permission denied/);await assert.rejects(view(),/permission denied/);await assert.rejects(db.query('select public.study_admin_prepared_decks()'),/permission denied/);
  }finally{await db.close()}
 });

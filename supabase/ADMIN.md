@@ -14,7 +14,7 @@ Students choose **Lectures → Send slides to admin** or the same item under Mor
 
 The admin inbox shows the sender, module and message, lets you download the original slides, and save Received/Reviewing/Completed status with a reply. Downloads can be opened in a PDF viewer or PowerPoint. The inbox is paginated. Submitting a file does not automatically create or publish a deck; adding reviewed cards remains a separate step. Other students cannot read or download someone else's submissions. The bucket is private; there are no public file URLs. Failed submission uploads are removed when possible; an interrupted browser/network request can leave an orphan that can be cleaned up in Supabase Storage.
 
-The admin user list is paginated and searchable by email. It shows registered accounts, joining/sign-in dates, last sync and aggregate counts of stored decks and studied cards. Counts come from synced deck data, so offline activity appears after sync. Original combined cellular-injury storage counts as one stored deck. This view does not return passwords, private questions or answers. Guest sessions are local and do not appear in the list. Existing private-deck access policies remain in place.
+The admin user list is paginated and searchable by email. It shows registered accounts, joining/sign-in dates, last sync and aggregate counts of stored decks and studied cards. Counts come from synced deck data, so offline activity appears after sync. Original combined cellular-injury storage counts as one stored deck. The user list does not return passwords or card contents. Authorized admins can separately open **View account (read only)** to check stored lectures and progress. Guest sessions are local and do not appear in the list. Existing private-deck access policies remain in place.
 
 ## Make decks with ChatGPT
 
@@ -37,3 +37,23 @@ Choose **More → Sign in / Guest → Study as guest**. When signed in, **My acc
 ## Validation
 
 `npm test` exercises SQL permission boundaries, single-use and expired codes, private files, protected admin actions, pagination, robust study counts and supported file validation. After building and running the preview on port 4189, `npm run test:admin:browser` checks desktop/phone submission, download, reply, guest switching and account-specific mode persistence with fixture responses. `npm run test:delivery:browser` checks confirmation/cancellation, migration errors, recipient targeting, embedded diagrams and receiving decks/modules after cross-device sync on desktop and phone. Tests do not activate the real Supabase project: run the SQL above to enable the hosted features.
+
+## Read-only account viewing
+
+Run [admin-view.sql](admin-view.sql) once, then use **View account (read only)** beside a registered user, or **View sender’s account** beside a submission. The inspector lists that account’s synced lectures, modules, card counts, studied percentages and currently known cards. Choose **View cards** to browse and reveal answers and pictures. It shows Deleted-folder status too. It reads the latest synced database snapshot; offline work and unsynced guest study are not visible.
+
+You remain signed in as yourself. Inspection uses a protected read-only RPC and separate UI state. It never loads another account into your study storage, grades a card, or writes reviews, deck revisions, or sync timestamps. Switch Admin mode off or sign out to clear the inspector. Normal students cannot call this RPC, and their existing private-deck RLS policies are unchanged.
+
+## Prepared decks without uploading JSON
+
+Run [prepared-decks.sql](prepared-decks.sql) after delivery.sql to create the private server-side reviewed library. Only the project owner can populate the table; no browser/service secret is required. An admin sees **Send prepared deck** beside an inbox submission when its original filename matches a reviewed deck. Confirm the displayed recipient, then delivery uses the original submission’s account and opens its read-only snapshot. Duplicate delivery keeps the already-delivered deck and refuses to overwrite progress.
+
+For the two reviewed LS5001 decks, create one private owner-run SQL file with:
+
+```
+node scripts/prepare-private-ls5001.mjs /path/to/cell-motility-deck.json /path/to/intracellular-trafficking-deck.json /path/to/private-setup.sql
+```
+
+This file installs the viewer and private library with the diagrams embedded. It also attempts automatic delivery, but only when the two exact original filenames each match one submission and both came from the same account. Missing/ambiguous matches leave the library installed for explicit inbox delivery. Already-delivered decks are left intact. Run the file in Supabase SQL Editor; do not commit or publicly host it. The repository contains the generator and schema, not the private slides or deck payloads.
+
+After building, `npm run test:admin-view:browser` exercises desktop and phone delivery without JSON upload, confirmation, diagrams, account inspection, own-session preservation and unchanged review records. `npm test` checks server permissions, matching-file enforcement, read-only payload/revision/timestamp invariants and automatic delivery. Set `ADMIN_SETUP_SQL` to the generated private artifact when running `tests/admin-db.test.js` to validate installation and both complete decks in an isolated database.
