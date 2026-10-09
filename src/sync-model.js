@@ -1,11 +1,12 @@
 import {mergeEvents} from './review-stats.js';
 import {mergeStudyDays} from './activity.js';
+import {mergeWorkspace} from './workspace-state.js';
 export const scheduleFields=['status','dueAt','lastReviewedAt','intervalDays','reviews','lapses','lastRating','scheduleVersion','sessionRetry'];
 const localFields=['_cloudRevision','_cloudDirty'];
 const stable=value=>JSON.stringify(value,(_,v)=>v&&typeof v==='object'&&!Array.isArray(v)?Object.fromEntries(Object.entries(v).sort(([a],[b])=>a.localeCompare(b))):v);
 const content=c=>Object.fromEntries(Object.entries(c).filter(([k])=>!scheduleFields.includes(k)&&!['_contentAt','_reviewAt'].includes(k)));
 const review=c=>Object.fromEntries(scheduleFields.filter(k=>c[k]!==undefined).map(k=>[k,c[k]]));
-const meta=d=>Object.fromEntries(Object.entries(d).filter(([k])=>!['cards','_injuryParts','_studyDays','_reviewEvents','updatedAt','_deletedCards','_metaAt','_syncVersion',...localFields].includes(k)));
+const meta=d=>Object.fromEntries(Object.entries(d).filter(([k])=>!['cards','_workspace','_injuryParts','_studyDays','_reviewEvents','updatedAt','_deletedCards','_metaAt','_syncVersion',...localFields].includes(k)));
 function choose(a,b,clock,signature){const x=clock(a),y=clock(b);return x!==y?(x>y?a:b):(signature(a)>=signature(b)?a:b)}
 export function stampChanges(previous,next,now=Date.now()){
  const result=structuredClone(next),old=new Map((previous?.cards||[]).map(c=>[c.id,c]));
@@ -37,5 +38,5 @@ export function mergeDecks(a,b){
   c._reviewAt=latest._reviewAt||latest.lastReviewedAt||0;return c;
  }).filter(c=>!(deleted[c.id]!==undefined&&deleted[c.id]>=(c._contentAt||0)));
  const parts={};for(const key of new Set([...Object.keys(a._injuryParts||{}),...Object.keys(b._injuryParts||{})])){const x=a._injuryParts?.[key],y=b._injuryParts?.[key];parts[key]=!x?y:!y?x:choose(x,y,p=>p._at||0,stable)}
- return {...cloudPayload(winner),...(Object.keys(parts).length?{_injuryParts:parts}:{}),media:{...a.media,...b.media,...winner.media},mediaCredits:{...a.mediaCredits,...b.mediaCredits,...winner.mediaCredits},cards,_studyDays:mergeStudyDays(a._studyDays,b._studyDays),_reviewEvents:mergeEvents(a._reviewEvents,b._reviewEvents),_deletedCards:deleted,_syncVersion:1,updatedAt:Math.max(a.updatedAt||0,b.updatedAt||0)};
+ return {...cloudPayload(winner),...(a._workspace||b._workspace?{_workspace:mergeWorkspace(a._workspace,b._workspace)}:{}),...(Object.keys(parts).length?{_injuryParts:parts}:{}),media:{...a.media,...b.media,...winner.media},mediaCredits:{...a.mediaCredits,...b.mediaCredits,...winner.mediaCredits},cards,_studyDays:mergeStudyDays(a._studyDays,b._studyDays),_reviewEvents:mergeEvents(a._reviewEvents,b._reviewEvents),_deletedCards:deleted,_syncVersion:1,updatedAt:Math.max(a.updatedAt||0,b.updatedAt||0)};
 }

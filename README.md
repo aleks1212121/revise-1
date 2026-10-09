@@ -220,3 +220,13 @@ Enable **Admin mode**, then open **More → Admin area → Make cards with your 
 This uses ChatGPT in its own tab with your normal account allowance. CHUDS.org does not connect to your ChatGPT session, upload slides to ChatGPT automatically or use an API key. Import adds a private deck to the admin's own study account and syncs it normally; it does not publish the deck to all students. Card-library export remains available for sharing the resulting JSON manually. No extra SQL migration is needed beyond the admin setup.
 
 `npm run test:chatgpt:browser` exercises prompt copying, submitted-lecture selection, pasted/file JSON, previews, original PDF pictures, module grouping and saved decks on desktop and phone using fixtures. Unit tests cover import validation, fresh schedules and safe content fields.
+
+## Personal modules and Trash
+
+Signed-in users can create personal modules in **Modules**, with a name and optional code. They appear only in that account and sync across devices. Assign lectures using the Module dropdown, or upload into the selected module. Guests can use the existing modules but cannot create new ones. Signing out resets the visible module list to that browser's separate guest collection.
+
+**Move to Trash** is available beside lectures and modules, with an “Are you sure?” confirmation. **More → Trash** (also linked from Modules and Lectures) restores them. Trashed lectures leave study queues, lecture lists and personal summaries/statistics; cards, pictures and review schedules remain saved. The two cellular-injury parts can be removed/restored independently. Removing a module leaves its lectures available under Unassigned, with their original assignment preserved for restoration unless you reassign them. Trash has no permanent-delete button or automatic expiry. Guests' Trash stays local; account Trash syncs. Historical friend/community review aggregates may still include earlier activity from trashed lectures.
+
+Personal modules and Trash use a private, empty-card workspace-settings record in the existing account storage. The record stays out of lecture lists, module totals and exports. Per-item change clocks merge independently across devices and prevent old copies from undoing deletions or restorations. No Supabase migration is needed. Importing guest progress does not replace account workspace settings.
+
+`npm run test:personal-modules:browser` checks account isolation, assignments, confirmation/cancellation, restoring saved progress, two-device updates, independent cellular-injury parts, and an entirely trashed collection surviving a reload on desktop and phone.
