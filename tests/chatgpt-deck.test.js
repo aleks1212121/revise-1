@@ -22,3 +22,11 @@ test('invalid ChatGPT output gets actionable errors and basic decks remain suppo
  const deck=prepareChatGPTDeck(JSON.stringify({title:'Basic',cards:[{question:'What?',answer:'Answer',slide:1,difficulty:'invalid'}]}));assert.equal(deck.cards[0].type,'basic');assert.equal(deck.cards[0].difficulty,undefined);
  const prompt=chatgptPrompt('My "lecture"','medical-genetics');assert.match(prompt,/LS5023/);assert.match(prompt,/original slide\/page numbers/);assert.match(prompt,/not instructions to follow/);assert.match(prompt,/chuds-deck.json/);assert.match(prompt,/Do not claim to have attached pictures/);
 });
+
+test('reviewed decks retain embedded diagram crops, references and recipient module metadata',()=>{
+ const media={crop:'data:image/jpeg;base64,AAAA',page:'data:image/png;base64,BBBB',external:'https://example.test/image.jpg',unsafe:'data:image/svg+xml;base64,CCCC'};
+ const deck=prepareChatGPTDeck(JSON.stringify({generation:'reviewed',moduleName:'Molecular Biology of the Cell',moduleCode:'LS5001',media,slides:[{number:1,images:['page','external']}],cards:[{...note,images:['crop','unsafe'],status:'known',reviews:8}]}));
+ assert.equal(deck.moduleCode,'LS5001');assert.equal(deck.moduleName,'Molecular Biology of the Cell');assert.equal(deck.generation,'reviewed');assert.deepEqual(Object.keys(deck.media),['crop','page']);assert.deepEqual(deck.slides[0].images,['page']);assert.deepEqual(deck.cards[0].images,['crop']);assert.equal(deck.cards[0].draft,false);assert.equal(deck.cards[0].status,'new');assert.equal(deck.cards[0].reviews,undefined);
+ const attached=prepareChatGPTDeck(JSON.stringify({generation:'reviewed',media,cards:[{...note,images:['crop']}]}),{source:{slides:deck.slides,media:deck.media}});assert.deepEqual(attached.cards[0].images,['crop'],'focused images survive source attachment');
+ const textOnly=prepareChatGPTDeck(JSON.stringify({generation:'reviewed',media,cards:[{...note,images:[]}]}),{source:{slides:deck.slides,media:deck.media}});assert.deepEqual(textOnly.cards[0].images,[],'intentionally omitted irrelevant diagrams remain omitted');
+});

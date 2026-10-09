@@ -28,7 +28,8 @@
     "test:retry:browser": "node scripts/check-session-retry.cjs",
     "test:admin:browser": "node scripts/check-admin.cjs",
     "test:chatgpt:browser": "node scripts/check-chatgpt.cjs",
-    "test:personal-modules:browser": "node scripts/check-personal-modules.cjs"
+    "test:personal-modules:browser": "node scripts/check-personal-modules.cjs",
+    "test:delivery:browser": "node scripts/check-delivery.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",

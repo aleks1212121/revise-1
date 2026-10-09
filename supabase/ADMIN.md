@@ -20,7 +20,15 @@ The admin user list is paginated and searchable by email. It shows registered ac
 
 The admin area includes **Make cards with your ChatGPT account**. Choose **Make cards with ChatGPT** beside an inbox submission to select its title, module and original lecture; alternatively enter your own lecture details and choose a local source file. Copy the prompt, open ChatGPT, and attach the lecture yourself. Return with ChatGPT's JSON file or paste its JSON, preview the sample cards, then import. Original source-slide pictures are attached by page number; references to missing pages are rejected. Without a source file, the result contains text cards.
 
-ChatGPT remains in its own tab and uses your normal account allowance. There are no automatic requests to ChatGPT or OpenAI's API. Imports create fresh private decks in your study account; they do not automatically publish to other students or mark the submission Completed. Review the answers and use the existing card-library Export to share a deck manually. This workflow requires no additional Supabase migration.
+ChatGPT remains in its own tab and uses your normal account allowance. There are no automatic requests to ChatGPT or OpenAI's API. **Import to my account** creates a fresh private deck in the admin’s own study account. It does not mark the submission Completed. Review the answers before sharing. This import workflow requires no additional Supabase migration.
+
+### Deliver a deck to its submitter
+
+Run [delivery.sql](delivery.sql) once in Supabase SQL Editor, after setup.sql and admin.sql. Select **Make cards with ChatGPT** beside the matching inbox submission, choose the reviewed deck JSON, and check its preview. Enter the recipient’s module name/code (reviewed deck files can fill these automatically), then choose **Send deck to submitter** and confirm the displayed recipient. The server obtains the recipient account from the original submission; no email lookup or service key is needed in the browser.
+
+Delivery adds a private deck with unstudied cards and marks the submission Completed with a reply. A matching active personal module is reused; otherwise the module is created in the recipient’s workspace. The recipient signs in and syncs to see it on their devices. Other accounts and guests do not receive the deck. Their existing decks, progress and Deleted folder are preserved. Delivering the same submission again is refused to protect the existing deck and review history.
+
+Reviewed JSON files can include embedded PNG/JPEG/GIF/WebP slide pictures and focused diagram crops; those pictures are retained. Otherwise the selected submission’s original slides are rendered and attached by page number. Deck JSON files may be up to 20 MB. Lecture files and account-specific decks do not need to be published to GitHub Pages.
 
 ## Guest study
 
@@ -28,4 +36,4 @@ Choose **More → Sign in / Guest → Study as guest**. When signed in, **My acc
 
 ## Validation
 
-`npm test` exercises SQL permission boundaries, single-use and expired codes, private files, protected admin actions, pagination, robust study counts and supported file validation. After building and running the preview on port 4189, `npm run test:admin:browser` checks desktop/phone submission, download, reply, guest switching and account-specific mode persistence with fixture responses. Tests do not activate the real Supabase project: run the SQL above to enable the hosted features.
+`npm test` exercises SQL permission boundaries, single-use and expired codes, private files, protected admin actions, pagination, robust study counts and supported file validation. After building and running the preview on port 4189, `npm run test:admin:browser` checks desktop/phone submission, download, reply, guest switching and account-specific mode persistence with fixture responses. `npm run test:delivery:browser` checks confirmation/cancellation, migration errors, recipient targeting, embedded diagrams and receiving decks/modules after cross-device sync on desktop and phone. Tests do not activate the real Supabase project: run the SQL above to enable the hosted features.

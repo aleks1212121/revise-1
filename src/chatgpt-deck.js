@@ -27,6 +27,9 @@ export function prepareChatGPTDeck(raw,{title='',moduleId='',source=null}={}){
  try{let text=String(raw).trim();if(text.startsWith('```'))text=text.replace(/^```(?:json)?\s*\n?/i,'').replace(/\s*```$/,'');value=JSON.parse(text)}catch{throw Error('Paste the complete deck JSON, or choose the JSON file from ChatGPT. You can include its surrounding JSON code fence.')}
  if(!value||!Array.isArray(value.cards)||!value.cards.length)throw Error('The JSON needs a non-empty cards array. Copy the prompt and ask ChatGPT to use its format.');
  if(value.cards.length>1000)throw Error('Split decks larger than 1,000 notes into smaller lectures.');
+ const providedMedia=Object.fromEntries(Object.entries(value.media&&typeof value.media==='object'?value.media:{}).filter(([,url])=>typeof url==='string'&&/^data:image\/(jpeg|png|gif|webp);base64,[A-Za-z0-9+/=]+$/.test(url)));
+ const media={...providedMedia,...source?.media};
+ const slides=source?.slides||(Array.isArray(value.slides)?value.slides.filter(s=>Number.isInteger(s.number)&&s.number>0&&s.number<=300).map(s=>({number:s.number,topic:String(s.topic||'Slide'),text:String(s.text||''),images:Array.isArray(s.images)?s.images.filter(id=>Object.hasOwn(media,id)):[]})):[]);
  const cards=[];
  for(const [i,note] of value.cards.entries()){
   if(!note||typeof note!=='object')throw Error(`Note ${i+1} is not a card object.`);
@@ -34,7 +37,8 @@ export function prepareChatGPTDeck(raw,{title='',moduleId='',source=null}={}){
   if(!Number.isInteger(slide)||slide<1||slide>300)throw Error(`Note ${i+1} needs an original slide/page number from 1 to 300.`);
   const sourceSlide=source?.slides?.find(s=>s.number===slide);
   if(source&&!sourceSlide)throw Error(`Note ${i+1} refers to slide ${slide}, which is not in the attached lecture.`);
-  const base={topic:String(note.topic||'Lecture').slice(0,160),slide,explanation:String(note.explanation||'').slice(0,4000),images:sourceSlide?.images||[],showImagesFront:false,draft:true,status:'new'};
+  const embedded=Array.isArray(note.images)?note.images.filter(id=>Object.hasOwn(providedMedia,id)):[];
+  const base={topic:String(note.topic||'Lecture').slice(0,160),slide,explanation:String(note.explanation||'').slice(0,4000),images:embedded.length||(value.generation==='reviewed'&&Array.isArray(note.images))?embedded:sourceSlide?.images||[],showImagesFront:false,draft:value.generation!=='reviewed',status:'new'};
   if(['important','standard'].includes(note.importance))base.importance=note.importance;
   if(['easy','medium','hard'].includes(note.difficulty))base.difficulty=note.difficulty;
   const text=typeof note.text==='string'?note.text:note.type==='cloze'?note.question:'';
@@ -45,5 +49,5 @@ export function prepareChatGPTDeck(raw,{title='',moduleId='',source=null}={}){
   }else throw Error(`Note ${i+1} needs valid cloze text such as {{c1::answer}}, or a question and answer.`);
  }
  if(cards.length>3000)throw Error('Split decks larger than 3,000 cards into smaller lectures.');
- return {version:2,lectureId:crypto.randomUUID(),title:String(title.trim()||value.title||'ChatGPT lecture').slice(0,160),moduleId:MODULES.some(m=>m.id===moduleId)?moduleId:'',generation:'chatgpt',cards,slides:source?.slides||[],media:source?.media||{}};
+ return {version:2,lectureId:crypto.randomUUID(),title:String(title.trim()||value.title||'ChatGPT lecture').slice(0,160),moduleId:MODULES.some(m=>m.id===moduleId)?moduleId:'',moduleName:String(value.moduleName||'').slice(0,100),moduleCode:String(value.moduleCode||'').slice(0,30),source:String(value.source||'').slice(0,300),generation:value.generation==='reviewed'?'reviewed':'chatgpt',cards,slides,media};
 }

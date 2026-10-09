@@ -13,7 +13,7 @@ export function adminWorkspace({client,user,render,importDeck}){
  const alive=(token,owner)=>token===generation&&user()?.id===owner;
  const enabled=()=>capable&&mode;
  const preference=()=>`chuds-admin-mode:${user()?.id}`;
- const workflow=chatgptWorkflow({enabled,user,render,importDeck,downloadSource:async row=>{const result=await client().storage.from(SUBMISSION_BUCKET).download(row.object_path);if(result.error)throw result.error;return new File([result.data],row.file_name)}});
+ const workflow=chatgptWorkflow({enabled,user,render,importDeck,downloadSource:async row=>{const result=await client().storage.from(SUBMISSION_BUCKET).download(row.object_path);if(result.error)throw result.error;return new File([result.data],row.file_name)},deliverDeck:async(row,deck,moduleName,moduleCode)=>{const result=await client().rpc('deliver_study_submission',{p_id:row.id,p_deck:deck,p_module_name:moduleName,p_module_code:moduleCode}).abortSignal(AbortSignal.timeout(60000));if(result.error){if(result.error.code==='PGRST202')throw Error('Run supabase/delivery.sql in the SQL Editor to activate delivery to submitters.');throw result.error}await open(true);return result.data}});
  function reset(){workflow.reset();generation++;request++;capable=false;mode=false;ready=false;unavailable=false;loading=false;working=false;error='';notice='';dashboard=null;submissions=[];usersPage=0;submissionsPage=0;query='';file=null;title='';moduleId='';message='';drafts={}}
  async function connect(){
   const token=generation,owner=user()?.id;if(!owner){ready=true;return}
