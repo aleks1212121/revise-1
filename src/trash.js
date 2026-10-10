@@ -1,6 +1,6 @@
-import {DEFAULT_MODULES} from './modules.js';
+import {moduleRegistry} from './modules.js';
 import {escapeHTML as esc} from './cloze.js';
 export function trashWorkspace(state,lectures){
- const modules=Object.values(state.modules||{}).filter(m=>m.deleted).map(m=>({...DEFAULT_MODULES.find(d=>d.id===m.id),...m}));
+ const modules=moduleRegistry(state,true).modules;
  return `<section class="trash-workspace"><h2>Trash</h2><p>Restore lectures with their cards, pictures and review progress. Nothing here is permanently deleted.</p><section class="workspace-panel"><h3>Lectures (${lectures.length})</h3>${lectures.map(d=>`<article class="trash-entry"><div><strong>${esc(d.title)}</strong><small>${d.cards.length} cards · ${(d.cards||[]).filter(c=>c.reviews>0).length} studied</small></div><button class="button subtle" data-restore-lecture="${esc(d.lectureId)}">Restore lecture</button></article>`).join('')||'<p>No lectures in Trash.</p>'}</section><section class="workspace-panel"><h3>Modules (${modules.length})</h3><p>Lectures from removed modules stay under Unassigned. Restoring the module groups them again unless you reassigned them.</p>${modules.map(m=>`<article class="trash-entry"><div><strong>${esc(m.name)}</strong><small>${esc(m.code||'Personal module')}</small></div><button class="button subtle" data-restore-module="${esc(m.id)}">Restore module</button></article>`).join('')||'<p>No modules in Trash.</p>'}</section></section>`;
 }

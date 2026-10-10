@@ -1,5 +1,5 @@
 import {injuryCommunity} from './injury-parts.js';
-import {moduleFor,MODULES} from './modules.js';
+import {moduleFor,MODULES,canonicalModuleId} from './modules.js';
 export function recordAttempt(deck,card,rating,now=Date.now()){
  if(!['again','hard','good','easy'].includes(rating))return;
  const event={id:crypto.randomUUID(),cardId:card.id,slide:card.slide||0,topic:card.topic||'General',moduleId:moduleFor(deck),rating,at:now,contentKey:contentKey(card)};
@@ -14,7 +14,7 @@ export function personalStats(decks,level='subject',lectureId=''){
  for(const d of decks){if(lectureId&&d.lectureId!==lectureId)continue;totalCards+=d.cards.length;reviewed+=d.cards.filter(c=>c.reviews>0).length;
  for(const e of Object.values(d._reviewEvents||{})){
   if(!['again','hard','good','easy'].includes(e.rating)||!e.cardId)continue;
-  const module=e.moduleId||moduleFor(d),name=MODULES.find(m=>m.id===module)?.name||'Unassigned';
+  const module=canonicalModuleId(e.moduleId)||moduleFor(d),name=MODULES.find(m=>m.id===module)?.name||'Unassigned';
   const key=level==='module'?module:level==='subject'?JSON.stringify([module,e.topic]):level==='slide'?JSON.stringify([d.lectureId,e.slide]):JSON.stringify([d.lectureId,e.cardId]);
   const card=d.cards.find(c=>c.id===e.cardId),label=level==='module'?name:level==='subject'?e.topic:level==='slide'?`${d.title} · Slide ${e.slide}`:(card?.text||card?.question||'Removed card').replace(/\{\{c\d+::([^{}]+)\}\}/g,(_,text)=>text.split('::')[0]);
   const row=groups.get(key)||{key,label,lectureId:d.lectureId,cardId:e.cardId,slide:e.slide,topic:e.topic,correct:0,incorrect:0,partial:0};const result=e.rating==='again'?'incorrect':e.rating==='hard'?'partial':'correct';row[result]++;totals[result]++;groups.set(key,row);

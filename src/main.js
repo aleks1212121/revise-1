@@ -26,7 +26,7 @@ import {showWelcome} from './welcome.js';
 import {navigation,bindNavigation} from './navigation.js';
 import {lectureProgress} from './lecture-progress.js';
 import {voicePractice} from './voice.js';
-import {MODULES,configureModules,moduleFor,moduleOptions,modulesWorkspace} from './modules.js';
+import {MODULES,configureModules,moduleFor,moduleOptions,modulesWorkspace,moduleCode,canonicalModuleId,moduleRegistry} from './modules.js';
 import './style.css';
 import './themes.css';
 import './navigation.css';
@@ -198,7 +198,7 @@ async function importFile(file){
 }
  document.addEventListener('keydown',e=>{if(['INPUT','TEXTAREA','SELECT','BUTTON','SUMMARY'].includes(document.activeElement.tagName)||editing||busy||document.querySelector('.workspace-menu[open]'))return;if(view!=='study'||!current())return;if(e.code==='Space'){e.preventDefault();flipped=!flipped;render()}else if(['1','2','3','4'].includes(e.key))rate(['again','hard','good','easy'][Number(e.key)-1]);else if(e.key==='ArrowRight'&&index<queue.length-1){index++;flipped=false;visualHint=false;illustrationIndex=0;render()}else if(e.key==='ArrowLeft'&&index>0){index--;flipped=false;visualHint=false;illustrationIndex=0;render()}});
 render();
-async function refreshWorkspace(){workspace=await getWorkspace();configureModules(workspace);if(selectedModule&&selectedModule!=='unassigned'&&!MODULES.some(m=>m.id===selectedModule))selectedModule='';if(uploadModule&&!MODULES.some(m=>m.id===uploadModule))uploadModule=''}
+async function refreshWorkspace(){workspace=await getWorkspace();configureModules(workspace,await rawLectures());selectedModule=canonicalModuleId(selectedModule);uploadModule=canonicalModuleId(uploadModule);if(selectedModule&&selectedModule!=='unassigned'&&!MODULES.some(m=>m.id===selectedModule))selectedModule='';if(uploadModule&&!MODULES.some(m=>m.id===uploadModule))uploadModule=''}
 async function collectionAction(task,success){
  if(busy||authWorking)return;const owner=accountUser?.id||'';busy=true;render();
  try{
@@ -209,10 +209,10 @@ async function collectionAction(task,success){
  }catch(e){message=e.message||'Could not update your collection.'}finally{busy=false;render()}
 }
 function bindCollections(){
- document.getElementById('create-module')?.addEventListener('submit',e=>{e.preventDefault();if(!accountUser){message='Sign in to create personal modules.';render();return}const form=e.target,name=form.elements.name.value.trim(),code=form.elements.code.value.trim();if(!name)return;if(MODULES.some(m=>m.name.toLowerCase()===name.toLowerCase())){message='A module with that name already exists.';render();return}const id=`custom-${crypto.randomUUID()}`;collectionAction(()=>updateWorkspace(state=>setWorkspaceEntry(state,'modules',id,{id,name,code,deleted:false})),'Personal module created and saved to your account.')});
+ document.getElementById('create-module')?.addEventListener('submit',e=>{e.preventDefault();if(!accountUser){message='Sign in to create personal modules.';render();return}const form=e.target,name=form.elements.name.value.trim(),code=form.elements.code.value.trim();if(!name)return;if(MODULES.some(m=>m.name.toLowerCase()===name.toLowerCase()||(moduleCode({name,code})&&moduleCode(m)===moduleCode({name,code})))){message='A module with that name or code already exists. Use the existing module.';render();return}const id=`custom-${crypto.randomUUID()}`;collectionAction(()=>updateWorkspace(state=>setWorkspaceEntry(state,'modules',id,{id,name,code,deleted:false})),'Personal module created and saved to your account.')});
  for(const kind of ['lecture','module']){
-  document.querySelectorAll(`[data-delete-${kind}]`).forEach(b=>b.onclick=()=>{const id=b.dataset[kind==='lecture'?'deleteLecture':'deleteModule'],item=kind==='lecture'?lectures.find(l=>l.lectureId===id):MODULES.find(m=>m.id===id);if(!item)return;const name=item.title||item.name;if(!confirm(`Are you sure you want to move “${name}” to Trash? ${kind==='module'?'Its lectures stay available under Unassigned.':'Your cards, pictures and review progress will be kept.'} You can restore it later.`))return;collectionAction(()=>updateWorkspace(state=>setWorkspaceEntry(state,kind==='lecture'?'lectures':'modules',id,{id,...(kind==='module'?{name:item.name,code:item.code}:{}),deleted:true})),`“${name}” moved to Trash.`)});
-  document.querySelectorAll(`[data-restore-${kind}]`).forEach(b=>b.onclick=()=>{const id=b.dataset[kind==='lecture'?'restoreLecture':'restoreModule'];collectionAction(()=>updateWorkspace(state=>setWorkspaceEntry(state,kind==='lecture'?'lectures':'modules',id,{id,deleted:false})),`${kind==='lecture'?'Lecture':'Module'} restored.`)});
+  document.querySelectorAll(`[data-delete-${kind}]`).forEach(b=>b.onclick=()=>{const id=b.dataset[kind==='lecture'?'deleteLecture':'deleteModule'],item=kind==='lecture'?lectures.find(l=>l.lectureId===id):MODULES.find(m=>m.id===id);if(!item)return;const name=item.title||item.name;if(!confirm(`Are you sure you want to move “${name}” to Trash? ${kind==='module'?'Its lectures stay available under Unassigned.':'Your cards, pictures and review progress will be kept.'} You can restore it later.`))return;collectionAction(()=>updateWorkspace(state=>kind==='lecture'?setWorkspaceEntry(state,'lectures',id,{id,deleted:true}):(item.memberIds||[id]).reduce((next,member)=>setWorkspaceEntry(next,'modules',member,{...(state.modules?.[member]||MODULES.find(m=>m.id===member)||item),id:member,code:item.code,deleted:true}),state)),`“${name}” moved to Trash.`)});
+  document.querySelectorAll(`[data-restore-${kind}]`).forEach(b=>b.onclick=()=>{const id=b.dataset[kind==='lecture'?'restoreLecture':'restoreModule'];collectionAction(()=>updateWorkspace(state=>kind==='lecture'?setWorkspaceEntry(state,'lectures',id,{id,deleted:false}):(moduleRegistry(state,true).modules.find(m=>m.id===id)?.memberIds||[id]).reduce((next,member)=>setWorkspaceEntry(next,'modules',member,{id:member,deleted:false}),state)),`${kind==='lecture'?'Lecture':'Module'} restored.`)});
  }
 }
 async function bootDecks(){
