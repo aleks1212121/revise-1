@@ -1,0 +1,4 @@
+project_id = "revise-1"
+
+[functions.assistant-inbox]
+verify_jwt = false
