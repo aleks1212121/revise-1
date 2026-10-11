@@ -13,6 +13,8 @@ Keys expire after 30 days. Create a replacement and update the secure binding to
 
 ## Processing requests
 
+Once connected, the admin can simply ask in Codex: “Check my slide inbox, make cloze cards, and send them back to the submitters.” There is no need to copy a ChatGPT prompt or manually transfer deck JSON. This is request-driven: uploading a file alone does not start background generation. The app keeps manual deck imports collapsed as an optional fallback.
+
 Use these commands from the existing checkout, without extracting or logging secrets:
 
 ```

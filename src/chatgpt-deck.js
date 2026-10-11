@@ -25,7 +25,7 @@ Create a downloadable file named chuds-deck.json if possible. Otherwise return o
 export function prepareChatGPTDeck(raw,{title='',moduleId='',source=null}={}){
  let value;
  try{let text=String(raw).trim();if(text.startsWith('```'))text=text.replace(/^```(?:json)?\s*\n?/i,'').replace(/\s*```$/,'');value=JSON.parse(text)}catch{throw Error('Paste the complete deck JSON, or choose the JSON file from ChatGPT. You can include its surrounding JSON code fence.')}
- if(!value||!Array.isArray(value.cards)||!value.cards.length)throw Error('The JSON needs a non-empty cards array. Copy the prompt and ask ChatGPT to use its format.');
+ if(!value||!Array.isArray(value.cards)||!value.cards.length)throw Error('The JSON needs a non-empty cards array. Choose a complete deck file with its title and cloze notes.');
  if(value.cards.length>1000)throw Error('Split decks larger than 1,000 notes into smaller lectures.');
  const providedMedia=Object.fromEntries(Object.entries(value.media&&typeof value.media==='object'?value.media:{}).filter(([,url])=>typeof url==='string'&&/^data:image\/(jpeg|png|gif|webp);base64,[A-Za-z0-9+/=]+$/.test(url)));
  const media={...providedMedia,...source?.media};
