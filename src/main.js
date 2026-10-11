@@ -43,6 +43,7 @@ let workspace=emptyWorkspace(),trashLectures=[];
 let selectedModule='',uploadModule='';
 let deck=null,lectures=[],uploadFile=null,uploadTitle='',uploadMode='ai',aiToken='',aiReady=false;
 let aiEndpoint='';try{aiEndpoint=localStorage.getItem('micro-ai-url')||''}catch{}
+let notificationInboxRequested=new URLSearchParams(location.search).get('inbox')==='1';
 let view='study',index=0,flipped=false,filter='due',visualHint=false,illustrationIndex=0,section='all',search='',queue=[],busy=false,message='',editing=null;
 const esc=escapeHTML;
 let pendingSave=Promise.resolve(),saveBaseline=null;
@@ -119,7 +120,7 @@ function bind(){
  bindNavigation({openLecture});
  bindAccounts();
  friends.bind();
- admin.bind();
+ admin.bind();if(notificationInboxRequested&&admin.enabled())queueMicrotask(openNotificationInbox);
  statistics.bind();
  summaries.bind();
  appearance.bind();
@@ -322,6 +323,12 @@ async function refreshCloudDeck(){
  if(!saved||saved.lectureId!==deck?.lectureId){setDeck(saved?addStudyVisuals(migrateSchedule(saved)):null,!!saved);resetQueue()}lectures=await listLectures();trashLectures=await trashedLectures();if(!editing&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName))render();
 }
 function queueIdentity(session,event){identityQueue=identityQueue.catch(()=>{}).then(()=>changeIdentity(session,event));return identityQueue}
+async function openNotificationInbox(){
+ if(!notificationInboxRequested||!admin.enabled())return;
+ notificationInboxRequested=false;view='admin';render();await admin.open(true);
+ const url=new URL(location.href);url.searchParams.delete('inbox');history.replaceState(null,'',url);
+}
+navigator.serviceWorker?.addEventListener('message',event=>{if(event.data?.type==='chuds-open-inbox'){notificationInboxRequested=true;openNotificationInbox()}});
 async function changeIdentity(session,event){
  if(event==='PASSWORD_RECOVERY'){recovering=true;view='account'}
  const next=session?.user||null;
@@ -332,7 +339,7 @@ async function changeIdentity(session,event){
   const restoreRemote=next&&!await loadDeck();let restore=!!restoreRemote;
   await bootDecks();
   if(next){const owner=next.id;syncEngine=new CloudSync({client:authClient,userId:owner,storage:{allLectures:rawLectures,applyCloud},onStatus:(state,label)=>{if(accountUser?.id!==owner)return;syncState=state;syncLabel=state==='error'?`Not synced: ${label} Changes remain saved on this device.`:label;const field=document.getElementById('sync-status');if(field){field.textContent=syncLabel;field.className=`sync-status ${state}`}else if(!editing)render()},onChange:async rows=>{if(accountUser?.id!==owner)return;if(restore&&rows?.length){await refreshWorkspace();const latest=(await allLectures()).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0))[0];const saved=latest&&await getLecture(latest.lectureId);if(saved){setDeck(addStudyVisuals(migrateSchedule(saved)),true);await save()}}restore=false;await refreshCloudDeck()}});await syncEngine.sync()}
- }catch(error){authNotice=error.message||'Could not open this account’s study data.'}finally{busy=false;render();await admin.connect();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='submissions')admin.open(false)}
+ }catch(error){authNotice=error.message||'Could not open this account’s study data.'}finally{busy=false;render();await admin.connect();await openNotificationInbox();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='submissions')admin.open(false)}
 }
 async function initAccounts(){
  try{authClient=await accountClient();accountReady=true;if(!authClient){render();return}
