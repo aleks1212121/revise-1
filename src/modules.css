@@ -4,3 +4,8 @@
 .personal-module-form{margin:20px 0}.module-entry>[data-delete-module]{display:block;margin:10px 0}.trash-entry{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 0;border-top:1px solid var(--theme-border)}.trash-entry>div{min-width:0;overflow-wrap:anywhere}.trash-entry small{display:block;margin-top:5px}.lecture-actions{flex-wrap:wrap}.trash-workspace{max-width:900px}.trash-entry button{flex-shrink:0}
 
 .module-tile h3,.module-code{overflow-wrap:anywhere}
+
+.practical-collection{margin-top:1.2rem;padding:1rem;border:1px solid var(--theme-border);border-radius:18px;background:var(--theme-panel)}
+.practical-bubble{display:inline-block;padding:.4rem .8rem;border-radius:999px;background:var(--theme-soft);color:var(--theme-text);font-size:.8rem;font-weight:700}
+.practical-collection h3{margin:.7rem 0 .4rem}
+.practical-collection>p{max-width:65ch;font-size:.88rem}
