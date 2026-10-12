@@ -7,3 +7,9 @@ export function advanceSession(queue,index,rating,removeAnswered=false){
  if(removeAnswered)next.splice(index,1);else index++;
  return {queue:next,index,retry:false,intervening:0};
 }
+// Sync may reorder due dates, but must not move retries already queued in this session.
+export function reconcileSession(queue,index,availableIds){
+ const allowed=new Set(availableIds),prefix=queue.slice(0,index).filter(id=>allowed.has(id));
+ const remaining=queue.slice(index).filter(id=>allowed.has(id));
+ return {queue:[...prefix,...remaining],index:prefix.length};
+}

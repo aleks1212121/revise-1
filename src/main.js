@@ -3,7 +3,7 @@ import {inboxNotifications} from './inbox-notifications.js';
 import {trashWorkspace} from './trash.js';
 import {emptyWorkspace,setWorkspaceEntry,lectureTrashed} from './workspace-state.js';
 import {adminWorkspace} from './admin.js';
-import {advanceSession} from './session-retry.js';
+import {advanceSession,reconcileSession} from './session-retry.js';
 import {quickSummaries} from './summaries.js';
 import {recordAttempt} from './review-stats.js';
 import {statisticsWorkspace} from './statistics.js';
@@ -324,7 +324,7 @@ function bindAccounts(){
 }
 async function accountAction(action){if(authWorking||busy)return;authWorking=true;authNotice='';render();try{await action()}catch(error){authNotice=error.message||'This action could not be completed.'}finally{authWorking=false;render()}}
 async function refreshCloudDeck(){
- await touchGate.idle();await pendingSave;await refreshWorkspace();const saved=await loadDeck();if(saved&&saved.lectureId===deck?.lectureId){const id=current()?.id,wasFlipped=flipped;setDeck(addStudyVisuals(migrateSchedule(saved)),true);resetQueue();const position=queue.indexOf(id);if(position>=0){index=position;flipped=wasFlipped}}
+ await touchGate.idle();await pendingSave;await refreshWorkspace();const saved=await loadDeck();if(saved&&saved.lectureId===deck?.lectureId){const id=current()?.id,wasFlipped=flipped;setDeck(addStudyVisuals(migrateSchedule(saved)),true);const next=reconcileSession(queue,index,cards().filter(c=>c.sessionRetry||matchesFilter(c)).map(c=>c.id));queue=next.queue;index=next.index;flipped=current()?.id===id&&wasFlipped;visualHint=false;illustrationIndex=0}
  if(!saved||saved.lectureId!==deck?.lectureId){setDeck(saved?addStudyVisuals(migrateSchedule(saved)):null,!!saved);resetQueue()}lectures=await listLectures();trashLectures=await trashedLectures();if(!editing&&!['INPUT','TEXTAREA'].includes(document.activeElement?.tagName))render();
 }
 function queueIdentity(session,event){identityQueue=identityQueue.catch(()=>{}).then(()=>changeIdentity(session,event));return identityQueue}
