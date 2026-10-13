@@ -62,7 +62,7 @@ function mediaURL(id){
 }
 function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide" tabindex="0" title="Open image and zoom">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}
 async function loadCurated(){
- const response=await fetch(`${import.meta.env.BASE_URL}lecture/deck.json`);if(!response.ok)throw Error('Could not load the lecture deck. Try refreshing.');
+ const response=await fetch(`${import.meta.env.BASE_URL}lecture/deck.json`,{signal:AbortSignal.timeout(15000)});if(!response.ok)throw Error('Could not load the lecture deck. Try refreshing.');
  return addStudyVisuals(migrateSchedule(await response.json()));
 }
 async function useCurated(){
@@ -230,7 +230,7 @@ async function bootDecks(){
   for(const lecture of bundledLectures){
    try{
     if(!await getLecture(lecture.id)){
-     const response=await fetch(`${import.meta.env.BASE_URL}${lecture.id}/deck.json`);
+     const response=await fetch(`${import.meta.env.BASE_URL}${lecture.id}/deck.json`,{signal:AbortSignal.timeout(15000)});
      if(!response.ok)throw Error('Could not load this lecture.');
      await ensureLecture(migrateSchedule(await response.json()));
     }
@@ -319,7 +319,7 @@ async function changeIdentity(session,event){
  try{
   const restoreRemote=next&&!await loadDeck();let restore=!!restoreRemote;
   await bootDecks();await personalGenerator.restore();
-  if(next){const owner=next.id;syncEngine=new CloudSync({client:authClient,userId:owner,storage:{allLectures:rawLectures,applyCloud},onStatus:(state,label)=>{if(accountUser?.id!==owner)return;syncState=state;syncLabel=state==='error'?`Not synced: ${label} Changes remain saved on this device.`:label;const field=document.getElementById('sync-status');if(field){field.textContent=syncLabel;field.className=`sync-status ${state}`}else if(!editing)render()},onChange:async rows=>{if(accountUser?.id!==owner)return;if(restore&&rows?.length){await refreshWorkspace();const latest=(await allLectures()).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0))[0];const saved=latest&&await getLecture(latest.lectureId);if(saved){setDeck(addStudyVisuals(migrateSchedule(saved)),true);await save()}}restore=false;await refreshCloudDeck()}});await syncEngine.sync()}
+  if(next){busy=false;render();const owner=next.id;syncEngine=new CloudSync({client:authClient,userId:owner,storage:{allLectures:rawLectures,applyCloud},onStatus:(state,label)=>{if(accountUser?.id!==owner)return;syncState=state;syncLabel=state==='error'?`Not synced: ${label} Changes remain saved on this device.`:label;const field=document.getElementById('sync-status');if(field){field.textContent=syncLabel;field.className=`sync-status ${state}`}else if(!editing)render()},onChange:async rows=>{if(accountUser?.id!==owner)return;if(restore&&rows?.length){await refreshWorkspace();const latest=(await allLectures()).sort((a,b)=>(b.updatedAt||0)-(a.updatedAt||0))[0];const saved=latest&&await getLecture(latest.lectureId);if(saved){setDeck(addStudyVisuals(migrateSchedule(saved)),true);await save()}}restore=false;await refreshCloudDeck()}});await syncEngine.sync()}
  }catch(error){authNotice=error.message||'Could not open this account’s study data.'}finally{busy=false;render();await admin.connect();await openNotificationInbox();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='submissions')admin.open(false)}
 }
 async function initAccounts(){
