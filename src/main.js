@@ -17,7 +17,6 @@ import { escapeHTML, renderCloze, clozeCards } from './cloze.js';
 import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, rawLectures, applyCloud, importGuestLectures, getWorkspace, updateWorkspace, trashedLectures } from './storage.js';
 import {isDue,schedule,intervalLabel,nextReviewLabel,migrateSchedule,preserveSchedule} from './scheduler.js';
 import {addStudyVisuals} from './visuals.js';
-import {backendURL,generateAI} from './ai.js';
 import {accountClient,accountSettings} from './accounts.js';
 import {checkAccountSetup} from './account-checks.js';
 import {CloudSync} from './cloud-sync.js';
@@ -44,9 +43,8 @@ let authClient=null,accountUser=null,syncEngine=null,accountReady=false,accountE
 let syncState='local',syncLabel='Saved on this device',identityQueue=Promise.resolve();
 const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cellular Injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'},{id:'breast-cancer-revision',label:'Breast Cancer — Revision Notes'},{id:'breast-cancer-practical',label:'Breast Cancer — Practical Booklet'}];
 let workspace=emptyWorkspace(),trashLectures=[];
-let selectedModule='',uploadModule='';
-let deck=null,lectures=[],uploadFile=null,uploadTitle='',uploadMode='ai',aiToken='',aiReady=false;
-let aiEndpoint='';try{aiEndpoint=localStorage.getItem('micro-ai-url')||''}catch{}
+let selectedModule='';
+let deck=null,lectures=[];
 let notificationInboxRequested=new URLSearchParams(location.search).get('inbox')==='1';
 let notificationDeckRequested=new URLSearchParams(location.search).get('decks')==='1';
 let view='study',index=0,flipped=false,filter='due',visualHint=false,illustrationIndex=0,section='all',search='',queue=[],busy=false,message='',editing=null;
@@ -123,7 +121,7 @@ function bind(){
  for(const id of ['upload','import-top'])document.getElementById(id)?.addEventListener('click',()=>{if(!busy){view='lectures';render()}});
  bindLectures();
  bindCollections();
- document.querySelectorAll('[data-module]').forEach(b=>b.onclick=()=>{selectedModule=b.dataset.module;uploadModule=selectedModule==='unassigned'?'':selectedModule;view='lectures';message='';render();window.scrollTo(0,0)});
+ document.querySelectorAll('[data-module]').forEach(b=>b.onclick=()=>{selectedModule=b.dataset.module;view='lectures';message='';render();window.scrollTo(0,0)});
  bindNavigation({openLecture});
  bindAccounts();
  friends.bind();
@@ -207,7 +205,7 @@ async function importFile(file){
 }
  document.addEventListener('keydown',e=>{if(['INPUT','TEXTAREA','SELECT','BUTTON','SUMMARY'].includes(document.activeElement.tagName)||editing||busy||document.querySelector('.workspace-menu[open]'))return;if(view!=='study'||!current())return;if(e.code==='Space'){e.preventDefault();flipped=!flipped;render()}else if(['1','2','3','4'].includes(e.key))rate(['again','hard','good','easy'][Number(e.key)-1]);else if(e.key==='ArrowRight'&&index<queue.length-1){index++;flipped=false;visualHint=false;illustrationIndex=0;render()}else if(e.key==='ArrowLeft'&&index>0){index--;flipped=false;visualHint=false;illustrationIndex=0;render()}});
 render();
-async function refreshWorkspace(){workspace=await getWorkspace();configureModules(workspace,await rawLectures());selectedModule=canonicalModuleId(selectedModule);uploadModule=canonicalModuleId(uploadModule);if(selectedModule&&selectedModule!=='unassigned'&&!MODULES.some(m=>m.id===selectedModule))selectedModule='';if(uploadModule&&!MODULES.some(m=>m.id===uploadModule))uploadModule=''}
+async function refreshWorkspace(){workspace=await getWorkspace();configureModules(workspace,await rawLectures());selectedModule=canonicalModuleId(selectedModule);if(selectedModule&&selectedModule!=='unassigned'&&!MODULES.some(m=>m.id===selectedModule))selectedModule='';}
 async function collectionAction(task,success){
  if(busy||authWorking)return;const owner=accountUser?.id||'';busy=true;render();
  try{
@@ -256,18 +254,13 @@ setInterval(refreshDueQueue,30_000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshDueQueue()});
 
 function groupedLectureList(group){const groups=lectureGroups(group);const itemsHTML=items=>items.map(l=>{const p=l.lectureId===deck?.lectureId?lectureProgress(cards()):l;return `<article class="lecture-item ${l.lectureId===deck?.lectureId?'current':''}"><div class="lecture-details"><h4>${esc(l.title)}</h4><div class="lecture-progress-label"><span>${p.studied||0} / ${l.count} cards studied</span><strong>${p.percent||0}%</strong></div><div class="progress lecture-progress" role="progressbar" aria-label="${esc(l.title)} study coverage" aria-valuemin="0" aria-valuemax="${l.count||1}" aria-valuenow="${p.studied||0}" aria-valuetext="${p.studied||0} of ${l.count} cards studied"><i style="width:${p.percent||0}%"></i></div><label class="lecture-module-label">Module<select data-lecture-module="${esc(l.lectureId)}" aria-label="Module for ${esc(l.title)}">${moduleOptions(moduleFor(l),esc)}</select></label><small>${p.confident||0} confident · ${p.due||0} due now${!p.studied?' · Not started':''}</small></div><div class="lecture-actions"><button type="button" class="text-button" data-delete-lecture="${esc(l.lectureId)}">Move to Trash</button><button type="button" class="button subtle" data-summary-lecture="${esc(l.lectureId)}">Quick summary</button><button type="button" class="button subtle" data-open-lecture="${esc(l.lectureId)}" ${busy?'disabled':''}>${p.studied?'Continue':'Study'} →</button></div></article>`}).join('');return `${!group.length?'<p>No lectures here yet. Add one below or move an existing lecture into this module.</p>':''}${groups.lectures.length?`<div class="lecture-list">${itemsHTML(groups.lectures)}</div>`:''}${groups.practical.length?`<section class="practical-collection" aria-label="Practical revision"><span class="practical-bubble">Practical revision</span><h3>Breast cancer histopathology</h3><p>Revise the handout, then practise recognising lesions, comparing invasion and interpreting markers. Based on the practical learning outcomes.</p><div class="lecture-list">${itemsHTML(groups.practical)}</div></section>`:''}`;}
-function lectureWorkspace(){const group=selectedModule?lectures.filter(l=>selectedModule==='unassigned'?!moduleFor(l):moduleFor(l)===selectedModule):lectures;const module=MODULES.find(m=>m.id===selectedModule);return `<section class="lecture-workspace"><div class="workspace-heading"><div><span class="eyebrow">YOUR LECTURE COLLECTION</span><h2>${module?esc(module.name)+` (${module.code})`:selectedModule==='unassigned'?'Unassigned lectures':'Your lectures. Your progress.'}</h2><p>See what you’ve studied, what’s due, and what to tackle next.</p></div><span class="lecture-count">${group.length} lecture${group.length===1?'':'s'}</span></div><section class="workspace-panel lecture-collection"><h3>Your lectures</h3><button class="button subtle" data-view="trash">Open Trash</button>${selectedModule?`<button type="button" class="button subtle module-summary-button" data-summary-module="${esc(selectedModule)}">Quick module summary</button>`:''}${selectedModule?'<button class="text-button" id="all-modules">← All modules</button>':''}<p class="collection-help">Coverage counts cards reviewed at least once. Due cards still need a refresher.</p>${groupedLectureList(group)}</section><div class="lecture-upload-below"><p class="submission-link"><button type="button" class="button subtle" data-view="submissions">Send slides to admin →</button></p>${personalGenerator.html()}<form id="lecture-upload" class="workspace-panel"><h3>＋ Add a lecture</h3><label>Module<select id="upload-module">${moduleOptions(uploadModule,esc)}</select></label><label>Lecture title<input id="lecture-title" value="${esc(uploadTitle)}" placeholder="e.g. Cell signalling, week 3"></label><label class="file-picker">Choose your slides<input id="lecture-file" type="file" accept=".pptx,.pdf,.json" ${busy?'disabled':''}><small>${esc(uploadFile?.name||'PowerPoint, PDF, or exported JSON deck')}</small></label><label>Make cards with<select id="generation-mode"><option value="ai" ${uploadMode==='ai'?'selected':''}>AI-written cloze cards</option><option value="local" ${uploadMode==='local'?'selected':''}>Local draft cards (no AI)</option></select></label><p class="upload-description">${uploadMode==='ai'?'AI reads slide text and pictures, groups cards by topic, and adds explanations and slide references. Generated cards need a quick review.':'Creates simple cloze drafts locally from supported sentences. This option does not use AI.'}</p>${uploadMode==='ai'?`<div class="ai-status ${aiReady?'connected':''}">${aiReady?'● AI service connected':'○ Connect your AI service below first'}</div><p class="upload-disclosure">Generate with AI sends the extracted slide text and compressed pictures to your configured backend and its AI provider. The lecture stays in your browser when you choose local drafts.</p>`:''}<button class="button primary" ${busy||!uploadFile||(uploadMode==='ai'&&!aiReady&&!uploadFile?.name.toLowerCase().endsWith('.json'))?'disabled':''}>${busy?'Working…':uploadMode==='ai'?'Generate with AI':'Create local deck'} ↗</button>${busy?`<p role="status" class="generation-progress">${esc(message)}</p>`:''}</form><details class="ai-service-settings"><summary>Optional AI service setup</summary><form id="ai-connection" class="workspace-panel"><h3>Connect your AI service</h3><p>The API key stays on your Render backend. Enter its URL and service passcode here.</p><label>Render service URL<input id="ai-url" type="url" placeholder="https://your-service.onrender.com" value="${esc(aiEndpoint)}" required></label><label>Service passcode<input id="ai-passcode" type="password" autocomplete="off" value="${esc(aiToken)}" required><small>From AI_ACCESS_TOKEN in your backend settings. Not your OpenAI API key.</small></label><button class="button subtle" ${busy?'disabled':''}>Check connection</button><small class="connection-note">The URL is remembered on this browser. The passcode stays in memory until you close or reload the app.</small><details><summary>Set up the Render backend</summary><p>Create a Render Blueprint from <a href="https://github.com/aleks1212121/revise-1" target="_blank" rel="noopener">this repository</a>. The included render.yaml configures the service. Set APP_AI_KEY securely in Render, then copy the service URL and generated AI_ACCESS_TOKEN into this form.</p></details></form></details></div></section>`}
+function lectureWorkspace(){const group=selectedModule?lectures.filter(l=>selectedModule==='unassigned'?!moduleFor(l):moduleFor(l)===selectedModule):lectures;const module=MODULES.find(m=>m.id===selectedModule);return `<section class="lecture-workspace"><div class="workspace-heading"><div><span class="eyebrow">YOUR LECTURE COLLECTION</span><h2>${module?esc(module.name)+` (${module.code})`:selectedModule==='unassigned'?'Unassigned lectures':'Your lectures. Your progress.'}</h2><p>See what you’ve studied, what’s due, and what to tackle next.</p></div><span class="lecture-count">${group.length} lecture${group.length===1?'':'s'}</span></div><section class="workspace-panel lecture-collection"><h3>Your lectures</h3><button class="button subtle" data-view="trash">Open Trash</button>${selectedModule?`<button type="button" class="button subtle module-summary-button" data-summary-module="${esc(selectedModule)}">Quick module summary</button>`:''}${selectedModule?'<button class="text-button" id="all-modules">← All modules</button>':''}<p class="collection-help">Coverage counts cards reviewed at least once. Due cards still need a refresher.</p>${groupedLectureList(group)}</section><div class="lecture-upload-below"><p class="submission-link"><button type="button" class="button subtle" data-view="submissions">Send slides to admin →</button><small>Not sure how to make a deck yourself? Send your slides to admin and we’ll prepare and upload them as soon as possible.</small></p>${personalGenerator.html()}</div></section>`}
 function bindLectures(){
  document.getElementById('all-modules')?.addEventListener('click',()=>{view='modules';render()});
- document.getElementById('upload-module')?.addEventListener('change',e=>uploadModule=e.target.value);
  document.querySelectorAll('[data-lecture-module]').forEach(el=>el.onchange=()=>assignModule(el.dataset.lectureModule,el.value));
  document.querySelectorAll('[data-open-lecture]').forEach(b=>b.onclick=()=>openLecture(b.dataset.openLecture));
- document.getElementById('lecture-title')?.addEventListener('input',e=>uploadTitle=e.target.value);
- document.getElementById('lecture-file')?.addEventListener('change',e=>{uploadFile=e.target.files[0]||null;if(uploadFile?.name.toLowerCase().endsWith('.json'))uploadMode='local';if(uploadFile&&!uploadTitle)uploadTitle=uploadFile.name.replace(/\.(pptx|pdf|json)$/i,'');render()});
- document.getElementById('generation-mode')?.addEventListener('change',e=>{uploadMode=e.target.value;render()});
- document.getElementById('ai-connection')?.addEventListener('submit',async e=>{e.preventDefault();aiReady=false;aiToken=document.getElementById('ai-passcode').value;try{aiEndpoint=backendURL(document.getElementById('ai-url').value);const r=await fetch(`${aiEndpoint}/health`,{headers:{Authorization:`Bearer ${aiToken}`},signal:AbortSignal.timeout(15000)});const result=await r.json();if(!r.ok||!result.ready)throw Error('Backend is reachable but AI is not configured. Set APP_AI_KEY and AI_ACCESS_TOKEN in Render.');aiReady=true;localStorage.setItem('micro-ai-url',aiEndpoint);message='AI backend connected. You can now generate a lecture deck.'}catch(error){message=error.message||'Could not connect to the AI service.'}render()});
- document.getElementById('lecture-upload')?.addEventListener('submit',e=>{e.preventDefault();createLecture()});
 }
+
 async function assignModule(id,moduleId){
  if(busy)return;await pendingSave;try{const value=await getLecture(id);if(!value)throw Error('Lecture not found.');const updated={...value,moduleId};
  if(deck?.lectureId===id){deck.moduleId=moduleId;await save()}else{await storeDeck(updated);lectures=await listLectures();syncEngine?.request()}
@@ -277,28 +270,6 @@ async function assignModule(id,moduleId){
 async function openLecture(id){
  if(busy)return;await pendingSave;try{if(lectureTrashed(workspace,id))throw Error('This lecture is in Trash. Restore it before studying.');const next=await getLecture(id);if(!next)throw Error('This lecture was not found in browser storage.');setDeck(addStudyVisuals(migrateSchedule(next)),true);filter='due';section='all';search='';view='study';message='';resetQueue();await save();render();window.scrollTo(0,0)}catch(error){message=error.message;render()}
 }
-async function createLecture(){
- if(busy||!uploadFile)return;if(uploadFile.size>100*1024*1024){message='Please compress or split lecture files larger than 100 MB.';render();return}
- const file=uploadFile,title=uploadTitle.trim(),mode=uploadMode,moduleId=uploadModule;busy=true;message='Reading your lecture…';render();
- try{
-  await pendingSave;let parsed;
-  if(file.name.toLowerCase().endsWith('.json')){parsed=normalizeDeck(JSON.parse(await file.text()));parsed.generation=parsed.generation||'imported'}
-  else if(file.name.toLowerCase().endsWith('.pdf'))parsed=await readPDF(file,t=>{message=t;render()});
-  else if(file.name.toLowerCase().endsWith('.pptx'))parsed=await readLecture(file);
-  else throw Error('Choose a PowerPoint, PDF, or exported JSON deck.');
-  parsed.moduleId=moduleId;parsed.lectureId=crypto.randomUUID();parsed.title=title||parsed.title||file.name;
-  if(!file.name.toLowerCase().endsWith('.json')){
-   if(mode==='ai'){
-    if(!aiReady)throw Error('Connect your AI backend first.');
-    // Persist the source and local drafts first, so a network/provider failure cannot discard the upload.
-    parsed.generation='local';await storeDeck({...migrateSchedule(parsed),updatedAt:Date.now()});
-    try{parsed=await generateAI(parsed,aiEndpoint,aiToken,t=>{message=t;render()})}catch(error){setDeck(migrateSchedule(parsed));lectures=await listLectures();await save();throw error}
-   }else parsed.generation='local';
-  }
-  parsed.moduleId=moduleId;setDeck(addStudyVisuals(migrateSchedule(parsed)));await save();uploadFile=null;uploadTitle='';view='study';filter='due';section='all';resetQueue();message=`Saved “${deck.title}” with ${deck.cards.length} ${deck.generation==='ai'?'AI-written draft':'draft'} cards. Review them in the library. Source slides and images are included.`;
- }catch(error){message=error.message||'Could not create your lecture deck. Try a smaller file.';lectures=await listLectures().catch(()=>lectures)}finally{busy=false;render()}
-}
-
 function connectionCheck(){return `<div class="account-connection"><button type="button" class="text-button" id="check-account" ${authWorking?'disabled':''}>Check connection</button><small>Checks account services without changing your cards.</small></div>`}
 function accountWorkspace(){
  const notice=authNotice||accountError;
@@ -344,7 +315,7 @@ async function changeIdentity(session,event){
  const next=session?.user||null;
  if((next?.id||'')===(accountUser?.id||'')){accountUser=next;if(recovering)render();return}
  busy=true;render();await pendingSave;syncEngine?.stop();syncEngine=null;
- accountUser=next;workspace=emptyWorkspace();configureModules();personalGenerator.reset();trashLectures=[];selectedModule='';uploadModule='';admin.reset();readyNotifications.reset();if(view==='admin')view='account';friends.reset();statistics.reset();summaries.close();setStorageScope(next?.id||'');deck=null;saveBaseline=null;syncState='local';syncLabel=next?'Preparing sync…':'Saved on this device';editing=null;filter='due';section='all';search='';message='';
+ accountUser=next;workspace=emptyWorkspace();configureModules();personalGenerator.reset();trashLectures=[];selectedModule='';admin.reset();readyNotifications.reset();if(view==='admin')view='account';friends.reset();statistics.reset();summaries.close();setStorageScope(next?.id||'');deck=null;saveBaseline=null;syncState='local';syncLabel=next?'Preparing sync…':'Saved on this device';editing=null;filter='due';section='all';search='';message='';
  try{
   const restoreRemote=next&&!await loadDeck();let restore=!!restoreRemote;
   await bootDecks();await personalGenerator.restore();

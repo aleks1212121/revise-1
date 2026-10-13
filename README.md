@@ -45,7 +45,7 @@ Decks, pictures and progress are stored in browser IndexedDB, allowing larger pi
 
 PowerPoint imports extract slide text, bold emphasis, and embedded PNG/JPEG/GIF/WebP images locally. Supported factual sentences become draft clozes; other text and image-only slides remain in the reference viewer. These automatic drafts are distinct from the included lecture-based deck. Speaker notes, vector-only images, animations and OCR are not supported. PDF uploads are rendered locally into source-page images and their text is extracted. The bundled example deck was written from the original PDF during development.
 
-No backend or API keys are needed for study, local drafts or deck organisation. Optional AI generation uses the separate secure backend described below. Card data is rendered as escaped text. Only embedded raster-image data and the included lecture image paths can be displayed.
+No backend or API keys are needed for study, local drafts or deck organisation. The current ChatGPT handoff uses the student’s own ChatGPT account, without an API backend. Card data is rendered as escaped text. Only embedded raster-image data and the included lecture image paths can be displayed.
 
 ## GitHub Pages
 
@@ -90,11 +90,9 @@ The optional illustration source is `scripts/generate-study-illustrations.py` (r
 
 ## Upload and organise more lectures
 
-Choose **Lectures** in the workspace sidebar to upload PDF/PPTX files, name lectures, switch decks and keep separate review schedules. JSON deck imports also add separate lectures. Decks, source pictures and progress remain in browser IndexedDB. The original Microorganisms deck stays in the collection.
+Choose **Lectures** to use **Make cards with your own ChatGPT**, or **Send slides to admin** if you need help. The ChatGPT flow creates a personal deck from the returned JSON and attaches the original slide pictures. Each lecture keeps separate review schedules and account syncing. The original Microorganisms deck stays in the collection.
 
-**AI-written cloze cards** reads text and pictures using the separate backend and groups cards by topic, with short explanations and source references. **Local draft cards** is a clearly labeled offline alternative; it is not AI. AI generation is unavailable until the backend is deployed and connected. The Render Blueprint is ready in `render.yaml`; complete [AI setup](docs/AI-SETUP.md) to activate it.
-
-All slide-reading, deck collection and study code still deploys as a static GitHub Pages app. The API key stays only in the Render environment. Backend tests and browser checks use fixture responses; real provider generation is unverified until credentials and hosting are supplied.
+The former API-based Add a lecture form and Render connection panel have been removed from the app. Legacy server files remain for existing deployments, but are not required by either current lecture workflow. See the self-service section below for the current instructions.
 
 ## Free accounts and device sync
 
@@ -211,15 +209,11 @@ The storage adapter presents these as separate lectures while retaining the orig
 
 ## Create decks using your ChatGPT account
 
-Enable **Admin mode**, then open **More → Admin area → Make cards with your ChatGPT account**. Name the lecture and choose its module. Optionally choose the original PDF/PPTX (up to 20 MB). In the slide inbox, **Make cards with ChatGPT** fills these settings from the submission and attaches that submitted lecture's pictures during import.
+The main ChatGPT authoring flow is now available to every student in **Lectures → Make cards with your own ChatGPT** (see the self-service section below). The old admin prompt-copy flow has been removed.
 
-1. Choose **Copy ChatGPT prompt**, open ChatGPT, and attach the lecture there yourself. The prompt asks for focused cloze notes, original page references, explanations and initial importance/difficulty labels in an importable `chuds-deck.json` file. A manual-copy prompt box is available if clipboard permission is unavailable.
-2. Choose ChatGPT's JSON file or paste its complete JSON/code block. **Preview cards** validates it and shows sample questions/answers. Editing the title, module or JSON requires a fresh preview.
-3. Choose **Import as new lecture**. The app expands linked cloze notes, attaches pictures from the original source pages when supplied, and starts every card unstudied. Existing decks and schedules stay intact. Check generated answers against the lecture; the deck is labelled as a draft.
+Admins retain a collapsed **Manual deck import (optional)** for existing JSON files. In the inbox, **Import deck manually** selects a submission; its original file can be attached during import or delivery. Preview validates the deck and expands cloze notes, while import starts fresh reviews and preserves existing decks. No extra SQL migration is needed for importing to the admin’s own account; sending a deck to a submitter requires the existing delivery setup.
 
-This uses ChatGPT in its own tab with your normal account allowance. CHUDS.org does not connect to your ChatGPT session, upload slides to ChatGPT automatically or use an API key. Import adds a private deck to the admin's own study account and syncs it normally; it does not publish the deck to all students. Card-library export remains available for sharing the resulting JSON manually. No extra SQL migration is needed beyond the admin setup.
-
-`npm run test:chatgpt:browser` exercises prompt copying, submitted-lecture selection, pasted/file JSON, previews, original PDF pictures, module grouping and saved decks on desktop and phone using fixtures. Unit tests cover import validation, fresh schedules and safe content fields.
+`npm run test:chatgpt:browser` exercises manual submission selection, pasted/file JSON, previews, original PDF pictures, module grouping and saved decks on desktop and phone using fixtures. Unit tests cover import validation, fresh schedules and safe content fields.
 
 ## Personal modules and Trash
 
