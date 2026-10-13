@@ -230,3 +230,11 @@ Signed-in users can create personal modules in **Modules**, with a name and opti
 Personal modules and Trash use a private, empty-card workspace-settings record in the existing account storage. The record stays out of lecture lists, module totals and exports. Per-item change clocks merge independently across devices and prevent old copies from undoing deletions or restorations. No Supabase migration is needed. Importing guest progress does not replace account workspace settings.
 
 `npm run test:personal-modules:browser` checks account isolation, assignments, confirmation/cancellation, restoring saved progress, two-device updates, independent cellular-injury parts, and an entirely trashed collection surviving a reload on desktop and phone.
+
+## Self-service cards through a student's ChatGPT
+
+In **Lectures → Make cards with your own ChatGPT**, select a PDF/PPTX and optionally choose a module. **AI do it · Open ChatGPT** opens a self-contained cloze-authoring prompt in a new chat and copies it as a fallback. The student attaches the same lecture in their own ChatGPT, sends the prompt and downloads `chuds-deck.json`. The link cannot attach a local file or receive ChatGPT's output automatically.
+
+Choose the returned JSON in the app, check its preview and import. A selected module takes priority; otherwise an unambiguous existing module code/name is matched. Unknown modules remain unassigned for the student to select or create through Modules. Import reads the retained original lecture locally, validates source page references and adds slide pictures. The original file/title/module draft is kept in browser IndexedDB per account (or guest); it survives refresh on that browser, is cleared after import, and is not synced. Imported decks use fresh card IDs and reviews and sync through the student's existing account. Guest imports remain local. Source filenames that explicitly disagree with the selected original are rejected.
+
+The handoff has no dependency on an admin, scoped inbox key, shared conversation, AI API key or hosted generation backend. `scripts/check-personal-chatgpt.cjs` exercises desktop/phone prompt copying/opening, retained source files, module inference/override, source mismatch rejection, original pictures, fresh reviews and account separation using fixtures.

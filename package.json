@@ -33,7 +33,8 @@
     "test:admin-view:browser": "node scripts/check-admin-view.cjs",
     "test:assistant:browser": "node scripts/check-assistant.cjs",
     "test:worker:cli": "python scripts/check-slide-worker.py",
-    "test:notifications:browser": "node scripts/check-notifications.cjs"
+    "test:notifications:browser": "node scripts/check-notifications.cjs",
+    "test:personal-chatgpt:browser": "node scripts/check-personal-chatgpt.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
