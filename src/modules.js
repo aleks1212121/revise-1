@@ -3,6 +3,7 @@ export const DEFAULT_MODULES=[
  {id:'infection-immunity',name:'Infection and Immunity',code:'LS5008'},
  {id:'medical-genetics',name:'Medical Genetics',code:'LS5023'},
  {id:'physiology-research',name:'Medical Physiology, Research Methods and Skills',code:'LS5034'},
+ {id:'system-pharmacology',name:'System Pharmacology',code:'LS5010'},
 ];
 export const MODULES=DEFAULT_MODULES.map(m=>({...m}));
 // Course codes identify modules; lecture names must not create separate groups.
@@ -27,7 +28,7 @@ export function moduleRegistry(state={},deleted=false,lectures=[]){
 let moduleAliases=new Map();
 export function canonicalModuleId(id){return moduleAliases.get(id)||id||''}
 export function configureModules(state={},lectures=[]){const registry=moduleRegistry(state,false,lectures);moduleAliases=registry.aliases;MODULES.splice(0,MODULES.length,...registry.modules)}
-const bundled={neoplasia:'pathobiology','microbiology-practical':'infection-immunity','breast-cancer-revision':'pathobiology','breast-cancer-practical':'pathobiology','cell-injury':'pathobiology','cell-injury-2':'pathobiology','cell-death':'pathobiology',microorganisms:'infection-immunity','genetic-variation':'medical-genetics',viruses:'infection-immunity'};
+const bundled={'coronary-artery-disease':'system-pharmacology','anti-obesity-drugs':'system-pharmacology','heart-failure':'system-pharmacology','cardiovascular-practical':'physiology-research',neoplasia:'pathobiology','microbiology-practical':'infection-immunity','breast-cancer-revision':'pathobiology','breast-cancer-practical':'pathobiology','cell-injury':'pathobiology','cell-injury-2':'pathobiology','cell-death':'pathobiology',microorganisms:'infection-immunity','genetic-variation':'medical-genetics',viruses:'infection-immunity'};
 export function moduleFor(lecture){const id=Object.hasOwn(lecture,'moduleId')?lecture.moduleId:bundled[lecture.lectureId];const canonical=canonicalModuleId(id);return MODULES.some(m=>m.id===canonical)?canonical:''}
 export function moduleOptions(selected,esc,modules=MODULES){return `<option value="" ${!selected?'selected':''}>Unassigned</option>`+modules.map(m=>`<option value="${esc(m.id)}" ${selected===m.id?'selected':''}>${esc(m.name)}${m.code?` (${esc(m.code)})`:''}</option>`).join('')}
 export function moduleTotals(lectures,id){const group=lectures.filter(l=>moduleFor(l)===id);const total=group.reduce((s,l)=>s+l.count,0),studied=group.reduce((s,l)=>s+(l.studied||0),0);return {lectures:group.length,total,studied,percent:total?Math.round(studied/total*100):0}}

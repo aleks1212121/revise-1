@@ -1,0 +1,1059 @@
+{
+  "version": 2,
+  "lectureId": "cardiovascular-practical",
+  "title": "Cardiovascular Physiology Practical",
+  "moduleId": "physiology-research",
+  "moduleName": "Medical Physiology, Research Methods and Skills",
+  "moduleCode": "LS5034",
+  "source": "PRACTICAL lecture theory and procedures 2025-2026.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Safety",
+      "slide": 2,
+      "explanation": "Eligibility screening and the separate risk assessment also apply.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Participants must read and sign the {{c1::consent form}} before taking part.",
+      "noteId": "cardiovascular-practical-d4c2b480b19a509b78bf-note",
+      "id": "cardiovascular-practical-d4c2b480b19a509b78bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Participants must read and sign the {{c1::consent form}} before taking part.",
+      "answer": "consent form"
+    },
+    {
+      "topic": "Safety",
+      "slide": 2,
+      "explanation": "The listed exclusions also include fainting susceptibility and pregnancy/breastfeeding. Students on medication or with other conditions should speak to staff.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A history of hypertension, heart disease or peripheral vascular disease excludes {{c1::volunteering for the experiments}} under the protocol.",
+      "noteId": "cardiovascular-practical-093e473d57f11ca6ae4c-note",
+      "id": "cardiovascular-practical-093e473d57f11ca6ae4c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A history of hypertension, heart disease or peripheral vascular disease excludes {{c1::volunteering for the experiments}} under the protocol.",
+      "answer": "volunteering for the experiments"
+    },
+    {
+      "topic": "Safety",
+      "slide": 2,
+      "explanation": "These are course-specific participant safeguards.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Open wounds or skin disease are exclusion criteria for the {{c1::cold/hot water experiment}}.",
+      "noteId": "cardiovascular-practical-a7557033556f67cd658c-note",
+      "id": "cardiovascular-practical-a7557033556f67cd658c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Open wounds or skin disease are exclusion criteria for the {{c1::cold/hot water experiment}}.",
+      "answer": "cold/hot water experiment"
+    },
+    {
+      "topic": "Experimental aims",
+      "slide": 3,
+      "explanation": "The first experiment examines responses to cold and warm conditions.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The second experiment examines recovery after transient ischaemia, termed {{c1::reactive hyperaemia}}.",
+      "noteId": "cardiovascular-practical-62ea19b99653514f2465-note",
+      "id": "cardiovascular-practical-62ea19b99653514f2465",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The second experiment examines recovery after transient ischaemia, termed {{c1::reactive hyperaemia}}.",
+      "answer": "reactive hyperaemia"
+    },
+    {
+      "topic": "Haemodynamics",
+      "slide": 4,
+      "explanation": "CO = HR × SV; it is not determined by heart rate alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cardiac output equals heart rate multiplied by {{c1::stroke volume}}.",
+      "noteId": "cardiovascular-practical-7e733990b6806bd0d133-note",
+      "id": "cardiovascular-practical-7e733990b6806bd0d133",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cardiac output equals heart rate multiplied by {{c1::stroke volume}}.",
+      "answer": "stroke volume"
+    },
+    {
+      "topic": "Haemodynamics",
+      "slide": 4,
+      "explanation": "MAP is approximately CO × TPR when central venous pressure is neglected.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture relates mean arterial pressure to cardiac output times {{c1::total peripheral resistance}}.",
+      "noteId": "cardiovascular-practical-d7e3bb49db311f4c37ce-note",
+      "id": "cardiovascular-practical-d7e3bb49db311f4c37ce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture relates mean arterial pressure to cardiac output times {{c1::total peripheral resistance}}.",
+      "answer": "total peripheral resistance"
+    },
+    {
+      "topic": "Haemodynamics",
+      "slide": 4,
+      "explanation": "Clarification: flow depends on both driving pressure and resistance (Q = ΔP/R). BP alone does not directly measure local flow.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "At an unchanged pressure gradient, increasing vascular resistance {{c1::reduces blood flow}}.",
+      "noteId": "cardiovascular-practical-b06a6f488353e8b81b21-note",
+      "id": "cardiovascular-practical-b06a6f488353e8b81b21",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "At an unchanged pressure gradient, increasing vascular resistance {{c1::reduces blood flow}}.",
+      "answer": "reduces blood flow"
+    },
+    {
+      "topic": "Haemodynamics",
+      "slide": 4,
+      "explanation": "The radius–resistance relationship is strongly nonlinear; the slide’s inverse wording should not be read as a simple linear 1/r law.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Arteriolar constriction increases {{c1::vascular resistance}}.",
+      "noteId": "cardiovascular-practical-59cf7c153fcef59ee8cb-note",
+      "id": "cardiovascular-practical-59cf7c153fcef59ee8cb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Arteriolar constriction increases {{c1::vascular resistance}}.",
+      "answer": "vascular resistance"
+    },
+    {
+      "topic": "Recording method",
+      "slide": 6,
+      "explanation": "Averaging baseline recordings reduces reliance on one variable measurement.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The baseline BP is the mean of at least {{c1::two readings}}.",
+      "noteId": "cardiovascular-practical-c89dec57189e506f0d0c-note",
+      "id": "cardiovascular-practical-c89dec57189e506f0d0c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The baseline BP is the mean of at least {{c1::two readings}}.",
+      "answer": "two readings"
+    },
+    {
+      "topic": "Supervised protocol",
+      "slide": 6,
+      "explanation": "This is a supervised course-protocol fact, not a home-test instruction. The later risk table gives 4–6°C; follow staff guidance on that discrepancy.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The main cold-pressor procedure specifies water at {{c1::5–6°C}}.",
+      "noteId": "cardiovascular-practical-747c4807e5d9622f9a25-note",
+      "id": "cardiovascular-practical-747c4807e5d9622f9a25",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The main cold-pressor procedure specifies water at {{c1::5–6°C}}.",
+      "answer": "5–6°C"
+    },
+    {
+      "topic": "Supervised protocol",
+      "slide": 6,
+      "explanation": "The course records three readings during immersion and three after removal.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Cold-pressor readings are taken at {{c1::30-second intervals}}.",
+      "noteId": "cardiovascular-practical-23c055badb20b6eecf8d-note",
+      "id": "cardiovascular-practical-23c055badb20b6eecf8d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cold-pressor readings are taken at {{c1::30-second intervals}}.",
+      "answer": "30-second intervals"
+    },
+    {
+      "topic": "Supervised protocol",
+      "slide": 6,
+      "explanation": "Stop sooner for discomfort; do not extend an experiment to complete a recording.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The maximum hand-immersion period specified in the main cold protocol is {{c1::1.5 minutes}}.",
+      "noteId": "cardiovascular-practical-5ed484e1a64e0857604a-note",
+      "id": "cardiovascular-practical-5ed484e1a64e0857604a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The maximum hand-immersion period specified in the main cold protocol is {{c1::1.5 minutes}}.",
+      "answer": "1.5 minutes"
+    },
+    {
+      "topic": "Safety",
+      "slide": 6,
+      "explanation": "This is an experiment eligibility threshold, not a clinical diagnosis threshold.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A resting systolic BP above {{c1::130 mmHg}} excludes the student from the cold-water test in this protocol.",
+      "noteId": "cardiovascular-practical-ccecf470572562fc0112-note",
+      "id": "cardiovascular-practical-ccecf470572562fc0112",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A resting systolic BP above {{c1::130 mmHg}} excludes the student from the cold-water test in this protocol.",
+      "answer": "130 mmHg"
+    },
+    {
+      "topic": "Recording method",
+      "slide": 7,
+      "explanation": "The post-exposure readings use the same variables; no participant results are supplied.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The cold-exposure sheet records systolic pressure, diastolic pressure and {{c1::heart rate}}.",
+      "noteId": "cardiovascular-practical-deff3b43b22b4a77758b-note",
+      "id": "cardiovascular-practical-deff3b43b22b4a77758b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cold-exposure sheet records systolic pressure, diastolic pressure and {{c1::heart rate}}.",
+      "answer": "heart rate"
+    },
+    {
+      "topic": "Supervised protocol",
+      "slide": 8,
+      "explanation": "The supervised target is 45–46°C. This is a study reference, not advice to perform the experiment independently.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The hot-water protocol states that temperature must not exceed {{c1::46°C}}.",
+      "noteId": "cardiovascular-practical-33909ac6f73d7e9b3f84-note",
+      "id": "cardiovascular-practical-33909ac6f73d7e9b3f84",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The hot-water protocol states that temperature must not exceed {{c1::46°C}}.",
+      "answer": "46°C"
+    },
+    {
+      "topic": "Safety",
+      "slide": 8,
+      "explanation": "The course says to cool it under tap water and inform staff; safety takes priority over collecting data.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Pain or discomfort during the hot-water test requires {{c1::immediate removal of the hand}}.",
+      "noteId": "cardiovascular-practical-956244626952008ce449-note",
+      "id": "cardiovascular-practical-956244626952008ce449",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pain or discomfort during the hot-water test requires {{c1::immediate removal of the hand}}.",
+      "answer": "immediate removal of the hand"
+    },
+    {
+      "topic": "Temperature responses",
+      "slide": 10,
+      "explanation": "Reduced skin perfusion limits heat transfer to the surroundings.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Cutaneous vasoconstriction during cold exposure helps {{c1::conserve heat}}.",
+      "noteId": "cardiovascular-practical-df9a5c5cca054f7cd5ca-note",
+      "id": "cardiovascular-practical-df9a5c5cca054f7cd5ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cutaneous vasoconstriction during cold exposure helps {{c1::conserve heat}}.",
+      "answer": "conserve heat"
+    },
+    {
+      "topic": "Temperature responses",
+      "slide": 10,
+      "explanation": "Increased skin perfusion facilitates heat transfer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Cutaneous vasodilation during warming helps {{c1::lose heat}}.",
+      "noteId": "cardiovascular-practical-ecc7872aabe832d02231-note",
+      "id": "cardiovascular-practical-ecc7872aabe832d02231",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cutaneous vasodilation during warming helps {{c1::lose heat}}.",
+      "answer": "lose heat"
+    },
+    {
+      "topic": "Control mechanisms",
+      "slide": 11,
+      "explanation": "These are distinct contributors rather than alternative names for one pathway.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cutaneous vascular tone is controlled by systemic neural and {{c1::local}} mechanisms.",
+      "noteId": "cardiovascular-practical-ca00e54438b62d28f9e5-note",
+      "id": "cardiovascular-practical-ca00e54438b62d28f9e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cutaneous vascular tone is controlled by systemic neural and {{c1::local}} mechanisms.",
+      "answer": "local"
+    },
+    {
+      "topic": "Sympathetic pathways",
+      "slide": 12,
+      "explanation": "The lecture links this with vasoconstriction.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Noradrenaline released by sympathetic endings activates vascular {{c1::α1-adrenoceptors}}.",
+      "noteId": "cardiovascular-practical-5d66eb5b2097ddd32f59-note",
+      "id": "cardiovascular-practical-5d66eb5b2097ddd32f59",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Noradrenaline released by sympathetic endings activates vascular {{c1::α1-adrenoceptors}}.",
+      "answer": "α1-adrenoceptors"
+    },
+    {
+      "topic": "Sympathetic pathways",
+      "slide": 12,
+      "explanation": "Local hand warming alone does not prove a large rise in core temperature or uniform whole-body activation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The sympathetic cholinergic vasodilator system is activated when {{c1::core body temperature rises}}.",
+      "noteId": "cardiovascular-practical-ef1aebfcf441bdee162d-note",
+      "id": "cardiovascular-practical-ef1aebfcf441bdee162d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sympathetic cholinergic vasodilator system is activated when {{c1::core body temperature rises}}.",
+      "answer": "core body temperature rises"
+    },
+    {
+      "topic": "Cold response",
+      "slide": 13,
+      "explanation": "The lecture depicts increased noradrenaline/adrenaline signalling and a pressor response.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cold exposure can increase tonic sympathetic {{c1::vasoconstrictor activity}}.",
+      "noteId": "cardiovascular-practical-5786f9b2c18d4b844204-note",
+      "id": "cardiovascular-practical-5786f9b2c18d4b844204",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cold exposure can increase tonic sympathetic {{c1::vasoconstrictor activity}}.",
+      "answer": "vasoconstrictor activity"
+    },
+    {
+      "topic": "Cold response",
+      "slide": 13,
+      "explanation": "The lecture describes increased availability/sensitivity of this postsynaptic pathway.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The local adrenergic receptor subtype highlighted in cold skin is {{c1::α2C}}.",
+      "noteId": "cardiovascular-practical-1f2750b60582ca4a73fe-note",
+      "id": "cardiovascular-practical-1f2750b60582ca4a73fe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The local adrenergic receptor subtype highlighted in cold skin is {{c1::α2C}}.",
+      "answer": "α2C"
+    },
+    {
+      "topic": "Cold response",
+      "slide": 13,
+      "explanation": "This complements the adrenergic response.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Cold can reduce local nitric oxide activity, favouring {{c1::vasoconstriction}}.",
+      "noteId": "cardiovascular-practical-36cbf7eb975da4434a2f-note",
+      "id": "cardiovascular-practical-36cbf7eb975da4434a2f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cold can reduce local nitric oxide activity, favouring {{c1::vasoconstriction}}.",
+      "answer": "vasoconstriction"
+    },
+    {
+      "topic": "Reflexes",
+      "slide": 13,
+      "explanation": "A reflex reduction in heart rate may follow in some subjects; it is not guaranteed in every cold-pressor observation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A rise in blood pressure can activate baroreceptors and increase {{c1::vagal activity}}.",
+      "noteId": "cardiovascular-practical-d7fbf9b7ef3b9ef8b0ca-note",
+      "id": "cardiovascular-practical-d7fbf9b7ef3b9ef8b0ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A rise in blood pressure can activate baroreceptors and increase {{c1::vagal activity}}.",
+      "answer": "vagal activity"
+    },
+    {
+      "topic": "Other mediators",
+      "slide": 14,
+      "explanation": "The slide also discusses adrenal catecholamines and angiotensin II as possible contributors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The endothelial peptide listed as a potent vasoconstrictor is {{c1::endothelin-1}}.",
+      "noteId": "cardiovascular-practical-e81ec53568ffb12247fd-note",
+      "id": "cardiovascular-practical-e81ec53568ffb12247fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The endothelial peptide listed as a potent vasoconstrictor is {{c1::endothelin-1}}.",
+      "answer": "endothelin-1"
+    },
+    {
+      "topic": "Warm response",
+      "slide": 16,
+      "explanation": "The slide combines systemic and local explanations; interpret them in the actual experimental context.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced tonic sympathetic constriction favours cutaneous {{c1::vasodilation}}.",
+      "noteId": "cardiovascular-practical-13c5509cda1ce9f32d5a-note",
+      "id": "cardiovascular-practical-13c5509cda1ce9f32d5a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced tonic sympathetic constriction favours cutaneous {{c1::vasodilation}}.",
+      "answer": "vasodilation"
+    },
+    {
+      "topic": "Warm response",
+      "slide": 17,
+      "explanation": "The later plateau includes a nitric-oxide-dependent component.",
+      "images": [
+        "heat-graph"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The early transient response to local heating involves {{c1::sensory afferent nerves}}.",
+      "noteId": "cardiovascular-practical-6304aa64d27551b84645-note",
+      "id": "cardiovascular-practical-6304aa64d27551b84645",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The early transient response to local heating involves {{c1::sensory afferent nerves}}.",
+      "answer": "sensory afferent nerves"
+    },
+    {
+      "topic": "Warm response",
+      "slide": 17,
+      "explanation": "It is a local vasodilator mediator in the warming explanation.",
+      "images": [
+        "heat-graph"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Nitric oxide promotes vascular smooth-muscle {{c1::relaxation}}.",
+      "noteId": "cardiovascular-practical-2652842e2dea62d4ebf4-note",
+      "id": "cardiovascular-practical-2652842e2dea62d4ebf4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nitric oxide promotes vascular smooth-muscle {{c1::relaxation}}.",
+      "answer": "relaxation"
+    },
+    {
+      "topic": "Graph interpretation",
+      "slide": 17,
+      "explanation": "L-NAME inhibits NOS; it is not a selective demonstration of eNOS alone.",
+      "images": [
+        "heat-graph"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "The fall in the heating plateau after L-NAME supports a role for {{c1::nitric oxide synthase activity}}.",
+      "noteId": "cardiovascular-practical-f1579b7a5530a31b7d60-note",
+      "id": "cardiovascular-practical-f1579b7a5530a31b7d60",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The fall in the heating plateau after L-NAME supports a role for {{c1::nitric oxide synthase activity}}.",
+      "answer": "nitric oxide synthase activity"
+    },
+    {
+      "topic": "Result interpretation",
+      "slide": 18,
+      "explanation": "The lecture predicts higher resistance and lower skin flow despite a pressor response. The inference depends on resistance and context.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A rise in BP during cold exposure does not mean that skin flow must {{c1::increase}}.",
+      "noteId": "cardiovascular-practical-a57b720020b23c5798d4-note",
+      "id": "cardiovascular-practical-a57b720020b23c5798d4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A rise in BP during cold exposure does not mean that skin flow must {{c1::increase}}.",
+      "answer": "increase"
+    },
+    {
+      "topic": "Result interpretation",
+      "slide": 18,
+      "explanation": "Especially with a contralateral-arm measurement, it is not a direct flow measurement and cannot establish local flow quantitatively.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Arterial BP is an {{c1::indirect}} indicator of local perfusion in this practical.",
+      "noteId": "cardiovascular-practical-0919ffaaebf4929f58a1-note",
+      "id": "cardiovascular-practical-0919ffaaebf4929f58a1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Arterial BP is an {{c1::indirect}} indicator of local perfusion in this practical.",
+      "answer": "indirect"
+    },
+    {
+      "topic": "Occlusion protocol",
+      "slide": 20,
+      "explanation": "The manual cuff creates temporary occlusion; the electronic monitor records the systemic response.",
+      "images": [
+        "apparatus"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The manual cuff and electronic BP monitor are used on {{c1::opposite arms}}.",
+      "noteId": "cardiovascular-practical-45b28941a6df09134e19-note",
+      "id": "cardiovascular-practical-45b28941a6df09134e19",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The manual cuff and electronic BP monitor are used on {{c1::opposite arms}}.",
+      "answer": "opposite arms"
+    },
+    {
+      "topic": "Occlusion protocol",
+      "slide": 20,
+      "explanation": "It otherwise specifies 20 mmHg above the measured systolic pressure. Do not exceed the cap to obtain occlusion; seek staff guidance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The protocol sets a maximum occlusion-cuff pressure of {{c1::160 mmHg}}.",
+      "noteId": "cardiovascular-practical-5d1caac2af6edb7821e4-note",
+      "id": "cardiovascular-practical-5d1caac2af6edb7821e4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The protocol sets a maximum occlusion-cuff pressure of {{c1::160 mmHg}}.",
+      "answer": "160 mmHg"
+    },
+    {
+      "topic": "Occlusion protocol",
+      "slide": 20,
+      "explanation": "Pain, discomfort, numbness or tingling requires immediate release; this remains a supervised lab procedure.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The maximum stated cuff-occlusion period is {{c1::one minute}}.",
+      "noteId": "cardiovascular-practical-f6836195257b6894beb9-note",
+      "id": "cardiovascular-practical-f6836195257b6894beb9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The maximum stated cuff-occlusion period is {{c1::one minute}}.",
+      "answer": "one minute"
+    },
+    {
+      "topic": "Occlusion protocol",
+      "slide": 20,
+      "explanation": "Further measurements follow every 30 seconds for three minutes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "After cuff release, BP is first measured {{c1::immediately}}.",
+      "noteId": "cardiovascular-practical-ec882471b7d904e8e055-note",
+      "id": "cardiovascular-practical-ec882471b7d904e8e055",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After cuff release, BP is first measured {{c1::immediately}}.",
+      "answer": "immediately"
+    },
+    {
+      "topic": "Data interpretation",
+      "slide": 21,
+      "explanation": "No measured BP or heart-rate values are provided, so the deck does not invent results or claim every participant has the predicted response.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The supplied result tables are {{c1::blank recording templates}}.",
+      "noteId": "cardiovascular-practical-0ddaaad6a5fba087ebe6-note",
+      "id": "cardiovascular-practical-0ddaaad6a5fba087ebe6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The supplied result tables are {{c1::blank recording templates}}.",
+      "answer": "blank recording templates"
+    },
+    {
+      "topic": "Reactive hyperaemia",
+      "slide": 22,
+      "explanation": "It compensates for the preceding period of reduced oxygen delivery.",
+      "images": [
+        "hyperaemia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Reactive hyperaemia is a transient rise in blood flow {{c1::above baseline after occlusion is released}}.",
+      "noteId": "cardiovascular-practical-b446f9ff4596cb0a856b-note",
+      "id": "cardiovascular-practical-b446f9ff4596cb0a856b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reactive hyperaemia is a transient rise in blood flow {{c1::above baseline after occlusion is released}}.",
+      "answer": "above baseline after occlusion is released"
+    },
+    {
+      "topic": "Reactive hyperaemia",
+      "slide": 22,
+      "explanation": "Examples listed include CO₂, H+, lactate, adenosine and nitric oxide.",
+      "images": [
+        "hyperaemia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "During occlusion, vasodilator metabolites {{c1::accumulate}} in the underperfused tissue.",
+      "noteId": "cardiovascular-practical-b86ed0516ba9c4cf52ab-note",
+      "id": "cardiovascular-practical-b86ed0516ba9c4cf52ab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During occlusion, vasodilator metabolites {{c1::accumulate}} in the underperfused tissue.",
+      "answer": "accumulate"
+    },
+    {
+      "topic": "Reactive hyperaemia",
+      "slide": 22,
+      "explanation": "The temporary low-resistance state explains the hyperaemic overshoot.",
+      "images": [
+        "hyperaemia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Removal of occlusion allows accumulated vasodilators to produce {{c1::increased local blood flow}}.",
+      "noteId": "cardiovascular-practical-c6e52c1a7adf300be603-note",
+      "id": "cardiovascular-practical-c6e52c1a7adf300be603",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Removal of occlusion allows accumulated vasodilators to produce {{c1::increased local blood flow}}.",
+      "answer": "increased local blood flow"
+    },
+    {
+      "topic": "Reactive hyperaemia",
+      "slide": 22,
+      "explanation": "Flow and pressure trends then approach baseline.",
+      "images": [
+        "hyperaemia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The hyperaemic response subsides partly because vasodilator metabolites are {{c1::washed out}}.",
+      "noteId": "cardiovascular-practical-09a3c042615a3af60fd9-note",
+      "id": "cardiovascular-practical-09a3c042615a3af60fd9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The hyperaemic response subsides partly because vasodilator metabolites are {{c1::washed out}}.",
+      "answer": "washed out"
+    },
+    {
+      "topic": "Reactive hyperaemia",
+      "slide": 23,
+      "explanation": "Their smooth-muscle tone strongly affects local resistance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The resistance vessels highlighted as controlling reactive hyperaemia are {{c1::arterioles}}.",
+      "noteId": "cardiovascular-practical-c2b9e4e8b506600902ce-note",
+      "id": "cardiovascular-practical-c2b9e4e8b506600902ce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The resistance vessels highlighted as controlling reactive hyperaemia are {{c1::arterioles}}.",
+      "answer": "arterioles"
+    },
+    {
+      "topic": "Clinical interpretation",
+      "slide": 23,
+      "explanation": "The slide lists hypertension, diabetes and atherosclerosis as associated contexts, not diagnoses established by this student experiment.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Impaired reactive hyperaemia can be a marker of {{c1::endothelial dysfunction}}.",
+      "noteId": "cardiovascular-practical-51360240c2ce4b6f463f-note",
+      "id": "cardiovascular-practical-51360240c2ce4b6f463f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Impaired reactive hyperaemia can be a marker of {{c1::endothelial dysfunction}}.",
+      "answer": "endothelial dysfunction"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Cardiovascular Physiology Practical — page 1",
+      "text": "LS5005 Cardiovascular Physiology Practical\nPractical will be held in the physiology lab EM0031\nDr Sumangali Wijetunge\nDr Alan Calder\nYou MUST read the practical protocol handout (available on Canvas), \nbefore coming to the lab\ncardiovascular practical: Medical Physiology, Research Methods and Skills \n(LS5034_A_TY13_26)\nAssessment: MCQs\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Cardiovascular Physiology Practical — page 2",
+      "text": "•\nAnyone suffering from or having a history of high blood pressure, heart \ndisease or peripheral vascular disease should not volunteer to carry out \nthese experiments. \n•\nAny one with skin conditions, open wounds should not volunteer for the \ncold/hot water experiment\n•\nAnyone prone to dizziness or fainting should not volunteer\n•\nAnyone with any other medical condition should speak to the academic \nbefore volunteering. \n•\nAnyone on any medication should speak to the academic.\n•\nPregnant or breast feeding females should not volunteer.\nPlease read the risk assessment document provided on Canvas. \nSafety and Eligibility\nYou MUST read and sign the consent form before participating in the \npractical\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Cardiovascular Physiology Practical — page 3",
+      "text": "1) The effect of ambient temperature on arterial blood \npressure (and by inference blood flow)\n2) The effect of recovery from ischemia on arterial blood \npressure (and by inference blood flow)\nMeasuring arterial blood pressure can give us an indication of blood flow \nAims\nTo investigate:\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Cardiovascular Physiology Practical — page 4",
+      "text": "TPR is controlled by radius of arteries/arterioles  (vasoconstriction, \nvasodilation).\nResistance is inversely proportional to the radius of the arterioles   \n      Arteriolar constriction cause:       ↑  TPR  → ↑ BP\n                                                                   ↓  blood flow\n           \n      Arteriolar dilatation cause:   \n↓  TPR → ↓  BP\n                                                             \n↑ blood flow \nMeasuring BP gives us an indication of changes \nin blood flow in a particular situation/locally\nCO= HR x SV\nMAP ∝CO X TPR\nMAP=mean arterial pressure\nCO=cardiac output\nTPR=total peripheral resistance\nRadius of arteries/arterioles\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Cardiovascular Physiology Practical — page 5",
+      "text": "Experiment 1: \nEffect of Ambient Temperature on Arterial Pressure.\nPart 1: investigate effect of low temperature (below body temp) \non BP (and by inference blood flow)\nPart 2: investigate effect of high temperature (above body temp) \non BP (and by inference blood flow)\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Cardiovascular Physiology Practical — page 6",
+      "text": "Effect of cold water on BP : Cold pressor Test (CPT):\nBP monitor\nice cold water  \n5-60C\n(mix ice with \ncold tap water \nto get correct \ntemperature.\nMake sure \nyou stir to get \neven \ntemperature \nthroughout) \n• Obtain baseline reading \n(mean of at least 2 readings)\n(if your resting BP is above 130 \nmmHg systolic, you should not \nvolunteer for the cold water)\n•  Immerse hand (cover wrist)  \nfor 1.5 minutes\n• At 30secs measure \nSBP/DBP.  Continue to \nmeasure BP at 30sec \nintervals. \n• Remove hand & continue to \nrecord BP for another 1-2 \nminutes.\nthermometer\nTake 3 BP readings whilst hand in cold water and 3 readings after hand is removed\nIf pain or discomfort felt remove hand immediately and \ndry your hand.\nInform staff\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Cardiovascular Physiology Practical — page 7",
+      "text": "Time  After Immersion (Sec)\nArterial Pressure\nHeart Rate (bpm)\nSystolic (mmHg)\nDiastolic \n(mmHg)\nInitial/baseline (mean of at least \n2 readings)\nCold water\n30 secs\n60\n90\nTime after removal of hand\n30\n60\n90\nRecord your results here:\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Cardiovascular Physiology Practical — page 8",
+      "text": "Part 2: Effect of hot water on BP:\nProtocol:\nIn the tub provided, mix hot water with tap water to bring the \ntemperature to 450C-460C  (make sure it is NOT above 460C)\nRepeat the same protocol as for the cold water.\nWhile the hand is placed in the water note any changes in skin \ncolour and if there is any pooling of venous blood \nIf pain or discomfort felt at any time, remove hand from water and \nhold under tap to cool your hand\nInform staff.\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Cardiovascular Physiology Practical — page 9",
+      "text": "Time  After Immersion (Sec)\nArterial Pressure\nHeart Rate (bpm)\nSystolic (mmHg)\nDiastolic \n(mmHg)\nInitial/baseline (mean of at least \n2 readings)\nHot water\n30 secs\n60\n90\nTime after removal of hand\n30\n60\n90\nRecord your results here:\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Cardiovascular Physiology Practical — page 10",
+      "text": "Cold –  Vasoconstriction of cutaneous vessels\n             Conserve heat\n              Vasoconstriction → ↓ blood flow \n                                                   ↑ TPR & ↑BP\n               An increase in BP reflects a decrease in blood flow            \nAmbient Temperature  \nChanges in surrounding temperature affect vascular smooth muscle \ncontraction.\nWarm  - Vasodilatation of cutaneous vessels\n               Radiation of heat to environment\n             Vasodilation → ↑ blood flow &\n                                          ↓ TPR & BP\n              A decrease in BP reflects an increase in blood flow\nMeasuring BP gives us an indication of changes in blood \nflow \n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Cardiovascular Physiology Practical — page 11",
+      "text": "Physiological mechanisms:  \nHow is blood flow  regulated in response to change in \ntemperature?\nCutaneous vascular tone regulated by:\n•   Systemic  Neural mechanisms\n•    Local mechanisms\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Cardiovascular Physiology Practical — page 12",
+      "text": "Tonic Sympathetic Vasoconstrictor system \nNorepinephrine released from sympathetic nerve endings\nBind to α1 adrenoceptors \nSystemic & Cutaneous vasoconstriction\nSympathetic Cholinergic Vasodilator system\n• Becomes active only when core body temperature rises\n• Increases skin blood flow and sweating\n            \nSystemic mechanisms\nPeripheral and hypothalamic thermoreceptors\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Cardiovascular Physiology Practical — page 13",
+      "text": "Immersing hand in cold water (5-6oC)\nA) Systemic effect –\n     Peripheral and hypothalamic thermoreceptors \nHomeostatic feedback mechanism \n     Increase in tonic sympathetic vasoconstrictor activity: \n          ↑ norepinephrine released\n    Release of adrenaline from adrenal gland\n     α1 adrenoceptors – Constriction of arterioles, increased TPR & hence BP\n          \nB) Local effects –\n   1. Upregulation of cutaneous  α2C receptors\n        Increased sensitivity to noradrenaline on postsynaptic α2C  receptors\n   2. Inhibition of Nitric Oxide (NO) release & activity \nBaroreceptor reflex: Increased blood pressure activates baroreceptors  → Stimulates \nthe vagus nerve → Reflex reduction in heart rate (bradycardia) may follow in some \nsubjects.\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Cardiovascular Physiology Practical — page 14",
+      "text": "Other possible mechanisms of vasoconstriction:\nAdrenaline from the adrenal gland: amplifying vasoconstriction throughout \nthe body\nCummings M etal., The role of adrenal medullary catecholamine release in the response to a \ncold pressor test. Cardiovasc Res. . 1983 Apr;17(4):189-91.\nEndothelin-1 Production: The cold stimulus increases endothelin-1, a \npotent vasoconstrictor produced by endothelial cells. promoting \nvasoconstriction.\n(F Fyhrquist et al., Raised plasma endothelin-I concentration following cold pressor test. \nBiochem Biophys Res Commun. . 1990 May 31;169(1):217-21).\nAngiotensin II: a potent vasoconstrictor, can contribute to the \nvasoconstriction\nIsrael A etal., Effect of AT 1 Angiotensin II Receptor Antagonistson the Sympathetic Response to \na Cold Pressor Testin Healthy Volunteers. American Journal of Therapeutics 14, 183–188 (2007)\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Cardiovascular Physiology Practical — page 15",
+      "text": "Net Result in cold water:\n    Vasoconstriction →  ↓ blood flow\n    Vasoconstriction →  ↑ BP\n                          \nAn increase in BP reflects a decrease in blood flow\nConserves heat\nPain and stress response:\nCold stress also stimulates the release of cortisol and endogenous opioids \nlike β-endorphins to modulate the pain response\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Cardiovascular Physiology Practical — page 16",
+      "text": "Immersing hand in hot water (45-460C)\nWhen local temperature is rapidly increased to  > 42oC local skin blood flow \nincreases almost to its maximum\nA) Systemic Effect \n sensed by peripheral and hypothalamic thermoreceptors\n1. Decreased tonic sympathetic vasoconstrictor activity\n2. Increased sympathetic cholinergic vasodilator activity\n        Vasodilatation caused by co-transmitters released from cholinergic \nnerves:  \n      Nitric Oxide (NO)\n      Substance P\n \n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Cardiovascular Physiology Practical — page 17",
+      "text": "•  Nitric Oxide\n    Heat stimulates eNOS/iNOS\n    Increased NO production\n    Potent vasodilator\nJ Appl Physiol  2012. 112(12), 2019-2026\neNOS=endothelial nitrc oxide synthase\niNOS=inducible nitric oxide synthase\nL-NAME=N-omega-nitro L-arginine methyl ester \nhydrochloride\nNet Result:    Vasodilation →   ↑blood flow\n                         Vasodilation →   ↓ BP\nA decrease in BP reflects an increase in blood flow\nGets rid of heat\nB) Local effects\n• Afferent Sensory nerves \n  Thermo-sensitive afferents in skin (warm receptors/heat-sensitive nociceptors)\n   Early transient vasodilator response\n(Inhibitor of eNOS)\nvasodilation\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Cardiovascular Physiology Practical — page 18",
+      "text": "Hot water \nimmersion \nof hand\nPeripheral  & hypothalamic thermoreceptors mediate\n• Decreased tonic sympathetic vasoconstrictor activity \n• Increased sympathetic cholinergic vasodilator activity\nsystemic\nLocal\nHeat stimulated increase in NO production\nWarm sensitive afferents\nVasodilatation ↓ TPR, ↑ Blood flow, ↓ BP\nIce Cold \nwater \nimmersion \nof hand\nsystemic\nLocal\nNE acting on upregulated α2C  receptors on VSMC \ninhibition of NO release/activity\nPeripheral/hypothalamic thermoreceptors stimulate \nsympathetic nervous system activity \nVasoconstriction\n↑ TPR, ↓Blood flow, ↑ BP\nMeasuring BP is an indicator of blood flow in the skin\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Cardiovascular Physiology Practical — page 19",
+      "text": "Experiment 2: \nEffect of Ischaemia on Peripheral Circulation.\nApparatus: \nInflatable sphygmomanometer cuff, electronic blood pressure monitor, \nstopwatch\nAim: to investigate changes to blood pressure (and by inference \nblood flow) during recovery from short period of ischaemia to the \nforearm/hand\nReactive hyperaemia\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Cardiovascular Physiology Practical — page 20",
+      "text": "Experimental Procedure:\n1.\nMeasure baseline BP using electronic BP monitor. (mean of 2 recordings of SBP & DBP)\n2.  Wrap the manual cuff on the other arm inflate to 20mm Hg above the measured systolic BP to cause \nocclusion of blood flow to forearm/hand  (do NOT inflate above 160 mmHg)\nKeep cuff inflated for 30secs-1 minute ONLY \n(If at any time you feel pain, discomfort, numbness or tingling remove the cuff immediately)\n3. After 1 minute remove the manual cuff and immediately measure blood pressure on the other arm \nwith the electronic monitor\n4. Continue to measure BP at 30 second intervals for 3 minute\nElectronic monitor \nto measure BP\nManual BP cuff \nto cause \nocclusion of \nblood flow\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Cardiovascular Physiology Practical — page 21",
+      "text": "Arterial Pressure\nHeart Rate \n(bpm)\nSystolic \n(mmHg)\nDiastolic \n(mmHg)\nBaseline BP (pre \nischaemia)\nBP after removal of arterial occlusion\nTime after removal of arterial occlusion (post ischaemia)\n0 sec (immediately after \nremoving manual cuff)\n30 sec\n60 sec\n90 sec\n120 sec\n150 sec\n180 sec\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Cardiovascular Physiology Practical — page 22",
+      "text": "A transient increase in blood flow (above normal) following a period of occlusion to a part of \nthe body.\nCompensation for the lack of O2 during the ischaemic period\nProduction and accumulation of vasodilator metabolites CO₂, H⁺, lactate, adenosine, NO\nWhen occlusion is removed – accumulated vasodilators cause a vasodilation and increase in \nblood flow (above normal)\nVasodilation → Reduced TPR →Reduced BP\nReactive (post-ischaemic) Hyperaemia)\nBlood flow exceeds baseline \nlevels temporarily\nWashout of \nvasodilators results in \nblood flow and BP \ncoming back to \nnormal rapidly\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Cardiovascular Physiology Practical — page 23",
+      "text": "BP ∝TPR X CO \n•  Vasodilatation → ↓TPR   ↓BP \n•\n Vasodilatation →  ↑ blood flow\n•\n Decreased BP indicates increased blood flow to the forearm/hand\n•\n Arterioles mainly responsible for reactive hyperaemia\nImpaired reactive hyperaemia can be a marker of endothelial dysfunction \n•\nHypertension\n•    Diabetes\n•    Atherosclerosis\nCan you think of common examples of reactive hyperaemia?\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Cardiovascular Physiology Practical — page 24",
+      "text": "Johnson & Kelogg Local thermal control of cutaneous circulation-1-\n1.pdf\nsympathetic cholinergic vasodilator nerve system in skin.pdf\nFACTORS associated with BP responses to CPT-1.pdf\nAngiotensin-II in CPT.pdf\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Cardiovascular Physiology Practical — page 25",
+      "text": "Risk assessment:\nPlease read the risk assessment document given on Canvas\nAll participants must sign a consent form\nImmersion of hand in \ncold water (4-60C)\n•\nRisks are minimal at short duration of 1.5 minutes.\n•\nOnly very occasionally, cold burns / frostnip / frostbite if exposed for long \nduration.\n•\nPain/discomfort\n•\nNumbness & reduced dexterity if exposed to longer duration\n•\nExacerbation of medical conditions (eg Raynaud’s)\nHand immersion hot \nwater (45-460C)\n•\nRisks are unlikely at this temperature and short duration, but possible \nredness, pain, discomfort.\n•\nBlistering or scalding can occur if temperature higher, due to temperature \nerror\n•\nAggravation of skin conditions (eczema, dermatitis) with longer exposure \n•\nCirculatory or neurological reaction (e.g. Light headedness dizziness, \nvasodilation)\nHAZARD                                    Risks/consequences\nVery low risks\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Cardiovascular Physiology Practical — page 26",
+      "text": "Blood pressure and pulse rate \nmeasurements/inflation of cuff\n•\nInflating the cuff may cause dizziness and fainting in \nsensitive individuals, feeling of anxiety.\n•\nMinor circulatory discomfort or numbness following cuff \ninflation\nInflation of manual cuff to occlude \nblood flow to forearm temporarily\n•\nDue to very short duration (up to 1 minute max) risks are \nminimal. Can experience discomfort, pain, and rarely \nnumbness in hand and fingers of a temporary nature.\n•\nAt longer durations skin bruising, nerve injury, \nfainting/dizziness, and adverse haemodynamics events \n(e.g., heart palpitations, unsafe elevation in blood \npressure, damage to occluded vessel walls may occur\nUse of kettle to warm water\n•\nMinimal risk. Potential to burn if spillage. \nSpillage of ice or water\n•\nrisk of slipping on spilt water/ice\n",
+      "images": [
+        "page-26"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "cardiovascular-practical/page-1.jpg",
+    "page-2": "cardiovascular-practical/page-2.jpg",
+    "page-3": "cardiovascular-practical/page-3.jpg",
+    "page-4": "cardiovascular-practical/page-4.jpg",
+    "page-5": "cardiovascular-practical/page-5.jpg",
+    "page-6": "cardiovascular-practical/page-6.jpg",
+    "page-7": "cardiovascular-practical/page-7.jpg",
+    "page-8": "cardiovascular-practical/page-8.jpg",
+    "page-9": "cardiovascular-practical/page-9.jpg",
+    "page-10": "cardiovascular-practical/page-10.jpg",
+    "page-11": "cardiovascular-practical/page-11.jpg",
+    "page-12": "cardiovascular-practical/page-12.jpg",
+    "page-13": "cardiovascular-practical/page-13.jpg",
+    "page-14": "cardiovascular-practical/page-14.jpg",
+    "page-15": "cardiovascular-practical/page-15.jpg",
+    "page-16": "cardiovascular-practical/page-16.jpg",
+    "page-17": "cardiovascular-practical/page-17.jpg",
+    "page-18": "cardiovascular-practical/page-18.jpg",
+    "page-19": "cardiovascular-practical/page-19.jpg",
+    "page-20": "cardiovascular-practical/page-20.jpg",
+    "page-21": "cardiovascular-practical/page-21.jpg",
+    "page-22": "cardiovascular-practical/page-22.jpg",
+    "page-23": "cardiovascular-practical/page-23.jpg",
+    "page-24": "cardiovascular-practical/page-24.jpg",
+    "page-25": "cardiovascular-practical/page-25.jpg",
+    "page-26": "cardiovascular-practical/page-26.jpg",
+    "temperature": "cardiovascular-practical/temperature.jpg",
+    "heat-graph": "cardiovascular-practical/heat-graph.jpg",
+    "hyperaemia": "cardiovascular-practical/hyperaemia.jpg",
+    "apparatus": "cardiovascular-practical/apparatus.jpg"
+  },
+  "collection": "practical"
+}

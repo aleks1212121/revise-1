@@ -1,0 +1,1396 @@
+{
+  "version": 2,
+  "lectureId": "heart-failure",
+  "title": "Heart Failure — Mechanisms & Drug Treatment",
+  "moduleId": "system-pharmacology",
+  "moduleName": "System Pharmacology",
+  "moduleCode": "LS5010",
+  "source": "HF  students  26-27.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Heart failure basics",
+      "slide": 2,
+      "explanation": "It is a syndrome with different underlying causes, not a single structural lesion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Heart failure involves cardiac output inadequate to meet the body’s {{c1::metabolic demands}}.",
+      "noteId": "heart-failure-3f878e22684deb4d2651-note",
+      "id": "heart-failure-3f878e22684deb4d2651",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Heart failure involves cardiac output inadequate to meet the body’s {{c1::metabolic demands}}.",
+      "answer": "metabolic demands"
+    },
+    {
+      "topic": "Heart failure basics",
+      "slide": 2,
+      "explanation": "The lecture contrasts this with progressive chronic failure.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "An infarct can precipitate {{c1::acute}} heart failure through sudden loss of cardiac function.",
+      "noteId": "heart-failure-aa3042587617976707ea-note",
+      "id": "heart-failure-aa3042587617976707ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infarct can precipitate {{c1::acute}} heart failure through sudden loss of cardiac function.",
+      "answer": "acute"
+    },
+    {
+      "topic": "Systolic vs diastolic",
+      "slide": 4,
+      "explanation": "The lecture contrasts this with impaired relaxation or compliance in diastolic failure.",
+      "images": [
+        "hf-types"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Systolic failure is characterised primarily by impaired {{c1::contractility}}.",
+      "noteId": "heart-failure-3ae7bdf290df1017ec14-note",
+      "id": "heart-failure-3ae7bdf290df1017ec14",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Systolic failure is characterised primarily by impaired {{c1::contractility}}.",
+      "answer": "contractility"
+    },
+    {
+      "topic": "Systolic vs diastolic",
+      "slide": 4,
+      "explanation": "Contractility may be preserved, so preserved ejection fraction does not exclude heart failure.",
+      "images": [
+        "hf-types"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Diastolic failure reduces ventricular filling through impaired relaxation or reduced {{c1::compliance}}.",
+      "noteId": "heart-failure-04c350685eff8dd16e55-note",
+      "id": "heart-failure-04c350685eff8dd16e55",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diastolic failure reduces ventricular filling through impaired relaxation or reduced {{c1::compliance}}.",
+      "answer": "compliance"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "EF = (EDV − ESV) / EDV × 100%; the slide asks for this definition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ejection fraction is stroke volume divided by {{c1::end-diastolic volume}}.",
+      "noteId": "heart-failure-9cb146ab98b017886956-note",
+      "id": "heart-failure-9cb146ab98b017886956",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ejection fraction is stroke volume divided by {{c1::end-diastolic volume}}.",
+      "answer": "end-diastolic volume"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "Worked application of the EF definition: (150−90)/150 ×100. These numbers are a revision example, not patient data.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A ventricle with EDV 150 mL and ESV 90 mL has an ejection fraction of {{c1::40%}}.",
+      "noteId": "heart-failure-07397fe04e9c99427422-note",
+      "id": "heart-failure-07397fe04e9c99427422",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A ventricle with EDV 150 mL and ESV 90 mL has an ejection fraction of {{c1::40%}}.",
+      "answer": "40%"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "It uses <40% as its teaching cut-off. Contemporary classifications also recognise HFmrEF; avoid treating the slide’s two-column table as exhaustive.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture’s HFrEF example has a {{c1::reduced ejection fraction}}.",
+      "noteId": "heart-failure-07a674bb669b31295064-note",
+      "id": "heart-failure-07a674bb669b31295064",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture’s HFrEF example has a {{c1::reduced ejection fraction}}.",
+      "answer": "reduced ejection fraction"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "A stiff ventricle may fill poorly while ejecting a preserved proportion of its filled volume.",
+      "images": [
+        "hf-types"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "HFpEF can occur despite a {{c1::preserved ejection fraction}}.",
+      "noteId": "heart-failure-10ac1e31b2ca651078e7-note",
+      "id": "heart-failure-10ac1e31b2ca651078e7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HFpEF can occur despite a {{c1::preserved ejection fraction}}.",
+      "answer": "preserved ejection fraction"
+    },
+    {
+      "topic": "Ventricular changes",
+      "slide": 4,
+      "explanation": "The table gives typical patterns, not requirements in every individual.",
+      "images": [
+        "hf-types"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A dilated cavity and increased end-systolic volume fit the lecture’s {{c1::systolic failure}} pattern.",
+      "noteId": "heart-failure-47661ba21b935b3c8465-note",
+      "id": "heart-failure-47661ba21b935b3c8465",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A dilated cavity and increased end-systolic volume fit the lecture’s {{c1::systolic failure}} pattern.",
+      "answer": "systolic failure"
+    },
+    {
+      "topic": "Ventricular changes",
+      "slide": 4,
+      "explanation": "A preserved EF therefore does not imply normal filling pressure.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Raised ventricular end-diastolic pressure can occur in {{c1::both systolic and diastolic failure}}.",
+      "noteId": "heart-failure-f10607391d624061938f-note",
+      "id": "heart-failure-f10607391d624061938f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised ventricular end-diastolic pressure can occur in {{c1::both systolic and diastolic failure}}.",
+      "answer": "both systolic and diastolic failure"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "The lecture table uses <40%; this clarification includes the conventional boundary and does not establish HF from EF alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The usual modern HFrEF boundary is an EF of {{c1::40% or less}}.",
+      "noteId": "heart-failure-10a1215deb6cc588297e-note",
+      "id": "heart-failure-10a1215deb6cc588297e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The usual modern HFrEF boundary is an EF of {{c1::40% or less}}.",
+      "answer": "40% or less"
+    },
+    {
+      "topic": "Ejection fraction",
+      "slide": 4,
+      "explanation": "The lecture writes >50%; a preserved EF alone is not enough to diagnose HFpEF.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The usual modern HFpEF EF range begins at {{c1::50%}}.",
+      "noteId": "heart-failure-a4b38ca309105d94acd6-note",
+      "id": "heart-failure-a4b38ca309105d94acd6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The usual modern HFpEF EF range begins at {{c1::50%}}.",
+      "answer": "50%"
+    },
+    {
+      "topic": "Left-sided failure",
+      "slide": 5,
+      "explanation": "Increased pulmonary venous/capillary pressure favours oedema.",
+      "images": [
+        "left-failure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Raised left-sided filling pressures transmit backwards into the {{c1::pulmonary circulation}}.",
+      "noteId": "heart-failure-ecdfb086557be65e5712-note",
+      "id": "heart-failure-ecdfb086557be65e5712",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised left-sided filling pressures transmit backwards into the {{c1::pulmonary circulation}}.",
+      "answer": "pulmonary circulation"
+    },
+    {
+      "topic": "Right-sided failure",
+      "slide": 6,
+      "explanation": "The consequence is peripheral rather than primarily pulmonary congestion.",
+      "images": [
+        "right-failure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Right ventricular failure produces backward congestion of {{c1::systemic veins}}.",
+      "noteId": "heart-failure-59e05fcd5863ef76b587-note",
+      "id": "heart-failure-59e05fcd5863ef76b587",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Right ventricular failure produces backward congestion of {{c1::systemic veins}}.",
+      "answer": "systemic veins"
+    },
+    {
+      "topic": "Left-sided failure",
+      "slide": 7,
+      "explanation": "The lecture also lists cough, frothy sputum and rales; these signs are not individually diagnostic.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Pulmonary oedema impairs gas exchange and contributes to {{c1::dyspnoea}}.",
+      "noteId": "heart-failure-7dc3c7751210b8d9d5cc-note",
+      "id": "heart-failure-7dc3c7751210b8d9d5cc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pulmonary oedema impairs gas exchange and contributes to {{c1::dyspnoea}}.",
+      "answer": "dyspnoea"
+    },
+    {
+      "topic": "Left-sided failure",
+      "slide": 7,
+      "explanation": "It is listed among symptoms associated with pulmonary congestion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Breathlessness when lying flat is called {{c1::orthopnoea}}.",
+      "noteId": "heart-failure-d7583805fc11511bb5f7-note",
+      "id": "heart-failure-d7583805fc11511bb5f7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Breathlessness when lying flat is called {{c1::orthopnoea}}.",
+      "answer": "orthopnoea"
+    },
+    {
+      "topic": "Right-sided failure",
+      "slide": 7,
+      "explanation": "Right-sided failure can also congest the liver and gastrointestinal tract.",
+      "images": [
+        "right-failure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Dependent ankle oedema and ascites are examples of {{c1::systemic venous congestion}}.",
+      "noteId": "heart-failure-a543f679e06a5465742c-note",
+      "id": "heart-failure-a543f679e06a5465742c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dependent ankle oedema and ascites are examples of {{c1::systemic venous congestion}}.",
+      "answer": "systemic venous congestion"
+    },
+    {
+      "topic": "Low output effects",
+      "slide": 7,
+      "explanation": "Fatigue, exercise intolerance and renal dysfunction may follow; this differs from the backward congestion pathway.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced forward cardiac output causes inadequate {{c1::tissue perfusion}}.",
+      "noteId": "heart-failure-ce7fcb46bc972c5e0add-note",
+      "id": "heart-failure-ce7fcb46bc972c5e0add",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced forward cardiac output causes inadequate {{c1::tissue perfusion}}.",
+      "answer": "tissue perfusion"
+    },
+    {
+      "topic": "Compensation",
+      "slide": 8,
+      "explanation": "ADH, natriuretic peptides and cardiac remodelling are also included in the lecture.",
+      "images": [
+        "compensation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A fall in output and blood pressure activates the sympathetic system and {{c1::RAAS}}.",
+      "noteId": "heart-failure-05147a8c9284f2f9490f-note",
+      "id": "heart-failure-05147a8c9284f2f9490f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A fall in output and blood pressure activates the sympathetic system and {{c1::RAAS}}.",
+      "answer": "RAAS"
+    },
+    {
+      "topic": "Compensation",
+      "slide": 9,
+      "explanation": "This initially helps maintain output, but persistent activation can increase demand and arrhythmias.",
+      "images": [
+        "compensation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Short-term sympathetic activation increases heart rate and {{c1::contractility}}.",
+      "noteId": "heart-failure-f3fd146ce295c816c9a0-note",
+      "id": "heart-failure-f3fd146ce295c816c9a0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Short-term sympathetic activation increases heart rate and {{c1::contractility}}.",
+      "answer": "contractility"
+    },
+    {
+      "topic": "Compensation",
+      "slide": 9,
+      "explanation": "A compensatory response can therefore worsen the workload of the failing ventricle.",
+      "images": [
+        "compensation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Persistent sympathetic vasoconstriction increases ventricular {{c1::afterload}}.",
+      "noteId": "heart-failure-e91e2216b333c6096a91-note",
+      "id": "heart-failure-e91e2216b333c6096a91",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Persistent sympathetic vasoconstriction increases ventricular {{c1::afterload}}.",
+      "answer": "afterload"
+    },
+    {
+      "topic": "Compensation",
+      "slide": 9,
+      "explanation": "Excess retention contributes to pulmonary or peripheral oedema.",
+      "images": [
+        "compensation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "RAAS and ADH promote fluid retention, increasing blood volume and {{c1::preload}}.",
+      "noteId": "heart-failure-54e771ddb52a4bf1bf38-note",
+      "id": "heart-failure-54e771ddb52a4bf1bf38",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "RAAS and ADH promote fluid retention, increasing blood volume and {{c1::preload}}.",
+      "answer": "preload"
+    },
+    {
+      "topic": "Remodelling",
+      "slide": 9,
+      "explanation": "The lecture contrasts a thickened, poorly filling heart with dilatation and impaired contraction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Excessive ventricular hypertrophy may reduce filling by increasing {{c1::stiffness}}.",
+      "noteId": "heart-failure-973dc90f4bb22b8a2988-note",
+      "id": "heart-failure-973dc90f4bb22b8a2988",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Excessive ventricular hypertrophy may reduce filling by increasing {{c1::stiffness}}.",
+      "answer": "stiffness"
+    },
+    {
+      "topic": "Natriuretic peptides",
+      "slide": 10,
+      "explanation": "Their renal actions counter fluid retention.",
+      "images": [
+        "natriuretic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "ANP and BNP promote excretion of sodium and {{c1::water}}.",
+      "noteId": "heart-failure-f31adaf4218dd5537857-note",
+      "id": "heart-failure-f31adaf4218dd5537857",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ANP and BNP promote excretion of sodium and {{c1::water}}.",
+      "answer": "water"
+    },
+    {
+      "topic": "Natriuretic peptides",
+      "slide": 10,
+      "explanation": "They also inhibit renin release, opposing some RAAS effects.",
+      "images": [
+        "natriuretic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "ANP and BNP cause {{c1::vasodilation}}.",
+      "noteId": "heart-failure-ca5b1aec00835ecf7d60-note",
+      "id": "heart-failure-ca5b1aec00835ecf7d60",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ANP and BNP cause {{c1::vasodilation}}.",
+      "answer": "vasodilation"
+    },
+    {
+      "topic": "Natriuretic peptides",
+      "slide": 10,
+      "explanation": "BNP is B-type natriuretic peptide.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "ANP stands for {{c1::atrial natriuretic peptide}}.",
+      "noteId": "heart-failure-8e8b935f5588dd6ff6b0-note",
+      "id": "heart-failure-8e8b935f5588dd6ff6b0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ANP stands for {{c1::atrial natriuretic peptide}}.",
+      "answer": "atrial natriuretic peptide"
+    },
+    {
+      "topic": "Frank–Starling",
+      "slide": 11,
+      "explanation": "Greater end-diastolic stretch normally strengthens contraction.",
+      "images": [
+        "starling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The Frank–Starling relationship links increased filling to increased {{c1::stroke volume}}.",
+      "noteId": "heart-failure-49f349e47f653a0f76b3-note",
+      "id": "heart-failure-49f349e47f653a0f76b3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Frank–Starling relationship links increased filling to increased {{c1::stroke volume}}.",
+      "answer": "stroke volume"
+    },
+    {
+      "topic": "Frank–Starling",
+      "slide": 11,
+      "explanation": "Larger increases in filling then produce only small gains in stroke volume, with greater congestion risk.",
+      "images": [
+        "starling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced contractility shifts the stroke-volume–EDV curve {{c1::downwards}}.",
+      "noteId": "heart-failure-9c546a2d908550a8b349-note",
+      "id": "heart-failure-9c546a2d908550a8b349",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced contractility shifts the stroke-volume–EDV curve {{c1::downwards}}.",
+      "answer": "downwards"
+    },
+    {
+      "topic": "Functional classes",
+      "slide": 12,
+      "explanation": "This is the class description in the visual table.",
+      "images": [
+        "nyha"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "No limitation with ordinary physical activity corresponds to {{c1::NYHA class I}}.",
+      "noteId": "heart-failure-5f4a1b6b8e5879640675-note",
+      "id": "heart-failure-5f4a1b6b8e5879640675",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "No limitation with ordinary physical activity corresponds to {{c1::NYHA class I}}.",
+      "answer": "NYHA class I"
+    },
+    {
+      "topic": "Functional classes",
+      "slide": 12,
+      "explanation": "The table describes a slight limitation of activity.",
+      "images": [
+        "nyha"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Symptoms with ordinary activity but comfort at rest correspond to {{c1::NYHA class II}}.",
+      "noteId": "heart-failure-a9d0137f375b9c0b08eb-note",
+      "id": "heart-failure-a9d0137f375b9c0b08eb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Symptoms with ordinary activity but comfort at rest correspond to {{c1::NYHA class II}}.",
+      "answer": "NYHA class II"
+    },
+    {
+      "topic": "Functional classes",
+      "slide": 12,
+      "explanation": "The table describes marked limitation.",
+      "images": [
+        "nyha"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Symptoms with less-than-ordinary activity but comfort at rest correspond to {{c1::NYHA class III}}.",
+      "noteId": "heart-failure-c717afd545e6b6235bb0-note",
+      "id": "heart-failure-c717afd545e6b6235bb0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Symptoms with less-than-ordinary activity but comfort at rest correspond to {{c1::NYHA class III}}.",
+      "answer": "NYHA class III"
+    },
+    {
+      "topic": "Functional classes",
+      "slide": 12,
+      "explanation": "Physical activity adds discomfort in the table’s most severe functional class.",
+      "images": [
+        "nyha"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Heart-failure symptoms present even at rest correspond to {{c1::NYHA class IV}}.",
+      "noteId": "heart-failure-86c827ed9dce5ee40b0b-note",
+      "id": "heart-failure-86c827ed9dce5ee40b0b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Heart-failure symptoms present even at rest correspond to {{c1::NYHA class IV}}.",
+      "answer": "NYHA class IV"
+    },
+    {
+      "topic": "Congestive symptoms",
+      "slide": 12,
+      "explanation": "This is the named symptom beneath the functional-class table; distinguish it from orthopnoea when lying flat.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Episodes of breathlessness that wake a patient at night are termed {{c1::paroxysmal nocturnal dyspnoea}}.",
+      "noteId": "heart-failure-4fcc5e9ae8e4200892c6-note",
+      "id": "heart-failure-4fcc5e9ae8e4200892c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Episodes of breathlessness that wake a patient at night are termed {{c1::paroxysmal nocturnal dyspnoea}}.",
+      "answer": "paroxysmal nocturnal dyspnoea"
+    },
+    {
+      "topic": "Treatment goals",
+      "slide": 13,
+      "explanation": "The slide’s older three-drug “routine combination” is not a complete contemporary HFrEF algorithm; later slides also discuss MRAs, ARNI and SGLT2 inhibitors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "HF treatment aims to improve symptoms and reduce hospitalisation while improving {{c1::survival}}.",
+      "noteId": "heart-failure-3f4caf8539ca98b54137-note",
+      "id": "heart-failure-3f4caf8539ca98b54137",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HF treatment aims to improve symptoms and reduce hospitalisation while improving {{c1::survival}}.",
+      "answer": "survival"
+    },
+    {
+      "topic": "Diuretics",
+      "slide": 14,
+      "explanation": "Their site is the thick ascending limb of the loop of Henle.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Furosemide and bumetanide inhibit {{c1::Na+/K+/2Cl− cotransport}}.",
+      "noteId": "heart-failure-9911425f5fe299304cd5-note",
+      "id": "heart-failure-9911425f5fe299304cd5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Furosemide and bumetanide inhibit {{c1::Na+/K+/2Cl− cotransport}}.",
+      "answer": "Na+/K+/2Cl− cotransport"
+    },
+    {
+      "topic": "Diuretics",
+      "slide": 14,
+      "explanation": "The lecture gives hydrochlorothiazide and bendroflumethiazide as examples.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Thiazide diuretics inhibit Na+/Cl− cotransport in the {{c1::distal convoluted tubule}}.",
+      "noteId": "heart-failure-ed860b4bd0604a41332f-note",
+      "id": "heart-failure-ed860b4bd0604a41332f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Thiazide diuretics inhibit Na+/Cl− cotransport in the {{c1::distal convoluted tubule}}.",
+      "answer": "distal convoluted tubule"
+    },
+    {
+      "topic": "Diuretics",
+      "slide": 14,
+      "explanation": "This is distinct from direct epithelial sodium-channel inhibition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Spironolactone and eplerenone antagonise the {{c1::mineralocorticoid (aldosterone) receptor}}.",
+      "noteId": "heart-failure-8686323d47ebc139a421-note",
+      "id": "heart-failure-8686323d47ebc139a421",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Spironolactone and eplerenone antagonise the {{c1::mineralocorticoid (aldosterone) receptor}}.",
+      "answer": "mineralocorticoid (aldosterone) receptor"
+    },
+    {
+      "topic": "Diuretics",
+      "slide": 14,
+      "explanation": "The lecture places this action in the late distal nephron/collecting duct.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Amiloride and triamterene inhibit {{c1::epithelial sodium channels (ENaC)}}.",
+      "noteId": "heart-failure-61bd443daf1d1c2e4868-note",
+      "id": "heart-failure-61bd443daf1d1c2e4868",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Amiloride and triamterene inhibit {{c1::epithelial sodium channels (ENaC)}}.",
+      "answer": "epithelial sodium channels (ENaC)"
+    },
+    {
+      "topic": "Diuretics",
+      "slide": 14,
+      "explanation": "Their targets differ despite this shared electrolyte effect.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Aldosterone antagonists and ENaC inhibitors are both {{c1::potassium-sparing}}.",
+      "noteId": "heart-failure-e037a76bde135f932a56-note",
+      "id": "heart-failure-e037a76bde135f932a56",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Aldosterone antagonists and ENaC inhibitors are both {{c1::potassium-sparing}}.",
+      "answer": "potassium-sparing"
+    },
+    {
+      "topic": "Diuretic benefit",
+      "slide": 14,
+      "explanation": "Their benefit is not limited to mild sodium clearance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Mineralocorticoid-receptor antagonists also oppose aldosterone-mediated cardiac {{c1::fibrosis}}.",
+      "noteId": "heart-failure-6fb3b0d197621448e7ff-note",
+      "id": "heart-failure-6fb3b0d197621448e7ff",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mineralocorticoid-receptor antagonists also oppose aldosterone-mediated cardiac {{c1::fibrosis}}.",
+      "answer": "fibrosis"
+    },
+    {
+      "topic": "Diuretic benefit",
+      "slide": 15,
+      "explanation": "It improves pulmonary/peripheral oedema; symptom relief and evidence for mortality reduction are distinct outcomes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Diuresis reduces congestion by decreasing extracellular fluid volume and {{c1::preload}}.",
+      "noteId": "heart-failure-9afa2e1f2b303e00204e-note",
+      "id": "heart-failure-9afa2e1f2b303e00204e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diuresis reduces congestion by decreasing extracellular fluid volume and {{c1::preload}}.",
+      "answer": "preload"
+    },
+    {
+      "topic": "ACE inhibitors and ARBs",
+      "slide": 16,
+      "explanation": "The lecture gives enalapril and valsartan as examples.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "ACE inhibition or AT1 blockade reduces vasoconstriction and therefore {{c1::afterload}}.",
+      "noteId": "heart-failure-7d2b0c3d5a05bfb3a346-note",
+      "id": "heart-failure-7d2b0c3d5a05bfb3a346",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ACE inhibition or AT1 blockade reduces vasoconstriction and therefore {{c1::afterload}}.",
+      "answer": "afterload"
+    },
+    {
+      "topic": "ACE inhibitors and ARBs",
+      "slide": 16,
+      "explanation": "Lower blood volume helps unload the failing heart.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reducing angiotensin-II/aldosterone signalling reduces sodium and {{c1::water retention}}.",
+      "noteId": "heart-failure-1a02b46ed02fce883456-note",
+      "id": "heart-failure-1a02b46ed02fce883456",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reducing angiotensin-II/aldosterone signalling reduces sodium and {{c1::water retention}}.",
+      "answer": "water retention"
+    },
+    {
+      "topic": "Beta blockers",
+      "slide": 17,
+      "explanation": "The negative acute inotropic effect does not negate its longer-term benefit in appropriately selected, stable patients.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Evidence-based β-blockade in chronic HFrEF counters persistent {{c1::sympathetic overactivity}}.",
+      "noteId": "heart-failure-54329002e396c78c15a4-note",
+      "id": "heart-failure-54329002e396c78c15a4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Evidence-based β-blockade in chronic HFrEF counters persistent {{c1::sympathetic overactivity}}.",
+      "answer": "sympathetic overactivity"
+    },
+    {
+      "topic": "Beta blockers",
+      "slide": 17,
+      "explanation": "Bisoprolol is β1-selective. Do not assume every listed β-blocker has interchangeable mortality evidence in HFrEF.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Carvedilol blocks β receptors and also {{c1::α1-adrenoceptors}}.",
+      "noteId": "heart-failure-ea3fcc69a47d1e9e81fc-note",
+      "id": "heart-failure-ea3fcc69a47d1e9e81fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Carvedilol blocks β receptors and also {{c1::α1-adrenoceptors}}.",
+      "answer": "α1-adrenoceptors"
+    },
+    {
+      "topic": "Beta blockers",
+      "slide": 17,
+      "explanation": "This is a supervised prescribing principle, not a self-adjustment instruction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture advises beginning HF β-blocker treatment at a {{c1::low dose with gradual titration}}.",
+      "noteId": "heart-failure-7f8d34676c4fe540aae2-note",
+      "id": "heart-failure-7f8d34676c4fe540aae2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture advises beginning HF β-blocker treatment at a {{c1::low dose with gradual titration}}.",
+      "answer": "low dose with gradual titration"
+    },
+    {
+      "topic": "Drug evidence",
+      "slide": 17,
+      "explanation": "The lecture lists atenolol alongside agents such as bisoprolol and carvedilol; avoid transferring mortality evidence indiscriminately across the class.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "A β-blocker’s inclusion in a lecture list does not mean all β-blockers have identical {{c1::HFrEF outcome evidence}}.",
+      "noteId": "heart-failure-85efe08599abc2e91632-note",
+      "id": "heart-failure-85efe08599abc2e91632",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A β-blocker’s inclusion in a lecture list does not mean all β-blockers have identical {{c1::HFrEF outcome evidence}}.",
+      "answer": "HFrEF outcome evidence"
+    },
+    {
+      "topic": "Digoxin",
+      "slide": 19,
+      "explanation": "The resulting sodium-gradient change reduces calcium extrusion via NCX.",
+      "images": [
+        "digoxin"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Digoxin inhibits the cardiac {{c1::Na+/K+-ATPase}}.",
+      "noteId": "heart-failure-33aff21c8392db9bbdb1-note",
+      "id": "heart-failure-33aff21c8392db9bbdb1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Digoxin inhibits the cardiac {{c1::Na+/K+-ATPase}}.",
+      "answer": "Na+/K+-ATPase"
+    },
+    {
+      "topic": "Digoxin",
+      "slide": 19,
+      "explanation": "This is the positive inotropic mechanism shown for digoxin.",
+      "images": [
+        "digoxin"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Reduced NCX-mediated calcium extrusion increases intracellular calcium and {{c1::contractility}}.",
+      "noteId": "heart-failure-a606aa304cfbe91ea82e-note",
+      "id": "heart-failure-a606aa304cfbe91ea82e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced NCX-mediated calcium extrusion increases intracellular calcium and {{c1::contractility}}.",
+      "answer": "contractility"
+    },
+    {
+      "topic": "Digoxin",
+      "slide": 19,
+      "explanation": "It also lists persistent symptoms despite optimal treatment; not every patient with HF requires it.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture identifies HF with rapid {{c1::atrial fibrillation}} as a context where digoxin may be considered.",
+      "noteId": "heart-failure-35b94d13b98093f6a999-note",
+      "id": "heart-failure-35b94d13b98093f6a999",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture identifies HF with rapid {{c1::atrial fibrillation}} as a context where digoxin may be considered.",
+      "answer": "atrial fibrillation"
+    },
+    {
+      "topic": "Other HF drugs",
+      "slide": 20,
+      "explanation": "This contrasts with chronic β-blockade; positive inotropes have different clinical settings.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Dobutamine is a β-adrenoceptor {{c1::agonist}}.",
+      "noteId": "heart-failure-6dfbf9f96517e8e7d955-note",
+      "id": "heart-failure-6dfbf9f96517e8e7d955",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dobutamine is a β-adrenoceptor {{c1::agonist}}.",
+      "answer": "agonist"
+    },
+    {
+      "topic": "Other HF drugs",
+      "slide": 20,
+      "explanation": "The lecture links this to increased contractility.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Milrinone inhibits phosphodiesterase, increasing {{c1::cAMP}}.",
+      "noteId": "heart-failure-c347957eccc5db21784d-note",
+      "id": "heart-failure-c347957eccc5db21784d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Milrinone inhibits phosphodiesterase, increasing {{c1::cAMP}}.",
+      "answer": "cAMP"
+    },
+    {
+      "topic": "Other HF drugs",
+      "slide": 20,
+      "explanation": "It is a calcium sensitiser, not the same target as digoxin.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Levosimendan increases the calcium sensitivity of {{c1::troponin C}}.",
+      "noteId": "heart-failure-f4dcfcc2b9f818060b25-note",
+      "id": "heart-failure-f4dcfcc2b9f818060b25",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Levosimendan increases the calcium sensitivity of {{c1::troponin C}}.",
+      "answer": "troponin C"
+    },
+    {
+      "topic": "Other HF drugs",
+      "slide": 20,
+      "explanation": "The drug lowers rate rather than acting as a direct positive inotrope.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ivabradine slows the sinoatrial node by inhibiting {{c1::If channels}}.",
+      "noteId": "heart-failure-3c5240256b3ce07b55fb-note",
+      "id": "heart-failure-3c5240256b3ce07b55fb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ivabradine slows the sinoatrial node by inhibiting {{c1::If channels}}.",
+      "answer": "If channels"
+    },
+    {
+      "topic": "Vasodilators",
+      "slide": 20,
+      "explanation": "Mechanism refresher: the supplied CAD lecture, p. 20, explains how venous dilation reduces filling pressure.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Venodilation by nitrates reduces ventricular {{c1::preload}}.",
+      "noteId": "heart-failure-bb12699ddfd4931ab266-note",
+      "id": "heart-failure-bb12699ddfd4931ab266",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Venodilation by nitrates reduces ventricular {{c1::preload}}.",
+      "answer": "preload"
+    },
+    {
+      "topic": "Vasodilators",
+      "slide": 20,
+      "explanation": "This explains how an arterial vasodilator such as the listed hydralazine can unload the failing ventricle.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Arteriolar dilation lowers ventricular {{c1::afterload}}.",
+      "noteId": "heart-failure-e81cbaaed0b1f2cf046c-note",
+      "id": "heart-failure-e81cbaaed0b1f2cf046c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Arteriolar dilation lowers ventricular {{c1::afterload}}.",
+      "answer": "afterload"
+    },
+    {
+      "topic": "SGLT2 inhibitors",
+      "slide": 21,
+      "explanation": "This reduces glucose reabsorption and increases urinary glucose excretion; HF benefit is not restricted to patients with diabetes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Dapagliflozin inhibits renal {{c1::SGLT2}}.",
+      "noteId": "heart-failure-901ae820007d3346696f-note",
+      "id": "heart-failure-901ae820007d3346696f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dapagliflozin inhibits renal {{c1::SGLT2}}.",
+      "answer": "SGLT2"
+    },
+    {
+      "topic": "ARNI",
+      "slide": 22,
+      "explanation": "Reduced peptide degradation increases activity of natriuretic peptides.",
+      "images": [
+        "arni"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Sacubitril inhibits {{c1::neprilysin}}.",
+      "noteId": "heart-failure-56122b07c4315ad6e7c0-note",
+      "id": "heart-failure-56122b07c4315ad6e7c0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sacubitril inhibits {{c1::neprilysin}}.",
+      "answer": "neprilysin"
+    },
+    {
+      "topic": "ARNI",
+      "slide": 22,
+      "explanation": "It provides the ARB component of sacubitril/valsartan.",
+      "images": [
+        "arni"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Valsartan blocks the {{c1::AT1 receptor}}.",
+      "noteId": "heart-failure-734ba466d89d5e32dbd2-note",
+      "id": "heart-failure-734ba466d89d5e32dbd2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Valsartan blocks the {{c1::AT1 receptor}}.",
+      "answer": "AT1 receptor"
+    },
+    {
+      "topic": "ARNI",
+      "slide": 22,
+      "explanation": "The complementary actions enhance beneficial peptide signalling while limiting angiotensin-II effects.",
+      "images": [
+        "arni"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sacubitril/valsartan combines neprilysin inhibition with {{c1::angiotensin-receptor blockade}}.",
+      "noteId": "heart-failure-c753594d105f1050867f-note",
+      "id": "heart-failure-c753594d105f1050867f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sacubitril/valsartan combines neprilysin inhibition with {{c1::angiotensin-receptor blockade}}.",
+      "answer": "angiotensin-receptor blockade"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 1",
+      "text": "Heart failure\nDr. S.Wijetunge\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 2",
+      "text": "Heart Failure\nCardiac output (CO) is inadequate to meet the metabolic demands \nof the body\nCauses:\nIschaemic heart disease/ Myocardial infarction \nCardiomyopathies (any condition that cause defect of heart muscle )\nChronic hypertension\nAbnormal valves – congenital defects, aortic or mitral valve stenosis,   regurgitation   \nMyocarditis, pericarditis, endocarditis \nMetabolic disease eg/ thyrotoxicosis, Dabetes\nAcute HF- sudden loss of cardiac function (eg due to myocardial \ninfarction)\nChronic HF – progressive\n~2% in under 50yrs, >10% in over 65yrs\nHigh mortality - accounts for ~4% of all deaths in UK.\n5 year survival rate around 45%\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 3",
+      "text": "Can’t contract well\nCan’t relax \ncompletely\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 4",
+      "text": "Systolic Failure\nDiastolic failure\nMain features: Impaired contractility\nReduced ventricular filling (↓compliance or \nrelaxation) (Contractility may be normal)\nCauses: myocardial infarction, chronic \nhypertension, hypertrophy, dilated \ncardiomyopathy\nHypertrophy (eg with hypertension), age, \nfibrosis\nEjection fraction   ↓ (< 40%)  (HFrEF)\nnormal (HFpEF) >50%\nLV cavity- Usually a dilated myocardium, \ncavity ↑\nNormal/decreased\nWall thickness: decreased\nhypertrophied/thickened myocardium\nLV EDV : ↑\nNormal \nLV ESV: ↑\nNormal or ↓\nLV EDP ↑\n↑\nWhat is the Ejection fraction?\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 5",
+      "text": "Left sided failure/impaired LV contractility\nLVEDP=left ventricular end \ndiastolic pressure\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 6",
+      "text": "Right sided failure/impaired RV contractility\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 7",
+      "text": "Right heart failure\nLeft heart failure\n↓ cardiac output\nPulmonary \ncongestion/oedema\n↓ tissue perfusion\nExercise intolerance\nFatigue\nRenal failure & organ \nfailure\nImpaired gas \nexchange in lung\nCyanosis and \nsigns of hypoxia\nDyspnoea\nOrthopnoea\nCough with frothy \nsputum\nRales\nPeripheral \ncongestion/oedema\nDependent \noedema\n(Ascites, \nankle \noedema)\nGI tract \ncongestion\nAnorexia\nWeight loss\nLiver \ncongestion\nImpaired liver \nfunction\nSigns & Symptoms of heart failure\nL and R sided failure usually occur together in advanced heart failure; congestive heart \nfailure\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 8",
+      "text": "Compensatory mechanisms:\n1. Activation of the sympathetic nervous system\n2. Activation of the renin-angiotensin-aldosterone system\n3. Anti-diuretic hormone (ADH)\n4. Natriuretic peptides (ANP & BNP)\n5. Cardiac Remodelling: \n•  Dilatation\n•  Hypertrophy\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 9",
+      "text": "Heart failure\nDecreased CO & BP\nCompensatory mechanisms\nSNS\n↑ afterload & preload\n↑ myocardial oxygen demand\nArrhythmias\nischaemia\nRAAS/ADH\n↑ afterload\n Increased blood volume & ↑ preload\n Hypertension\n Volume retention contributing to     \npulmonary/peripheral oedema\nCardiac remodelling\nWorsening of symptoms\nNeurohumoral compensatory mechanisms\n \nDecompensated heart\n↑ HR & contractility\nVasoconstriction  \nVasoconstriction \nFluid reabsorption \nDilatation\nhypertrophy \nflabby heart- ↓ contractility\nThickened- ↓ filling\nIncreases \ncontractility\nCompensated heart\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 10",
+      "text": "Natriuretic Peptides – ANP, BNP\n \nANP=atrial natriuretic peptide\nBNP=B type natriuretic peptide\nAng-II= angiotensin-II\nBeneficial effects in heart failure\nCardiac distension (due \nto ↓ SV)\nSNS stimulation\nAngiotensin -II\nHeart \nANP & \nBNP\nvasodilation\nExcretion of fluid \nand Na+ in \nkidney\nInhibits renin release\n(reduced action of \nAng-II & aldosterone)\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 11",
+      "text": "Frank-Starling mechanism in heart failure\nincrease in the EDV (or Preload) result in more \nstretching of the myocardium, resulting in a \nstronger contraction & an increased SV. \nImpaired contractility - curve is  shifted ↓. (SV \nonly increases slightly in response to larger \nincreases in EDV).\nNormal\nHeart \nfailure\nSV\nEDV\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 12",
+      "text": "Paroxysmal nocturnal dyspnoea\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 13",
+      "text": "Drug treatment of HF\nRoutine combination of drugs: Diuretic + ACEI + Beta blocker\n• Diuretics  \n• RAAS inhibitors (ACEI or ARB)\n• Beta blockers\n• Positive inotropic drugs\n• Vasodilators eg nitrates\n• Ivabradine\n• Sacubitril/valsartan\n• sodium–glucose cotransporter 2 (SGLT2) inhibitors \nAims: Improve symptoms , improve quality of ife\n           reduce hospitalisation\n           increase survival and life span   \n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 14",
+      "text": "Thiazide diuretics (hydrochlorothiazide, bendroflumethiazide)\n•\n Inhibits the Na+/Cl- co-transporter in the distal convoluted tubule\n•\n Can be used as an adjunct\nLoop diuretics (Furosemide, Bumetanide) \n•\nInhibit the Na+/K+/2Cl- co-transporter in the thick Ascending Limb of loop of Henle\n•\nPowerful, rapid fluid removal\nDiuretics\nAldosterone Receptor Antagonists (Mineralocorticoid Receptor Antagonists) \n(Spironolactone, Eplerenone)\n•\nBlocks action of aldosterone\n•\nMild sodium clearance \n•\nK+ sparing.\n•\nBlock aldosterone's ability to cause cardiac fibrosis (scarring and stiffening of the heart \ntissue)\nEpithelial Sodium Channel (ENaC) Inhibitors  (Amiloride, Triamterene)\n•\nLate Distal Tubule and Collecting Duct\n•\nK+ sparing\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 15",
+      "text": "How do diuretics benefit HF?\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 16",
+      "text": "ACEI/ARB in heart failure\nEnalapril/valsartan\n• Vasodilation → ↓ afterload, ↑ tissue perfusion\n• Inhibits H20/Na+ reabsorption\n• Inhibits aldosterone release\n• inhibits remodelling (hypertrophy)\n↓ blood volume\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 17",
+      "text": "β-blockers\n•\n↓ HR & contractility: ↓ workload, reduce oxygen consumption helping the failing \nheart.\n•\n↓renin release (↓ A-II actions)\n•\n↓Apoptosis\n•\n↓ Hypertrophy and dilation\n•\n↓ fibrosis\n•\n↓ Sympathetic Overdrive in chronic heart failure\n•\nPrevent dysrhythmias\n  \n•\nIncreases survival when given with diuretic and ACEI/ARB\n•\nReduces hospitalization\n•\nImproves ventricular ejection fraction\n•\nbetter exercise tolerance, less fatigue, and improved quality of life\nAtenolol,Bisoprolol (β1 selective);    Carvedilol (β1/ β2 & α1) \nNebivolol: Beta-1 selective with nitric oxide-mediated vasodilation\n \n                                  Start at low dose and titrate up; monitoring\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 18",
+      "text": "Can you identify these common flowering plants?\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 19",
+      "text": "Positive Inotropes (Increase contractility)\nNCX=Na+/Ca2+ exchanger\nCardiac glycosides (Digoxin)\nNCX\nK+\nNa+\nNa+\nCa2+\nDigoxin blocks the Na+/K+ pump, resulting in increased Ca2+ concentration in myocyte.\nCa2+ increases contractility\nIndications:\nPatients with HF + rapid atrial fibrillation\nPatients who remain symptomatic despite optimal treatment\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 20",
+      "text": "• Ivabradine – inhibits If channels in SAN →  decrease heart rate\n• Other positive inotropes:\n       Dobutamine – β Receptor agonist \n       Milrinone – PDE inhibitor → ↑ cAMP → ↑ contractility \n       Levosimendan  -  increases Ca2+ sensitivity to troponin -C\n                     \n• Vasodilators – nitrates, hydralazine\n \nOther drugs used in heart failure\nPDE=phosphodiesterase\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 21",
+      "text": "sodium–glucose cotransporter 2 (SGLT2) inhibitors: eg: Dapagliflozin:\nDrug to treat T2DM by reducing reabsorption of glucose in kidney, \nincreased excretion of glucose\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 22",
+      "text": "Sacubitril/valsartan \na combination of  Neprilysin (Neutral endopeptidase/NEP) inhibitor and angiotensin \nreceptor blocker (ARB)\nValsartan (ARB): \nBlocks AT-1 \nreceptor)\nSacubitril:\nInhibits neprilysin, \nincreases ANP & BNP \nNEP=Neutral endopeptidase (neprilysin\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 23",
+      "text": "Which statement is FALSE?\nA. Right sided systolic failure leads to peripheral oedema\nB. In patients with peripheral oedema the systemic venous pressure is always normal\nC. In patients will pulmonary oedema, there may be breathing difficulty\nD. Reduced cardiac reserve may be a symptom of heart failure\nE. In systolic failure the ventricular cavity may be enlarged\nWhich statement is FALSE  regarding heart failure\n  A. There is inadequate blood supply to tissues and organs\nB . In systolic failure the Ejection fraction is higher than normal\nC. In diastolic failure the the ejection fraction may be normal\nD. In diastolic failure the may be a reduced compliance in the ventricular wall\n  E. In systolic failure the ventricular contractility is impaired\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 24",
+      "text": "Regarding compensatory mechanisms which statement is TRUE?\nA. Sympathetic nervous system activation leads to increased contractility\nB. Sympathetic nervous system activation leads to decreased heart rate.\nC. Sympathetic nervous system activation reduces the myocardial oxygen demand\nD. Activation of the RAAS leads to vasodilatation\nE. Increased activity of ANP & BNP lead to vasoconstriction \nRegarding compensatory activation of RAAS which statement is FALSE?\nA. angiotensiin-II causes vasoconstriction\nB. Angiotensin-II (A-II) causes excretion of fluid and salt from the kidney\nC. Activation of A-II increases afterload on the ventricle\nD. Angiotensin-II may contribute to ventricular hypertrophy\nE. Angiotensin-II may contribute to fluid overload\nDiuretics are useful drugs in the treatment of heart failure because:\n A. they reduce fluid volume\nB. they increase preload\nC. they increase afterload\nD. they increase blood pressure\nE. they increase myocardial oxygen demand\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 25",
+      "text": "Drug class \n(example)\nMechanism of action              \n(at molecular/cellular level)\nPharmaclogical/physiological \naction\nDiuretics\nThiazide diuretics \n(hydrochlorothiazide)\nLoop diuretics (Furosemide)\nK sparing diuretics \nAmiloride\nSpironolactone\ninhibits Na+/Cl- co-transporter in distal convoluted tubule (DCT)\nInhibit Na+/K+/2Cl- co-transporter in Ascending Limb loop of \nHenle\nblocks epithelial Na+ channels DCT and collecting duct \nAntagonises aldosterone receptor. ↓   Na+ reabsorption, ↓ K+ \nexcretion in DCT and CD\nIncrease excretion of water and Na+ from body by \naction on kidney\nDecrease fluid volume (counteract actions of \nangiotensin-II & ADH)\nReduce pulmonary oedema (improve dyspnoea)\nReduce peripheral oedema (reduces swelling)\nACEI/ARB\nBeta blokers\npositive inotropes\nivabradine\nvasodilators\nOthers\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 26",
+      "text": "Additional reading:\nHeart Failure: A Class Review of Pharmacotherapy.  Ami Shah et al., 2017. P&T Vol. 42 . \nP464-472 \nThe pathophysiology of heart failure. Kemp & Conte. Cardiovascular Pathology 21 \n(2012) 365–371\n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Heart Failure — Mechanisms & Drug Treatment — page 27",
+      "text": "Heart Failure:\n1. Briefly outline how left heart failure and right heart failure give rise \nto pulmonary and  peripheral oedema respectively\n2. What are the compensatory mechanisms in HF?\n     Discuss how some of these mechanisms may worsen the symptoms.\n3. What are the main classes of drugs used to treat HF? \n  4.    How are diuretics beneficial in treating HF?\n",
+      "images": [
+        "page-27"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "heart-failure/page-1.jpg",
+    "page-2": "heart-failure/page-2.jpg",
+    "page-3": "heart-failure/page-3.jpg",
+    "page-4": "heart-failure/page-4.jpg",
+    "page-5": "heart-failure/page-5.jpg",
+    "page-6": "heart-failure/page-6.jpg",
+    "page-7": "heart-failure/page-7.jpg",
+    "page-8": "heart-failure/page-8.jpg",
+    "page-9": "heart-failure/page-9.jpg",
+    "page-10": "heart-failure/page-10.jpg",
+    "page-11": "heart-failure/page-11.jpg",
+    "page-12": "heart-failure/page-12.jpg",
+    "page-13": "heart-failure/page-13.jpg",
+    "page-14": "heart-failure/page-14.jpg",
+    "page-15": "heart-failure/page-15.jpg",
+    "page-16": "heart-failure/page-16.jpg",
+    "page-17": "heart-failure/page-17.jpg",
+    "page-18": "heart-failure/page-18.jpg",
+    "page-19": "heart-failure/page-19.jpg",
+    "page-20": "heart-failure/page-20.jpg",
+    "page-21": "heart-failure/page-21.jpg",
+    "page-22": "heart-failure/page-22.jpg",
+    "page-23": "heart-failure/page-23.jpg",
+    "page-24": "heart-failure/page-24.jpg",
+    "page-25": "heart-failure/page-25.jpg",
+    "page-26": "heart-failure/page-26.jpg",
+    "page-27": "heart-failure/page-27.jpg",
+    "hf-types": "heart-failure/hf-types.jpg",
+    "left-failure": "heart-failure/left-failure.jpg",
+    "right-failure": "heart-failure/right-failure.jpg",
+    "compensation": "heart-failure/compensation.jpg",
+    "natriuretic": "heart-failure/natriuretic.jpg",
+    "starling": "heart-failure/starling.jpg",
+    "nyha": "heart-failure/nyha.jpg",
+    "digoxin": "heart-failure/digoxin.jpg",
+    "arni": "heart-failure/arni.jpg"
+  }
+}

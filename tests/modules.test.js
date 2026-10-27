@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';
 import {MODULES,moduleFor,moduleTotals} from '../src/modules.js';import {stampChanges,mergeDecks} from '../src/sync-model.js';
 test('bundled lecture defaults match the supplied modules without overriding manual assignments',()=>{
- assert.deepEqual(MODULES.map(m=>m.code),['LS5009','LS5008','LS5023','LS5034']);
+ assert.deepEqual(MODULES.map(m=>m.code),['LS5009','LS5008','LS5023','LS5034','LS5010']);
  assert.equal(moduleFor({lectureId:'cell-injury'}),'pathobiology');assert.equal(moduleFor({lectureId:'cell-death'}),'pathobiology');assert.equal(moduleFor({lectureId:'microorganisms'}),'infection-immunity');assert.equal(moduleFor({lectureId:'genetic-variation'}),'medical-genetics');
  assert.equal(moduleFor({lectureId:'cell-injury',moduleId:''}),'');assert.equal(moduleFor({lectureId:'cell-injury',moduleId:'medical-genetics'}),'medical-genetics');assert.equal(moduleFor({lectureId:'custom'}),'');
 });

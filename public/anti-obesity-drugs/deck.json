@@ -1,0 +1,1501 @@
+{
+  "version": 2,
+  "lectureId": "anti-obesity-drugs",
+  "title": "Obesity & Anti-obesity Drugs",
+  "moduleId": "system-pharmacology",
+  "moduleName": "System Pharmacology",
+  "moduleCode": "LS5010",
+  "source": "Anti-obesity drugs students.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Appetite circuits",
+      "slide": 3,
+      "explanation": "The arcuate nucleus integrates orexigenic and anorexigenic signalling.",
+      "images": [
+        "appetite"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The main brain region highlighted for appetite and energy regulation is the {{c1::hypothalamus}}.",
+      "noteId": "anti-obesity-drugs-217455aa4b8b7d5fb4c2-note",
+      "id": "anti-obesity-drugs-217455aa4b8b7d5fb4c2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The main brain region highlighted for appetite and energy regulation is the {{c1::hypothalamus}}.",
+      "answer": "hypothalamus"
+    },
+    {
+      "topic": "Appetite circuits",
+      "slide": 4,
+      "explanation": "Activation promotes appetite, in contrast with the POMC/CART pathway.",
+      "images": [
+        "appetite"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "NPY/AgRP neurons are {{c1::orexigenic}}.",
+      "noteId": "anti-obesity-drugs-e1531a25db64463c4b4b-note",
+      "id": "anti-obesity-drugs-e1531a25db64463c4b4b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "NPY/AgRP neurons are {{c1::orexigenic}}.",
+      "answer": "orexigenic"
+    },
+    {
+      "topic": "Appetite circuits",
+      "slide": 4,
+      "explanation": "Their activation favours reduced appetite.",
+      "images": [
+        "appetite"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "POMC/CART neurons are {{c1::anorexigenic}}.",
+      "noteId": "anti-obesity-drugs-565c2814e46bdceecc09-note",
+      "id": "anti-obesity-drugs-565c2814e46bdceecc09",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "POMC/CART neurons are {{c1::anorexigenic}}.",
+      "answer": "anorexigenic"
+    },
+    {
+      "topic": "Appetite circuits",
+      "slide": 4,
+      "explanation": "This is part of the appetite-suppressing melanocortin pathway.",
+      "images": [
+        "appetite"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "α-MSH is an agonist at {{c1::MC4 receptors}}.",
+      "noteId": "anti-obesity-drugs-cff24bfbc162449eee04-note",
+      "id": "anti-obesity-drugs-cff24bfbc162449eee04",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "α-MSH is an agonist at {{c1::MC4 receptors}}.",
+      "answer": "MC4 receptors"
+    },
+    {
+      "topic": "Appetite circuits",
+      "slide": 4,
+      "explanation": "It opposes α-MSH-mediated appetite suppression.",
+      "images": [
+        "appetite"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "AgRP antagonises {{c1::MC4 receptors}}.",
+      "noteId": "anti-obesity-drugs-7cec84b64c4aa77adcce-note",
+      "id": "anti-obesity-drugs-7cec84b64c4aa77adcce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "AgRP antagonises {{c1::MC4 receptors}}.",
+      "answer": "MC4 receptors"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "Its levels rise before meals and it activates NPY/AgRP pathways.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The stomach-derived hunger hormone is {{c1::ghrelin}}.",
+      "noteId": "anti-obesity-drugs-cfe8a4b47338d0dff572-note",
+      "id": "anti-obesity-drugs-cfe8a4b47338d0dff572",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The stomach-derived hunger hormone is {{c1::ghrelin}}.",
+      "answer": "ghrelin"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "It signals energy stores and favours POMC activation with inhibition of NPY/AgRP.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Leptin is secreted by {{c1::adipose tissue}}.",
+      "noteId": "anti-obesity-drugs-9452dfdfc349c3463069-note",
+      "id": "anti-obesity-drugs-9452dfdfc349c3463069",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Leptin is secreted by {{c1::adipose tissue}}.",
+      "answer": "adipose tissue"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "The table contrasts this central appetite effect with ghrelin’s hunger effect.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The pancreas-derived hormone that favours POMC activation in the table is {{c1::insulin}}.",
+      "noteId": "anti-obesity-drugs-dd660004396c2fedb291-note",
+      "id": "anti-obesity-drugs-dd660004396c2fedb291",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The pancreas-derived hormone that favours POMC activation in the table is {{c1::insulin}}.",
+      "answer": "insulin"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "The source places these in the distal intestine.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "GLP-1 is released from intestinal {{c1::L-cells}}.",
+      "noteId": "anti-obesity-drugs-3478d534da02691bfee9-note",
+      "id": "anti-obesity-drugs-3478d534da02691bfee9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GLP-1 is released from intestinal {{c1::L-cells}}.",
+      "answer": "L-cells"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "The table locates them in the duodenum and jejunum.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "GIP is released from intestinal {{c1::K-cells}}.",
+      "noteId": "anti-obesity-drugs-7e502319b193b28b0243-note",
+      "id": "anti-obesity-drugs-7e502319b193b28b0243",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GIP is released from intestinal {{c1::K-cells}}.",
+      "answer": "K-cells"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "It signals via vagal afferents and the NTS towards hypothalamic satiety pathways.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "CCK is secreted by {{c1::I-cells of the duodenum}}.",
+      "noteId": "anti-obesity-drugs-86e455bf794c4a872906-note",
+      "id": "anti-obesity-drugs-86e455bf794c4a872906",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "CCK is secreted by {{c1::I-cells of the duodenum}}.",
+      "answer": "I-cells of the duodenum"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "The table describes release from ileal/colonic L-cells after meals.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Peptide YY reduces appetite partly by inhibiting {{c1::NPY neurons}}.",
+      "noteId": "anti-obesity-drugs-2be8958240c8aded2f02-note",
+      "id": "anti-obesity-drugs-2be8958240c8aded2f02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Peptide YY reduces appetite partly by inhibiting {{c1::NPY neurons}}.",
+      "answer": "NPY neurons"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "It slows gastric emptying and signals via the area postrema to promote satiety.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Amylin is co-secreted by pancreatic {{c1::β-cells}}.",
+      "noteId": "anti-obesity-drugs-ddd001685bf9453975be-note",
+      "id": "anti-obesity-drugs-ddd001685bf9453975be",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Amylin is co-secreted by pancreatic {{c1::β-cells}}.",
+      "answer": "β-cells"
+    },
+    {
+      "topic": "Peripheral hormones",
+      "slide": 6,
+      "explanation": "The table also links it with NPY inhibition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Oxyntomodulin acts at {{c1::GLP-1 receptors}} in the lecture’s appetite table.",
+      "noteId": "anti-obesity-drugs-8a8ae8f6e7321dd05b1b-note",
+      "id": "anti-obesity-drugs-8a8ae8f6e7321dd05b1b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Oxyntomodulin acts at {{c1::GLP-1 receptors}} in the lecture’s appetite table.",
+      "answer": "GLP-1 receptors"
+    },
+    {
+      "topic": "Leptin pathway",
+      "slide": 7,
+      "explanation": "This is the direction shown in the leptin–melanocortin diagram.",
+      "images": [
+        "leptin"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced leptin during fasting tends to {{c1::increase appetite}}.",
+      "noteId": "anti-obesity-drugs-1b4bae76a8c01b95d0c6-note",
+      "id": "anti-obesity-drugs-1b4bae76a8c01b95d0c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced leptin during fasting tends to {{c1::increase appetite}}.",
+      "answer": "increase appetite"
+    },
+    {
+      "topic": "Leptin pathway",
+      "slide": 7,
+      "explanation": "This describes specific genetic defects, not an explanation for all obesity.",
+      "images": [
+        "leptin"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Loss-of-function defects in the leptin–melanocortin pathway can cause {{c1::obesity}}.",
+      "noteId": "anti-obesity-drugs-50906ee0f172de03bdcd-note",
+      "id": "anti-obesity-drugs-50906ee0f172de03bdcd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Loss-of-function defects in the leptin–melanocortin pathway can cause {{c1::obesity}}.",
+      "answer": "obesity"
+    },
+    {
+      "topic": "Incretins",
+      "slide": 8,
+      "explanation": "The lecture identifies GLP-1 and GIP as intestinal incretin hormones.",
+      "images": [
+        "incretins"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Incretins enhance insulin secretion in a {{c1::glucose-dependent}} manner.",
+      "noteId": "anti-obesity-drugs-5646b89e4177a575632e-note",
+      "id": "anti-obesity-drugs-5646b89e4177a575632e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Incretins enhance insulin secretion in a {{c1::glucose-dependent}} manner.",
+      "answer": "glucose-dependent"
+    },
+    {
+      "topic": "Incretins",
+      "slide": 8,
+      "explanation": "Its actions also include central satiety signalling, increased insulin and reduced glucagon.",
+      "images": [
+        "incretins"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "GLP-1 reduces food intake partly by slowing {{c1::gastric emptying}}.",
+      "noteId": "anti-obesity-drugs-9cb317d452367d8d36cd-note",
+      "id": "anti-obesity-drugs-9cb317d452367d8d36cd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GLP-1 reduces food intake partly by slowing {{c1::gastric emptying}}.",
+      "answer": "gastric emptying"
+    },
+    {
+      "topic": "Obesity concepts",
+      "slide": 9,
+      "explanation": "It has interacting genetic, environmental, hormonal and metabolic contributors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Obesity is a chronic disease involving excess {{c1::body fat}} that adversely affects health.",
+      "noteId": "anti-obesity-drugs-5ed8609bc69f2b1f2038-note",
+      "id": "anti-obesity-drugs-5ed8609bc69f2b1f2038",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Obesity is a chronic disease involving excess {{c1::body fat}} that adversely affects health.",
+      "answer": "body fat"
+    },
+    {
+      "topic": "Obesity concepts",
+      "slide": 9,
+      "explanation": "This does not reduce the complex causes of obesity to a single behaviour.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sustained energy intake above energy expenditure produces a {{c1::positive energy balance}}.",
+      "noteId": "anti-obesity-drugs-7490be777adcd85255df-note",
+      "id": "anti-obesity-drugs-7490be777adcd85255df",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sustained energy intake above energy expenditure produces a {{c1::positive energy balance}}.",
+      "answer": "positive energy balance"
+    },
+    {
+      "topic": "Adiposity assessment",
+      "slide": 10,
+      "explanation": "This supplies the standard definition of the BMI measure used in the slide; BMI does not directly measure fat distribution.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "BMI is body mass in kilograms divided by height in metres {{c1::squared}}.",
+      "noteId": "anti-obesity-drugs-6320dc883b61fe2c0578-note",
+      "id": "anti-obesity-drugs-6320dc883b61fe2c0578",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "BMI is body mass in kilograms divided by height in metres {{c1::squared}}.",
+      "answer": "squared"
+    },
+    {
+      "topic": "Adiposity assessment",
+      "slide": 10,
+      "explanation": "Risk assessment and intervention thresholds can differ by ethnicity and clinical context.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The slide’s standard adult obesity threshold is BMI {{c1::30 kg/m²}} or above.",
+      "noteId": "anti-obesity-drugs-b5a9039a39457dc86cef-note",
+      "id": "anti-obesity-drugs-b5a9039a39457dc86cef",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s standard adult obesity threshold is BMI {{c1::30 kg/m²}} or above.",
+      "answer": "30 kg/m²"
+    },
+    {
+      "topic": "BMI applications",
+      "slide": 10,
+      "explanation": "These are classification exercises, not an individual diagnosis or prescribing decision.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Using the slide’s adult categories, BMI 41 kg/m² falls in the {{c1::class III obesity}}.",
+      "noteId": "anti-obesity-drugs-90eca772448dbc7834eb-note",
+      "id": "anti-obesity-drugs-90eca772448dbc7834eb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using the slide’s adult categories, BMI 41 kg/m² falls in the {{c1::class III obesity}}.",
+      "answer": "class III obesity"
+    },
+    {
+      "topic": "Adiposity assessment",
+      "slide": 10,
+      "explanation": "Central adiposity adds information beyond BMI.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A waist-to-height ratio above {{c1::0.5}} is associated with increased cardiometabolic risk in the slide.",
+      "noteId": "anti-obesity-drugs-b2658e28b1bfad07308a-note",
+      "id": "anti-obesity-drugs-b2658e28b1bfad07308a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A waist-to-height ratio above {{c1::0.5}} is associated with increased cardiometabolic risk in the slide.",
+      "answer": "0.5"
+    },
+    {
+      "topic": "Complications",
+      "slide": 14,
+      "explanation": "The accompanying figure also includes sleep apnoea, joint problems and other complications; it is not a diagnosis list for every person with obesity.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Central obesity is associated with increased risk of type 2 diabetes and {{c1::cardiovascular disease}}.",
+      "noteId": "anti-obesity-drugs-8b93b090a63d2a8ced0b-note",
+      "id": "anti-obesity-drugs-8b93b090a63d2a8ced0b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Central obesity is associated with increased risk of type 2 diabetes and {{c1::cardiovascular disease}}.",
+      "answer": "cardiovascular disease"
+    },
+    {
+      "topic": "Evidence interpretation",
+      "slide": 15,
+      "explanation": "Its endpoints include HF, coronary disease and stroke. An observational association is not by itself proof of causation.",
+      "images": [
+        "cv-chart"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The chart associates higher weight categories with higher adjusted incidence of {{c1::cardiovascular disease}}.",
+      "noteId": "anti-obesity-drugs-f1de228984ce85944817-note",
+      "id": "anti-obesity-drugs-f1de228984ce85944817",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The chart associates higher weight categories with higher adjusted incidence of {{c1::cardiovascular disease}}.",
+      "answer": "cardiovascular disease"
+    },
+    {
+      "topic": "Metabolic complications",
+      "slide": 16,
+      "explanation": "The diagram links excess adiposity to cardiovascular and metabolic complications.",
+      "images": [
+        "metabolic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture’s metabolic-syndrome cluster includes central obesity, insulin resistance, hypertension and {{c1::dyslipidaemia}}.",
+      "noteId": "anti-obesity-drugs-025a3d0c3e4403724cab-note",
+      "id": "anti-obesity-drugs-025a3d0c3e4403724cab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture’s metabolic-syndrome cluster includes central obesity, insulin resistance, hypertension and {{c1::dyslipidaemia}}.",
+      "answer": "dyslipidaemia"
+    },
+    {
+      "topic": "Metabolic complications",
+      "slide": 16,
+      "explanation": "The diagram connects inflammatory signalling with endothelial injury and insulin resistance.",
+      "images": [
+        "metabolic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Hypertrophied adipocytes can release inflammatory cytokines such as TNFα and {{c1::IL-6}}.",
+      "noteId": "anti-obesity-drugs-fe5d64a367509de86967-note",
+      "id": "anti-obesity-drugs-fe5d64a367509de86967",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hypertrophied adipocytes can release inflammatory cytokines such as TNFα and {{c1::IL-6}}.",
+      "answer": "IL-6"
+    },
+    {
+      "topic": "Metabolic complications",
+      "slide": 16,
+      "explanation": "This contributes to hyperglycaemia; later β-cell failure can worsen diabetes.",
+      "images": [
+        "metabolic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Insulin resistance increases hepatic glucose output and reduces glucose uptake by {{c1::muscle}}.",
+      "noteId": "anti-obesity-drugs-ffea40df46a062bcc83e-note",
+      "id": "anti-obesity-drugs-ffea40df46a062bcc83e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Insulin resistance increases hepatic glucose output and reduces glucose uptake by {{c1::muscle}}.",
+      "answer": "muscle"
+    },
+    {
+      "topic": "Metabolic complications",
+      "slide": 16,
+      "explanation": "The slide contrasts this reduction with increased inflammatory cytokines.",
+      "images": [
+        "metabolic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The adipokine shown as reduced in the obesity complication pathway is {{c1::adiponectin}}.",
+      "noteId": "anti-obesity-drugs-0c6fc79ac1d024963b04-note",
+      "id": "anti-obesity-drugs-0c6fc79ac1d024963b04",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The adipokine shown as reduced in the obesity complication pathway is {{c1::adiponectin}}.",
+      "answer": "adiponectin"
+    },
+    {
+      "topic": "BMI applications",
+      "slide": 17,
+      "explanation": "These are classification exercises, not an individual diagnosis or prescribing decision.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Using the slide’s adult categories, BMI 24 kg/m² falls in the {{c1::normal-weight range}}.",
+      "noteId": "anti-obesity-drugs-8fa7b0d043168a2a081b-note",
+      "id": "anti-obesity-drugs-8fa7b0d043168a2a081b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using the slide’s adult categories, BMI 24 kg/m² falls in the {{c1::normal-weight range}}.",
+      "answer": "normal-weight range"
+    },
+    {
+      "topic": "BMI applications",
+      "slide": 17,
+      "explanation": "These are classification exercises, not an individual diagnosis or prescribing decision.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Using the slide’s adult categories, BMI 27 kg/m² falls in the {{c1::overweight range}}.",
+      "noteId": "anti-obesity-drugs-633682a63ea3550300e4-note",
+      "id": "anti-obesity-drugs-633682a63ea3550300e4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using the slide’s adult categories, BMI 27 kg/m² falls in the {{c1::overweight range}}.",
+      "answer": "overweight range"
+    },
+    {
+      "topic": "BMI applications",
+      "slide": 17,
+      "explanation": "These are classification exercises, not an individual diagnosis or prescribing decision.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Using the slide’s adult categories, BMI 31 kg/m² falls in the {{c1::class I obesity}}.",
+      "noteId": "anti-obesity-drugs-28f6fe470f54f8f37283-note",
+      "id": "anti-obesity-drugs-28f6fe470f54f8f37283",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using the slide’s adult categories, BMI 31 kg/m² falls in the {{c1::class I obesity}}.",
+      "answer": "class I obesity"
+    },
+    {
+      "topic": "BMI applications",
+      "slide": 17,
+      "explanation": "These are classification exercises, not an individual diagnosis or prescribing decision.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Using the slide’s adult categories, BMI 37 kg/m² falls in the {{c1::class II obesity}}.",
+      "noteId": "anti-obesity-drugs-55e241e6f2d19377a7f4-note",
+      "id": "anti-obesity-drugs-55e241e6f2d19377a7f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using the slide’s adult categories, BMI 37 kg/m² falls in the {{c1::class II obesity}}.",
+      "answer": "class II obesity"
+    },
+    {
+      "topic": "Treatment principles",
+      "slide": 19,
+      "explanation": "The lecture describes chronic management. Exact eligibility is drug-specific and must follow current guidance, not a universal BMI rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Anti-obesity pharmacotherapy is combined with {{c1::lifestyle modification}}.",
+      "noteId": "anti-obesity-drugs-642de9ddf2cec884bd43-note",
+      "id": "anti-obesity-drugs-642de9ddf2cec884bd43",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Anti-obesity pharmacotherapy is combined with {{c1::lifestyle modification}}.",
+      "answer": "lifestyle modification"
+    },
+    {
+      "topic": "Orlistat",
+      "slide": 22,
+      "explanation": "Reduced triglyceride digestion decreases fat absorption.",
+      "images": [
+        "orlistat"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Orlistat inhibits gastric and pancreatic {{c1::lipases}}.",
+      "noteId": "anti-obesity-drugs-d1a28e4e49396a945aa3-note",
+      "id": "anti-obesity-drugs-d1a28e4e49396a945aa3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Orlistat inhibits gastric and pancreatic {{c1::lipases}}.",
+      "answer": "lipases"
+    },
+    {
+      "topic": "Orlistat",
+      "slide": 22,
+      "explanation": "The lecture also lists flatulence; this is a mechanism-linked adverse effect.",
+      "images": [
+        "orlistat"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Unabsorbed fat explains orlistat-associated {{c1::steatorrhoea}}.",
+      "noteId": "anti-obesity-drugs-5a51a3c6246c6b79d4fd-note",
+      "id": "anti-obesity-drugs-5a51a3c6246c6b79d4fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Unabsorbed fat explains orlistat-associated {{c1::steatorrhoea}}.",
+      "answer": "steatorrhoea"
+    },
+    {
+      "topic": "Orlistat",
+      "slide": 22,
+      "explanation": "These are the fat-soluble vitamins named in the slide.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced fat absorption can lower absorption of vitamins {{c1::A, D, E and K}}.",
+      "noteId": "anti-obesity-drugs-dedbc76ffcdf4d5de6b8-note",
+      "id": "anti-obesity-drugs-dedbc76ffcdf4d5de6b8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced fat absorption can lower absorption of vitamins {{c1::A, D, E and K}}.",
+      "answer": "A, D, E and K"
+    },
+    {
+      "topic": "GLP-1 agonists",
+      "slide": 23,
+      "explanation": "They increase satiety and reduce food intake, with incretin and gastric-emptying effects.",
+      "images": [
+        "incretins"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Liraglutide and semaglutide are {{c1::GLP-1 receptor agonists}}.",
+      "noteId": "anti-obesity-drugs-87167b9daf793eb3992b-note",
+      "id": "anti-obesity-drugs-87167b9daf793eb3992b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Liraglutide and semaglutide are {{c1::GLP-1 receptor agonists}}.",
+      "answer": "GLP-1 receptor agonists"
+    },
+    {
+      "topic": "GLP-1 agonists",
+      "slide": 23,
+      "explanation": "The lecture distinguishes weight-management and diabetes product indications; a shared molecule does not make product use interchangeable.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Wegovy and Ozempic both contain {{c1::semaglutide}}.",
+      "noteId": "anti-obesity-drugs-b5a7a132a00b37b17f74-note",
+      "id": "anti-obesity-drugs-b5a7a132a00b37b17f74",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Wegovy and Ozempic both contain {{c1::semaglutide}}.",
+      "answer": "semaglutide"
+    },
+    {
+      "topic": "GLP-1 agonists",
+      "slide": 23,
+      "explanation": "Examples include nausea, vomiting, diarrhoea or constipation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Common adverse effects of GLP-1 agonists are {{c1::gastrointestinal symptoms}}.",
+      "noteId": "anti-obesity-drugs-eacd6a6427ab30a158ec-note",
+      "id": "anti-obesity-drugs-eacd6a6427ab30a158ec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Common adverse effects of GLP-1 agonists are {{c1::gastrointestinal symptoms}}.",
+      "answer": "gastrointestinal symptoms"
+    },
+    {
+      "topic": "Emerging agents",
+      "slide": 24,
+      "explanation": "This describes the mechanism in the slide, not independently verified current UK approval or access.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Orforglipron is described as an oral small-molecule {{c1::GLP-1 receptor agonist}}.",
+      "noteId": "anti-obesity-drugs-e2d9b807418a22e221d7-note",
+      "id": "anti-obesity-drugs-e2d9b807418a22e221d7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Orforglipron is described as an oral small-molecule {{c1::GLP-1 receptor agonist}}.",
+      "answer": "GLP-1 receptor agonist"
+    },
+    {
+      "topic": "Tirzepatide",
+      "slide": 25,
+      "explanation": "Its dual receptor activity distinguishes it from a GLP-1-only agonist.",
+      "images": [
+        "tirzepatide"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Tirzepatide activates GLP-1 and {{c1::GIP receptors}}.",
+      "noteId": "anti-obesity-drugs-4b0b6eb452517c5e6ad6-note",
+      "id": "anti-obesity-drugs-4b0b6eb452517c5e6ad6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tirzepatide activates GLP-1 and {{c1::GIP receptors}}.",
+      "answer": "GIP receptors"
+    },
+    {
+      "topic": "Tirzepatide",
+      "slide": 25,
+      "explanation": "The receptor mechanism, not the brand alone, identifies the class.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The brand named for tirzepatide is {{c1::Mounjaro}}.",
+      "noteId": "anti-obesity-drugs-c8363dcdd06e5143c9a0-note",
+      "id": "anti-obesity-drugs-c8363dcdd06e5143c9a0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The brand named for tirzepatide is {{c1::Mounjaro}}.",
+      "answer": "Mounjaro"
+    },
+    {
+      "topic": "Access and eligibility",
+      "slide": 26,
+      "explanation": "The slide mixes authorisation dates and phased access cohorts. Do not learn its dates or BMI/comorbidity examples as universal current prescribing rules.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Marketing authorisation and NHS commissioning/access criteria are {{c1::different decisions}}.",
+      "noteId": "anti-obesity-drugs-195c8f0ee9d353220796-note",
+      "id": "anti-obesity-drugs-195c8f0ee9d353220796",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Marketing authorisation and NHS commissioning/access criteria are {{c1::different decisions}}.",
+      "answer": "different decisions"
+    },
+    {
+      "topic": "Evidence interpretation",
+      "slide": 27,
+      "explanation": "The slide combines a 72-week graphic with a one-year chart. Do not treat these as a controlled head-to-head comparison.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Weight-loss percentages measured at different durations and in different cohorts are not automatically {{c1::directly comparable}}.",
+      "noteId": "anti-obesity-drugs-ab8ab6d2f209d00948a7-note",
+      "id": "anti-obesity-drugs-ab8ab6d2f209d00948a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Weight-loss percentages measured at different durations and in different cohorts are not automatically {{c1::directly comparable}}.",
+      "answer": "directly comparable"
+    },
+    {
+      "topic": "Drug adverse effects",
+      "slide": 28,
+      "explanation": "The lecture also lists gallbladder problems and kidney injury. These are warnings, not effects experienced by everyone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The pancreatic serious adverse-event warning listed for tirzepatide is {{c1::pancreatitis}}.",
+      "noteId": "anti-obesity-drugs-188868e6825f62d3b5d7-note",
+      "id": "anti-obesity-drugs-188868e6825f62d3b5d7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The pancreatic serious adverse-event warning listed for tirzepatide is {{c1::pancreatitis}}.",
+      "answer": "pancreatitis"
+    },
+    {
+      "topic": "Drug adverse effects",
+      "slide": 28,
+      "explanation": "The slide’s brief warning needs context: preclinical rodent C-cell findings do not establish human causation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "A thyroid-cancer warning should not be restated as proof that the drug {{c1::causes thyroid cancer in humans}}.",
+      "noteId": "anti-obesity-drugs-95c11bea46e4663a859e-note",
+      "id": "anti-obesity-drugs-95c11bea46e4663a859e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A thyroid-cancer warning should not be restated as proof that the drug {{c1::causes thyroid cancer in humans}}.",
+      "answer": "causes thyroid cancer in humans"
+    },
+    {
+      "topic": "Drug adverse effects",
+      "slide": 28,
+      "explanation": "Mechanism clarification for the slide’s kidney-injury warning: fluid losses can contribute to renal impairment. This is not a claim that kidney injury occurs in every user.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Severe vomiting or diarrhoea can lead to {{c1::volume depletion}}.",
+      "noteId": "anti-obesity-drugs-24ade789754eac6f639a-note",
+      "id": "anti-obesity-drugs-24ade789754eac6f639a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Severe vomiting or diarrhoea can lead to {{c1::volume depletion}}.",
+      "answer": "volume depletion"
+    },
+    {
+      "topic": "Phentermine",
+      "slide": 30,
+      "explanation": "The lecture depicts increased NA signalling/reduced reuptake, with appetite-pathway effects.",
+      "images": [
+        "phentermine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Phentermine suppresses appetite mainly through increased hypothalamic {{c1::noradrenergic signalling}}.",
+      "noteId": "anti-obesity-drugs-a4af17aa973dc1f1e2ca-note",
+      "id": "anti-obesity-drugs-a4af17aa973dc1f1e2ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Phentermine suppresses appetite mainly through increased hypothalamic {{c1::noradrenergic signalling}}.",
+      "answer": "noradrenergic signalling"
+    },
+    {
+      "topic": "Phentermine",
+      "slide": 30,
+      "explanation": "The lecture describes short-term use; this is not an individual treatment recommendation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Tachycardia, hypertension and insomnia are consistent with phentermine’s {{c1::sympathomimetic}} action.",
+      "noteId": "anti-obesity-drugs-e22a50502b9b77e7b6b5-note",
+      "id": "anti-obesity-drugs-e22a50502b9b77e7b6b5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tachycardia, hypertension and insomnia are consistent with phentermine’s {{c1::sympathomimetic}} action.",
+      "answer": "sympathomimetic"
+    },
+    {
+      "topic": "Combination therapies",
+      "slide": 31,
+      "explanation": "The slide describes enhanced GABA signalling but explicitly says the full weight-loss mechanism is not clear.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The phentermine combination partner shown is {{c1::topiramate}}.",
+      "noteId": "anti-obesity-drugs-efee90588c7b6c4ef6db-note",
+      "id": "anti-obesity-drugs-efee90588c7b6c4ef6db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The phentermine combination partner shown is {{c1::topiramate}}.",
+      "answer": "topiramate"
+    },
+    {
+      "topic": "Combination therapies",
+      "slide": 31,
+      "explanation": "Treat this as the slide’s proposed pathway rather than a complete explanation of all clinical effects.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The proposed GABA effect of topiramate inhibits {{c1::NPY/AgRP signalling}} in the lecture diagram.",
+      "noteId": "anti-obesity-drugs-d5e9967b3426eea33f51-note",
+      "id": "anti-obesity-drugs-d5e9967b3426eea33f51",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The proposed GABA effect of topiramate inhibits {{c1::NPY/AgRP signalling}} in the lecture diagram.",
+      "answer": "NPY/AgRP signalling"
+    },
+    {
+      "topic": "Naltrexone/bupropion",
+      "slide": 32,
+      "explanation": "This is the appetite-suppressing drive in the combination diagram.",
+      "images": [
+        "bupropion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Bupropion increases noradrenaline/dopamine signalling to activate {{c1::POMC neurons}}.",
+      "noteId": "anti-obesity-drugs-7d272d3f4e3626a4e6dc-note",
+      "id": "anti-obesity-drugs-7d272d3f4e3626a4e6dc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Bupropion increases noradrenaline/dopamine signalling to activate {{c1::POMC neurons}}.",
+      "answer": "POMC neurons"
+    },
+    {
+      "topic": "Naltrexone/bupropion",
+      "slide": 32,
+      "explanation": "It opposes β-endorphin-mediated inhibition of POMC neurons.",
+      "images": [
+        "bupropion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Naltrexone blocks inhibitory feedback through the {{c1::μ-opioid receptor}}.",
+      "noteId": "anti-obesity-drugs-788870b9c74f94d8581f-note",
+      "id": "anti-obesity-drugs-788870b9c74f94d8581f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Naltrexone blocks inhibitory feedback through the {{c1::μ-opioid receptor}}.",
+      "answer": "μ-opioid receptor"
+    },
+    {
+      "topic": "Naltrexone/bupropion",
+      "slide": 32,
+      "explanation": "This explains why naltrexone is paired with a POMC-activating drug.",
+      "images": [
+        "bupropion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Blocking POMC’s opioid feedback helps sustain {{c1::appetite suppression}}.",
+      "noteId": "anti-obesity-drugs-e14f8319a6e2647c943f-note",
+      "id": "anti-obesity-drugs-e14f8319a6e2647c943f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Blocking POMC’s opioid feedback helps sustain {{c1::appetite suppression}}.",
+      "answer": "appetite suppression"
+    },
+    {
+      "topic": "Setmelanotide",
+      "slide": 33,
+      "explanation": "It targets the melanocortin appetite pathway.",
+      "images": [
+        "setmelanotide"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Setmelanotide is an agonist of {{c1::MC4 receptors}}.",
+      "noteId": "anti-obesity-drugs-34913b37d452461ea817-note",
+      "id": "anti-obesity-drugs-34913b37d452461ea817",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Setmelanotide is an agonist of {{c1::MC4 receptors}}.",
+      "answer": "MC4 receptors"
+    },
+    {
+      "topic": "Setmelanotide",
+      "slide": 33,
+      "explanation": "It is not a general replacement for all anti-obesity therapies.",
+      "images": [
+        "setmelanotide"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Setmelanotide is presented for severe obesity associated with selected rare {{c1::genetic pathway defects}}.",
+      "noteId": "anti-obesity-drugs-426166fc4ac60d842729-note",
+      "id": "anti-obesity-drugs-426166fc4ac60d842729",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Setmelanotide is presented for severe obesity associated with selected rare {{c1::genetic pathway defects}}.",
+      "answer": "genetic pathway defects"
+    },
+    {
+      "topic": "Emerging agents",
+      "slide": 34,
+      "explanation": "The slide describes it as investigational. Current regulatory/trial status has not been independently verified here.",
+      "images": [
+        "retatrutide"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Retatrutide is a GLP-1, GIP and {{c1::glucagon-receptor}} tri-agonist.",
+      "noteId": "anti-obesity-drugs-cc7792025f61f80f82a6-note",
+      "id": "anti-obesity-drugs-cc7792025f61f80f82a6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Retatrutide is a GLP-1, GIP and {{c1::glucagon-receptor}} tri-agonist.",
+      "answer": "glucagon-receptor"
+    },
+    {
+      "topic": "Emerging agents",
+      "slide": 34,
+      "explanation": "This adds a metabolic target to the appetite/incretin pathways in the slide.",
+      "images": [
+        "retatrutide"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The glucagon-receptor component of retatrutide is linked to increased {{c1::energy expenditure}}.",
+      "noteId": "anti-obesity-drugs-13c28e8a41c50e83a50d-note",
+      "id": "anti-obesity-drugs-13c28e8a41c50e83a50d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The glucagon-receptor component of retatrutide is linked to increased {{c1::energy expenditure}}.",
+      "answer": "energy expenditure"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Obesity & Anti-obesity Drugs — page 1",
+      "text": "Obesity & Anti-obesity drugs\nSumangali Wijetunge\ns.Wijetunge@kingston.ac.uk\nRecorded lectures available on Canvas\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Obesity & Anti-obesity Drugs — page 2",
+      "text": "Regulation of Appetite\n  \n•\nCentral nervous system\n•\nPeripheral hormones (from gut, pancreas, adipose tissue)\n•\nEnvironmental & psychological inputs\n•\nNeurotransmitters:  GABA, NA, 5HT, dopamine\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Obesity & Anti-obesity Drugs — page 3",
+      "text": "ARC: Arcuate nucleus; CCK = Cholecystokinin; GLP = Glucagon-like peptide; LHA = Lateral hypothalamic area; NTS = Nucleus tractus solitarius; \nOXM = Oxyntomodulin; PYY = Peptide YY; PVN = Paraventricular nucleus; VMN = Ventromedial nucleus; DMN=Dorsalmedial nucleus.\nCentral Regulation of Appetite\nhypothalamus is the main brain centre that regulates appetite, feeding behaviour \nand energy status\nArcuate \nnucleus\nReward centres\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Obesity & Anti-obesity Drugs — page 4",
+      "text": "Arcuate Nucleus \nHypothlamus\nPOMC\nCART\nNPY\nAgRP\nOrexigenic \nneurons\nAnorexigenic\nneurons\n↑ appetite\n↓ appetite\nGhrelin (hunger hormone)\nFasting, \nHypoglycaemia\n(+)\nLeptin, \ninsulin, \nGLP-1, PYY \n(+)\nα-MSH\nMC4R\n(+)\n(-)\nMC4R\nAgRP is an \nantagonist of \nMC4R\nα-MSH is agonist of \nMC4R\nArcuate \nNucleus\n(ARC)\n(-)\nPOMC= Pro-opiomelanocortin  \nCART =Cocaine- and amphetamine-\nregulated transcript \nNPY=Neuropeptide Y  \nAgRP=Agouti-related peptide\nα MSH= α-Melanocyte Stimulating \nhormone \nMC4R= melanocortin 4 receptors \nGLP-1 (Glucagon-like peptide-1) \nPYY=peptide YY\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Obesity & Anti-obesity Drugs — page 5",
+      "text": "α-MSH= melanocyte-stimulating hormone\nGLP-1=Glucagon-like peptide-1\nCCK=Cholecystokinin\nFasting/hypoglycaemia\n5HT, NA, DA\nARC\nOrexigenic \npathway\nAnorexigenic \npathway\nStimulates NPY/AgRP neurons \nPeripheral Hormones in appetite regulation\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Obesity & Anti-obesity Drugs — page 6",
+      "text": "Hormone\nSource\nTarget / Mechanism\nEffect on \nAppetite\nGhrelin (hunger \nhormone)\nStomach\nActivates NPY/AgRP neurons \nActivates Vagus nerve\nLevels rise before meals; “hunger hormone”\n↑ Hunger\nLeptin\nAdipose tissue\nActivates POMC neurons\ninhibits NPY/AgRP neurons\n↓ Appetite\nInsulin\nPancreas\nActivates POMC neurons\nInhibits NPY/AgRP neurons\n↓ Appetite\nGLP-1 (glucagon-like \npeptide-1)\nL-cells in distal \nintestine\nActivates POMC neurons, \ninhibits NPY/AgRP; \nslows gastric emptying\nStimulates insulin,\nSuppresses glucagon\n↑ Satiety\nCCK \n(Cholecystokinin)\nI-cells of \nduodenum\nActivates vagal afferents → NTS → \nhypothalamus\n↑ Satiety\nGIP (Glucose-\ndependent insulinotropic \npolypeptide)\nK-cells of \nduodenum & \njejunum\nActivates pancreatic β-cells (insulin) and may \nmodulate CNS appetite.\nPromotes fat storage\n↑  satiety \nPeptide YY (PYY)\nfrom L-cells in \nileum & colon \nafter meals\nInhibits NPY neurons in arcuate nucleus\n↓ Appetite\nOxyntomodulin\nL-cells of \nintestine\nActivates GLP-1 receptors \nInhibits NPY\n↓ Appetite\nAmylin\nPancreatic β-\ncells\nSlows gastric emptying; signals CNS via area \npostrema\n↑ Satiety\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Obesity & Anti-obesity Drugs — page 7",
+      "text": "↑ leptin (increased fat tissue) → supress appetite\n↓ leptin (fasting) → increase appetite\nLeptin-melanocortin \npathway\nadipose tissue\n↓ appetite\nleptin\nLEPR\nPOMC\nNPY\nAgRP\nα-MSH\n(+)\n(-)\nanorexigenic\norexigenic\nMC4R\n↓ AgRP/NPY\nLoss-of-function/mutations affecting this pathway can lead to obesity \n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Obesity & Anti-obesity Drugs — page 8",
+      "text": "Incretin hormones: \n•\nHormones released from intestine after meals \n•\n↑ glucose dependent insulin secretion from pancreas\n•\n Reduce food intake, \n•\n↓blood glucose\nGLP-1 \n(Glucagon-like peptide 1)\nActivates POMC \nInhibits NPY/AgRP \n↓ food intake\n↑ Insulin\n↓ Glucagon\n↓ Gastric emptying\nActivates GIP receptors in hypothalamus\n↓ food intake\n↑ Insulin \nGIP\n↑ fat storage\nLipolysis\n(glucose-dependent \ninsulinotropic polypeptide \n(gastric inhibitory peptide)\n↓ blood \nglucose\n↓ blood \nglucose\nfrom L-cells in the \ndistal intestine\nFrom K-cells in the \nduodenum/jejnum\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Obesity & Anti-obesity Drugs — page 9",
+      "text": "OBESITY\nIllness where health (and life expectancy) is adversely affected \nby excess body fat.\nComplex, chronic disease\nEnergy intake > energy expenditure\nComplex interaction between:\n•   central regulation of appetite\n•   hormones\n•   genetics\n•   environmental factors\n•   metabolism \n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Obesity & Anti-obesity Drugs — page 10",
+      "text": "BMI (body \nmas index)  \nCategory\nBMI (kg/m²)\nUnderweight\n< 18.5\nNormal weight\n18.5 – 24.9\nOverweight\n25 – 29.9\nObesity (Class I)\n30 – 34.9\nObesity (Class II)\n35 – 39.9\nObesity (Class III/ severe obesity)\n≥ 40\nObese: BMI ≥ \n30 kg/m²\nAbdominal (central) obesity is strongly linked to CVD & T2DM.\nWaist-to-height ratio (WHtR)\nWHtR >0.5 an increased risk of obesity-related diseases (eg diabetes, CVD) \nIncreased risk:\n> 94 cm men ;  >80 cm women\nHigh risk:\n>102 cm men;  >88 cm women\nWaist circumference\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Obesity & Anti-obesity Drugs — page 11",
+      "text": "Out of every 100 adults in England:\n• 28 are obese\n• 36 are overweight\n• 34 are healthy weight\n• 2 are underweight\nOver >2/3  over \n35yrs are \noverweight or \nobese\nObesity statistics UK 2025: Obesity in the UK 2025: Latest \nData, Trends & Impact | ZAVA UK\n2/3 overweight or obese\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Obesity & Anti-obesity Drugs — page 12",
+      "text": "Obesity statistics UK 2025: Obesity in \nthe UK 2025: Latest Data, Trends & \nImpact | ZAVA UK\nobese\nEthinicity\n% overweight/obese\nBlack\n75%\nWhite British\n66%\nAsian\n61%\nMixed\n58%\nChinese\n32%\noverweight\nObese\nMen\n69.7%\n26.2%\nWomen\n59.2%\n26.9%\nObesity: a public health crisis?\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Obesity & Anti-obesity Drugs — page 13",
+      "text": "Obesity\nPhysical inactivity or \nsedentary\nEating behaviours\nSocio-economic \nstatus & \nEnvironmental \nfactors\n \ngenetics\nendocrine\nmedications\nAppetite Hormone \ndysregulation\nPoor sleep\nPsychological & \nbehavioural factors\nCauses of obesity\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Obesity & Anti-obesity Drugs — page 14",
+      "text": "Psychological \neffects  \nPoor body image\nSocial stigma\nLow self-esteem\nPhysical abuse\nSexual abuse\nEmotional neglect\nConsequences & Complications of obesity\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Obesity & Anti-obesity Drugs — page 15",
+      "text": "*Adjusted incidence rate (per 1000 \nperson-year\nNdumele CE, et al., Obesity and Subtypes of Incident Cardiovascular Disease. J Am \nHeartAssoc. 2016;5:e003921. https://doi.org/10.1161/JAHA.116.003921\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Obesity & Anti-obesity Drugs — page 16",
+      "text": "Inflammatory cytokines & \nadipokines (TNFα, IL6, IL8)\nEndothelial damage \nHypertension\natherosclerosis, CAD \nHeart failure\n**Metabolic syndrome\nHypoxia, necrosis, \nLVH,  remodelling\n↑ SNS\n↑cardiac output\nFree fatty Acids  superoxide\nInsulin \nresistance\n↓ adiponectin\n↑TGs, ↑LDL, ↓HDL\nJin X et al, Pathophysiology of obesity and its associated diseases. Acta \nPharmaceutica Sinica B 2023;13(6):2403e2424\n↑blood volume\n↑hepatic glucose output\n↓muscle glucose uptake\nHyperglycaemia,\nHyperinsulinaemia, \nfollowed by low insulin\nPancreatic β cell failure\nType 2 diabetes\nObesity associated with CVD and diabetes\nOBESITY\nHypertrophied \nadipocytes\n**Metabolic Syndrome:\nCentral obesity\nInsulin resistance\nHypertension\nDyslipidaemia\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Obesity & Anti-obesity Drugs — page 17",
+      "text": "Q1. Why are children from deprived backgrounds more prone to obesity?\nQ2. How many hours of exercise is recommended per week and what is the \nrecommended daily amount of step count you should undertake? \nActivity:\nActivity: classify the FOLLOWING BMI values:\n24 Kg/m2      ………………………….\n37 Kg/m2           ………………………….\n19  Kg/m2          …………………………..\n31 Kg/m2           …………………………….\n27 Kg/m2           ……………………………..\n(British Heart Foundation (BHF)\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Obesity & Anti-obesity Drugs — page 18",
+      "text": "weight loss drugs\n(Anti-obesity drugs)\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Obesity & Anti-obesity Drugs — page 19",
+      "text": "Indications for Pharmacotherapy\n  \nGuidelines vary . See NICE guidelines\nGenerally considered when:\nBMI ≥ 35 kg/m² (or ≥ 32.5 kg/m² for ethnic minority groups) AND at least \none weight-related comorbidity (e.g., Type 2 diabetes, hypertension, \ndyslipidaemia, sleep apnoea, or cardiovascular disease). \n•\nWhen there is significant risk of obesity-related disease eg; CVD\n•\nFailed Lifestyle interventions (diet, physical activity, and behavioural \ntherapy)\nIn combination with lifestyle modification.\nPharmacotherapy should be a chronic, long-term treatment plan to manage \nobesity as a disease.\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Obesity & Anti-obesity Drugs — page 20",
+      "text": "",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Obesity & Anti-obesity Drugs — page 21",
+      "text": "Classes of weight loss drugs \n• Gastrointestinal lipase inhibitors : Orlistat\n• GLP-1  receptor agonists:  liraglutide,  semaglutide\n• Dual incretin agonists (GLP-1 +  GIP receptor agonists)      \nTirzepatide \n• Sympathomimetics:   phentermine\n• Combination therapy:  phentermine/ topiramate\n• Opioid antagonist +  antidepressant ( naltrexone/ Bupoprion)\n• C4  Receptor agonist:  setmelanotide -  melanocortin pathway \nactivation\nAvailable on NHS:\norlistat \nliraglutide\nsemaglutide\ntirzepatide\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Obesity & Anti-obesity Drugs — page 22",
+      "text": "Adverse Effects:\nSteatorrhoea\nFlatulence\nFat-soluble vitamin (A, D, E, K) deficiency, due to reduced absorption\nGastrointestinal lipase inhibitor- Orlistat\nIncreased fat excretion \nthrough colon\ninhibits pancreatic and gastric lipases.\n↓  absorption of fat \nby ~30%\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Obesity & Anti-obesity Drugs — page 23",
+      "text": "GLP-1 (glucagon-like peptide 1) Receptor Agonists\nLiraglutide (Saxenda)\nSemaglutide (Wegovy)  (note Ozempic although contains semagutide is for T2DM)\nGLP-1\nActivates POMC \nInhibits NPY/AgRP \n↓ food intake\n↑ Insulin\n↓ Glucagon\n↓ Gastric emptying\nActivated GIP receptors \nin hypothalamus\n↓ food intake\n↑ Insulin \n↑ glucagon\n↑ fat storage\nLipolysis\nGLP-1 receptor\nLiraglutide \nSemaglutide\n+\nAdverse effects:\nNausea, vomiting, \ndiarrhoea or constipation\nDecrease \nappetite\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Obesity & Anti-obesity Drugs — page 24",
+      "text": "April 2026\nVariant in GLP1R gene is associated with \nincreased efficacy of GLP1 medications\nGenetic predictors of GLP1 receptor agonist \nweight loss and side effects. \nhttps://doi.org/10.1038/s41586-026-10330-z\nMay 2026\nOrforglipron for maintenance of body weight reduction: the \ndouble-blind, randomized phase 3b ATTAIN-MAINTAIN trial. \nhttps://doi.org/10.1038/s41591-026-04386-7\nOrforglipron is an oral, small-\nmolecule GLP-1 receptor agonist\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Obesity & Anti-obesity Drugs — page 25",
+      "text": "Dual GLP-1 + GIP receptor Agonist \nTirzepatide (Mounjaro)\nGLP-1\nActivates POMC \ninhibits NPY/AgRP \n↓ food intake\n↑ Insulin\n↓ Glucagon\n↓ Gastric emptying\n↓ food intake\n↑ Insulin \nGIP\n↑ fat storage\nLipolysis\nGLP-1 receptor\nGIP receptors\nTirzepatide\nTirzepatide\n+\n+\nDecrease  Appetite\nActivates both:\no\nGLP-1 receptor\no\nGIP receptor\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Obesity & Anti-obesity Drugs — page 26",
+      "text": "Tirzepatide (Mounjaro) Indications\nAuthorised in the UK for weight management in June 2025 for eligible adults via GP \nFrom around June 2026 you may be eligible if you have:\nBMI =  35 kg/m2 and 39.9 kg/m2 NICE guidelines\n(or > 32.5 kg/m² if Black, Asian, Chinese, Middle eastern)\nMandatory Co-morbidities: The patient must have at least 4 of the following \nlong-term, weight-related conditions:\nType 2 diabetes\nHypertension (high blood pressure)\nDyslipidaemia (abnormal blood fats)\nEstablished cardiovascular (heart) disease\nObstructive sleep apnoea\nWeekly injection \nWith diet and exercise for patients with obesity or overweight-related complications \n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Obesity & Anti-obesity Drugs — page 27",
+      "text": "Mounjaro after 72 \nweeks\nMedian weight loss \nafter 1 yer\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Obesity & Anti-obesity Drugs — page 28",
+      "text": "Common S/E\n• Nausea/ Vomiting\n• Diarrhea & Constipation.\n• Stomach Pain & Bloating\n• Reduced Appetite:  can lead to significant food intake reduction.\n• Fatigue & Low Energy\nMounjaro side effects \nLess Common S/E\n• Injection Site Reactions: Redness, itching, or rash.\n• Burping, Gas, & Heartburn:.\n• Hair Loss\nSerious Risks and Warnings\n•\nThyroid cancer \n•\nPancreatitis  \n•\nGallstones or cholecystitis.\n•\nKidney injury\nthese symptoms are mild/moderate and improve over time\n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Obesity & Anti-obesity Drugs — page 29",
+      "text": "",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Obesity & Anti-obesity Drugs — page 30",
+      "text": "Short-term use only\nNot available on the NHS, Can be prescribed privately\nAdverse Effects\n•\nTachycardia \n•\nHypertension\n•\nInsomnia\nSympathomimetic -Phentermine\nAppetite suppression\n↑ NA in hypothalamus (eg ARC)\n↓ NA reuptake in the hypothalamus\nAnorexigenic neurons \n(POMC)\nOrexigenic neurons \n(NPY/AgRP)\nPhentermine\n↑ thermogenesis \nand basal \nmetabolic rate\n↑ lipolysis in \nadipose \ntissue\n(+)\n(-)\nNA=noradrenaline\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Obesity & Anti-obesity Drugs — page 31",
+      "text": "Phentermine: ↑ NA-induced appetite suppression (see previous slide)\nTopiramate: \nEnhances GABA activity\nGABA neuron\nNPY/AgRP\nDecrease \nappetite\n(-)\nTopiramate\n(+)\n•\nCarbonic anhydrase inhibition\n•\nAlters taste perception\nNot approved by the MHRA for weight loss in the UK\nWajid I et al.,  Topiramate (Topamax): Evolving Role in Weight Reduction Management. Life 2023, \n13, 1845. https://doi.org/ 10.3390/life13091845\nPhentermine + Topiramate  (combination therapy) (Qsymia)\nTopiramate’s action on weight reduction is not clear\nGABA inhibits \nNPY/AgRP\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Obesity & Anti-obesity Drugs — page 32",
+      "text": "Naltrexone/bupropion (Mysimba)\nPOMC release β-endorphin\n β-endorphin binds to  MOP-R  cause \ninhibition of  POMC\nNaltrexone: Blocks MOP-R \nPrevents inhibition of POMC→ POMC \nactivation \nBupropion: ↑NA & dopamine →activates POMC neurons → ↓appetite\nNaltrexone: blocks μ opioid receptor (MOP-R) → Prevents inhibition of POMC → ↓appetite\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Obesity & Anti-obesity Drugs — page 33",
+      "text": "adipose tissue\n↓ appetite\nleptin\nLeptin \nReceptor \n(LEPR)\nPOMC\nNPY\nAgRP\nα-MSH\n(+)\n(-)\nanorexigenic\norexigenic\nMC4R\n(+)\n↓ AgRP/NPY\nsimultaneously\nSetmelanotide\n+\nSetmelanotide\nMelanocortin 4 receptor (MC4R) agonist \nFirst-in-class to treat severe obesity caused by rare genetic defects in \nthe leptin–melanocortin pathway\nApproved in 2020\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Obesity & Anti-obesity Drugs — page 34",
+      "text": "triple-hormone receptor agonist (tri-agonist)\nCurrently in Phase 3 clinical trials\n \nRetatrutide\nKatsi V et al., Retatrutide—A Game Changer in Obesity Pharmacotherapy. Biomolecules 2025, 15, 796\nsome studies showing weight reductions of up to 24% over 48 weeks\nRobust improvements in HbA1c levels for those with Type 2 diabetes\nGLP-1 Receptor: ↑Insulin, \n                                ↓gastric emptying\n                                 Appetite suppression\n                            \nGIP receptor:        ↑Insulin, ↑lipolysis\n                                 ↑ appetite suppression\nGlucagon receptor : ↑ energy expenditure\n                                     ↑ lipolysis \nRetatrutide\nWeight \nloss\n+\n+\n+\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Obesity & Anti-obesity Drugs — page 35",
+      "text": "Drug\nMoA\nSemaglutide (Wegovy)\nLiraglutide (Saxenda)\nOrforglipron\nTirzepatide (Mounjaro)\nPhentermine-topiramate \n(Qsymia)\nNaltrexone-bupropion \n(Contrave)\nOrlistat (Xenical/Alli)\nSetmelanotide (Imcivree)\nComplete the table on mechanisms of actions of weight-lowering drugs\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Obesity & Anti-obesity Drugs — page 36",
+      "text": "Which hormone is released by adipose tissue to suppress appetite?\nA. Ghrelin\nB. Leptin\nC. Cortisol\nD. Insulin\nE. Glucagon\nGhrelin stimulates appetite by:\nA. Activating GLP-1 receptors\nB. Stimulating leptin secretion\nC. Activating NPY/AgRP neurons in the hypothalamus\nD. Blocking dopamine receptors\nE. Increasing insulin secretion\n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Obesity & Anti-obesity Drugs — page 37",
+      "text": "Orlistat reduces body weight by:\nA. Stimulating β3-adrenoceptors\nB. Inhibiting gastric and pancreatic lipases\nC. Blocking cannabinoid receptors\nD. Activating GLP-1 receptors\nE. Inhibiting serotonin reuptake\nWhich weight-loss drug is a dual GIP and GLP-1 receptor agonist?\n        A. Orlistat\nB. Liraglutide\nC. Phentermine\nD. Tirzepatide\nE. Naltrexone\nWhich of the following best describes the mechanism of liraglutide?\nA. Inhibits pancreatic lipase\nB. Stimulates norepinephrine release\nC. Activates GLP-1 receptors to increase satiety and decrease food intake\nD. Blocks dopamine receptors\nE. Inhibits serotonin metabolism\n",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Obesity & Anti-obesity Drugs — page 38",
+      "text": "References:\nCamilleri & Grudell. Appetite and obesity: a gastroenterologist’s perspective. \nNeurogastroenterol Motil (2007) 19, 333–341\nVan Gall et al., Mechanisms linking obesity with cardiovascular disease. \nNature. volume 444, pages875–880 (2006)\nMarne P et al., 2026. Antiobesity drugs: comprehensive review. Endocrine. 2026. 91:56\nFuster J et al., Obesity-Induced Changes in Adipose Tissue Microenvironment and \nTheir Impact on Cardiovascular Disease. Circ Res. 2016;118:1786-1807\n",
+      "images": [
+        "page-38"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "anti-obesity-drugs/page-1.jpg",
+    "page-2": "anti-obesity-drugs/page-2.jpg",
+    "page-3": "anti-obesity-drugs/page-3.jpg",
+    "page-4": "anti-obesity-drugs/page-4.jpg",
+    "page-5": "anti-obesity-drugs/page-5.jpg",
+    "page-6": "anti-obesity-drugs/page-6.jpg",
+    "page-7": "anti-obesity-drugs/page-7.jpg",
+    "page-8": "anti-obesity-drugs/page-8.jpg",
+    "page-9": "anti-obesity-drugs/page-9.jpg",
+    "page-10": "anti-obesity-drugs/page-10.jpg",
+    "page-11": "anti-obesity-drugs/page-11.jpg",
+    "page-12": "anti-obesity-drugs/page-12.jpg",
+    "page-13": "anti-obesity-drugs/page-13.jpg",
+    "page-14": "anti-obesity-drugs/page-14.jpg",
+    "page-15": "anti-obesity-drugs/page-15.jpg",
+    "page-16": "anti-obesity-drugs/page-16.jpg",
+    "page-17": "anti-obesity-drugs/page-17.jpg",
+    "page-18": "anti-obesity-drugs/page-18.jpg",
+    "page-19": "anti-obesity-drugs/page-19.jpg",
+    "page-20": "anti-obesity-drugs/page-20.jpg",
+    "page-21": "anti-obesity-drugs/page-21.jpg",
+    "page-22": "anti-obesity-drugs/page-22.jpg",
+    "page-23": "anti-obesity-drugs/page-23.jpg",
+    "page-24": "anti-obesity-drugs/page-24.jpg",
+    "page-25": "anti-obesity-drugs/page-25.jpg",
+    "page-26": "anti-obesity-drugs/page-26.jpg",
+    "page-27": "anti-obesity-drugs/page-27.jpg",
+    "page-28": "anti-obesity-drugs/page-28.jpg",
+    "page-29": "anti-obesity-drugs/page-29.jpg",
+    "page-30": "anti-obesity-drugs/page-30.jpg",
+    "page-31": "anti-obesity-drugs/page-31.jpg",
+    "page-32": "anti-obesity-drugs/page-32.jpg",
+    "page-33": "anti-obesity-drugs/page-33.jpg",
+    "page-34": "anti-obesity-drugs/page-34.jpg",
+    "page-35": "anti-obesity-drugs/page-35.jpg",
+    "page-36": "anti-obesity-drugs/page-36.jpg",
+    "page-37": "anti-obesity-drugs/page-37.jpg",
+    "page-38": "anti-obesity-drugs/page-38.jpg",
+    "appetite": "anti-obesity-drugs/appetite.jpg",
+    "leptin": "anti-obesity-drugs/leptin.jpg",
+    "incretins": "anti-obesity-drugs/incretins.jpg",
+    "metabolic": "anti-obesity-drugs/metabolic.jpg",
+    "cv-chart": "anti-obesity-drugs/cv-chart.jpg",
+    "orlistat": "anti-obesity-drugs/orlistat.jpg",
+    "tirzepatide": "anti-obesity-drugs/tirzepatide.jpg",
+    "phentermine": "anti-obesity-drugs/phentermine.jpg",
+    "bupropion": "anti-obesity-drugs/bupropion.jpg",
+    "setmelanotide": "anti-obesity-drugs/setmelanotide.jpg",
+    "retatrutide": "anti-obesity-drugs/retatrutide.jpg"
+  }
+}

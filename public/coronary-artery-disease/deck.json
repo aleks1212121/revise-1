@@ -1,0 +1,1516 @@
+{
+  "version": 2,
+  "lectureId": "coronary-artery-disease",
+  "title": "Coronary Artery Disease & Anti-anginal Drugs",
+  "moduleId": "system-pharmacology",
+  "moduleName": "System Pharmacology",
+  "moduleCode": "LS5010",
+  "source": "CAd lecture annotated 26-27-1.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "CAD and ischaemia",
+      "slide": 4,
+      "explanation": "The lecture also uses ischaemic heart disease and coronary heart disease.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Coronary artery disease restricts blood flow through arteries supplying the {{c1::myocardium}}.",
+      "noteId": "coronary-artery-disease-41a2a745741c5dc0ecbc-note",
+      "id": "coronary-artery-disease-41a2a745741c5dc0ecbc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Coronary artery disease restricts blood flow through arteries supplying the {{c1::myocardium}}.",
+      "answer": "myocardium"
+    },
+    {
+      "topic": "CAD and ischaemia",
+      "slide": 5,
+      "explanation": "It is a chronic inflammatory and fibroproliferative process, not simply passive fat deposition.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The principal arterial disease underlying CAD in this lecture is {{c1::atherosclerosis}}.",
+      "noteId": "coronary-artery-disease-4941c2231680bb625f1b-note",
+      "id": "coronary-artery-disease-4941c2231680bb625f1b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The principal arterial disease underlying CAD in this lecture is {{c1::atherosclerosis}}.",
+      "answer": "atherosclerosis"
+    },
+    {
+      "topic": "CAD and ischaemia",
+      "slide": 5,
+      "explanation": "Both reduced supply and increased cardiac workload can create the imbalance.",
+      "images": [
+        "balance"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Myocardial ischaemia develops when oxygen supply is insufficient relative to {{c1::oxygen demand}}.",
+      "noteId": "coronary-artery-disease-8b005a180711a6b5e8cb-note",
+      "id": "coronary-artery-disease-8b005a180711a6b5e8cb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Myocardial ischaemia develops when oxygen supply is insufficient relative to {{c1::oxygen demand}}.",
+      "answer": "oxygen demand"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "The sequence also associates endothelial dysfunction with reduced nitric oxide production.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Endothelial damage increases permeability to {{c1::LDL}}.",
+      "noteId": "coronary-artery-disease-aeeb8ebeab8379ebcc7f-note",
+      "id": "coronary-artery-disease-aeeb8ebeab8379ebcc7f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Endothelial damage increases permeability to {{c1::LDL}}.",
+      "answer": "LDL"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "The cells subsequently differentiate into macrophages.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "VCAM-1 and related adhesion molecules help {{c1::monocytes}} adhere and enter the intima.",
+      "noteId": "coronary-artery-disease-46f71f3a7974de397c13-note",
+      "id": "coronary-artery-disease-46f71f3a7974de397c13",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "VCAM-1 and related adhesion molecules help {{c1::monocytes}} adhere and enter the intima.",
+      "answer": "monocytes"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "Lipid accumulation produces cholesterol-rich foam cells.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Macrophage scavenger receptors take up {{c1::oxidised LDL}}.",
+      "noteId": "coronary-artery-disease-abb70e9c593bbf3d3560-note",
+      "id": "coronary-artery-disease-abb70e9c593bbf3d3560",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophage scavenger receptors take up {{c1::oxidised LDL}}.",
+      "answer": "oxidised LDL"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "Foam cells and inflammatory cells contribute to the fatty streak.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cholesterol-loaded macrophages in the arterial intima are called {{c1::foam cells}}.",
+      "noteId": "coronary-artery-disease-0a507bc4bf12e7ee5dad-note",
+      "id": "coronary-artery-disease-0a507bc4bf12e7ee5dad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cholesterol-loaded macrophages in the arterial intima are called {{c1::foam cells}}.",
+      "answer": "foam cells"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "They proliferate and contribute to the fibrous cap.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Vascular smooth-muscle cells migrate from the media into the {{c1::intima}} during plaque formation.",
+      "noteId": "coronary-artery-disease-41228b522abe78bef2c8-note",
+      "id": "coronary-artery-disease-41228b522abe78bef2c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vascular smooth-muscle cells migrate from the media into the {{c1::intima}} during plaque formation.",
+      "answer": "intima"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "The core contains lipid, foam cells and cellular debris.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Connective tissue and smooth-muscle cells form the plaque’s {{c1::fibrous cap}}.",
+      "noteId": "coronary-artery-disease-3bb0beba5ae2dd744ba5-note",
+      "id": "coronary-artery-disease-3bb0beba5ae2dd744ba5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Connective tissue and smooth-muscle cells form the plaque’s {{c1::fibrous cap}}.",
+      "answer": "fibrous cap"
+    },
+    {
+      "topic": "Atherogenesis",
+      "slide": 7,
+      "explanation": "An acute thrombus can further obstruct coronary blood flow.",
+      "images": [
+        "plaque"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Rupture of a plaque cap promotes platelet adhesion, aggregation and {{c1::thrombus formation}}.",
+      "noteId": "coronary-artery-disease-86ef84de8d76465e1658-note",
+      "id": "coronary-artery-disease-86ef84de8d76465e1658",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Rupture of a plaque cap promotes platelet adhesion, aggregation and {{c1::thrombus formation}}.",
+      "answer": "thrombus formation"
+    },
+    {
+      "topic": "Stable angina vs ACS",
+      "slide": 8,
+      "explanation": "This limits the ability to increase coronary flow during increased demand.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture associates a fixed plaque with an intact cap with {{c1::stable angina}}.",
+      "noteId": "coronary-artery-disease-396123f99bd9a6514f4e-note",
+      "id": "coronary-artery-disease-396123f99bd9a6514f4e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture associates a fixed plaque with an intact cap with {{c1::stable angina}}.",
+      "answer": "stable angina"
+    },
+    {
+      "topic": "Stable angina vs ACS",
+      "slide": 8,
+      "explanation": "The diagram includes unstable angina and myocardial infarction; actual mechanisms can be more varied.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Plaque rupture with thrombosis underlies the lecture’s {{c1::acute coronary syndrome}} pathway.",
+      "noteId": "coronary-artery-disease-d2feba930663a3a2e6fb-note",
+      "id": "coronary-artery-disease-d2feba930663a3a2e6fb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Plaque rupture with thrombosis underlies the lecture’s {{c1::acute coronary syndrome}} pathway.",
+      "answer": "acute coronary syndrome"
+    },
+    {
+      "topic": "Stable angina",
+      "slide": 9,
+      "explanation": "It is not the myocardial cell death defining an infarct.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Stable angina is pain caused by {{c1::reversible myocardial ischaemia}}.",
+      "noteId": "coronary-artery-disease-f2bebd1f4b6d8a0af3ef-note",
+      "id": "coronary-artery-disease-f2bebd1f4b6d8a0af3ef",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Stable angina is pain caused by {{c1::reversible myocardial ischaemia}}.",
+      "answer": "reversible myocardial ischaemia"
+    },
+    {
+      "topic": "Stable angina",
+      "slide": 9,
+      "explanation": "The visual definition also describes constricting discomfort and relief by rest or sublingual GTN within about five minutes. A symptom pattern alone is not a diagnosis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Typical anginal discomfort is precipitated by {{c1::physical exertion}}.",
+      "noteId": "coronary-artery-disease-4b03646e1ae2e1da6380-note",
+      "id": "coronary-artery-disease-4b03646e1ae2e1da6380",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Typical anginal discomfort is precipitated by {{c1::physical exertion}}.",
+      "answer": "physical exertion"
+    },
+    {
+      "topic": "Stable angina",
+      "slide": 9,
+      "explanation": "The visual definition also notes relief by sublingual GTN within about five minutes; this is a lecture pattern, not a rule for excluding acute coronary disease.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Typical stable-angina discomfort improves with {{c1::rest}}.",
+      "noteId": "coronary-artery-disease-0d7bc7bce9262f71a305-note",
+      "id": "coronary-artery-disease-0d7bc7bce9262f71a305",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Typical stable-angina discomfort improves with {{c1::rest}}.",
+      "answer": "rest"
+    },
+    {
+      "topic": "Stable angina",
+      "slide": 10,
+      "explanation": "Resting flow may still be sufficient through the narrowed artery.",
+      "images": [
+        "balance"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Exercise triggers stable angina when coronary flow cannot rise enough to meet {{c1::increased myocardial oxygen demand}}.",
+      "noteId": "coronary-artery-disease-587fb245bff5d58c4374-note",
+      "id": "coronary-artery-disease-587fb245bff5d58c4374",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Exercise triggers stable angina when coronary flow cannot rise enough to meet {{c1::increased myocardial oxygen demand}}.",
+      "answer": "increased myocardial oxygen demand"
+    },
+    {
+      "topic": "Oxygen demand",
+      "slide": 11,
+      "explanation": "The handwritten annotation links β1 stimulation with both changes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sympathetic stimulation raises oxygen consumption by increasing heart rate and {{c1::contractility}}.",
+      "noteId": "coronary-artery-disease-c29704c23a502b7d7c6d-note",
+      "id": "coronary-artery-disease-c29704c23a502b7d7c6d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sympathetic stimulation raises oxygen consumption by increasing heart rate and {{c1::contractility}}.",
+      "answer": "contractility"
+    },
+    {
+      "topic": "Oxygen demand",
+      "slide": 11,
+      "explanation": "The annotation also identifies the skeletal-muscle pump as a contributor to venous return during exercise.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Venoconstriction can increase venous return and therefore {{c1::preload}}.",
+      "noteId": "coronary-artery-disease-8a9d10bb723be43b987f-note",
+      "id": "coronary-artery-disease-8a9d10bb723be43b987f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Venoconstriction can increase venous return and therefore {{c1::preload}}.",
+      "answer": "preload"
+    },
+    {
+      "topic": "Preload and afterload",
+      "slide": 13,
+      "explanation": "The lecture links this to initial myocardial fibre length and venous return.",
+      "images": [
+        "loading"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Preload is related to ventricular filling at {{c1::end diastole}}.",
+      "noteId": "coronary-artery-disease-1a3011e218f31522f34f-note",
+      "id": "coronary-artery-disease-1a3011e218f31522f34f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Preload is related to ventricular filling at {{c1::end diastole}}.",
+      "answer": "end diastole"
+    },
+    {
+      "topic": "Preload and afterload",
+      "slide": 13,
+      "explanation": "Higher aortic resistance increases cardiac work.",
+      "images": [
+        "loading"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Afterload is the resistance the ventricle must overcome to {{c1::eject blood}}.",
+      "noteId": "coronary-artery-disease-a9d118c7fc157f00f63c-note",
+      "id": "coronary-artery-disease-a9d118c7fc157f00f63c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Afterload is the resistance the ventricle must overcome to {{c1::eject blood}}.",
+      "answer": "eject blood"
+    },
+    {
+      "topic": "Angina vs infarction",
+      "slide": 15,
+      "explanation": "Pain severity and associated symptoms vary; the table’s symptom contrasts are typical patterns, not universal rules.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The tissue change distinguishing myocardial infarction from uncomplicated stable angina is {{c1::myocardial cell death}}.",
+      "noteId": "coronary-artery-disease-e5441d83af6e5074ea6a-note",
+      "id": "coronary-artery-disease-e5441d83af6e5074ea6a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The tissue change distinguishing myocardial infarction from uncomplicated stable angina is {{c1::myocardial cell death}}.",
+      "answer": "myocardial cell death"
+    },
+    {
+      "topic": "Angina vs infarction",
+      "slide": 15,
+      "explanation": "A normal result alone does not exclude acute disease; interpretation depends on timing and clinical assessment.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Troponin elevation supports myocardial injury rather than uncomplicated {{c1::stable angina}}.",
+      "noteId": "coronary-artery-disease-5d657ad451ce343d5662-note",
+      "id": "coronary-artery-disease-5d657ad451ce343d5662",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Troponin elevation supports myocardial injury rather than uncomplicated {{c1::stable angina}}.",
+      "answer": "stable angina"
+    },
+    {
+      "topic": "Stable angina",
+      "slide": 15,
+      "explanation": "Symptom location is supportive context rather than a standalone diagnosis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The typical pain site in the comparison table is {{c1::retrosternal}}, with possible radiation to the arm or neck.",
+      "noteId": "coronary-artery-disease-fce36c39ffc013e9a52e-note",
+      "id": "coronary-artery-disease-fce36c39ffc013e9a52e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The typical pain site in the comparison table is {{c1::retrosternal}}, with possible radiation to the arm or neck.",
+      "answer": "retrosternal"
+    },
+    {
+      "topic": "Lipid risk",
+      "slide": 16,
+      "explanation": "These are the three changes shown in the lecture.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The atherogenic triad combines high LDL, high triglycerides and {{c1::low HDL}}.",
+      "noteId": "coronary-artery-disease-9dab71eeec36cdaca4be-note",
+      "id": "coronary-artery-disease-9dab71eeec36cdaca4be",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The atherogenic triad combines high LDL, high triglycerides and {{c1::low HDL}}.",
+      "answer": "low HDL"
+    },
+    {
+      "topic": "Lipid risk",
+      "slide": 16,
+      "explanation": "The lecture uses “bad cholesterol” as shorthand; LDL is a lipoprotein particle rather than cholesterol itself.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "LDL delivers cholesterol towards {{c1::peripheral tissues}}.",
+      "noteId": "coronary-artery-disease-4045868382760c41de56-note",
+      "id": "coronary-artery-disease-4045868382760c41de56",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "LDL delivers cholesterol towards {{c1::peripheral tissues}}.",
+      "answer": "peripheral tissues"
+    },
+    {
+      "topic": "Lipid risk",
+      "slide": 16,
+      "explanation": "The “good cholesterol” label is a teaching simplification, not a guarantee that raising HDL alone prevents events.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "HDL participates in transporting excess cholesterol back towards the {{c1::liver}}.",
+      "noteId": "coronary-artery-disease-6d335c4705786615b9d8-note",
+      "id": "coronary-artery-disease-6d335c4705786615b9d8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HDL participates in transporting excess cholesterol back towards the {{c1::liver}}.",
+      "answer": "liver"
+    },
+    {
+      "topic": "CAD risk factors",
+      "slide": 17,
+      "explanation": "This contrasts with modifiable exposures such as smoking, hypertension and dyslipidaemia.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Familial hypercholesterolaemia is an example of a {{c1::genetic}} CAD risk factor.",
+      "noteId": "coronary-artery-disease-d17580a217dff29feb50-note",
+      "id": "coronary-artery-disease-d17580a217dff29feb50",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Familial hypercholesterolaemia is an example of a {{c1::genetic}} CAD risk factor.",
+      "answer": "genetic"
+    },
+    {
+      "topic": "CAD risk factors",
+      "slide": 17,
+      "explanation": "The slide also associates it with adverse lipoprotein changes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Smoking contributes to CAD partly through {{c1::endothelial injury}}.",
+      "noteId": "coronary-artery-disease-14e1aac243cb8ff49246-note",
+      "id": "coronary-artery-disease-14e1aac243cb8ff49246",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Smoking contributes to CAD partly through {{c1::endothelial injury}}.",
+      "answer": "endothelial injury"
+    },
+    {
+      "topic": "Lecture lipid values",
+      "slide": 18,
+      "explanation": "This reproduces the lecture table, not an individual treatment target. Current risk-based prevention targets can be lower or otherwise different.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The slide’s desirable total cholesterol value is below {{c1::5 mmol/L}}.",
+      "noteId": "coronary-artery-disease-8c52153596a002c7599a-note",
+      "id": "coronary-artery-disease-8c52153596a002c7599a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s desirable total cholesterol value is below {{c1::5 mmol/L}}.",
+      "answer": "5 mmol/L"
+    },
+    {
+      "topic": "Lecture lipid values",
+      "slide": 18,
+      "explanation": "This reproduces the lecture table, not an individual treatment target. Current risk-based prevention targets can be lower or otherwise different.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The slide’s desirable LDL cholesterol value is below {{c1::3 mmol/L}}.",
+      "noteId": "coronary-artery-disease-dec98327ffc1df741b3f-note",
+      "id": "coronary-artery-disease-dec98327ffc1df741b3f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s desirable LDL cholesterol value is below {{c1::3 mmol/L}}.",
+      "answer": "3 mmol/L"
+    },
+    {
+      "topic": "Lecture lipid values",
+      "slide": 18,
+      "explanation": "This reproduces the lecture table, not an individual treatment target. Current risk-based prevention targets can be lower or otherwise different.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The slide’s desirable HDL cholesterol value is above {{c1::1 mmol/L}}.",
+      "noteId": "coronary-artery-disease-0dabcc567030caa4c922-note",
+      "id": "coronary-artery-disease-0dabcc567030caa4c922",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s desirable HDL cholesterol value is above {{c1::1 mmol/L}}.",
+      "answer": "1 mmol/L"
+    },
+    {
+      "topic": "Lecture lipid values",
+      "slide": 18,
+      "explanation": "This reproduces the lecture table, not an individual treatment target. Current risk-based prevention targets can be lower or otherwise different.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The slide’s desirable fasting triglycerides value is below {{c1::1.7 mmol/L}}.",
+      "noteId": "coronary-artery-disease-ca763be2d53cbc62790d-note",
+      "id": "coronary-artery-disease-ca763be2d53cbc62790d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s desirable fasting triglycerides value is below {{c1::1.7 mmol/L}}.",
+      "answer": "1.7 mmol/L"
+    },
+    {
+      "topic": "Lecture lipid values",
+      "slide": 18,
+      "explanation": "This reproduces the lecture table, not an individual treatment target. Current risk-based prevention targets can be lower or otherwise different.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The slide’s desirable non-HDL cholesterol value is below {{c1::4 mmol/L}}.",
+      "noteId": "coronary-artery-disease-a30d20d81dfc2043a7d9-note",
+      "id": "coronary-artery-disease-a30d20d81dfc2043a7d9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The slide’s desirable non-HDL cholesterol value is below {{c1::4 mmol/L}}.",
+      "answer": "4 mmol/L"
+    },
+    {
+      "topic": "Anti-anginal strategy",
+      "slide": 19,
+      "explanation": "Increasing coronary flow addresses the supply side instead.",
+      "images": [
+        "balance"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reducing heart rate, contractility, preload or afterload lowers myocardial {{c1::oxygen demand}}.",
+      "noteId": "coronary-artery-disease-1ed23b08aad3c91f0d5a-note",
+      "id": "coronary-artery-disease-1ed23b08aad3c91f0d5a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reducing heart rate, contractility, preload or afterload lowers myocardial {{c1::oxygen demand}}.",
+      "answer": "oxygen demand"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 20,
+      "explanation": "This relaxes vascular smooth muscle; the summary slide names guanylyl cyclase activation.",
+      "images": [
+        "nitrates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Organic nitrates produce a nitric-oxide-mediated rise in {{c1::cGMP}}.",
+      "noteId": "coronary-artery-disease-7a182865897882abbab7-note",
+      "id": "coronary-artery-disease-7a182865897882abbab7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Organic nitrates produce a nitric-oxide-mediated rise in {{c1::cGMP}}.",
+      "answer": "cGMP"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 20,
+      "explanation": "Reduced venous return lowers ventricular loading and oxygen demand.",
+      "images": [
+        "nitrates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Nitrate-induced venodilation reduces {{c1::preload}}.",
+      "noteId": "coronary-artery-disease-d5ee0f945a7819dd5872-note",
+      "id": "coronary-artery-disease-d5ee0f945a7819dd5872",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nitrate-induced venodilation reduces {{c1::preload}}.",
+      "answer": "preload"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 20,
+      "explanation": "The ventricle ejects against less resistance.",
+      "images": [
+        "nitrates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Nitrate-induced arterial dilation can reduce {{c1::afterload}}.",
+      "noteId": "coronary-artery-disease-b9bfdb25e89a245cc9e6-note",
+      "id": "coronary-artery-disease-b9bfdb25e89a245cc9e6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nitrate-induced arterial dilation can reduce {{c1::afterload}}.",
+      "answer": "afterload"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 20,
+      "explanation": "This complements the reduction in myocardial loading.",
+      "images": [
+        "nitrates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Dilation of coronary and collateral vessels can improve myocardial {{c1::oxygen supply}}.",
+      "noteId": "coronary-artery-disease-7cadccaa7bc1d6680121-note",
+      "id": "coronary-artery-disease-7cadccaa7bc1d6680121",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dilation of coronary and collateral vessels can improve myocardial {{c1::oxygen supply}}.",
+      "answer": "oxygen supply"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 20,
+      "explanation": "The lecture also names longer-acting isosorbide preparations; this is mechanism revision, not a personal dosing instruction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The nitrate example used sublingually for rapid relief is {{c1::glyceryl trinitrate (GTN)}}.",
+      "noteId": "coronary-artery-disease-697487a7d947f4c3d822-note",
+      "id": "coronary-artery-disease-697487a7d947f4c3d822",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The nitrate example used sublingually for rapid relief is {{c1::glyceryl trinitrate (GTN)}}.",
+      "answer": "glyceryl trinitrate (GTN)"
+    },
+    {
+      "topic": "Beta blockers",
+      "slide": 21,
+      "explanation": "Their anti-anginal benefit includes reducing heart rate and contractility.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Atenolol and bisoprolol antagonise cardiac {{c1::β1-adrenoceptors}}.",
+      "noteId": "coronary-artery-disease-a167c5b2b450fceb0d3e-note",
+      "id": "coronary-artery-disease-a167c5b2b450fceb0d3e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Atenolol and bisoprolol antagonise cardiac {{c1::β1-adrenoceptors}}.",
+      "answer": "β1-adrenoceptors"
+    },
+    {
+      "topic": "Beta blockers",
+      "slide": 21,
+      "explanation": "This is a workload effect rather than a direct increase in coronary flow.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "β1 blockade reduces angina mainly by decreasing myocardial {{c1::oxygen demand}}.",
+      "noteId": "coronary-artery-disease-8d0a0960522a4414c742-note",
+      "id": "coronary-artery-disease-8d0a0960522a4414c742",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "β1 blockade reduces angina mainly by decreasing myocardial {{c1::oxygen demand}}.",
+      "answer": "oxygen demand"
+    },
+    {
+      "topic": "Calcium-channel blockers",
+      "slide": 22,
+      "explanation": "Blocking calcium entry relaxes vascular smooth muscle; cardiac actions differ by drug.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The calcium-channel class targeted by the lecture’s CCBs is {{c1::L-type}}.",
+      "noteId": "coronary-artery-disease-6e97300186d9f1d6486c-note",
+      "id": "coronary-artery-disease-6e97300186d9f1d6486c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The calcium-channel class targeted by the lecture’s CCBs is {{c1::L-type}}.",
+      "answer": "L-type"
+    },
+    {
+      "topic": "Calcium-channel blockers",
+      "slide": 22,
+      "explanation": "The lecture emphasises arteriolar dilation and lower afterload for this subgroup.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Amlodipine is a {{c1::dihydropyridine}} calcium-channel blocker.",
+      "noteId": "coronary-artery-disease-607da86db3ab883daede-note",
+      "id": "coronary-artery-disease-607da86db3ab883daede",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Amlodipine is a {{c1::dihydropyridine}} calcium-channel blocker.",
+      "answer": "dihydropyridine"
+    },
+    {
+      "topic": "Calcium-channel blockers",
+      "slide": 22,
+      "explanation": "Do not assume all dihydropyridines share verapamil’s direct cardiac effects.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Verapamil can reduce heart rate and {{c1::contractility}}.",
+      "noteId": "coronary-artery-disease-6390e9588f453daa3274-note",
+      "id": "coronary-artery-disease-6390e9588f453daa3274",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Verapamil can reduce heart rate and {{c1::contractility}}.",
+      "answer": "contractility"
+    },
+    {
+      "topic": "Calcium-channel blockers",
+      "slide": 22,
+      "explanation": "Increasing afterload is the incorrect effect in the lecture’s MCQ.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Arteriolar dilation by a CCB lowers {{c1::afterload}}.",
+      "noteId": "coronary-artery-disease-429465d1ba2fcbb8b7e5-note",
+      "id": "coronary-artery-disease-429465d1ba2fcbb8b7e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Arteriolar dilation by a CCB lowers {{c1::afterload}}.",
+      "answer": "afterload"
+    },
+    {
+      "topic": "Ivabradine",
+      "slide": 23,
+      "explanation": "This slows spontaneous pacemaker depolarisation.",
+      "images": [
+        "ivabradine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ivabradine inhibits the sinoatrial {{c1::If pacemaker current}}.",
+      "noteId": "coronary-artery-disease-7a7ac8eef51dcea746a4-note",
+      "id": "coronary-artery-disease-7a7ac8eef51dcea746a4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ivabradine inhibits the sinoatrial {{c1::If pacemaker current}}.",
+      "answer": "If pacemaker current"
+    },
+    {
+      "topic": "Nicorandil",
+      "slide": 24,
+      "explanation": "These actions reduce myocardial demand and can improve coronary supply.",
+      "images": [
+        "nicorandil"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Nicorandil combines nitrate-like activity with {{c1::potassium-channel opening}}.",
+      "noteId": "coronary-artery-disease-16aae0974ba476d4994d-note",
+      "id": "coronary-artery-disease-16aae0974ba476d4994d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nicorandil combines nitrate-like activity with {{c1::potassium-channel opening}}.",
+      "answer": "potassium-channel opening"
+    },
+    {
+      "topic": "Nicorandil",
+      "slide": 24,
+      "explanation": "Reduced activation of voltage-dependent L-type calcium channels favours relaxation.",
+      "images": [
+        "nicorandil"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Opening vascular potassium channels causes {{c1::hyperpolarisation}}.",
+      "noteId": "coronary-artery-disease-bc494b0a15e8b96e151b-note",
+      "id": "coronary-artery-disease-bc494b0a15e8b96e151b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Opening vascular potassium channels causes {{c1::hyperpolarisation}}.",
+      "answer": "hyperpolarisation"
+    },
+    {
+      "topic": "Ranolazine",
+      "slide": 25,
+      "explanation": "It reduces sodium loading and the associated calcium overload.",
+      "images": [
+        "ranolazine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ranolazine inhibits the myocardial {{c1::late sodium current}}.",
+      "noteId": "coronary-artery-disease-bd4818d366ffce63dc8b-note",
+      "id": "coronary-artery-disease-bd4818d366ffce63dc8b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ranolazine inhibits the myocardial {{c1::late sodium current}}.",
+      "answer": "late sodium current"
+    },
+    {
+      "topic": "Ranolazine",
+      "slide": 25,
+      "explanation": "Less diastolic compression can improve myocardial perfusion.",
+      "images": [
+        "ranolazine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reducing calcium overload with ranolazine improves ventricular {{c1::relaxation}}.",
+      "noteId": "coronary-artery-disease-8f1ebe11c1eae506e7db-note",
+      "id": "coronary-artery-disease-8f1ebe11c1eae506e7db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reducing calcium overload with ranolazine improves ventricular {{c1::relaxation}}.",
+      "answer": "relaxation"
+    },
+    {
+      "topic": "Coronary perfusion",
+      "slide": 25,
+      "explanation": "The slide connects improved relaxation with better perfusion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Coronary flow to the left ventricular myocardium is greatest during {{c1::diastole}}.",
+      "noteId": "coronary-artery-disease-b99dd3b3a5bb5fe7bee0-note",
+      "id": "coronary-artery-disease-b99dd3b3a5bb5fe7bee0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Coronary flow to the left ventricular myocardium is greatest during {{c1::diastole}}.",
+      "answer": "diastole"
+    },
+    {
+      "topic": "Ranolazine",
+      "slide": 26,
+      "explanation": "The annotated diagram abbreviates this as NCX inhibition; the mechanism concerns exchanger driving force, not direct NCX blockade by ranolazine.",
+      "images": [
+        "ranolazine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Sodium overload impairs the normal sodium gradient supporting {{c1::calcium extrusion by NCX}}.",
+      "noteId": "coronary-artery-disease-4bf66ee579113a16a21f-note",
+      "id": "coronary-artery-disease-4bf66ee579113a16a21f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sodium overload impairs the normal sodium gradient supporting {{c1::calcium extrusion by NCX}}.",
+      "answer": "calcium extrusion by NCX"
+    },
+    {
+      "topic": "Trimetazidine",
+      "slide": 27,
+      "explanation": "The lecture describes inhibition of fatty-acid oxidation.",
+      "images": [
+        "metabolic-shift"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The enzyme target named for trimetazidine is {{c1::long-chain 3-ketoacyl-CoA thiolase (LC 3-KAT)}}.",
+      "noteId": "coronary-artery-disease-d8222a0a089621594f54-note",
+      "id": "coronary-artery-disease-d8222a0a089621594f54",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The enzyme target named for trimetazidine is {{c1::long-chain 3-ketoacyl-CoA thiolase (LC 3-KAT)}}.",
+      "answer": "long-chain 3-ketoacyl-CoA thiolase (LC 3-KAT)"
+    },
+    {
+      "topic": "Trimetazidine",
+      "slide": 27,
+      "explanation": "Glucose oxidation requires less oxygen per equivalent ATP produced in the lecture’s comparison.",
+      "images": [
+        "metabolic-shift"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Trimetazidine shifts energy use from fatty-acid oxidation towards {{c1::glucose oxidation}}.",
+      "noteId": "coronary-artery-disease-094a62b2215651b691ad-note",
+      "id": "coronary-artery-disease-094a62b2215651b691ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Trimetazidine shifts energy use from fatty-acid oxidation towards {{c1::glucose oxidation}}.",
+      "answer": "glucose oxidation"
+    },
+    {
+      "topic": "Long-term management",
+      "slide": 28,
+      "explanation": "This addresses thrombosis risk, whereas symptom relief and event prevention are different treatment goals.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Aspirin and clopidogrel reduce coronary events through {{c1::antiplatelet}} activity.",
+      "noteId": "coronary-artery-disease-1452a831e693282dfb9f-note",
+      "id": "coronary-artery-disease-1452a831e693282dfb9f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Aspirin and clopidogrel reduce coronary events through {{c1::antiplatelet}} activity.",
+      "answer": "antiplatelet"
+    },
+    {
+      "topic": "Long-term management",
+      "slide": 28,
+      "explanation": "The slide also notes anti-inflammatory actions.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Atorvastatin is used to lower cholesterol and help stabilise {{c1::atherosclerotic plaques}}.",
+      "noteId": "coronary-artery-disease-0d2a12b651541025cad6-note",
+      "id": "coronary-artery-disease-0d2a12b651541025cad6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Atorvastatin is used to lower cholesterol and help stabilise {{c1::atherosclerotic plaques}}.",
+      "answer": "atherosclerotic plaques"
+    },
+    {
+      "topic": "Long-term management",
+      "slide": 28,
+      "explanation": "CABG instead creates a bypass route; the two procedures are not the same.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "PCI opens a narrowed coronary vessel using angioplasty and often a {{c1::stent}}.",
+      "noteId": "coronary-artery-disease-48c4cf37ea8ab7a4d0a9-note",
+      "id": "coronary-artery-disease-48c4cf37ea8ab7a4d0a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "PCI opens a narrowed coronary vessel using angioplasty and often a {{c1::stent}}.",
+      "answer": "stent"
+    },
+    {
+      "topic": "Acute-care principles",
+      "slide": 29,
+      "explanation": "MONA-BASH is a memory aid, not a universal treatment sequence or a mandate to give every component.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture limits supplemental oxygen in acute MI to patients who are {{c1::hypoxic}}.",
+      "noteId": "coronary-artery-disease-3036ab3daa5a2946c625-note",
+      "id": "coronary-artery-disease-3036ab3daa5a2946c625",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture limits supplemental oxygen in acute MI to patients who are {{c1::hypoxic}}.",
+      "answer": "hypoxic"
+    },
+    {
+      "topic": "Acute-care principles",
+      "slide": 29,
+      "explanation": "The annotation explicitly states that it is not routinely required.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Morphine is described as {{c1::selective rather than routine}} treatment for severe pain or anxiety in acute MI.",
+      "noteId": "coronary-artery-disease-88c8125e12e9bf5b3400-note",
+      "id": "coronary-artery-disease-88c8125e12e9bf5b3400",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Morphine is described as {{c1::selective rather than routine}} treatment for severe pain or anxiety in acute MI.",
+      "answer": "selective rather than routine"
+    },
+    {
+      "topic": "Acute-care principles",
+      "slide": 29,
+      "explanation": "It is an anticoagulant, distinct from the antiplatelet actions of aspirin.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Heparin’s antithrombotic role is to prevent propagation of the coronary {{c1::thrombus}}.",
+      "noteId": "coronary-artery-disease-3e2512647293f87f64a8-note",
+      "id": "coronary-artery-disease-3e2512647293f87f64a8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Heparin’s antithrombotic role is to prevent propagation of the coronary {{c1::thrombus}}.",
+      "answer": "thrombus"
+    },
+    {
+      "topic": "Organic nitrates",
+      "slide": 32,
+      "explanation": "They are consistent with systemic vasodilation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Headache and hypotension are adverse effects associated with {{c1::GTN}} in the identification exercise.",
+      "noteId": "coronary-artery-disease-12db42363aa5ebb7461a-note",
+      "id": "coronary-artery-disease-12db42363aa5ebb7461a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Headache and hypotension are adverse effects associated with {{c1::GTN}} in the identification exercise.",
+      "answer": "GTN"
+    },
+    {
+      "topic": "Ivabradine",
+      "slide": 32,
+      "explanation": "The drug-identification exercise highlights this distinction.",
+      "images": [
+        "ivabradine"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Unlike a β-blocker, ivabradine lowers heart rate without a direct reduction in {{c1::contractility}}.",
+      "noteId": "coronary-artery-disease-6237d4f065f37c4241b2-note",
+      "id": "coronary-artery-disease-6237d4f065f37c4241b2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Unlike a β-blocker, ivabradine lowers heart rate without a direct reduction in {{c1::contractility}}.",
+      "answer": "contractility"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 1",
+      "text": "Coronary artery Diseases\nand \nAnti-anginal drugs\nRecorded PowerPoint lectures are also available for this lecture on Canvas\nDr Sumangali Wijetunge\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 2",
+      "text": "Learning Outcomes\nBy the end of the lecture, you should be able to:\n• Define coronary artery disease (CAD)\n• Describe the pathophysiology of atherosclerosis\n• Explain how and imbalance between myocardial oxygen supply \nand demand contributes to angina. \n• Describe the clinical features of stable angina\n• Explain the pharmacological principles/targets underlying the \ntreatment of stable angina. \n• Describe the mechanisms of action of major anti-anginal drugs\n• β-adrenoceptor blockers \n• Organic nitrates \n• Calcium-channel blockers\n• Ivabradine \n• Others -nicorandil and ranolazine, trimetazididne\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 3",
+      "text": "• leading cause of death worldwide. \n• Responsible for ~ 70,000 deaths in the UK each year (one death every eight minutes). \nCoronary artery disease\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 4",
+      "text": "Coronary Artery disease (CAD) \n(Ischaemic heart disease (IHD), coronary heart disease)\nImpedance of one or more coronary arteries that supply blood to \nthe heart  \n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 5",
+      "text": "Pathophysiology of CAD\n• Primarily caused by atherosclerosis\n•\nChronic disease\n•\nfat/cholesterol deposition, calcium\n•\nFocal fibroproliferative disease \n•\nLarge and medium sized arteries\n•\nInflammatory disease\n•\nNarrowing & hardening of arteries\n• Imbalance of O2 demand versus O2 supply to the myocardium\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 6",
+      "text": "Scavenger receptors on \nmacrophages bind to oxidised \nLDL\nFibrous cap\nAdhesion \nmolecules\nCytokines    \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\nFoam cell\nmacrophage\nVascular smooth muscle cells\nLumen of artery\nIntima\nMedia\nendothelium\nmonocytes\nLow density \nlipoproteins LDL\nplatelets\noxLDL\nThrombus \n(blood clot)\nCore of plaque\n12\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 7",
+      "text": "Key to diagram\n1. Endothelial damage (hypertension, smoking, diabetes)→ ↑ permeability to LDL, ↓NO \nproduction \n2. Monocytes adhere to adhesion molecules (eg vascular cell adhesion molecule -1/ VCAM1) \nand infiltrates into intima\n3. Monocytes differentiate into macrophages which contain scavenger receptors on surface\n4. LDL (low density lipoprotein) becomes oxidised (Ox-LDL) by free radicals released by \nmacrophages\n5. Scavenger receptors recognise oxidised LDL. Ox-LDL engulfed by macrophages. \n6. These become foam cells containing cholesterol  derived form LDL –\nFoam cells + inflammatory cells create Fatty streak \n7. Macrophages release cytokines such as interleukins (eg IL-1β, TNFα)\n8. Vascular smooth muscle cells migrate into the intima from the medial layer (Media) & \nproliferate. \n9. Connective tissue eg collagen, elastin is deposited. \n10. Connective tissue and vascular smooth muscle cell form a fibrous cap around the core of \nthe plaque \n11. Core of the plaque: foam cells, cellular debris and fatty material released from dead foam \ncells.\n12. Rupture of fibrous cap leads to platelet adhesion and aggregation and  thrombus (blood \nclot) formation leading to narrowing of lumen and ischaemic disease\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 8",
+      "text": "Fixed plaque \n(intact fibrous cap)\nStable angina \nNormal coronary \nartery\nPlaque rupture and \nthrombus formation \nUnstable angina & Myocardial infarction (MI)\n(Acute Coronary Syndromes)\nClassification of Coronary artery disease          \n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 9",
+      "text": "Stable angina\nChest pain due to reversible ischemia of myocardium\nAngina pectoris \nChest pain or discomfort due to ischaemia (lack of O2) of the \nmyocardium\nWhat are the signs and symptoms?\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 10",
+      "text": "In Stable angina, why is there pain only in physical \nexertion or excitement etc ?\n• At rest, blood flow to the myocardium is sufficient through \nthe narrowed coronary artery. Enough O2 is supplied\n• During exercise etc - inability of coronary blood flow to \nincrease sufficiently, to meet the increased metabolic \ndemands of the heart (increased O2 requirement during \nexercise, excitement).\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 11",
+      "text": "What factors may increase myocardial O2 consumption during exercise? \n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 12",
+      "text": "Imbalance between O2 demand and O2 supply\nMyocardial oxygen supply\nMyocardial oxygen demand\nNormal \nheart\nmyocardial \nischaemia\nReduced O2 supply\nIncreased O2 demand\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 13",
+      "text": "Preload:\nVolume of blood in ventricle \nat end of diastole/initial \nlength of muscle fibre\nEg: increased venous return\nAfterload:\nResistance against left \nventricle to eject blood\nEg aortic narrowing \n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 14",
+      "text": "A. Coronary blood flow cannot increase sufficiently to meet oxygen demand \nB. During exercise, myocardial oxygen demand increases \nC. Atherosclerotic plaque develops in a coronary artery \nD. Coronary artery lumen becomes narrowed \nE. Chest discomfort/pain (angina) occurs \nF. Myocardial ischaemia develops \nArrange these events in the correct order on how a patient develops chest pain during \nexercise\nWhich two physiological factors could you pharmacologically target to reduce angina?\n•\nReduced myocardial blood supply\n•\nIncreased O2 demand/consumption\nAnswer:\n1. Atherosclerotic plaque develops in a coronary artery\n2. Coronary artery lumen becomes narrowed\n3. During exercise, myocardial oxygen demand increases\n4. Coronary blood flow cannot increase sufficiently to meet oxygen demand\n5. Myocardial ischaemia develops\n6. Chest discomfort/pain (angina) occurs\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 15",
+      "text": "Angina\nMI\nNarrowing of coronary artery(s)\nPartial or complete blockage\nFixed plaque\nRupture of plaque with thrombus formation\nSite of pain  retrosternal, radiate to arm, \nneck \nsimilar\nSeverity of pain mild/moderate\nSevere, excruciating pain\nPrecipitated by exercise/excitement, stress\nOften no obvious precipitant/ early morning\nPain relieved by rest\nNot relieved by rest\nNo nausea/vomiting, mild or no anxiety\nUsually associated with nausea/vomiting \nand anxiety\nNo myocardial cell death\nMyocardial cell death (infarct)\nECG normal or transient ST depression\nST segment changes\nTroponin level- normal\nincreased\nUsually no scar tissue\nScar tissue\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 16",
+      "text": "Lipoproteins particles made of (lipids) and protein that transport cholesterol and \ntriglycerides in blood\n•\nLow-Density Lipoprotein (LDL): \"bad cholesterol\", delivers cholesterol to tissues.  \nInitiates atherosclerosis.\n•\nHigh-Density Lipoprotein (HDL): \"good cholesterol\",  removes extra cholesterol from \nblood and delivers to liver. Reduces risk of atherosclerosis\nAtherogenic Triad\n↓ HDL\n↑ LDL\n↑ TG \n(Triglycerides)\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 17",
+      "text": "Non modifiable:\n•\nAge \n•\nGender Men > women\n•\nGenetics – eg; familial hypercholesterolaemia\nRisk factors for coronary artery disease:\nModifiable\n•\nHigh total blood cholesterol & increased LDL\n•\nHigh Triglyceride (TG)\n•\nDecreased HDL  \n•\nHigh BP\n•\nPhysical inactivity\n•\nObesity, Diabetes \n•\nSmoking ↓HDL and ↑LDL, endothelial injury\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 18",
+      "text": "Activity:\nWhat are the optimal/desirable blood levels of the following \nlipids/lipoproteins\nMg/dl\nMmol/L\nTotal cholesterol\n<200\n<5\nLDL\n<115\n<3\nHDL\n> 40\n>1\nTriglycerides (fasting)\n<150\n<1.7\nNo-HDL cholesterol\n<150\n<4\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 19",
+      "text": "Anti-Angina drugs\nTreatment aimed at:\n• Increasing coronary blood flow (increasing O2 supply to \nmyocardium)\n• Reducing O2 demand/cardiac workload\nMyocardial oxygen supply\nMyocardial oxygen demand\nCoronary blood flow\n↓ Heart rate\n↓  Preload\n↓ Afterload\n↓Contractility\nReduce O2 demand\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 20",
+      "text": "Organic nitrates: \nGlyceryl trinitrate (GTN)\nBeneficial actions of nitrates in alleviating angina\n1. Venodilatation\n2. Arterial dilatation\n3. Coronary artery dilatation\n4. Collateral artery dilatation\nNitric oxide\n↑ cGMP\nRelaxation of vascular smooth muscle \ncells (Vasodilation)\nGlyceryl trinitrate (nitroglycerine) (sublingual)\nIsosorbide mononitrate, Isosorbide dinitrate (oral, patches)\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 21",
+      "text": "β-adrenoceptor antagonists\nAnti-anginal effects:\n(Atenolol, bisoprolol )\nBocks beta-1 adrenoceptors in heart  \n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 22",
+      "text": "Beneficial effects of CCBs in angina\n• Reduces  contractility (verapamil):\n• Arteriolar dilation (DHP) \n• Coronary artery dilatation\n•\nReduces heart rate (verapamil):\nCalcium channel blockers (CCBs)\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 23",
+      "text": "Ivabradine\nblocks If channel (cardiac pacemaker current)  \nCation channel responsible for the slow depolarization in the sinoatrial \nnode action potential (refer to lecture notes on action potential LS4004). \nSlows heart rate →reduce cardiac workload/O2 demand\nCan be used as alternative to β-blocker\nIf current (Na+)\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 24",
+      "text": "Nicorandil\nNitrate-like \naction\nPotassium channel \nopener\nvenodilation\nCoronary artery \ndilation\n↓ preload\nIncreased \nmyocardial \nO2 supply\nPeripheral \narteriolar dilation\nCoronary artery \ndilation\nIncreased \nmyocardial O2 \nsupply\n↓ afterload\nDecreased \nmyocardial O2\ndemand\nDecreased myocardial \nO2 demand\n(Hyperpolarize \nvascular smooth \nmuscle cells\nInhibit L-type Ca \nchannels)\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 25",
+      "text": "Ranolazine\n(blocks late Na+ current in myocardium)\nInhibits  Na+/Ca2+ exchanger   \nCa2+ will not be extruded out \nof cell\nIncreased expression of Late \nNa+ current in ischaemic \nmyocardium\nNa+ overload in myocardial cells\nCa2+ overload in myocardial cells\n•\nImpaired ventricular relaxation\n•\nExtravascular compression\nReduced myocardial perfusion\nLess O2 supply\nFurther ischaemia\nNa+ influx\nRanolazine prevents accumulation of \nCa2+  in ischaemic myocardium.\n•\nimproves relaxation\n•\nimproves coronary blood flow \n(note: coronary blood flow is \ngreatest during diastole)\nIschaemic heart\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 26",
+      "text": "",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 27",
+      "text": "Ischemic Myocardium ] (Low Oxygen)\nFree fatty acid β oxidation \nlong-chain 3-ketoacyl \nCoA thiolase (LC 3-KAT).\nATP\nTRIMETAZIDINE \n(inhibits LC 3-KAT)\n↑ Glucose Oxidation \n(Consumes less O₂ per ATP)\nATP\n(Consumes more O2)\nNormal heart derives 2/3rd of ATP from fatty acid oxidation (FAO). 1/3 from glucose \noxidation.\nFAO requires a greater amount of O2 than glucose metabolism to produce an equivalent \namount of ATP (Glucose metabolism is ‘oxygen sparing’ ).\nIn myocardial ischaemia when there is a low availability of O2,  glucose oxidation is more \nfavourable than FAO .\nTrimetazidine shifts the myocardial energy source from FAO to glucose oxidation,  \nreducing O2 demand\nTrimetazidine (TMZ):  Fatty Acid oxidation inhibitor\nmain ATP sources in \nnormal conditions\nTrimetazidine is also has cytoprotective effects on the heart cell, . reducing acidosis, and preventing \nthe accumulation of harmful byproducts of fatty acid metabolism during ischemic conditions.\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 28",
+      "text": "Long-term management aims:\nImproving quality of life \nPreventing angina episodes\nReducing the risk of MI\nLife style adjustments: Diet and exercise, stopping smoking etc\nPreventive Medications (reduce risk of MI or heart failure):\n• Antiplatelet Agents (Aspirin, Clopidogrel): Help prevent formation of blood clots, reduce risk of MI\n• Statins (e.g. Atorvastatin): Lower cholesterol levels, reduce inflammation, and stabilize \natherosclerotic plaques.\n• ACE Inhibitors/ARBs (e.g., Lisinopril, Losartan): Lower blood pressure, reduce workload on heart, \nand protects kidneys, especially in patients with diabetes or hypertension.\nInterventional Procedures\n• Percutaneous Coronary Intervention (PCI):  (angioplasty \nand stenting)\n• Coronary Artery Bypass Grafting (CABG)\n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 29",
+      "text": "MONA-BASH\nB.  Beta blocker\nA. ACEI\nS. Statin\nH.  Heparin\nM. Relieves severe pain and anxiety; not \nroutinely required and used selectively\nO. Used when the patient is hypoxic;\nN. vasodilator \nA. Aspirin-Reduces platelet aggregation and \nprevents further coronary thrombus \nformation\nASA=Acetyl salicylic acid (aspirin)\nB. ↓myocardial O2  \ndemand and risk of \narrhythmias. \nA.\n↓afterload \n↓ventricular remodelling; \nparticularly important after \nMI\nS. ↓further atherosclerotic \ncardiovascular events\nH. Prevents propagation of \nthe coronary thrombus\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 30",
+      "text": "Myocardial oxygen supply\nMyocardial oxygen demand\nCoronary blood flow\nnitrates\n↓ Heart rate\n↓  Preload\n↓ Afterload \n↓Contractility\nReduce O2 demand\nActivity: In the diagram, mark with arrows the how different \nantianginal drugs act. \nBeta blockers\nivabradine\nCCBs \nnicorandil\nranolazine\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 31",
+      "text": "Activity; Match mechanism of action to example of drug\nBeta adrenoceptor blocker\nCalcium channel blocker\nIf current blocker\nLate Na current inhibitor\nPotassium channel opener\nVenodilator\nFatty acid oxidation inhibitor\nGlyceryl trinitrate\nAtenolol\nivabradine\nTrimetazidine\nNicorandil\nverapamil\nRanolazine\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 32",
+      "text": "Activity:  \"Who am I?“\n(identify the drug)\nDrug A\n•\nReduces heart rate \n•\nReduces contractility \n•\nReduces myocardial oxygen demand \n•\nCan cause bradycardia                                                    Answer: β-blocker\nDrug B\n• Causes venodilation\n• Reduces preload \n• Increases cGMP \n• Useful for rapid relief of angina \n• Can cause headache and hypotension                        Answer: GTN\nDrug C\n• Selectively reduces heart rate \n• Acts at the SA node \n• Does not reduce contractility \n• Useful when β-blockers are unsuitable                Answer: Ivabradine\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 33",
+      "text": "Drug class (example)\nMechanism of action (cellular)\nMechanism of action (Pharmaclogical/physiological) \n(disease/symptom  releiving actions)\nOrganic nitrates (GTN)\nNitric oxide (NO) donor, activates \nguanylcyclase, increase cGMP, relaxes \nvascular smooth muscle\n•\nVenous dilation -↓ preload \n  ↓ cardiac workload/O2 consumption\n•\nArterial dilation- ↓ afterload              ↓Reduce cardiac \nworkload/O2 consumption\n•\nCoronary artery and collateral vessel dialation- \n↑myocardial blood supply\nCalcium channel blockers\n•Dihydropiridines \n(amlodipine)\n• Verapamil\n• Diltiazem\nBeta blockers\nivabradine\nRanolazine\nnicorandil\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 34",
+      "text": "1.\nWhich of the following is NOT a risk factors for coronary artery disease?\nA. Decreased triglyceride level\nB. Hypertension\nC. Diabetes\nD. Increased LDL levels\nE. Obesity\n2. Which of the following best describes stable angina?\nA.\nChest pain that occurs upon exertion, that resolves when physical activity is continued or \nincreased\nB.\nChest pain that occurs upon exertion, that is not limiting, allows the person to continue \nphysical activity unlimited.\nC.\nChest pain that occurs upon exertion that resolves upon cessation of physical activity.\nD.\nChest pain that occurs at rest, but continues upon physical exertion.\nE.\nChest pain that occurs at rest that resolves upon physical activity\n3. Factors that may increase myocardial oxygen consumption include:\nA.\nDecreased heart rate\nB.\nIncreased aortic resistance\nC.\nDecreased myocardial contractility\nD.\nDecreased venous return\nE.\nNone of the above\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 35",
+      "text": "4. Drugs that may be used to treat stable angina include:\nA.\nIvabradine\nB.\nAtenolol\nC.\nVerapamil\nD.\nglyceryl trinitrate\nE.\nAll of the above\n5. Atenolol reduces myocardial O2 consumption by:\nA.\nVasodilation\nB.\nVasoconstriction\nC.\ndecreasing heart rate and vasoconstriction\nD.\ndecreasing heart rate\nE.\nincreasing contractility\n6. Beneficial effects of calcium channel blockers do NOT include\nA. decreased heart rate\nB. Increased afterload\nC. Vasodilatation\nD. decreased contractility\nE. Decreased blood pressure\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Coronary Artery Disease & Anti-anginal Drugs — page 36",
+      "text": "Multiple Choice questions on Angina/anti-anginal drugs: System \nPharmacology (LS5010_ALL_TY13_23) (kingston.ac.uk)\nRevision questions on stable angina and anti-anginal drugs: System \nPharmacology (LS5010_ALL_TY13_23) (kingston.ac.uk)\nDo these practice questions on Canvas\nFurther reading\nRang & Dale’s Pharmacology. 10th Ed. Chapter 22\nAmbrose JA, Singh M. F1000Prime Rep. 2015 Jan 14;7:08. doi: 10.12703/P7-08. eCollection 2015.\nPathophysiology of coronary artery disease leading to acute coronary syndromes.\nJones DA et al., 2013. Novel drugs for treating angina. BMJ. 347, 34-37.\nG. Hasenfuss and L. S. Maier. Mechanism of action of the new anti-ischemia drug ranolazine. Clin Res \nCardiol. 2008 Apr; 97(4): 222–226. \nSulfi S1, Timmis AD. Ivabradine -- the first selective sinus node I(f) channel inhibitor in the treatment \nof stable angina. Int J Clin Pract. 2006 Feb;60(2):222-8.\n",
+      "images": [
+        "page-36"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "coronary-artery-disease/page-1.jpg",
+    "page-2": "coronary-artery-disease/page-2.jpg",
+    "page-3": "coronary-artery-disease/page-3.jpg",
+    "page-4": "coronary-artery-disease/page-4.jpg",
+    "page-5": "coronary-artery-disease/page-5.jpg",
+    "page-6": "coronary-artery-disease/page-6.jpg",
+    "page-7": "coronary-artery-disease/page-7.jpg",
+    "page-8": "coronary-artery-disease/page-8.jpg",
+    "page-9": "coronary-artery-disease/page-9.jpg",
+    "page-10": "coronary-artery-disease/page-10.jpg",
+    "page-11": "coronary-artery-disease/page-11.jpg",
+    "page-12": "coronary-artery-disease/page-12.jpg",
+    "page-13": "coronary-artery-disease/page-13.jpg",
+    "page-14": "coronary-artery-disease/page-14.jpg",
+    "page-15": "coronary-artery-disease/page-15.jpg",
+    "page-16": "coronary-artery-disease/page-16.jpg",
+    "page-17": "coronary-artery-disease/page-17.jpg",
+    "page-18": "coronary-artery-disease/page-18.jpg",
+    "page-19": "coronary-artery-disease/page-19.jpg",
+    "page-20": "coronary-artery-disease/page-20.jpg",
+    "page-21": "coronary-artery-disease/page-21.jpg",
+    "page-22": "coronary-artery-disease/page-22.jpg",
+    "page-23": "coronary-artery-disease/page-23.jpg",
+    "page-24": "coronary-artery-disease/page-24.jpg",
+    "page-25": "coronary-artery-disease/page-25.jpg",
+    "page-26": "coronary-artery-disease/page-26.jpg",
+    "page-27": "coronary-artery-disease/page-27.jpg",
+    "page-28": "coronary-artery-disease/page-28.jpg",
+    "page-29": "coronary-artery-disease/page-29.jpg",
+    "page-30": "coronary-artery-disease/page-30.jpg",
+    "page-31": "coronary-artery-disease/page-31.jpg",
+    "page-32": "coronary-artery-disease/page-32.jpg",
+    "page-33": "coronary-artery-disease/page-33.jpg",
+    "page-34": "coronary-artery-disease/page-34.jpg",
+    "page-35": "coronary-artery-disease/page-35.jpg",
+    "page-36": "coronary-artery-disease/page-36.jpg",
+    "plaque": "coronary-artery-disease/plaque.jpg",
+    "balance": "coronary-artery-disease/balance.jpg",
+    "loading": "coronary-artery-disease/loading.jpg",
+    "nitrates": "coronary-artery-disease/nitrates.jpg",
+    "ivabradine": "coronary-artery-disease/ivabradine.jpg",
+    "nicorandil": "coronary-artery-disease/nicorandil.jpg",
+    "ranolazine": "coronary-artery-disease/ranolazine.jpg",
+    "metabolic-shift": "coronary-artery-disease/metabolic-shift.jpg"
+  }
+}

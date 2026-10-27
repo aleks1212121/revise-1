@@ -34,7 +34,8 @@
     "test:assistant:browser": "node scripts/check-assistant.cjs",
     "test:worker:cli": "python scripts/check-slide-worker.py",
     "test:notifications:browser": "node scripts/check-notifications.cjs",
-    "test:personal-chatgpt:browser": "node scripts/check-personal-chatgpt.cjs"
+    "test:personal-chatgpt:browser": "node scripts/check-personal-chatgpt.cjs",
+    "test:cardiovascular:browser": "node scripts/check-cardiovascular-decks.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",
