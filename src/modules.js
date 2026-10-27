@@ -3,7 +3,6 @@ export const DEFAULT_MODULES=[
  {id:'infection-immunity',name:'Infection and Immunity',code:'LS5008'},
  {id:'medical-genetics',name:'Medical Genetics',code:'LS5023'},
  {id:'physiology-research',name:'Medical Physiology, Research Methods and Skills',code:'LS5034'},
- {id:'system-pharmacology',name:'System Pharmacology',code:'LS5010'},
 ];
 export const MODULES=DEFAULT_MODULES.map(m=>({...m}));
 // Course codes identify modules; lecture names must not create separate groups.
@@ -26,10 +25,16 @@ export function moduleRegistry(state={},deleted=false,lectures=[]){
  return {modules,aliases};
 }
 let moduleAliases=new Map();
-export function canonicalModuleId(id){return moduleAliases.get(id)||id||''}
+export function canonicalModuleId(id){return id==='system-pharmacology'?'physiology-research':moduleAliases.get(id)||id||''}
 export function configureModules(state={},lectures=[]){const registry=moduleRegistry(state,false,lectures);moduleAliases=registry.aliases;MODULES.splice(0,MODULES.length,...registry.modules)}
-const bundled={'coronary-artery-disease':'system-pharmacology','anti-obesity-drugs':'system-pharmacology','heart-failure':'system-pharmacology','cardiovascular-practical':'physiology-research',neoplasia:'pathobiology','microbiology-practical':'infection-immunity','breast-cancer-revision':'pathobiology','breast-cancer-practical':'pathobiology','cell-injury':'pathobiology','cell-injury-2':'pathobiology','cell-death':'pathobiology',microorganisms:'infection-immunity','genetic-variation':'medical-genetics',viruses:'infection-immunity'};
+const bundled={'coronary-artery-disease':'physiology-research','anti-obesity-drugs':'physiology-research','heart-failure':'physiology-research','cardiovascular-practical':'physiology-research',neoplasia:'pathobiology','microbiology-practical':'infection-immunity','breast-cancer-revision':'pathobiology','breast-cancer-practical':'pathobiology','cell-injury':'pathobiology','cell-injury-2':'pathobiology','cell-death':'pathobiology',microorganisms:'infection-immunity','genetic-variation':'medical-genetics',viruses:'infection-immunity'};
 export function moduleFor(lecture){const id=Object.hasOwn(lecture,'moduleId')?lecture.moduleId:bundled[lecture.lectureId];const canonical=canonicalModuleId(id);return MODULES.some(m=>m.id===canonical)?canonical:''}
 export function moduleOptions(selected,esc,modules=MODULES){return `<option value="" ${!selected?'selected':''}>Unassigned</option>`+modules.map(m=>`<option value="${esc(m.id)}" ${selected===m.id?'selected':''}>${esc(m.name)}${m.code?` (${esc(m.code)})`:''}</option>`).join('')}
 export function moduleTotals(lectures,id){const group=lectures.filter(l=>moduleFor(l)===id);const total=group.reduce((s,l)=>s+l.count,0),studied=group.reduce((s,l)=>s+(l.studied||0),0);return {lectures:group.length,total,studied,percent:total?Math.round(studied/total*100):0}}
 export function modulesWorkspace(lectures,esc,user=null){return `<section class="modules-workspace"><span class="eyebrow">YOUR MODULES</span><h2>Pick a module.</h2><p>Keep your lectures together and see your progress across each module.</p>${user?`<form id="create-module" class="workspace-panel personal-module-form"><h3>Create a personal module</h3><p>Visible only in your account and synced across your devices.</p><label>Module name<input name="name" required maxlength="100" placeholder="e.g. Neuroscience"></label><label>Module code (optional)<input name="code" maxlength="30" placeholder="e.g. LS5010"></label><button class="button primary">Create module</button></form>`:'<p>Create your own modules with an account. <button class="text-button" data-view="account">Sign in</button></p>'}<button class="button subtle" data-view="trash">Open Trash</button><div class="module-grid">${MODULES.map(m=>{const p=moduleTotals(lectures,m.id);return `<article class="module-entry"><button class="module-tile" data-module="${esc(m.id)}"><span class="module-code">${esc(m.code||'PERSONAL MODULE')}</span><h3>${esc(m.name)}</h3><p>${p.lectures} lecture${p.lectures===1?'':'s'} · ${p.total} cards</p><div class="module-progress-label"><span>${p.studied} cards studied</span><strong>${p.percent}%</strong></div><div class="progress"><i style="width:${p.percent}%"></i></div><span class="module-open">View lectures →</span></button><button type="button" class="button subtle module-summary-button" data-summary-module="${esc(m.id)}">Quick summary</button><button class="text-button" data-delete-module="${esc(m.id)}">Move to Trash</button></article>`}).join('')}</div>${lectures.some(l=>!moduleFor(l))?`<button class="button subtle" data-module="unassigned">Unassigned lectures (${lectures.filter(l=>!moduleFor(l)).length}) →</button>`:''}</section>`}
+
+// Correct the retired module assignment, preserving every card and review field.
+export function correctLectureModule(deck){
+ if(deck?.moduleId!=='system-pharmacology')return deck;
+ return {...deck,moduleId:'physiology-research',moduleCode:'LS5034',moduleName:'Medical Physiology, Research Methods and Skills'};
+}

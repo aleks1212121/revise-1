@@ -1,5 +1,5 @@
 import {INJURY_SOURCE,injuryId,partNumber,injuryPart,projectInjury,combineInjury} from './injury-parts.js';
-import {moduleFor} from './modules.js';
+import {moduleFor,correctLectureModule} from './modules.js';
 import {lectureProgress} from './lecture-progress.js';
 import {stampChanges,mergeDecks,equivalent,cloudPayload} from './sync-model.js';
 import {WORKSPACE_ID,emptyWorkspace,lectureTrashed} from './workspace-state.js';
@@ -9,6 +9,16 @@ export function setStorageScope(userId=''){if(userId&&!/^[a-zA-Z0-9-]+$/.test(us
 const key=(name,scope=activeScope)=>scope?`user:${scope}:${name}`:name;
 function database(){return new Promise((resolve,reject)=>{const req=indexedDB.open('micro-flashcards',1);req.onupgradeneeded=()=>req.result.createObjectStore('decks');req.onsuccess=()=>resolve(req.result);req.onerror=()=>reject(req.error)})}
 async function read(name,scope=activeScope){const db=await database();try{return await new Promise((resolve,reject)=>{const req=db.transaction('decks').objectStore('decks').get(key(name,scope));req.onsuccess=()=>resolve(req.result);req.onerror=()=>reject(req.error)})}finally{db.close()}}
+const moduleMigrations=new Map();
+export function migrateLectureModules(scope=activeScope){
+ if(moduleMigrations.has(scope))return moduleMigrations.get(scope);
+ const task=(async()=>{const db=await database();try{await new Promise((resolve,reject)=>{
+  const tx=db.transaction('decks','readwrite'),store=tx.objectStore('decks'),query=store.openCursor();
+  query.onsuccess=()=>{const cursor=query.result;if(!cursor)return;const name=String(cursor.key);if(name===key('current',scope)||name.startsWith(key('lecture:',scope))){const old=cursor.value,next=correctLectureModule(old);if(next!==old)cursor.update({...stampChanges(old,next),_cloudDirty:true})}cursor.continue()};
+  tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error);
+ })}finally{db.close()}})().catch(error=>{moduleMigrations.delete(scope);throw error});
+ moduleMigrations.set(scope,task);return task;
+}
 export async function loadDeck(){const scope=activeScope,value=await read('current',scope),state=await getWorkspace(scope);if(value){if(lectureTrashed(state,value.lectureId)||value.lectureId===WORKSPACE_ID)return (await allLectures(scope))[0]||null;if(injuryId(value.lectureId)){let source=await read(`lecture:${INJURY_SOURCE}`,scope);if(!source){await ensureLecture({...value,lectureId:INJURY_SOURCE});source=value}return injuryPart(source,partNumber(value.lectureId))}return value}if(scope)return null;try{const legacy=JSON.parse(localStorage.getItem(LEGACY));return legacy&&!lectureTrashed(state,legacy.lectureId)?legacy:null}catch{return null}}
 export async function storeDeck(deck,{preStamped=false}={}){
  const scope=activeScope,db=await database();try{await new Promise((resolve,reject)=>{
@@ -39,9 +49,10 @@ export async function listLectures(){return (await allLectures()).map(d=>({lectu
 export async function getLecture(id){const saved=await read(`lecture:${injuryId(id)?INJURY_SOURCE:id}`);return saved&&injuryId(id)?injuryPart(saved,partNumber(id)):saved}
 // Apply a remote revision atomically. Local edits made during the request stay dirty.
 export async function applyCloud(remote,revision,scope){
+ const received=remote;
  const db=await database();try{await new Promise((resolve,reject)=>{
   const tx=db.transaction('decks','readwrite'),s=tx.objectStore('decks'),k=key(`lecture:${remote.lectureId}`,scope),q=s.get(k);
-  q.onsuccess=()=>{const merged=mergeDecks(q.result,remote),saved={...merged,_cloudRevision:revision,_cloudDirty:!equivalent(merged,remote)};s.put(saved,k);const current=s.get(key('current',scope));current.onsuccess=()=>{if(remote.lectureId===INJURY_SOURCE&&injuryId(current.result?.lectureId))s.put(injuryPart(saved,partNumber(current.result.lectureId)),key('current',scope));else if(current.result?.lectureId===remote.lectureId)s.put(saved,key('current',scope))}};
+  q.onsuccess=()=>{const base=mergeDecks(q.result,remote),corrected=correctLectureModule(base),merged=corrected===base?base:stampChanges(base,corrected),saved={...merged,_cloudRevision:revision,_cloudDirty:!equivalent(merged,received)};s.put(saved,k);const current=s.get(key('current',scope));current.onsuccess=()=>{if(remote.lectureId===INJURY_SOURCE&&injuryId(current.result?.lectureId))s.put(injuryPart(saved,partNumber(current.result.lectureId)),key('current',scope));else if(current.result?.lectureId===remote.lectureId)s.put(saved,key('current',scope))}};
   tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error);
  })}finally{db.close()}
 }

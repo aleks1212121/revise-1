@@ -25,11 +25,11 @@ test('codes are case/space insensitive, uncoded subjects stay separate, and regi
  try{
   configureModules({modules:{...state.modules,'custom-x':{id:'custom-x',name:'Part 1'},'custom-y':{id:'custom-y',name:'Part 2'}}});
   assert.equal(moduleFor({moduleId:'custom-x'}),'custom-x');assert.equal(moduleFor({moduleId:'custom-y'}),'custom-y');
-  configureModules();assert.equal(moduleFor({moduleId:'custom-b'}),'');assert.equal(MODULES.length,5);
+  configureModules();assert.equal(moduleFor({moduleId:'custom-b'}),'');assert.equal(MODULES.length,4);
  }finally{configureModules()}
 });
 test('read-only registry is account isolated and grouped trash keeps all IDs for restoration',()=>{
- const registry=moduleRegistry(state);assert.equal(registry.aliases.get('custom-c'),'custom-a');assert.equal(MODULES.length,5);
+ const registry=moduleRegistry(state);assert.equal(registry.aliases.get('custom-c'),'custom-a');assert.equal(MODULES.length,4);
  const trashed={modules:Object.fromEntries(Object.entries(state.modules).map(([id,m])=>[id,{...m,deleted:true}]))};
  const group=moduleRegistry(trashed,true).modules.find(m=>m.code==='LS5001');assert.deepEqual(group.memberIds,['custom-a','custom-b','custom-c','custom-deleted']);
  assert.equal(moduleRegistry(trashed).modules.some(m=>m.code==='LS5001'),false);

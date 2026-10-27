@@ -14,7 +14,7 @@ import './study-focus.css';
 import {installImageViewer} from './image-viewer.js';
 import { readLecture, readPDF, normalizeDeck } from './lecture.js';
 import { escapeHTML, renderCloze, clozeCards } from './cloze.js';
-import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, rawLectures, applyCloud, importGuestLectures, getWorkspace, updateWorkspace, trashedLectures } from './storage.js';
+import { loadDeck, storeDeck, listLectures, getLecture, ensureLecture, setStorageScope, allLectures, rawLectures, applyCloud, importGuestLectures, getWorkspace, updateWorkspace, trashedLectures, migrateLectureModules } from './storage.js';
 import {isDue,schedule,intervalLabel,nextReviewLabel,migrateSchedule,preserveSchedule} from './scheduler.js';
 import {addStudyVisuals} from './visuals.js';
 import {accountClient,accountSettings} from './accounts.js';
@@ -223,6 +223,7 @@ function bindCollections(){
  }
 }
 async function bootDecks(){
+ await migrateLectureModules();
  await refreshWorkspace();
  if(!await getLecture('microorganisms'))await ensureLecture({...await loadCurated(),lectureId:'microorganisms'});
  try{
