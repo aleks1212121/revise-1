@@ -41,7 +41,7 @@ document.addEventListener('click',event=>{for(const panel of document.querySelec
 document.addEventListener('keydown',event=>{if(event.key==='Escape')for(const panel of document.querySelectorAll('.answer-context[open],#voice-practice[open],#study-focus[open]'))panel.open=false});
 let authClient=null,accountUser=null,syncEngine=null,accountReady=false,accountError='',authNotice='',authWorking=false,recovering=false;
 let syncState='local',syncLabel='Saved on this device',identityQueue=Promise.resolve();
-const bundledLectures=[{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cellular Injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'},{id:'breast-cancer-revision',label:'Breast Cancer — Revision Notes'},{id:'breast-cancer-practical',label:'Breast Cancer — Practical Booklet'},{id:'microbiology-practical',label:'Microbiology Practical — Identifying Unknown Bacteria'},{id:'neoplasia',label:'Neoplasia — Classification, Invasion & Staging'},{id:'coronary-artery-disease',label:'Coronary Artery Disease & Anti-anginal Drugs'},{id:'heart-failure',label:'Heart Failure — Mechanisms & Drug Treatment'},{id:'anti-obesity-drugs',label:'Obesity & Anti-obesity Drugs'},{id:'cardiovascular-practical',label:'Cardiovascular Physiology Practical'}];
+const bundledLectures=[{id:'epidemiology-infection-spread',label:'Epidemiology and Infection Spread'},{id:'genetic-variation',label:'Genetic variation'},{id:'cell-injury',label:'Cellular Injury I & II'},{id:'cell-death',label:'Cell death'},{id:'viruses',label:'Viruses'},{id:'breast-cancer-revision',label:'Breast Cancer — Revision Notes'},{id:'breast-cancer-practical',label:'Breast Cancer — Practical Booklet'},{id:'microbiology-practical',label:'Microbiology Practical — Identifying Unknown Bacteria'},{id:'neoplasia',label:'Neoplasia — Classification, Invasion & Staging'},{id:'coronary-artery-disease',label:'Coronary Artery Disease & Anti-anginal Drugs'},{id:'heart-failure',label:'Heart Failure — Mechanisms & Drug Treatment'},{id:'anti-obesity-drugs',label:'Obesity & Anti-obesity Drugs'},{id:'cardiovascular-practical',label:'Cardiovascular Physiology Practical'}];
 let workspace=emptyWorkspace(),trashLectures=[];
 let selectedModule='';
 let deck=null,lectures=[];
@@ -57,7 +57,7 @@ function mediaURL(id){
  const src=deck?.media?.[id];
  if(typeof src!=='string')return '';
  if(/^data:image\/(png|jpeg|gif|webp);base64,[A-Za-z0-9+/=]+$/.test(src))return src;
- if(/^((?:lecture|genetic-variation|cell-injury|cell-death|viruses|breast-cancer|microbiology-practical|neoplasia|coronary-artery-disease|heart-failure|anti-obesity-drugs|cardiovascular-practical)\/[a-z0-9-]+\.(?:jpg|png)|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
+ if(/^((?:lecture|genetic-variation|cell-injury|cell-death|viruses|breast-cancer|microbiology-practical|neoplasia|coronary-artery-disease|heart-failure|anti-obesity-drugs|cardiovascular-practical|epidemiology-infection-spread)\/[a-z0-9-]+\.(?:jpg|png)|illustrations\/[a-z0-9-]+\.png)$/.test(src))return `${import.meta.env.BASE_URL}${src}`;
  return '';
 }
 function pictures(ids=[],links=true){return ids.map(id=>{const src=mediaURL(id);if(!src)return '';const img=`<img loading="lazy" src="${esc(src)}" alt="Image from the lecture slide" tabindex="0" title="Open image and zoom">`;return links?`<a href="${esc(src)}" target="_blank" rel="noopener" aria-label="Open slide image at full size">${img}</a>`:img}).join('')}

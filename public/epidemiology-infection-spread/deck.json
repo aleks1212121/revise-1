@@ -1,0 +1,2058 @@
+{
+  "version": 2,
+  "lectureId": "epidemiology-infection-spread",
+  "title": "Epidemiology and Infection Spread",
+  "moduleId": "infection-immunity",
+  "moduleName": "Infection and Immunity",
+  "moduleCode": "LS5008",
+  "source": "Epidemiology_and_Infection_Spread_LS5008_30 (1).pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Epidemiology basics",
+      "slide": 4,
+      "explanation": "Laboratory and population information help identify emergence and spread.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Biomedical scientists contribute to outbreak investigation through disease detection and {{c1::surveillance}}.",
+      "noteId": "epidemiology-infection-spread-1810ba14750b850f41bd-note",
+      "id": "epidemiology-infection-spread-1810ba14750b850f41bd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Biomedical scientists contribute to outbreak investigation through disease detection and {{c1::surveillance}}.",
+      "answer": "surveillance"
+    },
+    {
+      "topic": "Epidemiology basics",
+      "slide": 5,
+      "explanation": "The emphasis is on patterns across populations and the factors influencing them, rather than only an individual diagnosis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Epidemiology studies the distribution of disease in {{c1::populations}}.",
+      "noteId": "epidemiology-infection-spread-ff5e7df43ee68c5fd374-note",
+      "id": "epidemiology-infection-spread-ff5e7df43ee68c5fd374",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Epidemiology studies the distribution of disease in {{c1::populations}}.",
+      "answer": "populations"
+    },
+    {
+      "topic": "Epidemiology basics",
+      "slide": 5,
+      "explanation": "Identifying how disease is distributed helps decide where prevention and control should be directed.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Population-level epidemiological data inform {{c1::public health interventions}}.",
+      "noteId": "epidemiology-infection-spread-d963e1b472061dc8d571-note",
+      "id": "epidemiology-infection-spread-d963e1b472061dc8d571",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Population-level epidemiological data inform {{c1::public health interventions}}.",
+      "answer": "public health interventions"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "The remaining links concern where it persists, how it leaves and reaches another host, and host susceptibility.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In the chain of infection, the organism causing infection is the {{c1::infectious agent}}.",
+      "noteId": "epidemiology-infection-spread-14314adfee144065d376-note",
+      "id": "epidemiology-infection-spread-14314adfee144065d376",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the chain of infection, the organism causing infection is the {{c1::infectious agent}}.",
+      "answer": "infectious agent"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "Reservoirs may be human, animal or environmental; a transmission route describes movement rather than maintenance.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The habitat that maintains an infectious agent is its {{c1::reservoir}}.",
+      "noteId": "epidemiology-infection-spread-5b1a36350c8ecd7bb4ac-note",
+      "id": "epidemiology-infection-spread-5b1a36350c8ecd7bb4ac",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The habitat that maintains an infectious agent is its {{c1::reservoir}}.",
+      "answer": "reservoir"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "The chain distinguishes exit from subsequent transmission and entry into a new host.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The route by which an agent leaves its reservoir is its {{c1::portal of exit}}.",
+      "noteId": "epidemiology-infection-spread-9c4b9e3c899bfe8bb4b1-note",
+      "id": "epidemiology-infection-spread-9c4b9e3c899bfe8bb4b1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The route by which an agent leaves its reservoir is its {{c1::portal of exit}}.",
+      "answer": "portal of exit"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "Contact, respiratory and vector routes require different control measures.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The link connecting a portal of exit to a new host is the {{c1::mode of transmission}}.",
+      "noteId": "epidemiology-infection-spread-51dabdc63b4c9d1b6e64-note",
+      "id": "epidemiology-infection-spread-51dabdc63b4c9d1b6e64",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The link connecting a portal of exit to a new host is the {{c1::mode of transmission}}.",
+      "answer": "mode of transmission"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "Entry is a separate link from the host’s susceptibility.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The route by which an agent enters a new host is its {{c1::portal of entry}}.",
+      "noteId": "epidemiology-infection-spread-97983e42563e6c7bca82-note",
+      "id": "epidemiology-infection-spread-97983e42563e6c7bca82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The route by which an agent enters a new host is its {{c1::portal of entry}}.",
+      "answer": "portal of entry"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "Exposure does not have the same consequence in every person; immunity and other host factors matter.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The final host-related link in the chain is a {{c1::susceptible host}}.",
+      "noteId": "epidemiology-infection-spread-2d009d3f8e65b455b028-note",
+      "id": "epidemiology-infection-spread-2d009d3f8e65b455b028",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The final host-related link in the chain is a {{c1::susceptible host}}.",
+      "answer": "susceptible host"
+    },
+    {
+      "topic": "Chain of infection",
+      "slide": 6,
+      "explanation": "Effective interventions should target a link relevant to that pathogen and setting.",
+      "images": [
+        "chain"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Transmission can be interrupted by breaking {{c1::any link}} in the chain of infection.",
+      "noteId": "epidemiology-infection-spread-adfada06d549562e46e1-note",
+      "id": "epidemiology-infection-spread-adfada06d549562e46e1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Transmission can be interrupted by breaking {{c1::any link}} in the chain of infection.",
+      "answer": "any link"
+    },
+    {
+      "topic": "Infection timeline",
+      "slide": 7,
+      "explanation": "The lecture’s diagram shows this before the prodromal stage. Lack of symptoms does not necessarily mean lack of infectiousness.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The interval after exposure before signs or symptoms develop is the {{c1::incubation period}}.",
+      "noteId": "epidemiology-infection-spread-266fdce72d09d6c2316e-note",
+      "id": "epidemiology-infection-spread-266fdce72d09d6c2316e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The interval after exposure before signs or symptoms develop is the {{c1::incubation period}}.",
+      "answer": "incubation period"
+    },
+    {
+      "topic": "Infection timeline",
+      "slide": 7,
+      "explanation": "The diagram distinguishes this from the later period of more severe illness.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The stage with early mild signs or symptoms is the {{c1::prodromal period}}.",
+      "noteId": "epidemiology-infection-spread-f62566cd8cc657c229d4-note",
+      "id": "epidemiology-infection-spread-f62566cd8cc657c229d4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The stage with early mild signs or symptoms is the {{c1::prodromal period}}.",
+      "answer": "prodromal period"
+    },
+    {
+      "topic": "Infection timeline",
+      "slide": 7,
+      "explanation": "The curve is a schematic disease course, not a universal quantitative pathogen-load measurement.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The most severe signs and symptoms occur during the diagram’s {{c1::period of illness}}.",
+      "noteId": "epidemiology-infection-spread-0123d6379bba0e82487e-note",
+      "id": "epidemiology-infection-spread-0123d6379bba0e82487e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The most severe signs and symptoms occur during the diagram’s {{c1::period of illness}}.",
+      "answer": "period of illness"
+    },
+    {
+      "topic": "Infection timeline",
+      "slide": 7,
+      "explanation": "Declining symptoms are followed by convalescence; they do not alone establish that transmission has stopped.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The stage in which signs and symptoms start to subside is the period of {{c1::decline}}.",
+      "noteId": "epidemiology-infection-spread-71e04fef36b0019df746-note",
+      "id": "epidemiology-infection-spread-71e04fef36b0019df746",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The stage in which signs and symptoms start to subside is the period of {{c1::decline}}.",
+      "answer": "decline"
+    },
+    {
+      "topic": "Infection timeline",
+      "slide": 7,
+      "explanation": "This is the final named period in the lecture’s disease-progression sequence.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Recovery after the decline stage is called {{c1::convalescence}}.",
+      "noteId": "epidemiology-infection-spread-db7502bf061770076886-note",
+      "id": "epidemiology-infection-spread-db7502bf061770076886",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Recovery after the decline stage is called {{c1::convalescence}}.",
+      "answer": "convalescence"
+    },
+    {
+      "topic": "Infectiousness and carriers",
+      "slide": 8,
+      "explanation": "The infectious period and symptomatic period need not coincide; timing depends on the pathogen.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For some infections, transmission can occur {{c1::before symptoms begin}}.",
+      "noteId": "epidemiology-infection-spread-621976b97b29ee55aedb-note",
+      "id": "epidemiology-infection-spread-621976b97b29ee55aedb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For some infections, transmission can occur {{c1::before symptoms begin}}.",
+      "answer": "before symptoms begin"
+    },
+    {
+      "topic": "Infectiousness and carriers",
+      "slide": 8,
+      "explanation": "The slide’s vomiting/diarrhoea poster illustrates pathogen-specific exclusion advice; its 48-hour rule is not a rule for every infection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Resolution of symptoms does {{c1::not necessarily end infectiousness}}.",
+      "noteId": "epidemiology-infection-spread-d491b99f9d649870024a-note",
+      "id": "epidemiology-infection-spread-d491b99f9d649870024a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resolution of symptoms does {{c1::not necessarily end infectiousness}}.",
+      "answer": "not necessarily end infectiousness"
+    },
+    {
+      "topic": "Infectiousness and carriers",
+      "slide": 9,
+      "explanation": "Such a person may be unaware of the infection and still contribute to spread.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infected person who transmits an agent without symptoms is an {{c1::asymptomatic carrier}}.",
+      "noteId": "epidemiology-infection-spread-7c7742b6d0186b826020-note",
+      "id": "epidemiology-infection-spread-7c7742b6d0186b826020",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infected person who transmits an agent without symptoms is an {{c1::asymptomatic carrier}}.",
+      "answer": "asymptomatic carrier"
+    },
+    {
+      "topic": "Infectiousness and carriers",
+      "slide": 9,
+      "explanation": "This helps explain why some outbreaks are difficult to detect and control.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Control based only on recognising symptomatic people can miss {{c1::asymptomatic carriers}}.",
+      "noteId": "epidemiology-infection-spread-219f06cc699ca57eb619-note",
+      "id": "epidemiology-infection-spread-219f06cc699ca57eb619",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Control based only on recognising symptomatic people can miss {{c1::asymptomatic carriers}}.",
+      "answer": "asymptomatic carriers"
+    },
+    {
+      "topic": "Surveillance participation",
+      "slide": 10,
+      "explanation": "The illustrated study concerns sexually transmitted enteric infections. Its acceptability findings help evaluate how feasible surveillance is; they are not infection-prevalence estimates.",
+      "images": [
+        "participation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "In the pilot-study infographic, flexible sampling that fits a daily routine {{c1::facilitated participation}}.",
+      "noteId": "epidemiology-infection-spread-96901ecd04b75db71bd5-note",
+      "id": "epidemiology-infection-spread-96901ecd04b75db71bd5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the pilot-study infographic, flexible sampling that fits a daily routine {{c1::facilitated participation}}.",
+      "answer": "facilitated participation"
+    },
+    {
+      "topic": "Surveillance participation",
+      "slide": 10,
+      "explanation": "Participants requested clearer information about this requirement. This is a study-specific barrier, not a universal statement about every surveillance programme.",
+      "images": [
+        "questionnaires"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The pilot-study infographic identifies completing {{c1::weekly questionnaires}} as the most challenging aspect.",
+      "noteId": "epidemiology-infection-spread-104a9e077fc9461335c4-note",
+      "id": "epidemiology-infection-spread-104a9e077fc9461335c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The pilot-study infographic identifies completing {{c1::weekly questionnaires}} as the most challenging aspect.",
+      "answer": "weekly questionnaires"
+    },
+    {
+      "topic": "Agents and reservoirs",
+      "slide": 11,
+      "explanation": "Infection can be maintained across interconnected settings, so investigating only humans may miss an important source.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The One Health approach connects human, animal and {{c1::environmental}} reservoirs.",
+      "noteId": "epidemiology-infection-spread-6fae90f8897d3ae7596a-note",
+      "id": "epidemiology-infection-spread-6fae90f8897d3ae7596a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The One Health approach connects human, animal and {{c1::environmental}} reservoirs.",
+      "answer": "environmental"
+    },
+    {
+      "topic": "Agents and reservoirs",
+      "slide": 11,
+      "explanation": "The lecture highlights the role of such reservoirs in emerging infections.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An animal reservoir relevant to human infection is a {{c1::zoonotic reservoir}}.",
+      "noteId": "epidemiology-infection-spread-3e29e77856d4c0368457-note",
+      "id": "epidemiology-infection-spread-3e29e77856d4c0368457",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An animal reservoir relevant to human infection is a {{c1::zoonotic reservoir}}.",
+      "answer": "zoonotic reservoir"
+    },
+    {
+      "topic": "Agents and reservoirs",
+      "slide": 11,
+      "explanation": "The slide separately names protozoa and other parasites; not every infectious agent is a bacterium or virus.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Infectious agents include prions as well as bacteria, viruses, fungi and {{c1::parasites}}.",
+      "noteId": "epidemiology-infection-spread-ea451cd49215687288c4-note",
+      "id": "epidemiology-infection-spread-ea451cd49215687288c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Infectious agents include prions as well as bacteria, viruses, fungi and {{c1::parasites}}.",
+      "answer": "parasites"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 12,
+      "explanation": "The slide lists this separately from vectors. Food and water in the later plenary illustrate possible common media; the exact exposure pattern determines outbreak type.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Transmission through a contaminated common medium is described as {{c1::vehicle-borne}} transmission.",
+      "noteId": "epidemiology-infection-spread-20a32c228f16e22df7a9-note",
+      "id": "epidemiology-infection-spread-20a32c228f16e22df7a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Transmission through a contaminated common medium is described as {{c1::vehicle-borne}} transmission.",
+      "answer": "vehicle-borne"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 13,
+      "explanation": "This differs from transfer through a contaminated object.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Physical interaction between individuals is {{c1::direct contact transmission}}.",
+      "noteId": "epidemiology-infection-spread-232f3a88726197893247-note",
+      "id": "epidemiology-infection-spread-232f3a88726197893247",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Physical interaction between individuals is {{c1::direct contact transmission}}.",
+      "answer": "direct contact transmission"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 13,
+      "explanation": "An object such as a shared handle is a potential fomite; the picture alone does not show that it is contaminated.",
+      "images": [
+        "shared-surfaces"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Transfer through a contaminated surface or object is {{c1::indirect contact transmission}}.",
+      "noteId": "epidemiology-infection-spread-5ca5b72141ebcbb617fe-note",
+      "id": "epidemiology-infection-spread-5ca5b72141ebcbb617fe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Transfer through a contaminated surface or object is {{c1::indirect contact transmission}}.",
+      "answer": "indirect contact transmission"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 13,
+      "explanation": "It limits transfer on hands; it should not be assumed to control every respiratory or vector route by itself.",
+      "images": [
+        "shared-surfaces"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Hand hygiene helps interrupt {{c1::contact transmission}}.",
+      "noteId": "epidemiology-infection-spread-16b15e030f7fc941adb3-note",
+      "id": "epidemiology-infection-spread-16b15e030f7fc941adb3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hand hygiene helps interrupt {{c1::contact transmission}}.",
+      "answer": "contact transmission"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 14,
+      "explanation": "The lecture uses this distinction to explain why respiratory control measures can differ. Actual respiratory particles form a continuum rather than two perfectly separate categories.",
+      "images": [
+        "respiratory"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Compared with larger droplets, airborne particles can remain {{c1::suspended for longer}}.",
+      "noteId": "epidemiology-infection-spread-42886227eb138f87939b-note",
+      "id": "epidemiology-infection-spread-42886227eb138f87939b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Compared with larger droplets, airborne particles can remain {{c1::suspended for longer}}.",
+      "answer": "suspended for longer"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 14,
+      "explanation": "This is a general comparison with suspended airborne particles, not a precise safe-distance cut-off.",
+      "images": [
+        "respiratory"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In the lecture’s contrast, larger respiratory droplets generally settle over {{c1::shorter distances}}.",
+      "noteId": "epidemiology-infection-spread-8781591ddb78669cd1b3-note",
+      "id": "epidemiology-infection-spread-8781591ddb78669cd1b3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the lecture’s contrast, larger respiratory droplets generally settle over {{c1::shorter distances}}.",
+      "answer": "shorter distances"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 14,
+      "explanation": "Measures suited to contact alone may be insufficient when inhalation is important.",
+      "images": [
+        "respiratory"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Choosing respiratory infection-control measures requires knowing the {{c1::transmission route}}.",
+      "noteId": "epidemiology-infection-spread-8a6f4b96f4bbd8959f7b-note",
+      "id": "epidemiology-infection-spread-8a6f4b96f4bbd8959f7b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Choosing respiratory infection-control measures requires knowing the {{c1::transmission route}}.",
+      "answer": "transmission route"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 15,
+      "explanation": "Vectors transmit agents between hosts; the lecture’s diagram links different vectors with different diseases.",
+      "images": [
+        "vectors"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Mosquitoes, ticks and fleas can act as infectious-disease {{c1::vectors}}.",
+      "noteId": "epidemiology-infection-spread-57c6b0ec4de3ae4112ed-note",
+      "id": "epidemiology-infection-spread-57c6b0ec4de3ae4112ed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mosquitoes, ticks and fleas can act as infectious-disease {{c1::vectors}}.",
+      "answer": "vectors"
+    },
+    {
+      "topic": "Transmission routes",
+      "slide": 15,
+      "explanation": "Where vectors can survive and contact hosts influences where transmission can occur.",
+      "images": [
+        "vectors"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Vector ecology helps determine the geographical {{c1::distribution of vector-borne disease}}.",
+      "noteId": "epidemiology-infection-spread-d70963aae52d59a3db10-note",
+      "id": "epidemiology-infection-spread-d70963aae52d59a3db10",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vector ecology helps determine the geographical {{c1::distribution of vector-borne disease}}.",
+      "answer": "distribution of vector-borne disease"
+    },
+    {
+      "topic": "Host susceptibility",
+      "slide": 16,
+      "explanation": "Host immunity is one contributor to susceptibility, alongside exposure and pathogen factors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Compared with an immunocompetent host, an immunocompromised host generally has {{c1::higher infection risk}}.",
+      "noteId": "epidemiology-infection-spread-5cce0938d29e2764d222-note",
+      "id": "epidemiology-infection-spread-5cce0938d29e2764d222",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Compared with an immunocompetent host, an immunocompromised host generally has {{c1::higher infection risk}}.",
+      "answer": "higher infection risk"
+    },
+    {
+      "topic": "Host susceptibility",
+      "slide": 16,
+      "explanation": "The same exposure can therefore carry different risks for different people.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Age, genetics, nutrition and underlying disease modify {{c1::host susceptibility}}.",
+      "noteId": "epidemiology-infection-spread-b6d089f0f4926cca4d43-note",
+      "id": "epidemiology-infection-spread-b6d089f0f4926cca4d43",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Age, genetics, nutrition and underlying disease modify {{c1::host susceptibility}}.",
+      "answer": "host susceptibility"
+    },
+    {
+      "topic": "Patterns of disease",
+      "slide": 17,
+      "explanation": "Endemic describes expected ongoing occurrence; it does not mean the disease is harmless.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A disease maintained at a predictable background level in an area is {{c1::endemic}}.",
+      "noteId": "epidemiology-infection-spread-0a7293677b0489ae86d7-note",
+      "id": "epidemiology-infection-spread-0a7293677b0489ae86d7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A disease maintained at a predictable background level in an area is {{c1::endemic}}.",
+      "answer": "endemic"
+    },
+    {
+      "topic": "Patterns of disease",
+      "slide": 17,
+      "explanation": "This is the lecture’s operational definition. In practice, a single unusual or high-consequence case may also trigger an outbreak investigation; do not use two cases as a universal reporting threshold.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture defines an outbreak as at least two cases linked by time, place or {{c1::common exposure}}.",
+      "noteId": "epidemiology-infection-spread-259ab4abe5aa8c5fe8f4-note",
+      "id": "epidemiology-infection-spread-259ab4abe5aa8c5fe8f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture defines an outbreak as at least two cases linked by time, place or {{c1::common exposure}}.",
+      "answer": "common exposure"
+    },
+    {
+      "topic": "Patterns of disease",
+      "slide": 17,
+      "explanation": "The lecture contrasts a larger affected area with a local outbreak; the key comparison is with the expected baseline.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Disease occurrence above the expected level in a population over a period is an {{c1::epidemic}}.",
+      "noteId": "epidemiology-infection-spread-59e07194c9ff5b293eea-note",
+      "id": "epidemiology-infection-spread-59e07194c9ff5b293eea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Disease occurrence above the expected level in a population over a period is an {{c1::epidemic}}.",
+      "answer": "epidemic"
+    },
+    {
+      "topic": "Patterns of disease",
+      "slide": 17,
+      "explanation": "Pandemic describes geographical spread and transmission, not necessarily greater severity in each infected person.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Widespread international disease transmission above expected occurrence is a {{c1::pandemic}}.",
+      "noteId": "epidemiology-infection-spread-4b8c1e557506ac41bf45-note",
+      "id": "epidemiology-infection-spread-4b8c1e557506ac41bf45",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Widespread international disease transmission above expected occurrence is a {{c1::pandemic}}.",
+      "answer": "pandemic"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 18,
+      "explanation": "The purpose includes early detection and an evidence-based public health response.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Continuous monitoring of disease occurrence is {{c1::disease surveillance}}.",
+      "noteId": "epidemiology-infection-spread-bd968c52e417bbb40b1f-note",
+      "id": "epidemiology-infection-spread-bd968c52e417bbb40b1f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Continuous monitoring of disease occurrence is {{c1::disease surveillance}}.",
+      "answer": "disease surveillance"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 18,
+      "explanation": "The lecture gives examples, but its list is not a complete or permanently current legal list.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A disease subject to a legal reporting requirement is a {{c1::notifiable disease}}.",
+      "noteId": "epidemiology-infection-spread-f10d0f07bd6611403759-note",
+      "id": "epidemiology-infection-spread-f10d0f07bd6611403759",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A disease subject to a legal reporting requirement is a {{c1::notifiable disease}}.",
+      "answer": "notifiable disease"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 18,
+      "explanation": "UK Health Security Agency. Reporting arrangements vary across UK nations; the linked GOV.UK guidance is the relevant source for current English requirements.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The agency named for collating the lecture’s surveillance data is {{c1::UKHSA}}.",
+      "noteId": "epidemiology-infection-spread-542905dca463a9c34597-note",
+      "id": "epidemiology-infection-spread-542905dca463a9c34597",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The agency named for collating the lecture’s surveillance data is {{c1::UKHSA}}.",
+      "answer": "UKHSA"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 19,
+      "explanation": "The warning concerns the clinician’s notification on suspicion under the applicable reporting system; laboratory reporting duties are distinct.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The reporting warning on slide 19 says not to wait for {{c1::laboratory confirmation}} of a suspected notifiable disease.",
+      "noteId": "epidemiology-infection-spread-838ec20d1f352e9cee67-note",
+      "id": "epidemiology-infection-spread-838ec20d1f352e9cee67",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The reporting warning on slide 19 says not to wait for {{c1::laboratory confirmation}} of a suspected notifiable disease.",
+      "answer": "laboratory confirmation"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 19,
+      "explanation": "These illustrate the category; checking current jurisdiction-specific guidance is preferable to memorising the slide as an exhaustive legal list.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Measles and cholera are examples of {{c1::notifiable diseases}} in the lecture.",
+      "noteId": "epidemiology-infection-spread-510b04617e6b77e4fe81-note",
+      "id": "epidemiology-infection-spread-510b04617e6b77e4fe81",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Measles and cholera are examples of {{c1::notifiable diseases}} in the lecture.",
+      "answer": "notifiable diseases"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 20,
+      "explanation": "This is an early loss in the surveillance pyramid, before testing or reporting.",
+      "images": [
+        "pyramid"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Surveillance may miss infected people because some do not {{c1::seek medical attention}}.",
+      "noteId": "epidemiology-infection-spread-c1c2cb239ca1fec2ccae-note",
+      "id": "epidemiology-infection-spread-c1c2cb239ca1fec2ccae",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Surveillance may miss infected people because some do not {{c1::seek medical attention}}.",
+      "answer": "seek medical attention"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 20,
+      "explanation": "The lecture notes that clinical diagnoses may be made without laboratory confirmation.",
+      "images": [
+        "pyramid"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A person attending healthcare may still be absent from laboratory-confirmed counts if they are {{c1::not tested}}.",
+      "noteId": "epidemiology-infection-spread-d0e9d51570bfcc116b28-note",
+      "id": "epidemiology-infection-spread-d0e9d51570bfcc116b28",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A person attending healthcare may still be absent from laboratory-confirmed counts if they are {{c1::not tested}}.",
+      "answer": "not tested"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 20,
+      "explanation": "Care-seeking, testing and reporting each affect the relationship between recorded and true infections.",
+      "images": [
+        "pyramid"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Even a confirmed infection may be absent from surveillance if it is {{c1::not reported}}.",
+      "noteId": "epidemiology-infection-spread-f73935fe943ee72e445b-note",
+      "id": "epidemiology-infection-spread-f73935fe943ee72e445b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Even a confirmed infection may be absent from surveillance if it is {{c1::not reported}}.",
+      "answer": "not reported"
+    },
+    {
+      "topic": "Surveillance and reporting",
+      "slide": 20,
+      "explanation": "Application of the surveillance pyramid: changing detection can change reported counts. Compare ascertainment as well as the case total.",
+      "images": [
+        "pyramid"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "An increase in testing can raise recorded case numbers without necessarily proving {{c1::increased transmission}}.",
+      "noteId": "epidemiology-infection-spread-d005a351e169b037ec1b-note",
+      "id": "epidemiology-infection-spread-d005a351e169b037ec1b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An increase in testing can raise recorded case numbers without necessarily proving {{c1::increased transmission}}.",
+      "answer": "increased transmission"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 22,
+      "explanation": "Incidence describes new disease acquisition rather than all people currently infected.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The measure based on new cases arising during a defined period is {{c1::incidence}}.",
+      "noteId": "epidemiology-infection-spread-716b5af30a8e3748da02-note",
+      "id": "epidemiology-infection-spread-716b5af30a8e3748da02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The measure based on new cases arising during a defined period is {{c1::incidence}}.",
+      "answer": "incidence"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 22,
+      "explanation": "Worked interpretation: 50/1,000 × 100. This is an incidence proportion over the stated period, not a person-time incidence rate.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The lecture’s 50 new infections among 1,000 initially at-risk students in one week represent a one-week risk of {{c1::5%}}.",
+      "noteId": "epidemiology-infection-spread-88e6e31773cb9d3914e9-note",
+      "id": "epidemiology-infection-spread-88e6e31773cb9d3914e9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture’s 50 new infections among 1,000 initially at-risk students in one week represent a one-week risk of {{c1::5%}}.",
+      "answer": "5%"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 23,
+      "explanation": "The example “50 students are currently infected today” describes existing cases, not necessarily 50 new infections.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The number or proportion of people with an existing infection at a specified time is {{c1::point prevalence}}.",
+      "noteId": "epidemiology-infection-spread-157bdd51f1efb6e51e6d-note",
+      "id": "epidemiology-infection-spread-157bdd51f1efb6e51e6d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The number or proportion of people with an existing infection at a specified time is {{c1::point prevalence}}.",
+      "answer": "point prevalence"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 23,
+      "explanation": "Incidence instead focuses on new cases and acquisition over time.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Prevalence reflects the current {{c1::disease burden}} in a population.",
+      "noteId": "epidemiology-infection-spread-3f3c4f0b995b95e16ece-note",
+      "id": "epidemiology-infection-spread-3f3c4f0b995b95e16ece",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Prevalence reflects the current {{c1::disease burden}} in a population.",
+      "answer": "disease burden"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 23,
+      "explanation": "Longer-lasting disease can keep people in the pool of existing cases for longer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Besides incidence, prevalence is influenced by disease {{c1::duration}}.",
+      "noteId": "epidemiology-infection-spread-2d836d8d6613a107934c-note",
+      "id": "epidemiology-infection-spread-2d836d8d6613a107934c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Besides incidence, prevalence is influenced by disease {{c1::duration}}.",
+      "answer": "duration"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 23,
+      "explanation": "A count alone does not give the proportion affected. This distinguishes the slide’s count from a population prevalence percentage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "“50 students are currently infected” cannot be converted into a prevalence percentage without the {{c1::population denominator}}.",
+      "noteId": "epidemiology-infection-spread-50b59d37b95650d985fb-note",
+      "id": "epidemiology-infection-spread-50b59d37b95650d985fb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "“50 students are currently infected” cannot be converted into a prevalence percentage without the {{c1::population denominator}}.",
+      "answer": "population denominator"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 24,
+      "explanation": "Despite the name, this is a proportion over the outbreak period; define the exposed or at-risk population being counted.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The proportion becoming ill during a defined outbreak is the {{c1::attack rate}}.",
+      "noteId": "epidemiology-infection-spread-88df48e3224fe0c35436-note",
+      "id": "epidemiology-infection-spread-88df48e3224fe0c35436",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The proportion becoming ill during a defined outbreak is the {{c1::attack rate}}.",
+      "answer": "attack rate"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 24,
+      "explanation": "It concerns new cases among susceptible contacts of initial cases, rather than simply the total cases in an entire population.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The measure focusing on spread to household or other close contacts is the {{c1::secondary attack rate}}.",
+      "noteId": "epidemiology-infection-spread-fea377bdd1303577c3ad-note",
+      "id": "epidemiology-infection-spread-fea377bdd1303577c3ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The measure focusing on spread to household or other close contacts is the {{c1::secondary attack rate}}.",
+      "answer": "secondary attack rate"
+    },
+    {
+      "topic": "Disease frequency",
+      "slide": 24,
+      "explanation": "The question concerns onward transmission to close contacts, not just who is infected at one time.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "To assess spread within households after an initial case, choose the {{c1::secondary attack rate}} rather than population point prevalence.",
+      "noteId": "epidemiology-infection-spread-af3d76916499beb936bf-note",
+      "id": "epidemiology-infection-spread-af3d76916499beb936bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "To assess spread within households after an initial case, choose the {{c1::secondary attack rate}} rather than population point prevalence.",
+      "answer": "secondary attack rate"
+    },
+    {
+      "topic": "Reproduction number",
+      "slide": 25,
+      "explanation": "The slide states the average-secondary-case definition. Fully susceptible conditions distinguish basic R₀ from an effective reproduction number under current immunity or interventions.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "R₀ is the average number of {{c1::secondary cases}} generated by one infected individual in a fully susceptible population.",
+      "noteId": "epidemiology-infection-spread-396fda6819f4eb530587-note",
+      "id": "epidemiology-infection-spread-396fda6819f4eb530587",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "R₀ is the average number of {{c1::secondary cases}} generated by one infected individual in a fully susceptible population.",
+      "answer": "secondary cases"
+    },
+    {
+      "topic": "Reproduction number",
+      "slide": 25,
+      "explanation": "Each infection produces more than one new infection on average. This is a population tendency, not a promise that every introduction causes a large outbreak.",
+      "images": [
+        "reproduction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A reproduction number greater than 1 supports {{c1::growth in transmission}}.",
+      "noteId": "epidemiology-infection-spread-d4280b53784559a906ff-note",
+      "id": "epidemiology-infection-spread-d4280b53784559a906ff",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A reproduction number greater than 1 supports {{c1::growth in transmission}}.",
+      "answer": "growth in transmission"
+    },
+    {
+      "topic": "Reproduction number",
+      "slide": 25,
+      "explanation": "Each infection generates fewer than one further infection on average. It does not mean transmission stops immediately.",
+      "images": [
+        "reproduction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A reproduction number below 1 implies transmission tends to {{c1::decline}}.",
+      "noteId": "epidemiology-infection-spread-333cfd65bdc45bba7a2e-note",
+      "id": "epidemiology-infection-spread-333cfd65bdc45bba7a2e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A reproduction number below 1 implies transmission tends to {{c1::decline}}.",
+      "answer": "decline"
+    },
+    {
+      "topic": "Epidemic curves",
+      "slide": 26,
+      "explanation": "The pattern can suggest exposure and transmission dynamics during an outbreak.",
+      "images": [
+        "curves"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An epidemic curve plots case numbers against {{c1::time}}.",
+      "noteId": "epidemiology-infection-spread-ffb328783d9f256871b3-note",
+      "id": "epidemiology-infection-spread-ffb328783d9f256871b3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An epidemic curve plots case numbers against {{c1::time}}.",
+      "answer": "time"
+    },
+    {
+      "topic": "Epidemic curves",
+      "slide": 26,
+      "explanation": "Combine the pattern with exposure histories, testing and other investigation evidence.",
+      "images": [
+        "curves"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "An epidemic curve can suggest a source pattern but cannot alone {{c1::prove the source}}.",
+      "noteId": "epidemiology-infection-spread-8c1fa979a1e23925e14f-note",
+      "id": "epidemiology-infection-spread-8c1fa979a1e23925e14f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An epidemic curve can suggest a source pattern but cannot alone {{c1::prove the source}}.",
+      "answer": "prove the source"
+    },
+    {
+      "topic": "Outbreak patterns",
+      "slide": 27,
+      "explanation": "The schematic shows a concentrated peak, unlike prolonged exposure or successive transmission waves.",
+      "images": [
+        "point-curve"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A single brief common exposure produces a {{c1::point-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-32d345067b9cb01a262d-note",
+      "id": "epidemiology-infection-spread-32d345067b9cb01a262d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A single brief common exposure produces a {{c1::point-source outbreak}}.",
+      "answer": "point-source outbreak"
+    },
+    {
+      "topic": "Outbreak patterns",
+      "slide": 27,
+      "explanation": "The schematic has sustained cases over a broader period.",
+      "images": [
+        "continuous-curve"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Prolonged exposure to the same source produces a {{c1::continuous common-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-49b0f7b8a0dec0bd60dc-note",
+      "id": "epidemiology-infection-spread-49b0f7b8a0dec0bd60dc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Prolonged exposure to the same source produces a {{c1::continuous common-source outbreak}}.",
+      "answer": "continuous common-source outbreak"
+    },
+    {
+      "topic": "Outbreak patterns",
+      "slide": 27,
+      "explanation": "Successive generations may produce waves rather than one common-exposure peak.",
+      "images": [
+        "propagated-curve"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An outbreak sustained by person-to-person spread is {{c1::propagated}}.",
+      "noteId": "epidemiology-infection-spread-eeb1cf237d9a0cfafb7c-note",
+      "id": "epidemiology-infection-spread-eeb1cf237d9a0cfafb7c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An outbreak sustained by person-to-person spread is {{c1::propagated}}.",
+      "answer": "propagated"
+    },
+    {
+      "topic": "Outbreak patterns",
+      "slide": 27,
+      "explanation": "The illustrated cases form separated peaks. Intermittent exposure need not be truly random.",
+      "images": [
+        "intermittent-curve"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Repeated but non-continuous exposure to a source gives an {{c1::intermittent common-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-0bec0ef3f74cfd65c17d-note",
+      "id": "epidemiology-infection-spread-0bec0ef3f74cfd65c17d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repeated but non-continuous exposure to a source gives an {{c1::intermittent common-source outbreak}}.",
+      "answer": "intermittent common-source outbreak"
+    },
+    {
+      "topic": "Outbreak investigation",
+      "slide": 28,
+      "explanation": "Compare observed occurrence with what is expected and assess the evidence. The diagram also separates finding cases from verifying diagnoses.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Before attributing a case cluster to an outbreak, first {{c1::confirm the outbreak}}.",
+      "noteId": "epidemiology-infection-spread-41b88de9fe0ab8fcb698-note",
+      "id": "epidemiology-infection-spread-41b88de9fe0ab8fcb698",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Before attributing a case cluster to an outbreak, first {{c1::confirm the outbreak}}.",
+      "answer": "confirm the outbreak"
+    },
+    {
+      "topic": "Outbreak investigation",
+      "slide": 28,
+      "explanation": "The illustrated framework includes defining cases before finding and describing them; consistency makes comparisons meaningful.",
+      "images": [
+        "investigation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A consistent {{c1::case definition}} helps investigators decide which people to count.",
+      "noteId": "epidemiology-infection-spread-e0944441d27835f585d6-note",
+      "id": "epidemiology-infection-spread-e0944441d27835f585d6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A consistent {{c1::case definition}} helps investigators decide which people to count.",
+      "answer": "case definition"
+    },
+    {
+      "topic": "Outbreak investigation",
+      "slide": 28,
+      "explanation": "An apparent association or plausible source is a starting explanation, not proof.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A proposed source or route should be investigated by developing and {{c1::testing hypotheses}}.",
+      "noteId": "epidemiology-infection-spread-a9f5daf585049184f5f0-note",
+      "id": "epidemiology-infection-spread-a9f5daf585049184f5f0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A proposed source or route should be investigated by developing and {{c1::testing hypotheses}}.",
+      "answer": "testing hypotheses"
+    },
+    {
+      "topic": "Outbreak investigation",
+      "slide": 28,
+      "explanation": "The framework places tracing alongside transmission mapping, communication and control.",
+      "images": [
+        "investigation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Identifying people exposed to an infectious case is {{c1::contact tracing}}.",
+      "noteId": "epidemiology-infection-spread-6534601f798ff6e9b005-note",
+      "id": "epidemiology-infection-spread-6534601f798ff6e9b005",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Identifying people exposed to an infectious case is {{c1::contact tracing}}.",
+      "answer": "contact tracing"
+    },
+    {
+      "topic": "Outbreak investigation",
+      "slide": 28,
+      "explanation": "The framework is iterative: check whether transmission is being reduced rather than assuming an intervention worked.",
+      "images": [
+        "investigation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "After implementing control measures, investigators should {{c1::monitor and evaluate}} the response.",
+      "noteId": "epidemiology-infection-spread-3b291d90e9c7adfb3bc2-note",
+      "id": "epidemiology-infection-spread-3b291d90e9c7adfb3bc2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After implementing control measures, investigators should {{c1::monitor and evaluate}} the response.",
+      "answer": "monitor and evaluate"
+    },
+    {
+      "topic": "Outbreak control examples",
+      "slide": 29,
+      "explanation": "The lecture reports close-contact behaviours and a targeted MenB vaccine response in March 2026. Its case totals are a dated source snapshot, not live surveillance data.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The Kent MenB case study illustrates targeted {{c1::vaccination}} as an outbreak-control measure.",
+      "noteId": "epidemiology-infection-spread-a7fefb671aad3e69d5cf-note",
+      "id": "epidemiology-infection-spread-a7fefb671aad3e69d5cf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Kent MenB case study illustrates targeted {{c1::vaccination}} as an outbreak-control measure.",
+      "answer": "vaccination"
+    },
+    {
+      "topic": "Healthcare-associated infection",
+      "slide": 30,
+      "explanation": "This means healthcare acquisition, not merely that an infection is diagnosed while a person is in hospital.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infection acquired in hospital is termed {{c1::nosocomial}}.",
+      "noteId": "epidemiology-infection-spread-cf3ad35029116e85b365-note",
+      "id": "epidemiology-infection-spread-cf3ad35029116e85b365",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infection acquired in hospital is termed {{c1::nosocomial}}.",
+      "answer": "nosocomial"
+    },
+    {
+      "topic": "Healthcare-associated infection",
+      "slide": 30,
+      "explanation": "Healthcare settings combine susceptible hosts with repeated contacts and procedures.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Vulnerable patients and opportunities for transmission make hospital {{c1::infection surveillance and control}} essential.",
+      "noteId": "epidemiology-infection-spread-7cae49d59d892d37202e-note",
+      "id": "epidemiology-infection-spread-7cae49d59d892d37202e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vulnerable patients and opportunities for transmission make hospital {{c1::infection surveillance and control}} essential.",
+      "answer": "infection surveillance and control"
+    },
+    {
+      "topic": "Vaccination and control",
+      "slide": 31,
+      "explanation": "This targets the host-susceptibility link in the chain of infection.",
+      "images": [
+        "herd"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Vaccination can reduce the number of {{c1::susceptible hosts}}.",
+      "noteId": "epidemiology-infection-spread-bc510ea7499fcd77bb49-note",
+      "id": "epidemiology-infection-spread-bc510ea7499fcd77bb49",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vaccination can reduce the number of {{c1::susceptible hosts}}.",
+      "answer": "susceptible hosts"
+    },
+    {
+      "topic": "Vaccination and control",
+      "slide": 31,
+      "explanation": "This can protect vulnerable people, but its strength depends on the pathogen, vaccine and population; it is not guaranteed individual protection.",
+      "images": [
+        "herd"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Indirect protection when transmission is reduced in a sufficiently immune population is {{c1::herd immunity}}.",
+      "noteId": "epidemiology-infection-spread-b04da485f44e8e780719-note",
+      "id": "epidemiology-infection-spread-b04da485f44e8e780719",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Indirect protection when transmission is reduced in a sufficiently immune population is {{c1::herd immunity}}.",
+      "answer": "herd immunity"
+    },
+    {
+      "topic": "Vaccination and control",
+      "slide": 31,
+      "explanation": "This is a population mechanism connecting vaccination coverage with transmission.",
+      "images": [
+        "herd"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Falling vaccine uptake can promote outbreaks by increasing the pool of {{c1::susceptible people}}.",
+      "noteId": "epidemiology-infection-spread-078964a5ac99c402aed6-note",
+      "id": "epidemiology-infection-spread-078964a5ac99c402aed6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Falling vaccine uptake can promote outbreaks by increasing the pool of {{c1::susceptible people}}.",
+      "answer": "susceptible people"
+    },
+    {
+      "topic": "Emerging infection",
+      "slide": 32,
+      "explanation": "The lecture also identifies pathogen evolution and antimicrobial resistance as contributors to emergence or re-emergence.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Global travel facilitates rapid geographical {{c1::dissemination of infections}}.",
+      "noteId": "epidemiology-infection-spread-560a21bbff31f56fc01e-note",
+      "id": "epidemiology-infection-spread-560a21bbff31f56fc01e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Global travel facilitates rapid geographical {{c1::dissemination of infections}}.",
+      "answer": "dissemination of infections"
+    },
+    {
+      "topic": "Emerging infection",
+      "slide": 32,
+      "explanation": "The lecture connects AMR with emerging and re-emerging infections; resistance does not automatically mean intrinsically faster transmission.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Resistance that makes infections harder to control is {{c1::antimicrobial resistance (AMR)}}.",
+      "noteId": "epidemiology-infection-spread-a10bd0f60fc32643e616-note",
+      "id": "epidemiology-infection-spread-a10bd0f60fc32643e616",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resistance that makes infections harder to control is {{c1::antimicrobial resistance (AMR)}}.",
+      "answer": "antimicrobial resistance (AMR)"
+    },
+    {
+      "topic": "Genomic epidemiology",
+      "slide": 33,
+      "explanation": "Patient and exposure information provide context for genetic relationships between sampled organisms.",
+      "images": [
+        "genomic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Genomic epidemiology combines population epidemiology with {{c1::pathogen genomic data}}.",
+      "noteId": "epidemiology-infection-spread-18b97ae296121ed9796a-note",
+      "id": "epidemiology-infection-spread-18b97ae296121ed9796a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Genomic epidemiology combines population epidemiology with {{c1::pathogen genomic data}}.",
+      "answer": "pathogen genomic data"
+    },
+    {
+      "topic": "Genomic epidemiology",
+      "slide": 34,
+      "explanation": "The labelled rings include year, sex, age and travel. The slide does not provide a spoken interpretation or isolate-level dataset, so no exact transmission chain is inferred.",
+      "images": [
+        "genomic"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The circular figure combines a pathogen tree with patient and travel {{c1::metadata}}.",
+      "noteId": "epidemiology-infection-spread-9a26aeaf1616604faac6-note",
+      "id": "epidemiology-infection-spread-9a26aeaf1616604faac6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The circular figure combines a pathogen tree with patient and travel {{c1::metadata}}.",
+      "answer": "metadata"
+    },
+    {
+      "topic": "Genomic epidemiology",
+      "slide": 35,
+      "explanation": "Examples labelled include blaCTX-M-27 and mph(A). The slide provides no complete susceptibility results or isolate-level identities; do not infer an individual treatment choice from the picture.",
+      "images": [
+        "resistance"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The green presence/absence tracks in the genomic figure annotate {{c1::resistance-associated genetic markers}}.",
+      "noteId": "epidemiology-infection-spread-6f0b6a36c8d0fbc9089c-note",
+      "id": "epidemiology-infection-spread-6f0b6a36c8d0fbc9089c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The green presence/absence tracks in the genomic figure annotate {{c1::resistance-associated genetic markers}}.",
+      "answer": "resistance-associated genetic markers"
+    },
+    {
+      "topic": "Genomic epidemiology",
+      "slide": 35,
+      "explanation": "Genetic relatedness alone does not identify who infected whom; the figure lacks a confirmed contact chain or detailed sampling account.",
+      "images": [
+        "resistance"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A genetic tree should be interpreted alongside {{c1::epidemiological evidence}} when assessing a suspected transmission link.",
+      "noteId": "epidemiology-infection-spread-b9e41f2c052d5a381b1a-note",
+      "id": "epidemiology-infection-spread-b9e41f2c052d5a381b1a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A genetic tree should be interpreted alongside {{c1::epidemiological evidence}} when assessing a suspected transmission link.",
+      "answer": "epidemiological evidence"
+    },
+    {
+      "topic": "Outbreak applications",
+      "slide": 36,
+      "explanation": "This is a conditional answer to the plenary image. A buffet photograph alone does not establish exposure timing or prove contamination.",
+      "images": [
+        "buffet"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Illness following a single shared buffet meal could produce a {{c1::point-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-5deb97e9b121fd3afbaf-note",
+      "id": "epidemiology-infection-spread-5deb97e9b121fd3afbaf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Illness following a single shared buffet meal could produce a {{c1::point-source outbreak}}.",
+      "answer": "point-source outbreak"
+    },
+    {
+      "topic": "Outbreak applications",
+      "slide": 36,
+      "explanation": "The pump image alone does not show duration; the sustained-exposure assumption is what distinguishes this pattern.",
+      "images": [
+        "pump"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A water supply contaminated continuously over several days could produce a {{c1::continuous common-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-0c045cf406a6bb8c0704-note",
+      "id": "epidemiology-infection-spread-0c045cf406a6bb8c0704",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A water supply contaminated continuously over several days could produce a {{c1::continuous common-source outbreak}}.",
+      "answer": "continuous common-source outbreak"
+    },
+    {
+      "topic": "Outbreak applications",
+      "slide": 36,
+      "explanation": "The pictured coughing group is a prompt for a possible route, not proof that this pattern occurred.",
+      "images": [
+        "classroom"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Successive waves of illness due to transmission between classmates suggest a {{c1::propagated outbreak}}.",
+      "noteId": "epidemiology-infection-spread-537ecb54cb3840178d00-note",
+      "id": "epidemiology-infection-spread-537ecb54cb3840178d00",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Successive waves of illness due to transmission between classmates suggest a {{c1::propagated outbreak}}.",
+      "answer": "propagated outbreak"
+    },
+    {
+      "topic": "Outbreak applications",
+      "slide": 36,
+      "explanation": "The chef picture has no exposure timeline or answer key. Separate contamination episodes are an explicit revision scenario; a single meal would instead support point-source exposure.",
+      "images": [
+        "chef"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An infected food handler contaminating meals on separate occasions could produce an {{c1::intermittent common-source outbreak}}.",
+      "noteId": "epidemiology-infection-spread-a05b876fe48bbe80a135-note",
+      "id": "epidemiology-infection-spread-a05b876fe48bbe80a135",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infected food handler contaminating meals on separate occasions could produce an {{c1::intermittent common-source outbreak}}.",
+      "answer": "intermittent common-source outbreak"
+    },
+    {
+      "topic": "Integrated control",
+      "slide": 37,
+      "explanation": "This integrates reservoirs, susceptibility and opportunities for transmission rather than attributing an outbreak to one factor alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Disease spread depends on interactions between the pathogen, the host and the {{c1::environment}}.",
+      "noteId": "epidemiology-infection-spread-f964d40053d7f62eec2d-note",
+      "id": "epidemiology-infection-spread-f964d40053d7f62eec2d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Disease spread depends on interactions between the pathogen, the host and the {{c1::environment}}.",
+      "answer": "environment"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Epidemiology and Infection Spread — page 1",
+      "text": "LS5008 / LS5030\nEpidemiology and Infection Spread\nDr Lewis C. E. Mason \nBSc (Hons), MSc, PhD, MSRB, FIBMS, AFHEA \n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Epidemiology and Infection Spread — page 2",
+      "text": "Starter Activity\n•\nWhat do all these images have in common?\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Epidemiology and Infection Spread — page 3",
+      "text": "Learning objectives\n•\nRecall the terminology used in infectious\ndisease surveillance\n•\nExplain infectious disease timelines, cycles of\ninfection, and factors that play a role in each\nstage\n•\nCritically evaluate methods and \nrecommendations for controlling infectious disease\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Epidemiology and Infection Spread — page 4",
+      "text": "Why do we study epidemiology?\n•\nInfectious diseases remain a major\ncause of morbidity and mortality worldwide\n•\nEpidemiology helps identify how \ndiseases emerge, spread, and can be \ncontrolled\n•\nBiomedical scientists contribute to \ndetection, surveillance, and outbreak \ninvestigation\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Epidemiology and Infection Spread — page 5",
+      "text": "What is epidemiology?\n•\nThe study of the distribution of disease\nin populations\n•\nInvestigation of factors influencing\nhealth and disease\n•\nUse of population-level data to inform\npublic health interventions\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Epidemiology and Infection Spread — page 6",
+      "text": "The Chain of Infection\n•\nThe infectious agent itself, its reservoir(s),\nportal of exit, transmission route, portal\nof entry, and the susceptibility of the \nhost\n•\nDisease spread can be interrupted \nat any stage\n•\nPublic health interventions target specific\nlinks in the chain\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Epidemiology and Infection Spread — page 7",
+      "text": "Disease Progression\n• Exposure \n• Incubation period\n• Prodromal period\n• Illness period\n• Decline\n• Convalescence period\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Epidemiology and Infection Spread — page 8",
+      "text": "When are patients actually infectious?\n• Infectiousness varies over the \ncourse of an infectious disease\n• Transmission can occur before \nor even after the end of symptoms\n• Pathogen characteristics\ndetermine the length and\ntime of the infectious period\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Epidemiology and Infection Spread — page 9",
+      "text": "Asymptomatic carriers of infectious agents\n• Asymptomatic carriers can\ntransmit pathogens without knowing\nthat they are infected \n• Carriers may contribute significantly\nto outbreaks\n• Public health control in these\ncases can be very challenging\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Epidemiology and Infection Spread — page 10",
+      "text": "",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Epidemiology and Infection Spread — page 11",
+      "text": "Infectious Agents and Reservoirs\n•\nPathogens may be bacterial, viral, \nfungal, protozoal, parasitic, or prion\n•\nHuman, animal, and environmental \nreservoirs can maintain infection\n(One Health)\n•\nZoonotic reservoirs play important\nroles in emerging diseases\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Epidemiology and Infection Spread — page 12",
+      "text": "Routes of Transmission\n•\nDirect contact, indirect contact,\ndroplet, airborne, vehicle-borne,\nand vector-borne transmission exists\n•\nDifferent pathogens exploit different\ntransmission routes\n•\nUnderstanding transmission guides\ncontrol measures\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Epidemiology and Infection Spread — page 13",
+      "text": "Direct and Indirect Contact Transmission\n•\nDirect contact requires physical\ninteraction between individuals\n•\nIndirect transmission occurs via\ncontaminated surfaces or objects\n•\nHand hygiene remains an important\nintervention!\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Epidemiology and Infection Spread — page 14",
+      "text": "Droplet vs Airborne Transmission\n•\nDroplets generally travel short distances before settling. Airborne \nparticles can remain suspended for longer periods. Control \nmeasures differ substantially between the two routes\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Epidemiology and Infection Spread — page 15",
+      "text": "Vector-Borne Transmission\n•\nMosquitos, ticks, and fleas are important vectors of infectious \nagents. Vector ecology strongly influences disease distribution\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Epidemiology and Infection Spread — page 16",
+      "text": "Susceptible Hosts and Risk Factors\n•\nHost immunity influences\ninfection risk\n•\nAge, genetics, nutrition, and\nunderlying disease are important\nfactors\n•\nImmunocompromised individuals \nare at higher risk of infection\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Epidemiology and Infection Spread — page 17",
+      "text": "Endemic, Outbreak, Epidemic, & Pandemic\n•\nEndemic diseases occur at predictable\nbackground levels in an area over time\n•\nOutbreaks are: ‘an incident in which\nat least two or more people are affected\nby the same infectious disease, linked\nby time, place, or common exposure’\n•\nEpidemics involve disease \noccurrence above expected levels\nacross a large area in a set amount of time\n•\nPandemics involve widespread international transmission of a disease \nin greater numbers than expected over a set time period\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Epidemiology and Infection Spread — page 18",
+      "text": "Introduction to Disease Surveillance\n•\nThere is a continuous monitoring of\ndisease occurrence for many diseases \nin the UK\n•\nIt is a legal requirement for some\ndiseases to be reported: notifiable diseases\n•\nThese data are collated by the UK Health\nSecurity Agency (UKHSA), \nenabling early detection of outbreaks\n•\nAll of this supports evidence-based\npublic health responses\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Epidemiology and Infection Spread — page 19",
+      "text": "Notifiable Diseases (some examples)\nhttps://www.gov.uk/guidance/notifiable-diseases-and-how-to-\nreport-them#reporting-other-infectious-diseases\nAnthrax\nBotulism\nChickenpox\nCholera\nFood poisoning\nDiphtheria\nEnteric fever\nMalaria\nMeasles\nMpox\nMumps\nPlague\nRabies\nInfectious \nbloody diarrhoea\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Epidemiology and Infection Spread — page 20",
+      "text": "How effective is reporting?\n•\nNot every infected individual\nseeks medical attention\n•\nNot every patient is tested,\nclinical diagnosis may be\nmade without lab\nconfirmation\n•\nNot every confirmed case\nis reported\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Epidemiology and Infection Spread — page 21",
+      "text": "Measuring disease frequency\n•\nEpidemiology partially relies on\nquantitative measurements\n•\n‘Incidence’ and ‘Prevalence’ \nanswer different questions\n•\nAccurate data collection is \nessential and makes inferences \nmore powerful\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Epidemiology and Infection Spread — page 22",
+      "text": "Incidence\n•\nMeasures new cases\narising over a specific period\nof time \n•\nIndicates current risk of\ndisease acquisition \n•\nUseful for studying transmission\ndynamics\n•\nE.g. ‘50 new cases among 1,000 students during one week’\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Epidemiology and Infection Spread — page 23",
+      "text": "Prevalence\n•\nMeasures all existing cases\nat a specific time point\n•\nReflects disease burden\nwithin a population\n•\nInfluenced by both incidence \nand disease duration\n•\nE.g. ‘50 students are currently infected\ntoday’\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Epidemiology and Infection Spread — page 24",
+      "text": "Attack Rate and Secondary Attack Rate\n•\nFrequently used \nduring outbreak investigations\n•\n‘Attack rate’ estimates the\nproportion becoming ill\n•\nSecondary attack rate \nassesses household or\nclose-contact spread\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Epidemiology and Infection Spread — page 25",
+      "text": "Basic Reproduction Number (R₀)\n•\nThis is the average number of\n secondary cases caused by \none infected individual\n•\nR₀ > 1     = Potential spread\n•\nR₀ < 1     = Declining \n                     transmission\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Epidemiology and Infection Spread — page 26",
+      "text": "Epidemic Curves\n•\nThis is a visual representation\nof cases over time\n•\nIt can help to suggest \nsource and transmission\npatterns\n•\nA very important tool \nduring outbreak investigations\n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Epidemiology and Infection Spread — page 27",
+      "text": "Types of Outbreak\n•\nPoint-source outbreaks arise from\na single exposure event\n•\nContinuous common-source \noutbreaks involve prolonged \nexposure\n•\nPropagated outbreaks involve\nperson-to-person transmission\n•\nIntermittent source outbreak is not constant, and seems random\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Epidemiology and Infection Spread — page 28",
+      "text": "Outbreak Investigation Process\n• Confirm the outbreak\n• Develop and test \nhypotheses\n• Implement control \nmeasures and \ncommunicate findings \n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Epidemiology and Infection Spread — page 29",
+      "text": "Case Study: Kent MenB Outbreak \nMarch 2026\n•\nThe outbreak resulted\nin 21 confirmed cases, \n9 of which requiring \nintensive care, & two deaths\n•\nTransmission driven by\nkissing, sharing drinks,\nand sharing vapes\n•\nTargeted menB vaccines\nfollowed\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Epidemiology and Infection Spread — page 30",
+      "text": "Healthcare-Associated Infections\n•\nHospitals provide ample\nopportunities for pathogen\ntransmission\n•\nInfections that occur at a \nhospital are nosocomial \n•\nVulnerable patients are at\nan increased risk\n•\nSurveillance and infection\ncontrol are absolutely essential\nin hospitals\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Epidemiology and Infection Spread — page 31",
+      "text": "Vaccination and Herd Immunity\n•\nVaccination reduces the number of susceptible hosts. Herd \nimmunity protects vulnerable individuals. Declining vaccine \nuptake can promote outbreaks.\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Epidemiology and Infection Spread — page 32",
+      "text": "Emerging and Re-Emerging Infections\n•\nPathogens continue to evolve and \nadapt\n•\nGlobal travel facilitates rapid \ndissemination\n•\nAntimicrobial resistance (AMR) \ncontributes to disease emergence\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Epidemiology and Infection Spread — page 33",
+      "text": "Genomic epidemiology\n•\nA combination of traditional\nhuman-based population \nepidemiology alongside\ngenomics of the pathogen\n•\nVery powerful and increasingly\nused to predict, identify,\nand prevent outbreaks\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Epidemiology and Infection Spread — page 34",
+      "text": "Mason et al., 2023\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Epidemiology and Infection Spread — page 35",
+      "text": "Mason et al., 2023\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Epidemiology and Infection Spread — page 36",
+      "text": "Plenary Activity\n•\nName the type of outbreak that could be\ncaused by each of the following sources\n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Epidemiology and Infection Spread — page 37",
+      "text": "Summary\n•\nDisease spread depends on\ninteractions between pathogen, host,\nand environment\n•\nEpidemiology provides tools to \nunderstand and control infections\n•\nSurveillance and outbreak \ninvestigation are central to public \nhealth practice\n",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Epidemiology and Infection Spread — page 38",
+      "text": "Further reading\n•\nMason et al., (2026) The natural history of the emergence of\nsexually transmissible shigellosis. Microbial Genomics\nhttps://doi.org/10.1099/mgen.0.001607\n•\nMason et al., (2025) Using demographics of patients to inform the treatment of \nshigellosis. The Lancet Microbe \nhttps://doi.org/10.1016/j.lanmic.2024.101026\n•\nMason et al., (2024) The re-emergence of sexually transmissible multi-drug\nresistant Shigella flexneri 3a, England, United Kingdom\nhttps://doi.org/10.1038/s44259-024-00038-3\n•\nMason et al., (2023) The evolution and international spread\nof extensively drug-resistant Shigella sonnei. Nature \nCommunications https://doi.org/10.1038/s41467-023-37672-w\n",
+      "images": [
+        "page-38"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "epidemiology-infection-spread/page-1.jpg",
+    "page-2": "epidemiology-infection-spread/page-2.jpg",
+    "page-3": "epidemiology-infection-spread/page-3.jpg",
+    "page-4": "epidemiology-infection-spread/page-4.jpg",
+    "page-5": "epidemiology-infection-spread/page-5.jpg",
+    "page-6": "epidemiology-infection-spread/page-6.jpg",
+    "page-7": "epidemiology-infection-spread/page-7.jpg",
+    "page-8": "epidemiology-infection-spread/page-8.jpg",
+    "page-9": "epidemiology-infection-spread/page-9.jpg",
+    "page-10": "epidemiology-infection-spread/page-10.jpg",
+    "page-11": "epidemiology-infection-spread/page-11.jpg",
+    "page-12": "epidemiology-infection-spread/page-12.jpg",
+    "page-13": "epidemiology-infection-spread/page-13.jpg",
+    "page-14": "epidemiology-infection-spread/page-14.jpg",
+    "page-15": "epidemiology-infection-spread/page-15.jpg",
+    "page-16": "epidemiology-infection-spread/page-16.jpg",
+    "page-17": "epidemiology-infection-spread/page-17.jpg",
+    "page-18": "epidemiology-infection-spread/page-18.jpg",
+    "page-19": "epidemiology-infection-spread/page-19.jpg",
+    "page-20": "epidemiology-infection-spread/page-20.jpg",
+    "page-21": "epidemiology-infection-spread/page-21.jpg",
+    "page-22": "epidemiology-infection-spread/page-22.jpg",
+    "page-23": "epidemiology-infection-spread/page-23.jpg",
+    "page-24": "epidemiology-infection-spread/page-24.jpg",
+    "page-25": "epidemiology-infection-spread/page-25.jpg",
+    "page-26": "epidemiology-infection-spread/page-26.jpg",
+    "page-27": "epidemiology-infection-spread/page-27.jpg",
+    "page-28": "epidemiology-infection-spread/page-28.jpg",
+    "page-29": "epidemiology-infection-spread/page-29.jpg",
+    "page-30": "epidemiology-infection-spread/page-30.jpg",
+    "page-31": "epidemiology-infection-spread/page-31.jpg",
+    "page-32": "epidemiology-infection-spread/page-32.jpg",
+    "page-33": "epidemiology-infection-spread/page-33.jpg",
+    "page-34": "epidemiology-infection-spread/page-34.jpg",
+    "page-35": "epidemiology-infection-spread/page-35.jpg",
+    "page-36": "epidemiology-infection-spread/page-36.jpg",
+    "page-37": "epidemiology-infection-spread/page-37.jpg",
+    "page-38": "epidemiology-infection-spread/page-38.jpg",
+    "chain": "epidemiology-infection-spread/chain.jpg",
+    "timeline": "epidemiology-infection-spread/timeline.jpg",
+    "shared-surfaces": "epidemiology-infection-spread/shared-surfaces.jpg",
+    "respiratory": "epidemiology-infection-spread/respiratory.jpg",
+    "vectors": "epidemiology-infection-spread/vectors.jpg",
+    "participation": "epidemiology-infection-spread/participation.jpg",
+    "questionnaires": "epidemiology-infection-spread/questionnaires.jpg",
+    "pyramid": "epidemiology-infection-spread/pyramid.jpg",
+    "reproduction": "epidemiology-infection-spread/reproduction.jpg",
+    "curves": "epidemiology-infection-spread/curves.jpg",
+    "point-curve": "epidemiology-infection-spread/point-curve.jpg",
+    "continuous-curve": "epidemiology-infection-spread/continuous-curve.jpg",
+    "propagated-curve": "epidemiology-infection-spread/propagated-curve.jpg",
+    "intermittent-curve": "epidemiology-infection-spread/intermittent-curve.jpg",
+    "investigation": "epidemiology-infection-spread/investigation.jpg",
+    "herd": "epidemiology-infection-spread/herd.jpg",
+    "genomic": "epidemiology-infection-spread/genomic.jpg",
+    "resistance": "epidemiology-infection-spread/resistance.jpg",
+    "buffet": "epidemiology-infection-spread/buffet.jpg",
+    "pump": "epidemiology-infection-spread/pump.jpg",
+    "classroom": "epidemiology-infection-spread/classroom.jpg",
+    "chef": "epidemiology-infection-spread/chef.jpg"
+  }
+}
