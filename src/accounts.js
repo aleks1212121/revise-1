@@ -1,3 +1,4 @@
+import {createAuthFetch} from './auth-network.js';
 import {createClient} from '@supabase/supabase-js';
 const settings=new WeakMap();
 export const accountSettings=client=>settings.get(client);
@@ -13,7 +14,7 @@ export function validateAccountConfig(config){
 }
 export async function accountClient(){
  let config={supabaseUrl:import.meta.env.VITE_SUPABASE_URL||'',supabasePublishableKey:import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY||''};
- if(!config.supabaseUrl){const r=await fetch(`${import.meta.env.BASE_URL}account-config.json`);if(!r.ok)throw Error('Account configuration could not be loaded.');config=await r.json()}
+ if(!config.supabaseUrl){const r=await fetch(`${import.meta.env.BASE_URL}account-config.json`,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error('Account configuration could not be loaded.');config=await r.json()}
  const validated=validateAccountConfig(config);if(!validated)return null;
- const client=createClient(validated.url,validated.key,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}});settings.set(client,validated);return client;
+ const client=createClient(validated.url,validated.key,{global:{fetch:createAuthFetch()},auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}});settings.set(client,validated);return client;
 }
