@@ -1,0 +1,1958 @@
+{
+  "version": 2,
+  "lectureId": "virulence-factors",
+  "title": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins",
+  "moduleId": "infection-immunity",
+  "moduleName": "Infection and Immunity",
+  "moduleCode": "LS5008",
+  "source": "Virulence factors of micro-organisms -canvas-1-1.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Koch’s postulates",
+      "slide": 3,
+      "explanation": "This is a historical causation framework, not a requirement that every modern infectious disease fits all postulates. The slide illustrates isolation, comparison and reproduction of disease.",
+      "images": [
+        "koch"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Koch’s postulates link a suspected microorganism with the {{c1::disease it causes}}.",
+      "noteId": "virulence-factors-15c7701de17bfa4c2112-note",
+      "id": "virulence-factors-15c7701de17bfa4c2112",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Koch’s postulates link a suspected microorganism with the {{c1::disease it causes}}.",
+      "answer": "disease it causes"
+    },
+    {
+      "topic": "Koch’s postulates",
+      "slide": 3,
+      "explanation": "The first illustrated step begins with an affected animal. The classical association is not an absolute modern rule excluding asymptomatic carriage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "In the classical Koch framework, the suspected organism is associated with {{c1::diseased hosts}}.",
+      "noteId": "virulence-factors-8098278c5f214cc9f19a-note",
+      "id": "virulence-factors-8098278c5f214cc9f19a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the classical Koch framework, the suspected organism is associated with {{c1::diseased hosts}}.",
+      "answer": "diseased hosts"
+    },
+    {
+      "topic": "Koch’s postulates",
+      "slide": 3,
+      "explanation": "This is the historical evidence standard illustrated on the slide, rather than a claim that every pathogen grows independently in culture.",
+      "images": [
+        "koch"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The isolation stage of Koch’s framework seeks a {{c1::pure culture}} of the suspected organism.",
+      "noteId": "virulence-factors-d2370d59ef8acb7d3cd1-note",
+      "id": "virulence-factors-d2370d59ef8acb7d3cd1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The isolation stage of Koch’s framework seeks a {{c1::pure culture}} of the suspected organism.",
+      "answer": "pure culture"
+    },
+    {
+      "topic": "Koch’s postulates",
+      "slide": 3,
+      "explanation": "This is a conceptual account of the historical postulates, not an instruction to perform an experiment.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Reproduction of the same disease in a susceptible host supports a proposed {{c1::causal link}} in Koch’s framework.",
+      "noteId": "virulence-factors-c31c3f7d5d2461eefe46-note",
+      "id": "virulence-factors-c31c3f7d5d2461eefe46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reproduction of the same disease in a susceptible host supports a proposed {{c1::causal link}} in Koch’s framework.",
+      "answer": "causal link"
+    },
+    {
+      "topic": "Koch’s postulates",
+      "slide": 3,
+      "explanation": "The diagram labels identical microorganisms recovered after disease is reproduced; identification closes the causal argument.",
+      "images": [
+        "koch"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The final Koch comparison requires the recovered microorganism to be {{c1::the same as the original organism}}.",
+      "noteId": "virulence-factors-b04a28450a4f88bcb2ad-note",
+      "id": "virulence-factors-b04a28450a4f88bcb2ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The final Koch comparison requires the recovered microorganism to be {{c1::the same as the original organism}}.",
+      "answer": "the same as the original organism"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 5,
+      "explanation": "The lecture organises these traits around attachment, colonisation, immune evasion and toxin-mediated damage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A bacterial trait that enhances its ability to cause disease is a {{c1::virulence factor}}.",
+      "noteId": "virulence-factors-12b12ae6a60729944576-note",
+      "id": "virulence-factors-12b12ae6a60729944576",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A bacterial trait that enhances its ability to cause disease is a {{c1::virulence factor}}.",
+      "answer": "virulence factor"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 5,
+      "explanation": "This helps establish infection before successful colonisation. It is distinct from subsequent growth in the host.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Attachment to host cells or surfaces is called {{c1::adherence}}.",
+      "noteId": "virulence-factors-aa15ad6d3232d3504c8c-note",
+      "id": "virulence-factors-aa15ad6d3232d3504c8c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Attachment to host cells or surfaces is called {{c1::adherence}}.",
+      "answer": "adherence"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 5,
+      "explanation": "Attachment alone does not establish that the organism can obtain the conditions and nutrients needed to grow.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Surviving and multiplying in an appropriate host site constitutes {{c1::colonisation}}.",
+      "noteId": "virulence-factors-e7631cd07c3b982bb387-note",
+      "id": "virulence-factors-e7631cd07c3b982bb387",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Surviving and multiplying in an appropriate host site constitutes {{c1::colonisation}}.",
+      "answer": "colonisation"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 5,
+      "explanation": "The lecture names this stage but does not explain specific capsule, complement or antibody-evasion mechanisms. Those mechanisms are not inferred from the heading.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Avoiding or resisting host defences contributes to {{c1::immune evasion}}.",
+      "noteId": "virulence-factors-d7e4c49e3dd9f010cc68-note",
+      "id": "virulence-factors-d7e4c49e3dd9f010cc68",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Avoiding or resisting host defences contributes to {{c1::immune evasion}}.",
+      "answer": "immune evasion"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 6,
+      "explanation": "The slide’s left-hand diagram labels adhesin and receptor; their molecular compatibility helps explain attachment to particular tissues.",
+      "images": [
+        "adhesion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Specific bacterial adhesion involves a microbial ligand binding a complementary host {{c1::receptor}}.",
+      "noteId": "virulence-factors-5176aa7741e504e326ce-note",
+      "id": "virulence-factors-5176aa7741e504e326ce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Specific bacterial adhesion involves a microbial ligand binding a complementary host {{c1::receptor}}.",
+      "answer": "receptor"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 6,
+      "explanation": "Adhesins bind host structures; the word does not mean the host receptor itself.",
+      "images": [
+        "adhesion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A microbial surface ligand that mediates attachment is an {{c1::adhesin}}.",
+      "noteId": "virulence-factors-ffab96d594cfbc19162c-note",
+      "id": "virulence-factors-ffab96d594cfbc19162c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A microbial surface ligand that mediates attachment is an {{c1::adhesin}}.",
+      "answer": "adhesin"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 6,
+      "explanation": "The lecture highlights their adherence role; not every pilus has an identical function.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The appendages named alongside adhesins as common attachment structures are {{c1::pili}}.",
+      "noteId": "virulence-factors-49ea7962e427485656f8-note",
+      "id": "virulence-factors-49ea7962e427485656f8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The appendages named alongside adhesins as common attachment structures are {{c1::pili}}.",
+      "answer": "pili"
+    },
+    {
+      "topic": "Pathogenicity and adherence",
+      "slide": 6,
+      "explanation": "This is the labelled example on the slide, not a species identification inferred from bacterial shape.",
+      "images": [
+        "bladder-adhesion"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The adhesion micrograph labels E. coli attached to human {{c1::bladder cells}}.",
+      "noteId": "virulence-factors-646bd6e1b2a6538f11d4-note",
+      "id": "virulence-factors-646bd6e1b2a6538f11d4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The adhesion micrograph labels E. coli attached to human {{c1::bladder cells}}.",
+      "answer": "bladder cells"
+    },
+    {
+      "topic": "Mucosal invasion",
+      "slide": 7,
+      "explanation": "This is the non-invasive toxin-producing route in the lecture. Its phrase “no intercellular penetration” should not be read as a precise account of every between-cell route.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Bacteria can cause mucosal disease by adhering and producing toxin without {{c1::entering epithelial cells}}.",
+      "noteId": "virulence-factors-f1d14ee99e2eea8a1d46-note",
+      "id": "virulence-factors-f1d14ee99e2eea8a1d46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Bacteria can cause mucosal disease by adhering and producing toxin without {{c1::entering epithelial cells}}.",
+      "answer": "entering epithelial cells"
+    },
+    {
+      "topic": "Mucosal invasion",
+      "slide": 7,
+      "explanation": "The slide distinguishes cell entry from adherence alone and from spread into deeper tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "One mucosal route involves epithelial entry through {{c1::endocytosis}}.",
+      "noteId": "virulence-factors-2025e40d99402c60b7a3-note",
+      "id": "virulence-factors-2025e40d99402c60b7a3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "One mucosal route involves epithelial entry through {{c1::endocytosis}}.",
+      "answer": "endocytosis"
+    },
+    {
+      "topic": "Mucosal invasion",
+      "slide": 7,
+      "explanation": "The third listed pattern is deeper invasion rather than remaining on or within the epithelium.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Spread beyond the mucosal epithelium reaches the {{c1::submucosal layers}}.",
+      "noteId": "virulence-factors-69f48a6d03828769db9f-note",
+      "id": "virulence-factors-69f48a6d03828769db9f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Spread beyond the mucosal epithelium reaches the {{c1::submucosal layers}}.",
+      "answer": "submucosal layers"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 8,
+      "explanation": "The body is not a uniformly nutrient-rich environment for every bacterium.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Successful colonisation requires suitable environmental conditions and adequate {{c1::nutrients}}.",
+      "noteId": "virulence-factors-2889f4cf9a70399a4bf0-note",
+      "id": "virulence-factors-2889f4cf9a70399a4bf0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Successful colonisation requires suitable environmental conditions and adequate {{c1::nutrients}}.",
+      "answer": "nutrients"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 8,
+      "explanation": "Much host iron is bound or stored rather than freely available.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A trace element highlighted as difficult for bacteria to obtain in the host is {{c1::iron}}.",
+      "noteId": "virulence-factors-cc53a965cb7c743ada9d-note",
+      "id": "virulence-factors-cc53a965cb7c743ada9d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A trace element highlighted as difficult for bacteria to obtain in the host is {{c1::iron}}.",
+      "answer": "iron"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 9,
+      "explanation": "The slide also lists haem-associated iron. Its numerical iron concentrations and units are ambiguous, so these are not made into quantitative recall cards.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ferritin and haemosiderin are intracellular {{c1::iron stores}}.",
+      "noteId": "virulence-factors-5114e002384746a094cd-note",
+      "id": "virulence-factors-5114e002384746a094cd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ferritin and haemosiderin are intracellular {{c1::iron stores}}.",
+      "answer": "iron stores"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 9,
+      "explanation": "Protein binding limits free iron availability to invading organisms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The extracellular iron-binding proteins named in the lecture are transferrin and {{c1::lactoferrin}}.",
+      "noteId": "virulence-factors-48480b5f47d100ad2bd9-note",
+      "id": "virulence-factors-48480b5f47d100ad2bd9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The extracellular iron-binding proteins named in the lecture are transferrin and {{c1::lactoferrin}}.",
+      "answer": "lactoferrin"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 10,
+      "explanation": "They help acquire iron in an environment where much of it is host-bound.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "High-affinity iron-binding molecules produced by bacteria are {{c1::siderophores}}.",
+      "noteId": "virulence-factors-34ab2f8b954038ea464b-note",
+      "id": "virulence-factors-34ab2f8b954038ea464b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "High-affinity iron-binding molecules produced by bacteria are {{c1::siderophores}}.",
+      "answer": "siderophores"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 10,
+      "explanation": "This is distinct from secreting siderophores, although both address iron limitation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Some pathogens acquire host iron through specific receptors for {{c1::transferrin}}.",
+      "noteId": "virulence-factors-aecb34a77899e62b14d9-note",
+      "id": "virulence-factors-aecb34a77899e62b14d9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Some pathogens acquire host iron through specific receptors for {{c1::transferrin}}.",
+      "answer": "transferrin"
+    },
+    {
+      "topic": "Colonisation and iron",
+      "slide": 10,
+      "explanation": "The slide lists haem acquisition alongside siderophores and transferrin receptors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Another bacterial iron source named in the lecture is liberated {{c1::haem}}.",
+      "noteId": "virulence-factors-718e5c3cd414b1ac8e21-note",
+      "id": "virulence-factors-718e5c3cd414b1ac8e21",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Another bacterial iron source named in the lecture is liberated {{c1::haem}}.",
+      "answer": "haem"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 11,
+      "explanation": "A potent toxin can produce substantial damage even when bacterial numbers alone do not explain the clinical picture.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Bacterial disease severity can depend on toxin activity rather than simply the {{c1::number of bacteria}}.",
+      "noteId": "virulence-factors-46060a6688e3f6fb1dcd-note",
+      "id": "virulence-factors-46060a6688e3f6fb1dcd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Bacterial disease severity can depend on toxin activity rather than simply the {{c1::number of bacteria}}.",
+      "answer": "number of bacteria"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 11,
+      "explanation": "The lecture emphasises the small intestine. This is a functional category, not the name of one molecular mechanism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A toxin targeting intestinal function is an {{c1::enterotoxin}}.",
+      "noteId": "virulence-factors-0818af64f9894c68d616-note",
+      "id": "virulence-factors-0818af64f9894c68d616",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A toxin targeting intestinal function is an {{c1::enterotoxin}}.",
+      "answer": "enterotoxin"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 11,
+      "explanation": "The slide emphasises distant effects; this is not a requirement that every exotoxin must travel to a distant organ.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An exotoxin can produce effects {{c1::away from the bacterial infection site}}.",
+      "noteId": "virulence-factors-cc89bdde3100653476f5-note",
+      "id": "virulence-factors-cc89bdde3100653476f5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An exotoxin can produce effects {{c1::away from the bacterial infection site}}.",
+      "answer": "away from the bacterial infection site"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 12,
+      "explanation": "This supplies the definition requested by the slide’s “What are they?” prompt. Endotoxin is a distinct topic, deferred to another lecture.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Exotoxins are bacterial {{c1::protein toxins}}.",
+      "noteId": "virulence-factors-5d7717cf1ac507858e40-note",
+      "id": "virulence-factors-5d7717cf1ac507858e40",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Exotoxins are bacterial {{c1::protein toxins}}.",
+      "answer": "protein toxins"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 12,
+      "explanation": "The lecture contrasts these organisms with examples dominated by a characteristic toxin.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Staphylococcus aureus, Streptococcus pyogenes and Pseudomonas aeruginosa can produce {{c1::multiple different toxins}}.",
+      "noteId": "virulence-factors-ecc710044b68e8a942b4-note",
+      "id": "virulence-factors-ecc710044b68e8a942b4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Staphylococcus aureus, Streptococcus pyogenes and Pseudomonas aeruginosa can produce {{c1::multiple different toxins}}.",
+      "answer": "multiple different toxins"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 13,
+      "explanation": "The slide’s “single toxin” wording is a simplification, not a rule that each listed species can produce only one toxin or virulence factor.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The characteristic toxin associated with Vibrio cholerae is {{c1::cholera toxin}}.",
+      "noteId": "virulence-factors-fb6c21c6f0a74ae8f99d-note",
+      "id": "virulence-factors-fb6c21c6f0a74ae8f99d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The characteristic toxin associated with Vibrio cholerae is {{c1::cholera toxin}}.",
+      "answer": "cholera toxin"
+    },
+    {
+      "topic": "Exotoxin genetics",
+      "slide": 14,
+      "explanation": "The slides repeat this point on pages 27 and 38. Their request for a named plasmid example is left blank; no unsupported example is supplied.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Some bacterial toxin genes are carried on plasmids or {{c1::bacteriophages}}.",
+      "noteId": "virulence-factors-07479a44c36a389017c8-note",
+      "id": "virulence-factors-07479a44c36a389017c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Some bacterial toxin genes are carried on plasmids or {{c1::bacteriophages}}.",
+      "answer": "bacteriophages"
+    },
+    {
+      "topic": "Exotoxin principles",
+      "slide": 15,
+      "explanation": "Botulinum and tetanus toxins are the named examples.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A toxin acting on the nervous system is a {{c1::neurotoxin}}.",
+      "noteId": "virulence-factors-a2c9887802a26056c9cc-note",
+      "id": "virulence-factors-a2c9887802a26056c9cc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A toxin acting on the nervous system is a {{c1::neurotoxin}}.",
+      "answer": "neurotoxin"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 16,
+      "explanation": "The source reports subsequent breathing/swallowing difficulty and cardiac problems. The case history supports a principle, not a universal timetable for every patient.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The diphtheria case illustrates that improvement in throat symptoms does not exclude later {{c1::systemic complications}}.",
+      "noteId": "virulence-factors-57b14601fde6fb9d5c18-note",
+      "id": "virulence-factors-57b14601fde6fb9d5c18",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The diphtheria case illustrates that improvement in throat symptoms does not exclude later {{c1::systemic complications}}.",
+      "answer": "systemic complications"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 17,
+      "explanation": "Toxigenicity depends on possession and expression of the toxin gene, not simply the species name.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The bacterium producing diphtheria toxin is {{c1::Corynebacterium diphtheriae}}.",
+      "noteId": "virulence-factors-645594f8d710b8e29464-note",
+      "id": "virulence-factors-645594f8d710b8e29464",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The bacterium producing diphtheria toxin is {{c1::Corynebacterium diphtheriae}}.",
+      "answer": "Corynebacterium diphtheriae"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 17,
+      "explanation": "This is the lecture’s concrete example of a phage-encoded toxin.",
+      "images": [
+        "diphtheria-mechanism"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The diphtheria toxin gene is carried by a {{c1::β bacteriophage}}.",
+      "noteId": "virulence-factors-bc735ff29127208c13a6-note",
+      "id": "virulence-factors-bc735ff29127208c13a6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The diphtheria toxin gene is carried by a {{c1::β bacteriophage}}.",
+      "answer": "β bacteriophage"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 17,
+      "explanation": "This is the labelled clinical image. The case illustrates upper-airway illness with potentially serious systemic effects; it is not a stand-alone diagnostic rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The grey adherent coating illustrated over the tonsils in diphtheria is a {{c1::pseudomembrane}}.",
+      "noteId": "virulence-factors-3d4a21e8ca95f9c3f35e-note",
+      "id": "virulence-factors-3d4a21e8ca95f9c3f35e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The grey adherent coating illustrated over the tonsils in diphtheria is a {{c1::pseudomembrane}}.",
+      "answer": "pseudomembrane"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 18,
+      "explanation": "The AB organisation separates enzymatic activity from binding and entry functions.",
+      "images": [
+        "diphtheria-ab"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The catalytic component of diphtheria toxin is fragment {{c1::A}}.",
+      "noteId": "virulence-factors-f7fc300f88bb33c7c7c1-note",
+      "id": "virulence-factors-f7fc300f88bb33c7c7c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The catalytic component of diphtheria toxin is fragment {{c1::A}}.",
+      "answer": "A"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 18,
+      "explanation": "Fragment A carries the catalytic activity; B enables delivery to the target cell.",
+      "images": [
+        "diphtheria-ab"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Diphtheria toxin fragment B mediates host-cell {{c1::binding and entry}}.",
+      "noteId": "virulence-factors-ac300daac9bf50a98676-note",
+      "id": "virulence-factors-ac300daac9bf50a98676",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diphtheria toxin fragment B mediates host-cell {{c1::binding and entry}}.",
+      "answer": "binding and entry"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 18,
+      "explanation": "The next slide’s mechanism image shows receptor binding followed by vesicle/endosome uptake.",
+      "images": [
+        "diphtheria-mechanism"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Diphtheria toxin enters a host cell by {{c1::endocytosis}}.",
+      "noteId": "virulence-factors-80fab4d1e0dc18660c45-note",
+      "id": "virulence-factors-80fab4d1e0dc18660c45",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diphtheria toxin enters a host cell by {{c1::endocytosis}}.",
+      "answer": "endocytosis"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 19,
+      "explanation": "The figure labels EF-2 at the final reaction. Its modification prevents protein synthesis.",
+      "images": [
+        "diphtheria-mechanism"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The host translation factor targeted by diphtheria toxin is {{c1::EF-2}}.",
+      "noteId": "virulence-factors-1c5bba93aab2eaee361b-note",
+      "id": "virulence-factors-1c5bba93aab2eaee361b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The host translation factor targeted by diphtheria toxin is {{c1::EF-2}}.",
+      "answer": "EF-2"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 19,
+      "explanation": "The figure shows NAD donating the ADP-ribose group and nicotinamide being released.",
+      "images": [
+        "diphtheria-mechanism"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Diphtheria toxin inhibits translation by {{c1::ADP-ribosylating EF-2}}.",
+      "noteId": "virulence-factors-164e33034f8684e92230-note",
+      "id": "virulence-factors-164e33034f8684e92230",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diphtheria toxin inhibits translation by {{c1::ADP-ribosylating EF-2}}.",
+      "answer": "ADP-ribosylating EF-2"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 19,
+      "explanation": "The effect follows inactivation of EF-2 rather than direct inhibition of adenylate cyclase.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The immediate biosynthetic process inhibited by diphtheria toxin is {{c1::protein synthesis}}.",
+      "noteId": "virulence-factors-05bd53faab8071239b0a-note",
+      "id": "virulence-factors-05bd53faab8071239b0a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The immediate biosynthetic process inhibited by diphtheria toxin is {{c1::protein synthesis}}.",
+      "answer": "protein synthesis"
+    },
+    {
+      "topic": "Diphtheria",
+      "slide": 19,
+      "explanation": "The slide gives the co-repressor relationship; with sufficient iron, iron-dependent repression reduces toxin gene expression. This is regulation of toxin production, not a treatment instruction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Iron acts as a {{c1::co-repressor}} of diphtheria toxin production.",
+      "noteId": "virulence-factors-dde9d32d50dae7d79281-note",
+      "id": "virulence-factors-dde9d32d50dae7d79281",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Iron acts as a {{c1::co-repressor}} of diphtheria toxin production.",
+      "answer": "co-repressor"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 20,
+      "explanation": "The source describes double vision, swallowing difficulty and ventilation. Food history plus symptoms require appropriate investigation, not diagnosis from one symptom alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The cheese-associated botulism case illustrates severe weakness progressing to {{c1::respiratory failure}}.",
+      "noteId": "virulence-factors-bdd867a99b04f15a6e5f-note",
+      "id": "virulence-factors-bdd867a99b04f15a6e5f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cheese-associated botulism case illustrates severe weakness progressing to {{c1::respiratory failure}}.",
+      "answer": "respiratory failure"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 21,
+      "explanation": "The lecture’s food-associated case concerns ingestion of preformed neurotoxin; this is not a description of every form of botulism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The principal organism named for botulinum toxin is {{c1::Clostridium botulinum}}.",
+      "noteId": "virulence-factors-67d9b4fcc1f3628cd7c6-note",
+      "id": "virulence-factors-67d9b4fcc1f3628cd7c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The principal organism named for botulinum toxin is {{c1::Clostridium botulinum}}.",
+      "answer": "Clostridium botulinum"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 21,
+      "explanation": "Distinguish toxin-mediated foodborne disease from assuming bacterial invasion is needed at the neuromuscular target.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The foodborne botulism example follows ingestion of {{c1::preformed neurotoxin}}.",
+      "noteId": "virulence-factors-8d0824d7a81342bea8c4-note",
+      "id": "virulence-factors-8d0824d7a81342bea8c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The foodborne botulism example follows ingestion of {{c1::preformed neurotoxin}}.",
+      "answer": "preformed neurotoxin"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 21,
+      "explanation": "This is the lecture’s teaching list; its “6/7 toxins” statement is not used as an exhaustive modern classification.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The classical human-associated botulinum toxin types listed are A, B, E and {{c1::F}}.",
+      "noteId": "virulence-factors-8400f072144d6cfac2d9-note",
+      "id": "virulence-factors-8400f072144d6cfac2d9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The classical human-associated botulinum toxin types listed are A, B, E and {{c1::F}}.",
+      "answer": "F"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 22,
+      "explanation": "The slide’s phrase “disulphide chain” means a bond linking the two polypeptide chains.",
+      "images": [
+        "botulinum-structure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Botulinum toxin contains a light chain and a heavy chain joined by a {{c1::disulphide bond}}.",
+      "noteId": "virulence-factors-d31272b1abbd81387b7e-note",
+      "id": "virulence-factors-d31272b1abbd81387b7e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Botulinum toxin contains a light chain and a heavy chain joined by a {{c1::disulphide bond}}.",
+      "answer": "disulphide bond"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 22,
+      "explanation": "The structural image contrasts this with the heavy chain’s binding/delivery roles.",
+      "images": [
+        "botulinum-structure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Botulinum toxin’s enzymatic activity resides in its {{c1::light chain}}.",
+      "noteId": "virulence-factors-bc3f5ed468e44ae4993e-note",
+      "id": "virulence-factors-bc3f5ed468e44ae4993e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Botulinum toxin’s enzymatic activity resides in its {{c1::light chain}}.",
+      "answer": "light chain"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 22,
+      "explanation": "The two chains have complementary functions; the heavy chain is not the catalytic protease.",
+      "images": [
+        "botulinum-structure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Botulinum toxin’s heavy chain contributes to neuronal {{c1::binding and delivery}}.",
+      "noteId": "virulence-factors-8525b287ddc303f1a8ee-note",
+      "id": "virulence-factors-8525b287ddc303f1a8ee",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Botulinum toxin’s heavy chain contributes to neuronal {{c1::binding and delivery}}.",
+      "answer": "binding and delivery"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 23,
+      "explanation": "The image places the toxin on the transmitter-releasing side, not the muscle receptor.",
+      "images": [
+        "botulinum-junction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The relevant botulinum toxin target is the {{c1::presynaptic nerve terminal}} at the neuromuscular junction.",
+      "noteId": "virulence-factors-09824f1e5710298763b1-note",
+      "id": "virulence-factors-09824f1e5710298763b1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The relevant botulinum toxin target is the {{c1::presynaptic nerve terminal}} at the neuromuscular junction.",
+      "answer": "presynaptic nerve terminal"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 23,
+      "explanation": "The labelled diagram links these proteins with vesicle fusion and transmitter release; it does not specify that every toxin type cleaves the same SNARE.",
+      "images": [
+        "botulinum-junction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Botulinum toxin light chain cleaves {{c1::SNARE proteins}}.",
+      "noteId": "virulence-factors-d5637be10661b9aeff77-note",
+      "id": "virulence-factors-d5637be10661b9aeff77",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Botulinum toxin light chain cleaves {{c1::SNARE proteins}}.",
+      "answer": "SNARE proteins"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 23,
+      "explanation": "Vesicles fail to release transmitter normally; this is not direct blockade of acetylcholine binding to its muscle receptor.",
+      "images": [
+        "botulinum-junction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Cleavage of presynaptic SNARE proteins reduces {{c1::acetylcholine release}}.",
+      "noteId": "virulence-factors-4616e8657faeff67cc29-note",
+      "id": "virulence-factors-4616e8657faeff67cc29",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cleavage of presynaptic SNARE proteins reduces {{c1::acetylcholine release}}.",
+      "answer": "acetylcholine release"
+    },
+    {
+      "topic": "Botulinum toxin",
+      "slide": 23,
+      "explanation": "This explains weakness and the potential for respiratory failure in the case. The source diagram supports the presynaptic mechanism.",
+      "images": [
+        "botulinum-junction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Reduced acetylcholine release at the neuromuscular junction impairs {{c1::muscle contraction}}.",
+      "noteId": "virulence-factors-81d0bcc1f4c08b0cf2fc-note",
+      "id": "virulence-factors-81d0bcc1f4c08b0cf2fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced acetylcholine release at the neuromuscular junction impairs {{c1::muscle contraction}}.",
+      "answer": "muscle contraction"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 24,
+      "explanation": "This is a case association, not a claim that jaw pain alone diagnoses tetanus.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Jaw pain in a patient with incomplete vaccination is the clinical clue in the lecture’s {{c1::tetanus}} case.",
+      "noteId": "virulence-factors-77125853132273b442ea-note",
+      "id": "virulence-factors-77125853132273b442ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Jaw pain in a patient with incomplete vaccination is the clinical clue in the lecture’s {{c1::tetanus}} case.",
+      "answer": "tetanus"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 25,
+      "explanation": "The case links suspected tetanus with jaw pain and incomplete vaccination.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The organism associated with tetanus toxin is {{c1::Clostridium tetani}}.",
+      "noteId": "virulence-factors-785d62ec16edf00fdbc2-note",
+      "id": "virulence-factors-785d62ec16edf00fdbc2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The organism associated with tetanus toxin is {{c1::Clostridium tetani}}.",
+      "answer": "Clostridium tetani"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 25,
+      "explanation": "The lecture associates subsequent germination with oxygen-poor tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The tetanus entry route highlighted is a {{c1::break in the skin}}.",
+      "noteId": "virulence-factors-a9ed9be76f61a41009d8-note",
+      "id": "virulence-factors-a9ed9be76f61a41009d8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The tetanus entry route highlighted is a {{c1::break in the skin}}.",
+      "answer": "break in the skin"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 25,
+      "explanation": "The slide calls the tissue anoxic. Major local destruction is not required to explain toxin-mediated distant effects.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "C. tetani germination is favoured by {{c1::anaerobic tissue conditions}}.",
+      "noteId": "virulence-factors-5cbeab200035f7aab253-note",
+      "id": "virulence-factors-5cbeab200035f7aab253",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "C. tetani germination is favoured by {{c1::anaerobic tissue conditions}}.",
+      "answer": "anaerobic tissue conditions"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 26,
+      "explanation": "This contrasts with the peripheral neuromuscular-junction mechanism illustrated for botulinum toxin. The slides do not show the detailed inhibitory-neuron pathway.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The nervous-system site emphasised for tetanus toxin is the {{c1::central nervous system}}.",
+      "noteId": "virulence-factors-3c660696c1b958f07510-note",
+      "id": "virulence-factors-3c660696c1b958f07510",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The nervous-system site emphasised for tetanus toxin is the {{c1::central nervous system}}.",
+      "answer": "central nervous system"
+    },
+    {
+      "topic": "Tetanus toxin",
+      "slide": 26,
+      "explanation": "Structural resemblance does not establish identical target sites or clinical effects.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Tetanus toxin has a two-polypeptide structure similar to, but {{c1::not identical to}}, botulinum toxin.",
+      "noteId": "virulence-factors-a45e7b9554ecd4e17eb7-note",
+      "id": "virulence-factors-a45e7b9554ecd4e17eb7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tetanus toxin has a two-polypeptide structure similar to, but {{c1::not identical to}}, botulinum toxin.",
+      "answer": "not identical to"
+    },
+    {
+      "topic": "Cholera disease",
+      "slide": 28,
+      "explanation": "The organism’s intestinal toxin action is developed in the following slides.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cholera is a toxin-mediated disease caused by {{c1::Vibrio cholerae}}.",
+      "noteId": "virulence-factors-e6b7af01228c8257cca5-note",
+      "id": "virulence-factors-e6b7af01228c8257cca5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cholera is a toxin-mediated disease caused by {{c1::Vibrio cholerae}}.",
+      "answer": "Vibrio cholerae"
+    },
+    {
+      "topic": "Cholera disease",
+      "slide": 28,
+      "explanation": "The lecture uses drinking water as an example; it does not establish that every container shown is contaminated.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The transmission route highlighted for cholera is {{c1::faecal–oral}} spread through contaminated water.",
+      "noteId": "virulence-factors-73f95afb33d18a960a5c-note",
+      "id": "virulence-factors-73f95afb33d18a960a5c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transmission route highlighted for cholera is {{c1::faecal–oral}} spread through contaminated water.",
+      "answer": "faecal–oral"
+    },
+    {
+      "topic": "Cholera disease",
+      "slide": 28,
+      "explanation": "The main danger highlighted is severe dehydration, rather than direct bacterial invasion of distant tissues.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Profuse cholera diarrhoea can rapidly cause water loss and {{c1::electrolyte depletion}}.",
+      "noteId": "virulence-factors-aeea297b5ef46aab3e75-note",
+      "id": "virulence-factors-aeea297b5ef46aab3e75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Profuse cholera diarrhoea can rapidly cause water loss and {{c1::electrolyte depletion}}.",
+      "answer": "electrolyte depletion"
+    },
+    {
+      "topic": "Cholera disease",
+      "slide": 29,
+      "explanation": "The appearance is descriptive, not sufficient alone to identify the pathogen.",
+      "images": [
+        "rice-water"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The stool appearance described in severe cholera is {{c1::rice-water stool}}.",
+      "noteId": "virulence-factors-af19330da05e4150b363-note",
+      "id": "virulence-factors-af19330da05e4150b363",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The stool appearance described in severe cholera is {{c1::rice-water stool}}.",
+      "answer": "rice-water stool"
+    },
+    {
+      "topic": "Cholera disease",
+      "slide": 29,
+      "explanation": "The lecture illustrates why sanitation matters. Its numerical shedding estimates are not treated as fixed values for every patient.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Heavy shedding of vibrios in diarrhoeal stool can increase {{c1::environmental contamination}}.",
+      "noteId": "virulence-factors-ba6fc8e348af4b35468a-note",
+      "id": "virulence-factors-ba6fc8e348af4b35468a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Heavy shedding of vibrios in diarrhoeal stool can increase {{c1::environmental contamination}}.",
+      "answer": "environmental contamination"
+    },
+    {
+      "topic": "Cholera toxin structure",
+      "slide": 30,
+      "explanation": "This is the AB₅ organisation: B forms a binding ring around the A-associated structure.",
+      "images": [
+        "cholera-structure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cholera toxin has one A subunit and {{c1::five B subunits}}.",
+      "noteId": "virulence-factors-efac72f4f15bc1eb83f0-note",
+      "id": "virulence-factors-efac72f4f15bc1eb83f0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cholera toxin has one A subunit and {{c1::five B subunits}}.",
+      "answer": "five B subunits"
+    },
+    {
+      "topic": "Cholera toxin structure",
+      "slide": 30,
+      "explanation": "The source divides A into A1 and A2; A1 performs the ADP-ribosylation reaction described later.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cholera toxin’s enzymatically active A fragment is {{c1::A1}}.",
+      "noteId": "virulence-factors-08f117f359da2ab2692e-note",
+      "id": "virulence-factors-08f117f359da2ab2692e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cholera toxin’s enzymatically active A fragment is {{c1::A1}}.",
+      "answer": "A1"
+    },
+    {
+      "topic": "Cholera toxin structure",
+      "slide": 30,
+      "explanation": "This distinguishes receptor recognition from A1’s catalytic activity.",
+      "images": [
+        "cholera-structure"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The five B subunits of cholera toxin primarily mediate {{c1::binding to the host cell}}.",
+      "noteId": "virulence-factors-40319d3957a872b031a7-note",
+      "id": "virulence-factors-40319d3957a872b031a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The five B subunits of cholera toxin primarily mediate {{c1::binding to the host cell}}.",
+      "answer": "binding to the host cell"
+    },
+    {
+      "topic": "Normal G-protein regulation",
+      "slide": 32,
+      "explanation": "The lecture diagram contrasts an active GTP-associated state with an inactive state after hydrolysis.",
+      "images": [
+        "normal-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The GTP-bound Gαs state promotes {{c1::adenylate cyclase activity}}.",
+      "noteId": "virulence-factors-6ac41f6377ef45767adf-note",
+      "id": "virulence-factors-6ac41f6377ef45767adf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The GTP-bound Gαs state promotes {{c1::adenylate cyclase activity}}.",
+      "answer": "adenylate cyclase activity"
+    },
+    {
+      "topic": "Normal G-protein regulation",
+      "slide": 32,
+      "explanation": "This provides the off-switch that cholera toxin disrupts. The older drawing labels an arrow Gi; do not infer that cholera toxin directly targets Gi.",
+      "images": [
+        "normal-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Hydrolysis of GTP to GDP normally helps {{c1::switch off Gαs signalling}}.",
+      "noteId": "virulence-factors-864e9d1e5a79d25dc7e7-note",
+      "id": "virulence-factors-864e9d1e5a79d25dc7e7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hydrolysis of GTP to GDP normally helps {{c1::switch off Gαs signalling}}.",
+      "answer": "switch off Gαs signalling"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 33,
+      "explanation": "Binding provides the receptor-level specificity illustrated in the mechanism diagram.",
+      "images": [
+        "cholera-entry"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cholera toxin B binds the host-cell ganglioside {{c1::GM1}}.",
+      "noteId": "virulence-factors-6a47a918e224637c34a7-note",
+      "id": "virulence-factors-6a47a918e224637c34a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cholera toxin B binds the host-cell ganglioside {{c1::GM1}}.",
+      "answer": "GM1"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 33,
+      "explanation": "This is the stimulatory G-protein α subunit associated with adenylate cyclase; the slide’s “Gas” notation refers to Gαs.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The regulatory protein targeted by cholera toxin A1 is {{c1::Gαs}}.",
+      "noteId": "virulence-factors-17ee8061206e8497bf12-note",
+      "id": "virulence-factors-17ee8061206e8497bf12",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The regulatory protein targeted by cholera toxin A1 is {{c1::Gαs}}.",
+      "answer": "Gαs"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 34,
+      "explanation": "A1 transfers the group to Gαs; the diagram also shows nicotinamide release.",
+      "images": [
+        "cholera-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The donor of the ADP-ribose group in cholera toxin action is {{c1::NAD}}.",
+      "noteId": "virulence-factors-94038365abba35f30703-note",
+      "id": "virulence-factors-94038365abba35f30703",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The donor of the ADP-ribose group in cholera toxin action is {{c1::NAD}}.",
+      "answer": "NAD"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 34,
+      "explanation": "Diphtheria toxin also ADP-ribosylates a protein, but its target is EF-2 rather than Gαs.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The chemical modification of Gαs by cholera toxin is {{c1::ADP-ribosylation}}.",
+      "noteId": "virulence-factors-100dde34dbeb22dc87e0-note",
+      "id": "virulence-factors-100dde34dbeb22dc87e0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The chemical modification of Gαs by cholera toxin is {{c1::ADP-ribosylation}}.",
+      "answer": "ADP-ribosylation"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 35,
+      "explanation": "The key consequence is impaired GTPase-dependent inactivation of Gαs, not direct covalent modification of adenylate cyclase itself.",
+      "images": [
+        "cholera-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "ADP-ribosylated Gαs remains functionally {{c1::active}}.",
+      "noteId": "virulence-factors-48b68560edf1cf255015-note",
+      "id": "virulence-factors-48b68560edf1cf255015",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ADP-ribosylated Gαs remains functionally {{c1::active}}.",
+      "answer": "active"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 36,
+      "explanation": "This follows activation of the Gαs pathway.",
+      "images": [
+        "cholera-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Persistent stimulation of adenylate cyclase raises intracellular {{c1::cAMP}}.",
+      "noteId": "virulence-factors-03f8bbcdb4890636c28f-note",
+      "id": "virulence-factors-03f8bbcdb4890636c28f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Persistent stimulation of adenylate cyclase raises intracellular {{c1::cAMP}}.",
+      "answer": "cAMP"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 36,
+      "explanation": "This explains secretory watery diarrhoea without requiring invasive destruction of intestinal cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Raised cAMP changes intestinal ion transport, driving water and electrolytes {{c1::into the gut lumen}}.",
+      "noteId": "virulence-factors-31454f0975e21c65b282-note",
+      "id": "virulence-factors-31454f0975e21c65b282",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised cAMP changes intestinal ion transport, driving water and electrolytes {{c1::into the gut lumen}}.",
+      "answer": "into the gut lumen"
+    },
+    {
+      "topic": "Cholera toxin signalling",
+      "slide": 37,
+      "explanation": "The source figure is a simplified older entry diagram, not a complete intracellular trafficking map. It is not used to invent a detailed route through organelles.",
+      "images": [
+        "cholera-entry"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "In the toxin pathway, A1 reaches the cell interior while the B components serve the {{c1::binding function}}.",
+      "noteId": "virulence-factors-ac81b3e8039d512c0d88-note",
+      "id": "virulence-factors-ac81b3e8039d512c0d88",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the toxin pathway, A1 reaches the cell interior while the B components serve the {{c1::binding function}}.",
+      "answer": "binding function"
+    },
+    {
+      "topic": "Other enterotoxins",
+      "slide": 39,
+      "explanation": "It is associated with watery traveller’s diarrhoea and is cholera-like. The slide incorrectly conflates this with Shiga-like toxin; they are different toxin families.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The E. coli toxin abbreviated LT means {{c1::heat-labile toxin}}.",
+      "noteId": "virulence-factors-38223f07b5f8b9b960a8-note",
+      "id": "virulence-factors-38223f07b5f8b9b960a8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The E. coli toxin abbreviated LT means {{c1::heat-labile toxin}}.",
+      "answer": "heat-labile toxin"
+    },
+    {
+      "topic": "Other enterotoxins",
+      "slide": 39,
+      "explanation": "Correction to pages 39/42: Shiga-like toxins damage 28S rRNA rather than sharing cholera toxin’s GM1–Gαs–cAMP mechanism. The source also generalises Salmonella incorrectly; do not memorise it as a universal Shiga-toxin producer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "E. coli LT is cholera-like, whereas Shiga-like toxin acts on {{c1::protein synthesis at the ribosome}}.",
+      "noteId": "virulence-factors-0eb6bb74fa4aa5458b75-note",
+      "id": "virulence-factors-0eb6bb74fa4aa5458b75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "E. coli LT is cholera-like, whereas Shiga-like toxin acts on {{c1::protein synthesis at the ribosome}}.",
+      "answer": "protein synthesis at the ribosome"
+    },
+    {
+      "topic": "Other enterotoxins",
+      "slide": 40,
+      "explanation": "This contrasts with the LT abbreviation for heat-labile E. coli toxin; heat stability is a toxin property, not proof that every contaminated food has the same risk.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Staphylococcal enterotoxins are relatively {{c1::heat stable}}.",
+      "noteId": "virulence-factors-3279a98d49bb9c847f68-note",
+      "id": "virulence-factors-3279a98d49bb9c847f68",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Staphylococcal enterotoxins are relatively {{c1::heat stable}}.",
+      "answer": "heat stable"
+    },
+    {
+      "topic": "Other enterotoxins",
+      "slide": 40,
+      "explanation": "The slide names A–D as examples, not a complete modern catalogue of all staphylococcal enterotoxins.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The staphylococcal enterotoxin highlighted as common in the lecture is {{c1::enterotoxin A}}.",
+      "noteId": "virulence-factors-81d394943b72c80214fd-note",
+      "id": "virulence-factors-81d394943b72c80214fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The staphylococcal enterotoxin highlighted as common in the lecture is {{c1::enterotoxin A}}.",
+      "answer": "enterotoxin A"
+    },
+    {
+      "topic": "Other enterotoxins",
+      "slide": 40,
+      "explanation": "The lecture states stimulation of nerves in the gut. This functional link explains an enterotoxin effect without treating it as the same Gαs mechanism as cholera.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Staphylococcal enterotoxin can stimulate gut neural pathways associated with {{c1::vomiting}}.",
+      "noteId": "virulence-factors-6e516d694e1c19f8955f-note",
+      "id": "virulence-factors-6e516d694e1c19f8955f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Staphylococcal enterotoxin can stimulate gut neural pathways associated with {{c1::vomiting}}.",
+      "answer": "vomiting"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 1",
+      "text": "Virulence factors of micro-\norganisms:\nAdhesion to the host, overcoming immunity \nand exotoxins\nDr. Simon Gould\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 2",
+      "text": "By the end of this lecture you \nshould\n• Appreciate the important role virulence \nfactor play in illness. \n– Understand the roles of adhesion\n– Understand how bacteria overcome the \nhost immune system.\n– Understand the role of exotoxin.\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 3",
+      "text": "Koch’s postulates\nDr. Robert Kock \nFigure demonstrate the stages of \nKoch’s Postulates\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 4",
+      "text": "In your own words describe the \nfour stage of Kock’s postulates\n1)\n2)\n3) \n4) \n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 5",
+      "text": "Stages of microbiological \npathogenicity\n• Pathogenicity/Virulence factors influence the \nbacterial ability to survive upon entering the \nhost: \nAdherence to cells and surface\nBe able to colonise in the host\nEvasion of the immune system\nDestroy tissue through exotoxin production. \n \n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 6",
+      "text": "Adherence\n• Most infection begin on mucus membrane\n• First bacteria must attach to host:\n– Nonspecific/specific\n• Specific adherence occur between structures on the \nmicrobe and the hot cell\n• Two common element include: Pili and adhesin\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 7",
+      "text": "Microbial attacks on mucus \nmembrane\n• The are three possibilities:\n1.\nAdhere, production of exotoxin (but no \nintercellular penetration)\n2.\nAdhere, penetrate into mucosal epithelium via \nendocytosis\n3.\nAdhere, penetrate into mucosal epithelium  and \ninto the sub mucosal layers. \n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 8",
+      "text": "Colonisation\n• To colonise and grow the bacteria must find \nappropriate nutrient and environment al \nconditions.\n• Nutrients within the body are not always \nplentiful\n– Soluble nutrient\n– Trace elements also in short supply (iron).\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 9",
+      "text": "How iron is stored in the body\n• Bacteria require 0.4-40 µM of iron/day.\n• Dietary intake of iron is ~10 mg/day:\n– 10-18 µM free iron in plasma.\n– 20 µM bound in plasma.\n• Insoluble at pH 7.0 so bound to protein\n– Intracellular; Ferritin, haemosidern and \nheam \n– Extracellular; Lactoferrin and transferrin\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 10",
+      "text": "How bacteria obtain Iron\n• Pathogens can acquire Iron from the \nhost using a number of process:\n– Production of siderophore\n• High binding affinity for iron.\n– Possess specific receptor for transferrin\n– Acquire iron from liberated heam.\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 11",
+      "text": "Toxin\n• In many cases disease caused by bacteria are \nnot a result of the number of bacteria but \ndue to the production of toxin.\n• There are two classes of toxin\n– Exotoxin –travel from focus of infection site to \ndistant part of the body \n• Entertoxin-act on small intestine.\n– Endotoxin (covered with Prof. M. Fielder)\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 12",
+      "text": "Exotoxins.\n• What are they ?\n• Bacteria that produc produce large variety \nof toxins include: Staphylococcus aureus, \nStreptococcus pyogenes & Pseudomonas \naeruginosa\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 13",
+      "text": "Exotoxins #2\n• Organisms that produce a single toxin include \n–  Vibrio cholerae\n– Clostridium botulinum\n– Clostridium tetani\n– Corynebacterium diptheriae\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 14",
+      "text": "Exotoxins #3\n• Genes for some of the toxins produced by \nvarious organisms are present on plasmids & \nbacteriophages. \n• Example of plasmid encoded\n• Example of bacteriophages\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 15",
+      "text": "Exotoxins #4\n• What is a\n– Enterotoxins: \n• Example of bacteria that produce them: Staphylococcus \naureus, E. coli, V. cholerae & Salmonella enteritidis.\n– Neurotoxins: \n• C. tetani & C. botulinum.\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 16",
+      "text": "Case study 1 – Diphtheria \n• 9- year old boy, was diagnosed with \npharyngitis, 3rd day his fever declined \nand sore throat resolved. (Washington \net al., 2014)\n• On day 5 he was taken to hospital with a \nnumber of symptoms  - inc. dyspnoea \nand dysphagia\n• Patient when on to develop cardiac issue \nand later died \n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 17",
+      "text": "Diphtheria toxin\n• Produced by Corynebacterium diphtheriae \n• Cause Diphtheria – upper respiratory tract\n• Very potent – single molecule kill one cells.\n• The toxin is encoded by a bacteriophage \n(Phage ß).\nFigure shown the dense \ngrey pseudomembrance \ncovering the tonsils \n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 18",
+      "text": "Diphtheria toxin #2\n• Toxin made up of two \nfragment \n– Fragment A:\n– Fragment B :\n• Enter cell via \nendocytosis\nhttp://www.sbs.utexas.edu/field/mic361a/mic361/images/Lecture%209/L9F7.gif\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 19",
+      "text": "Diphtheria toxin #3\n• Prevent protein \nsynthesis\n• Iron act as a co-\nrepressor:\nA figure demonstrating the \nmode of action of Diphtheria \ntoxin \n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 20",
+      "text": "Case study 2 – “I only had \nNacho cheese” \n• 32 year old female presented with E&A \nwith diplopia, followed by dyspnoea, \nchest tightness, congestion and \ndysphagia. (Choudhry et al., 2017)\n• Developed respiratory failure and place \non ventilator \n• botulinum toxin positive \n• CDC investigation – 10 cases with on \ndeath \n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 21",
+      "text": "Botulism Toxin \n• Produced by Clostridium botulinum.\n• Caused by the ingestion of a nerotoxin.\n• Concise of 6/7 toxin\n– Type A,B E, and F affect man\n– Type C and D affect animals \n• Type A produced by proteolytic strains\n• Type E produced by non- proteolytic\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 22",
+      "text": "Botulism Toxin #2\n• Toxin is 150 KDa \nconsisting of 2 \npolypeptide.\n– Consist of two chains and \na disulphide chain.\n– Light chain (activity)\n– (Binding)\n• Toxin bind to peripheral \nnerves.\n•\nhttp://www.youtube.com/watch?v=_Eo54f6Lc4c\n•\nhttp://www.youtube.com/watch?v=6n3rrjbweO8\nhttp://neuromuscular.wustl.edu/nother/bot.htm#botoxb\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 23",
+      "text": "Botulism Toxin #3\n• Toxin binds to presynaptic membrane at \nthe nerve junction\nFigure demonstrating the normal and disease mechanism of muscle contraption \n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 24",
+      "text": "Case study 3 – “Quick and \nDirty” \n• 78 year old male, who has incomplete \nvaccination, presents to A&E with jaw \npain. (Mcekaney et al., 2019) \n• Patient also complained of abdominal \nbloating.\n• Testing suggest tentanus and patient \nwas treated – discharged on the 22day \nof hospitalisation.  \n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 25",
+      "text": "Tetanus toxin\n• Produced by Clostridium tetani\n• Enter via break in skin and germinate in tissue \nis anoxic.\n• No local tissue damage.\nPicture showing an unvacated child \nsuffering from Tetanus toxin\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 26",
+      "text": "Tetanus toxin #2\n• Toxin is 150 KDa consisting of 2 polypeptides.\n• Structure similar to botulism toxin but not \nidentical.\n• Toxin enters the central nervous systems \n(CNS) \n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 27",
+      "text": "Exotoxins #3\n• Genes for some of the toxins produced by \nvarious organisms are present on plasmids & \nbacteriophages. \n• Example of plasmid encoded\n• Example of bacteriophages\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 28",
+      "text": "What is Cholera?\n• The disease is caused by the production of a toxin \nby Vibrio cholerae.\n• First described in Jessore, India in 1817\n• Transmitted through the faecal-oral route via \ncontaminated drinking water. \n• Symptoms\n–   75% of those infected will not develop symptoms.\n– Abrupt onset of diarrhoea leading to the  rapid loss electrolyte \nand dehydration – the main killer in this disease. \n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 29",
+      "text": "Other characteristics\n• The stool of an actively purging , severely \nill cholera patient can resemble rice \nwater.\n• Stool can contain  108 viable vibrios per \nml, such a patient could shed 2x1012 \ncholera vibrios per day into the \nenvironment.\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 30",
+      "text": "Structure of Cholera Toxin (CT)\n• CT consists of two subunits and is a an example of \nan  A:B5 toxin.\n• A subunit consists of two fractions\n– A1\n– A2\n• The B subunit \n• The subunit A sits within the ring form by the B \nsubunit.\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 31",
+      "text": "The Cholera toxin.\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 32",
+      "text": "Normal regulation of the eukaryotic \nadenylate cyclase complex. \nhttp://www.bact.wisc.edu/Bact330/lecturebpertussis\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 33",
+      "text": "How does the A unit enter the \ncell and what does it do\n• The B subunit specific receptors \nganglioside GM1\n• The A subunit penetrates the host cell & \ncleaves  releasing the A1 peptide.\n• The A1 fraction target is guanosine 5'-\ntriphosphate (GTP)-binding regulatory \nprotein associated with membrane-bound \nadenylate cyclase (Gas).\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 34",
+      "text": "How does the A unit enter the \ncell and what does it do…….\n• A1 enzymatically transfers ADP-ribose \nfrom nicotinamide adenine dinucleotide \n(NAD) to a target Gas resulting in ADP-\nribosylated of the protein. \n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 35",
+      "text": "Ability of CT to interfere with regulation \nof eukaryotic AC Complex. \nhttp://www.bact.wisc.edu/Bact330/lecturebpertussis\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 36",
+      "text": "What are the Consequences of \nGas ADP ribosylation.\n• The ADP-ribosylation reaction essentially \nlocks adenylate cyclase in its \"on mode”\n• Increase cAMP levels change the flux of \nsodium/chloride across the cell membrane, \nresulting in the massive outflow of water \nand electrolytes. \n(Baron S, Medical Microbiology) \n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 37",
+      "text": "Mechanism of action of CT\n(Baron S, Medical Microbiology)\n",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 38",
+      "text": "Exotoxins #3\n• Genes for some of the toxins produced by \nvarious organisms are present on plasmids & \nbacteriophages. \n• Example of plasmid encoded\n• Example of bacteriophages\n",
+      "images": [
+        "page-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 39",
+      "text": "Other enterotoxins\n• Escherichia coli and Salmonella sp can \nproduce a shiga like toxin.\n– Similar, structure, binding site mode of \naction to CT, however the toxin is not as \npotent.\n• E. coli (LT) implicated in traveller’s \ndiarrhoea\n– Seen as watery diarrhoea. \n",
+      "images": [
+        "page-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 40",
+      "text": "Other enterotoxins #2\n• Staphylococcal enterotoxin\n• Mediated but a number of toxins; A-D, \nhowever toxin A is most ubiquitous.\n• Single protein chain between 30-37.5KDa\n– Heat stable.\n• Toxin stimulate nerve in gut\n",
+      "images": [
+        "page-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 41",
+      "text": "Summary\n• Virulence factor enhance bacteria \nability to cause illness.\n• Bacteria must:\n–  adhere to host cell, \n– be able to colonise, \n– evaded the immune system \n– produce exotoxins.\n",
+      "images": [
+        "page-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 42",
+      "text": "Other enterotoxins\n• Escherichia coli and Salmonella sp can \nproduce a shiga like toxin.\n– Similar, structure, binding site mode of \naction to CT, however the toxin is not as \npotent.\n• E. coli (LT) implicated in traveller’s \ndiarrhoea\n– Seen as watery diarrhoea. \n",
+      "images": [
+        "page-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 43",
+      "text": "Further reading \n• Madigan, Brock biology of microbiology chpt 19\n• Structure and funtction of unique A2B5 toxin produced \nby Salmonella typhoid\n• Clostridium botulinum video \n• Case study 1\n• Case study 2 \n• Case study 3 \n• Case study 4\n",
+      "images": [
+        "page-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Virulence Factors — Adhesion, Iron Acquisition & Exotoxins — page 44",
+      "text": "• Case study 5\n– Meat mince pies\n– Godstone farm \n– Bean sprouts German  \n– Contaminated lettuce and climate change \n• The story of John Snow and cholera \n– Part 1: https://www.youtube.com/watch?v=TLpzHHbFrHY\n– Part 2: https://www.youtube.com/watch?v=1jlsyucUwpo\n– Part 3: https://www.youtube.com/watch?v=9NVT6iZP2qg\n",
+      "images": [
+        "page-44"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "virulence-factors/page-1.jpg",
+    "page-2": "virulence-factors/page-2.jpg",
+    "page-3": "virulence-factors/page-3.jpg",
+    "page-4": "virulence-factors/page-4.jpg",
+    "page-5": "virulence-factors/page-5.jpg",
+    "page-6": "virulence-factors/page-6.jpg",
+    "page-7": "virulence-factors/page-7.jpg",
+    "page-8": "virulence-factors/page-8.jpg",
+    "page-9": "virulence-factors/page-9.jpg",
+    "page-10": "virulence-factors/page-10.jpg",
+    "page-11": "virulence-factors/page-11.jpg",
+    "page-12": "virulence-factors/page-12.jpg",
+    "page-13": "virulence-factors/page-13.jpg",
+    "page-14": "virulence-factors/page-14.jpg",
+    "page-15": "virulence-factors/page-15.jpg",
+    "page-16": "virulence-factors/page-16.jpg",
+    "page-17": "virulence-factors/page-17.jpg",
+    "page-18": "virulence-factors/page-18.jpg",
+    "page-19": "virulence-factors/page-19.jpg",
+    "page-20": "virulence-factors/page-20.jpg",
+    "page-21": "virulence-factors/page-21.jpg",
+    "page-22": "virulence-factors/page-22.jpg",
+    "page-23": "virulence-factors/page-23.jpg",
+    "page-24": "virulence-factors/page-24.jpg",
+    "page-25": "virulence-factors/page-25.jpg",
+    "page-26": "virulence-factors/page-26.jpg",
+    "page-27": "virulence-factors/page-27.jpg",
+    "page-28": "virulence-factors/page-28.jpg",
+    "page-29": "virulence-factors/page-29.jpg",
+    "page-30": "virulence-factors/page-30.jpg",
+    "page-31": "virulence-factors/page-31.jpg",
+    "page-32": "virulence-factors/page-32.jpg",
+    "page-33": "virulence-factors/page-33.jpg",
+    "page-34": "virulence-factors/page-34.jpg",
+    "page-35": "virulence-factors/page-35.jpg",
+    "page-36": "virulence-factors/page-36.jpg",
+    "page-37": "virulence-factors/page-37.jpg",
+    "page-38": "virulence-factors/page-38.jpg",
+    "page-39": "virulence-factors/page-39.jpg",
+    "page-40": "virulence-factors/page-40.jpg",
+    "page-41": "virulence-factors/page-41.jpg",
+    "page-42": "virulence-factors/page-42.jpg",
+    "page-43": "virulence-factors/page-43.jpg",
+    "page-44": "virulence-factors/page-44.jpg",
+    "koch": "virulence-factors/koch.jpg",
+    "adhesion": "virulence-factors/adhesion.jpg",
+    "bladder-adhesion": "virulence-factors/bladder-adhesion.jpg",
+    "diphtheria-ab": "virulence-factors/diphtheria-ab.jpg",
+    "diphtheria-mechanism": "virulence-factors/diphtheria-mechanism.jpg",
+    "botulinum-structure": "virulence-factors/botulinum-structure.jpg",
+    "botulinum-junction": "virulence-factors/botulinum-junction.jpg",
+    "rice-water": "virulence-factors/rice-water.jpg",
+    "cholera-structure": "virulence-factors/cholera-structure.jpg",
+    "normal-signalling": "virulence-factors/normal-signalling.jpg",
+    "cholera-signalling": "virulence-factors/cholera-signalling.jpg",
+    "cholera-entry": "virulence-factors/cholera-entry.jpg"
+  }
+}

@@ -1,0 +1,12 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync,existsSync} from 'node:fs';import {deletions} from '../src/cloze.js';import {moduleFor} from '../src/modules.js';import {lectureSummary} from '../src/summary-notes.js';import {lectureGroups} from '../src/practical-lectures.js';
+const d=JSON.parse(readFileSync(new URL('../public/virulence-factors/deck.json',import.meta.url)));
+test('virulence is one fresh LS5008 cloze lecture with every source page and existing figures',()=>{
+ assert.equal(moduleFor(d),'infection-immunity');assert.equal(d.moduleCode,'LS5008');assert.equal(d.cards.length,82);assert.equal(d.slides.length,44);assert.equal(lectureGroups([d]).lectures.length,1);assert.equal(new Set(d.cards.map(c=>c.id)).size,82);assert.equal(new Set(d.cards.map(c=>c.text)).size,82);
+ for(const c of d.cards){assert.equal(c.type,'cloze');assert.equal(deletions(c.text).length,1);assert.equal(c.status,'new');assert.equal(c.reviews,undefined);assert.equal(c.dueAt,undefined);assert.equal(c.showImagesFront,false);assert.ok(c.slide>0&&c.slide<=44);assert.ok(['important','standard'].includes(c.importance));assert.ok(['easy','medium','hard'].includes(c.difficulty));for(const key of c.images)assert.ok(d.media[key]);}
+ assert.deepEqual(d.slides.map(s=>s.number),Array.from({length:44},(_,i)=>i+1));for(const s of d.slides)assert.ok(d.media[s.images[0]]);for(const path of Object.values(d.media))assert.ok(existsSync(new URL('../public/'+path,import.meta.url)));assert.equal(Object.keys(d.media).length,56);
+});
+test('virulence notes preserve toxin targets, clarify source errors and do not fill missing content by guessing',()=>{
+ const content=d.cards.map(c=>c.text+' '+c.explanation).join('\n');for(const re of [/EF-2/,/SNARE proteins/,/acetylcholine release/,/Gαs/,/GM1/,/not direct covalent modification of adenylate cyclase/,/incorrectly conflates/,/28S rRNA/,/not a universal|not an absolute|not a requirement/,/does not explain specific/,/numerical iron concentrations and units are ambiguous/,/no unsupported example/,/do not show the detailed inhibitory-neuron pathway/])assert.match(content,re);
+ for(const page of [3,5,6,7,8,9,10,11,14,17,18,19,21,22,23,25,26,28,29,30,32,33,34,35,36,37,39,40])assert.ok(d.cards.some(c=>c.slide===page),`page ${page} covered`);
+ assert.ok(!d.cards.some(c=>[1,2,4,27,38,41,42,43,44].includes(c.slide)));assert.equal(lectureSummary(d).reviewed,true);
+});
