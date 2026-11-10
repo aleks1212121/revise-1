@@ -1,0 +1,2368 @@
+{
+  "version": 2,
+  "lectureId": "female-reproductive-physiology",
+  "title": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause",
+  "moduleId": "physiology-research",
+  "moduleName": "Medical Physiology, Research Methods and Skills",
+  "moduleCode": "LS5034",
+  "source": "LS5024 Female Reproductive Physiology 8oct25 no answers.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 4,
+      "explanation": "The lecture describes establishment before birth and a continuing decline rather than routine replenishment with new oocytes in adult life.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The pool of available ovarian follicles is the {{c1::ovarian reserve}}.",
+      "noteId": "female-reproductive-physiology-b9acab0d9a67b03fb40c-note",
+      "id": "female-reproductive-physiology-b9acab0d9a67b03fb40c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The pool of available ovarian follicles is the {{c1::ovarian reserve}}.",
+      "answer": "ovarian reserve"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 4,
+      "explanation": "Many follicles are recruited or lost while usually only one oocyte is ovulated in a natural cycle. The slide’s fixed percentages and monthly numbers are simplified estimates, not universal counts.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Most ovarian follicles are lost through {{c1::atresia}}, rather than ovulation.",
+      "noteId": "female-reproductive-physiology-c8c7580594707d4c7c48-note",
+      "id": "female-reproductive-physiology-c8c7580594707d4c7c48",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most ovarian follicles are lost through {{c1::atresia}}, rather than ovulation.",
+      "answer": "atresia"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "The diagram places the first meiotic arrest before birth and before later follicular development.",
+      "images": [
+        "oogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Primary oocytes begin meiosis before birth and arrest in {{c1::prophase I}}.",
+      "noteId": "female-reproductive-physiology-1a32e15d7168a696b436-note",
+      "id": "female-reproductive-physiology-1a32e15d7168a696b436",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Primary oocytes begin meiosis before birth and arrest in {{c1::prophase I}}.",
+      "answer": "prophase I"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "Each chromosome contains two sister chromatids, so chromosome number is not the same as chromatid number. The diagram’s oogonium row depends on replication stage; do not apply two chromatids to every cell-cycle stage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A replicated primary oocyte has {{c1::46 chromosomes}} before meiosis I.",
+      "noteId": "female-reproductive-physiology-06a38a9d45fc1a847c65-note",
+      "id": "female-reproductive-physiology-06a38a9d45fc1a847c65",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A replicated primary oocyte has {{c1::46 chromosomes}} before meiosis I.",
+      "answer": "46 chromosomes"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "It is haploid, but each chromosome still has two sister chromatids.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Meiosis I produces a secondary oocyte with {{c1::23 chromosomes}}.",
+      "noteId": "female-reproductive-physiology-86e95385b8ab26761529-note",
+      "id": "female-reproductive-physiology-86e95385b8ab26761529",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Meiosis I produces a secondary oocyte with {{c1::23 chromosomes}}.",
+      "answer": "23 chromosomes"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "It has completed meiosis I but not meiosis II.",
+      "images": [
+        "oogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An ovulated secondary oocyte is arrested in {{c1::metaphase II}}.",
+      "noteId": "female-reproductive-physiology-028c98f4ce9d4baefd1c-note",
+      "id": "female-reproductive-physiology-028c98f4ce9d4baefd1c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An ovulated secondary oocyte is arrested in {{c1::metaphase II}}.",
+      "answer": "metaphase II"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "This separates ovulation of the secondary oocyte from completion of the second meiotic division.",
+      "images": [
+        "oogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Meiosis II in the secondary oocyte is normally completed only after {{c1::fertilisation}}.",
+      "noteId": "female-reproductive-physiology-8a063e542b57e83f4555-note",
+      "id": "female-reproductive-physiology-8a063e542b57e83f4555",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Meiosis II in the secondary oocyte is normally completed only after {{c1::fertilisation}}.",
+      "answer": "fertilisation"
+    },
+    {
+      "topic": "Oogenesis and reserve",
+      "slide": 5,
+      "explanation": "The diagram then shows a diploid zygote following contribution from the sperm; do not label that zygote itself as haploid.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "After meiosis II, the female haploid product has 23 chromosomes with {{c1::one chromatid per chromosome}}.",
+      "noteId": "female-reproductive-physiology-c740f5de236ae3c8af70-note",
+      "id": "female-reproductive-physiology-c740f5de236ae3c8af70",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After meiosis II, the female haploid product has 23 chromosomes with {{c1::one chromatid per chromosome}}.",
+      "answer": "one chromatid per chromosome"
+    },
+    {
+      "topic": "Polar bodies",
+      "slide": 6,
+      "explanation": "The smaller products are polar bodies, rather than four equally resourced functional eggs.",
+      "images": [
+        "polar-bodies"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Oogenesis uses {{c1::asymmetric cell division}} to retain most cytoplasm in one cell.",
+      "noteId": "female-reproductive-physiology-f45f6e87d8fe8526c3fc-note",
+      "id": "female-reproductive-physiology-f45f6e87d8fe8526c3fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Oogenesis uses {{c1::asymmetric cell division}} to retain most cytoplasm in one cell.",
+      "answer": "asymmetric cell division"
+    },
+    {
+      "topic": "Polar bodies",
+      "slide": 8,
+      "explanation": "It is not genetically empty simply because it has little cytoplasm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A polar body contains a {{c1::haploid chromosome set}}.",
+      "noteId": "female-reproductive-physiology-c14f70ddb5664feabe84-note",
+      "id": "female-reproductive-physiology-c14f70ddb5664feabe84",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A polar body contains a {{c1::haploid chromosome set}}.",
+      "answer": "haploid chromosome set"
+    },
+    {
+      "topic": "Polar bodies",
+      "slide": 8,
+      "explanation": "The slide illustrates approximately 99% versus 1% as a teaching comparison, not an exact invariant division ratio.",
+      "images": [
+        "polar-bodies"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Most oocyte cytoplasm and organelles remain in the {{c1::egg lineage}} rather than the polar body.",
+      "noteId": "female-reproductive-physiology-b70e0c55321f7b36edc8-note",
+      "id": "female-reproductive-physiology-b70e0c55321f7b36edc8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most oocyte cytoplasm and organelles remain in the {{c1::egg lineage}} rather than the polar body.",
+      "answer": "egg lineage"
+    },
+    {
+      "topic": "Polar bodies",
+      "slide": 9,
+      "explanation": "Dividing resources equally into four gametes would not serve the same function as sperm production.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Retaining cytoplasm in one oocyte preserves resources for {{c1::early embryonic development}}.",
+      "noteId": "female-reproductive-physiology-0328d7eaab596f687053-note",
+      "id": "female-reproductive-physiology-0328d7eaab596f687053",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Retaining cytoplasm in one oocyte preserves resources for {{c1::early embryonic development}}.",
+      "answer": "early embryonic development"
+    },
+    {
+      "topic": "Polar bodies",
+      "slide": 9,
+      "explanation": "The lecture names preimplantation genetic diagnosis. Polar-body analysis informs the maternal meiotic contribution; it is not a complete test of the embryo’s paternal or later changes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Polar bodies can be analysed during some IVF-related {{c1::genetic testing}} procedures.",
+      "noteId": "female-reproductive-physiology-9653a316c68bd0258f0e-note",
+      "id": "female-reproductive-physiology-9653a316c68bd0258f0e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Polar bodies can be analysed during some IVF-related {{c1::genetic testing}} procedures.",
+      "answer": "genetic testing"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 11,
+      "explanation": "Its thickness and glandular state change across the menstrual cycle.",
+      "images": [
+        "anatomy"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The inner lining of the uterus is the {{c1::endometrium}}.",
+      "noteId": "female-reproductive-physiology-1213d445307ef40f9b58-note",
+      "id": "female-reproductive-physiology-1213d445307ef40f9b58",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The inner lining of the uterus is the {{c1::endometrium}}.",
+      "answer": "endometrium"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 11,
+      "explanation": "This is distinct from the endometrial lining that undergoes cyclical shedding.",
+      "images": [
+        "anatomy"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The muscular wall of the uterus is the {{c1::myometrium}}.",
+      "noteId": "female-reproductive-physiology-813c2b2e20854f8fc137-note",
+      "id": "female-reproductive-physiology-813c2b2e20854f8fc137",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The muscular wall of the uterus is the {{c1::myometrium}}.",
+      "answer": "myometrium"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 11,
+      "explanation": "Cervical mucus changes under ovarian hormone influence.",
+      "images": [
+        "anatomy"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lower uterine region opening towards the vagina is the {{c1::cervix}}.",
+      "noteId": "female-reproductive-physiology-ab2d7cb3a3ed40f9a415-note",
+      "id": "female-reproductive-physiology-ab2d7cb3a3ed40f9a415",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lower uterine region opening towards the vagina is the {{c1::cervix}}.",
+      "answer": "cervix"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 12,
+      "explanation": "They are associated with the funnel-shaped infundibulum and help the released oocyte enter the tube.",
+      "images": [
+        "tube"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Finger-like projections at the ovarian end of the uterine tube are the {{c1::fimbriae}}.",
+      "noteId": "female-reproductive-physiology-cf35f3f2e25329821bf9-note",
+      "id": "female-reproductive-physiology-cf35f3f2e25329821bf9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Finger-like projections at the ovarian end of the uterine tube are the {{c1::fimbriae}}.",
+      "answer": "fimbriae"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 12,
+      "explanation": "The ampulla and isthmus are other named tube regions.",
+      "images": [
+        "tube"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The funnel-shaped tubal region nearest the ovary is the {{c1::infundibulum}}.",
+      "noteId": "female-reproductive-physiology-c1f72140928cdf113257-note",
+      "id": "female-reproductive-physiology-c1f72140928cdf113257",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The funnel-shaped tubal region nearest the ovary is the {{c1::infundibulum}}.",
+      "answer": "infundibulum"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 12,
+      "explanation": "The ampulla is the wider main channel in the lecture’s anatomy description.",
+      "images": [
+        "tube"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The narrow tubal segment between the ampulla and uterus is the {{c1::isthmus}}.",
+      "noteId": "female-reproductive-physiology-8cba8893707506628f5e-note",
+      "id": "female-reproductive-physiology-8cba8893707506628f5e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The narrow tubal segment between the ampulla and uterus is the {{c1::isthmus}}.",
+      "answer": "isthmus"
+    },
+    {
+      "topic": "Reproductive anatomy",
+      "slide": 12,
+      "explanation": "The slide names cilia and muscle, rather than describing the tube as a passive hollow pipe.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Ciliated epithelium and muscular layers help {{c1::transport material along the uterine tube}}.",
+      "noteId": "female-reproductive-physiology-c9d1cb208eadc04ba14d-note",
+      "id": "female-reproductive-physiology-c9d1cb208eadc04ba14d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ciliated epithelium and muscular layers help {{c1::transport material along the uterine tube}}.",
+      "answer": "transport material along the uterine tube"
+    },
+    {
+      "topic": "Cycle overview",
+      "slide": 14,
+      "explanation": "Cycle length is counted from the first day of one period to the first day of the next.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Day 1 of a menstrual cycle is the onset of {{c1::menstrual bleeding}}.",
+      "noteId": "female-reproductive-physiology-7ecd1f5dc5c81b4f9a13-note",
+      "id": "female-reproductive-physiology-7ecd1f5dc5c81b4f9a13",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Day 1 of a menstrual cycle is the onset of {{c1::menstrual bleeding}}.",
+      "answer": "menstrual bleeding"
+    },
+    {
+      "topic": "Cycle overview",
+      "slide": 14,
+      "explanation": "Cycle timing and ovulation day vary; the day labels in the diagrams should be interpreted within that model.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture’s 28-day cycle is an {{c1::illustrative model}} rather than a fixed length for everyone.",
+      "noteId": "female-reproductive-physiology-b1cce0863f8410e7b490-note",
+      "id": "female-reproductive-physiology-b1cce0863f8410e7b490",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture’s 28-day cycle is an {{c1::illustrative model}} rather than a fixed length for everyone.",
+      "answer": "illustrative model"
+    },
+    {
+      "topic": "Cycle overview",
+      "slide": 15,
+      "explanation": "The diagram places follicle maturation in the first part of its model cycle.",
+      "images": [
+        "cycle-timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The ovarian phase before ovulation is the {{c1::follicular phase}}.",
+      "noteId": "female-reproductive-physiology-311e5ffdacb43970515c-note",
+      "id": "female-reproductive-physiology-311e5ffdacb43970515c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The ovarian phase before ovulation is the {{c1::follicular phase}}.",
+      "answer": "follicular phase"
+    },
+    {
+      "topic": "Cycle overview",
+      "slide": 15,
+      "explanation": "It is named for the corpus luteum formed from the ovulated follicle.",
+      "images": [
+        "cycle-timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The ovarian phase after ovulation is the {{c1::luteal phase}}.",
+      "noteId": "female-reproductive-physiology-ba3e998b1c09f9642f47-note",
+      "id": "female-reproductive-physiology-ba3e998b1c09f9642f47",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The ovarian phase after ovulation is the {{c1::luteal phase}}.",
+      "answer": "luteal phase"
+    },
+    {
+      "topic": "Follicle development",
+      "slide": 17,
+      "explanation": "The source histology labels the cavity alongside the oocyte and surrounding cells.",
+      "images": [
+        "follicle-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The fluid-filled cavity of an antral follicle is the {{c1::antrum}}.",
+      "noteId": "female-reproductive-physiology-3414c460583243b05e33-note",
+      "id": "female-reproductive-physiology-3414c460583243b05e33",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The fluid-filled cavity of an antral follicle is the {{c1::antrum}}.",
+      "answer": "antrum"
+    },
+    {
+      "topic": "Follicle development",
+      "slide": 17,
+      "explanation": "This is distinct from the granulosa-cell layers around it.",
+      "images": [
+        "follicle-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The labelled coat immediately surrounding the oocyte is the {{c1::zona pellucida}}.",
+      "noteId": "female-reproductive-physiology-89d1046df60da6082555-note",
+      "id": "female-reproductive-physiology-89d1046df60da6082555",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The labelled coat immediately surrounding the oocyte is the {{c1::zona pellucida}}.",
+      "answer": "zona pellucida"
+    },
+    {
+      "topic": "Follicle development",
+      "slide": 17,
+      "explanation": "The histology and maturation diagrams distinguish the inner granulosa compartment from the outer thecal compartment.",
+      "images": [
+        "follicle-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The follicular cells inside the theca layer are {{c1::granulosa cells}}.",
+      "noteId": "female-reproductive-physiology-3f9761b0262c99d4c208-note",
+      "id": "female-reproductive-physiology-3f9761b0262c99d4c208",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The follicular cells inside the theca layer are {{c1::granulosa cells}}.",
+      "answer": "granulosa cells"
+    },
+    {
+      "topic": "Follicle development",
+      "slide": 18,
+      "explanation": "Most other follicles in the recruited group regress instead.",
+      "images": [
+        "follicle-stages"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The large follicle selected to continue towards ovulation is the {{c1::dominant follicle}}.",
+      "noteId": "female-reproductive-physiology-9859f5597ed0fd97d7e5-note",
+      "id": "female-reproductive-physiology-9859f5597ed0fd97d7e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The large follicle selected to continue towards ovulation is the {{c1::dominant follicle}}.",
+      "answer": "dominant follicle"
+    },
+    {
+      "topic": "Corpus luteum",
+      "slide": 19,
+      "explanation": "Granulosa and thecal cells undergo luteinisation; the corpus luteum is not the released oocyte.",
+      "images": [
+        "corpus-luteum"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The ruptured follicle transforms into the {{c1::corpus luteum}} after ovulation.",
+      "noteId": "female-reproductive-physiology-1163998fcb81d0ce5138-note",
+      "id": "female-reproductive-physiology-1163998fcb81d0ce5138",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The ruptured follicle transforms into the {{c1::corpus luteum}} after ovulation.",
+      "answer": "corpus luteum"
+    },
+    {
+      "topic": "Corpus luteum",
+      "slide": 19,
+      "explanation": "These secretions support luteal physiology and feedback regulation; progesterone is a major luteal product.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The corpus luteum secretes progesterone, oestrogen and {{c1::inhibin}}.",
+      "noteId": "female-reproductive-physiology-0be60abb01c663b55e6e-note",
+      "id": "female-reproductive-physiology-0be60abb01c663b55e6e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The corpus luteum secretes progesterone, oestrogen and {{c1::inhibin}}.",
+      "answer": "inhibin"
+    },
+    {
+      "topic": "Corpus luteum",
+      "slide": 19,
+      "explanation": "Clarification: trophoblastic hCG associated with implantation maintains luteal function; fertilisation alone does not instantly produce a systemic luteal rescue signal.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "In early pregnancy, the hormone rescuing the corpus luteum is {{c1::human chorionic gonadotrophin (hCG)}}.",
+      "noteId": "female-reproductive-physiology-2b802e26916c00498775-note",
+      "id": "female-reproductive-physiology-2b802e26916c00498775",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In early pregnancy, the hormone rescuing the corpus luteum is {{c1::human chorionic gonadotrophin (hCG)}}.",
+      "answer": "human chorionic gonadotrophin (hCG)"
+    },
+    {
+      "topic": "Corpus luteum",
+      "slide": 19,
+      "explanation": "Luteal steroid levels then fall. The slide’s “about 10 days” refers to onset of luteal decline, not an invariant duration of every person’s luteal phase.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Without pregnancy-related rescue, the corpus luteum {{c1::regresses}}.",
+      "noteId": "female-reproductive-physiology-a9bb21cfeae8cc81541f-note",
+      "id": "female-reproductive-physiology-a9bb21cfeae8cc81541f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Without pregnancy-related rescue, the corpus luteum {{c1::regresses}}.",
+      "answer": "regresses"
+    },
+    {
+      "topic": "Two-cell hormone synthesis",
+      "slide": 20,
+      "explanation": "They are not produced by the ovarian granulosa or thecal cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "FSH and LH are gonadotrophins secreted by the {{c1::anterior pituitary}}.",
+      "noteId": "female-reproductive-physiology-c9b62650ec7b96433a97-note",
+      "id": "female-reproductive-physiology-c9b62650ec7b96433a97",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "FSH and LH are gonadotrophins secreted by the {{c1::anterior pituitary}}.",
+      "answer": "anterior pituitary"
+    },
+    {
+      "topic": "Two-cell hormone synthesis",
+      "slide": 20,
+      "explanation": "The lecture links this to proliferation and oestrogen production.",
+      "images": [
+        "two-cell"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "FSH primarily stimulates follicular {{c1::granulosa cells}}.",
+      "noteId": "female-reproductive-physiology-c8bd1b3dd76eaf20e35d-note",
+      "id": "female-reproductive-physiology-c8bd1b3dd76eaf20e35d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "FSH primarily stimulates follicular {{c1::granulosa cells}}.",
+      "answer": "granulosa cells"
+    },
+    {
+      "topic": "Two-cell hormone synthesis",
+      "slide": 20,
+      "explanation": "The androgens provide substrate for oestrogen synthesis in granulosa cells.",
+      "images": [
+        "two-cell"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "LH stimulates thecal cells to produce {{c1::androgens}}.",
+      "noteId": "female-reproductive-physiology-60bc6559e7eec0ad356a-note",
+      "id": "female-reproductive-physiology-60bc6559e7eec0ad356a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "LH stimulates thecal cells to produce {{c1::androgens}}.",
+      "answer": "androgens"
+    },
+    {
+      "topic": "Two-cell hormone synthesis",
+      "slide": 20,
+      "explanation": "This is the two-cell cooperation illustrated in the source; neither cell compartment alone describes the whole pathway.",
+      "images": [
+        "two-cell"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Thecal androgens are converted to oestrogens in {{c1::granulosa cells}}.",
+      "noteId": "female-reproductive-physiology-00df1c22886e1412436e-note",
+      "id": "female-reproductive-physiology-00df1c22886e1412436e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Thecal androgens are converted to oestrogens in {{c1::granulosa cells}}.",
+      "answer": "granulosa cells"
+    },
+    {
+      "topic": "Two-cell hormone synthesis",
+      "slide": 20,
+      "explanation": "The slide describes relative independence up to the early antral transition; it does not mean follicles develop without local regulation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Early follicle growth is relatively {{c1::gonadotrophin-independent}} before later FSH/LH-dependent development.",
+      "noteId": "female-reproductive-physiology-cc6d3868f15145a21542-note",
+      "id": "female-reproductive-physiology-cc6d3868f15145a21542",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Early follicle growth is relatively {{c1::gonadotrophin-independent}} before later FSH/LH-dependent development.",
+      "answer": "gonadotrophin-independent"
+    },
+    {
+      "topic": "Dominant follicle selection",
+      "slide": 21,
+      "explanation": "This leaves one dominant follicle in the usual natural-cycle model.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Regression of the non-dominant developing follicles is called {{c1::atresia}}.",
+      "noteId": "female-reproductive-physiology-93b8e00834a387a577f4-note",
+      "id": "female-reproductive-physiology-93b8e00834a387a577f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Regression of the non-dominant developing follicles is called {{c1::atresia}}.",
+      "answer": "atresia"
+    },
+    {
+      "topic": "Dominant follicle selection",
+      "slide": 22,
+      "explanation": "The lecture names more FSH receptors and better blood supply as contributing features, not a fully settled single-factor explanation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Greater FSH responsiveness can help the dominant follicle survive {{c1::falling FSH levels}}.",
+      "noteId": "female-reproductive-physiology-43e531ef44ed999f33f6-note",
+      "id": "female-reproductive-physiology-43e531ef44ed999f33f6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Greater FSH responsiveness can help the dominant follicle survive {{c1::falling FSH levels}}.",
+      "answer": "falling FSH levels"
+    },
+    {
+      "topic": "Dominant follicle selection",
+      "slide": 22,
+      "explanation": "This helps explain their later responsiveness to the LH surge.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Granulosa cells of the developing dominant follicle acquire {{c1::LH receptors}}.",
+      "noteId": "female-reproductive-physiology-d1e7a1c4e6a6acfcad13-note",
+      "id": "female-reproductive-physiology-d1e7a1c4e6a6acfcad13",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Granulosa cells of the developing dominant follicle acquire {{c1::LH receptors}}.",
+      "answer": "LH receptors"
+    },
+    {
+      "topic": "Dominant follicle selection",
+      "slide": 22,
+      "explanation": "The slide presents this as part of selection. AMH has stage-dependent effects; it is not a complete explanation that one follicle simply switches off every other follicle.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The granulosa-derived regulator named as limiting follicle recruitment is {{c1::anti-Müllerian hormone (AMH)}}.",
+      "noteId": "female-reproductive-physiology-33f86ccd7763d129c87f-note",
+      "id": "female-reproductive-physiology-33f86ccd7763d129c87f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The granulosa-derived regulator named as limiting follicle recruitment is {{c1::anti-Müllerian hormone (AMH)}}.",
+      "answer": "anti-Müllerian hormone (AMH)"
+    },
+    {
+      "topic": "IVF principles",
+      "slide": 23,
+      "explanation": "This contrasts with the usual natural-cycle outcome of one dominant follicle; the aim is controlled stimulation, not an unlimited number of eggs.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Ovarian stimulation for IVF aims to mature {{c1::multiple usable follicles}}.",
+      "noteId": "female-reproductive-physiology-7f8a21e92b43defa64e5-note",
+      "id": "female-reproductive-physiology-7f8a21e92b43defa64e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ovarian stimulation for IVF aims to mature {{c1::multiple usable follicles}}.",
+      "answer": "multiple usable follicles"
+    },
+    {
+      "topic": "IVF principles",
+      "slide": 23,
+      "explanation": "This is distinct from the stimulation used to support multiple follicles; the source’s wording compresses these separate treatment goals. No regimen or dosing is supplied.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Pituitary suppression in IVF helps prevent a premature {{c1::LH surge}}.",
+      "noteId": "female-reproductive-physiology-a26f8ef446b217ac296f-note",
+      "id": "female-reproductive-physiology-a26f8ef446b217ac296f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pituitary suppression in IVF helps prevent a premature {{c1::LH surge}}.",
+      "answer": "LH surge"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 27,
+      "explanation": "The source graph also shows a smaller FSH rise; LH is the dominant ovulatory surge.",
+      "images": [
+        "hormone-curves"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The major pituitary peak triggering ovulation is the {{c1::LH surge}}.",
+      "noteId": "female-reproductive-physiology-de7155e114e083b8f828-note",
+      "id": "female-reproductive-physiology-de7155e114e083b8f828",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The major pituitary peak triggering ovulation is the {{c1::LH surge}}.",
+      "answer": "LH surge"
+    },
+    {
+      "topic": "Ovulation indicators",
+      "slide": 28,
+      "explanation": "They indicate a hormonal event associated with the fertile window rather than directly visualising oocyte release.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Urinary ovulation predictor kits detect a surge in {{c1::LH}}.",
+      "noteId": "female-reproductive-physiology-63a36e4797aa6cdc497e-note",
+      "id": "female-reproductive-physiology-63a36e4797aa6cdc497e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Urinary ovulation predictor kits detect a surge in {{c1::LH}}.",
+      "answer": "LH"
+    },
+    {
+      "topic": "Ovulation indicators",
+      "slide": 28,
+      "explanation": "This is an approximate physiological relationship; a positive kit does not prove ovulation has occurred or guarantee pregnancy.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture places the LH surge roughly {{c1::24–36 hours before ovulation}}.",
+      "noteId": "female-reproductive-physiology-d1edb2aa20591712c937-note",
+      "id": "female-reproductive-physiology-d1edb2aa20591712c937",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture places the LH surge roughly {{c1::24–36 hours before ovulation}}.",
+      "answer": "24–36 hours before ovulation"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 29,
+      "explanation": "Gonadotrophin-releasing hormone connects hypothalamic control with the anterior pituitary.",
+      "images": [
+        "feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The hypothalamic signal stimulating pituitary FSH and LH release is {{c1::GnRH}}.",
+      "noteId": "female-reproductive-physiology-2b393fa43565bcec2176-note",
+      "id": "female-reproductive-physiology-2b393fa43565bcec2176",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The hypothalamic signal stimulating pituitary FSH and LH release is {{c1::GnRH}}.",
+      "answer": "GnRH"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 29,
+      "explanation": "This contributes to falling FSH during follicular selection. Feedback depends on context and duration, not only the hormone’s name.",
+      "images": [
+        "feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "At lower or moderate follicular levels, oestrogen usually exerts {{c1::negative feedback}} on the hypothalamic–pituitary axis.",
+      "noteId": "female-reproductive-physiology-a3397570b8c4fbf93bc7-note",
+      "id": "female-reproductive-physiology-a3397570b8c4fbf93bc7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "At lower or moderate follicular levels, oestrogen usually exerts {{c1::negative feedback}} on the hypothalamic–pituitary axis.",
+      "answer": "negative feedback"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 29,
+      "explanation": "In the model, this is associated with the late follicular days around 12–14 and promotes the gonadotrophin surge.",
+      "images": [
+        "feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sustained high preovulatory oestrogen switches the axis towards {{c1::positive feedback}}.",
+      "noteId": "female-reproductive-physiology-7fc57d2bed10941c4e83-note",
+      "id": "female-reproductive-physiology-7fc57d2bed10941c4e83",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sustained high preovulatory oestrogen switches the axis towards {{c1::positive feedback}}.",
+      "answer": "positive feedback"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 29,
+      "explanation": "This helps suppress another recruitment/ovulatory cycle while the corpus luteum is active.",
+      "images": [
+        "feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "High luteal progesterone contributes to {{c1::negative feedback}} on GnRH and gonadotrophin secretion.",
+      "noteId": "female-reproductive-physiology-25d2ca5a21f96203b0d2-note",
+      "id": "female-reproductive-physiology-25d2ca5a21f96203b0d2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "High luteal progesterone contributes to {{c1::negative feedback}} on GnRH and gonadotrophin secretion.",
+      "answer": "negative feedback"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 29,
+      "explanation": "This adds selective regulation of FSH alongside steroid feedback.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Inhibin primarily suppresses pituitary {{c1::FSH}} release.",
+      "noteId": "female-reproductive-physiology-cbe52386230fa30a80fd-note",
+      "id": "female-reproductive-physiology-cbe52386230fa30a80fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inhibin primarily suppresses pituitary {{c1::FSH}} release.",
+      "answer": "FSH"
+    },
+    {
+      "topic": "Ovulation indicators",
+      "slide": 31,
+      "explanation": "Progesterone acts on hypothalamic thermoregulation.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The post-ovulation rise in basal body temperature is driven by {{c1::progesterone}}.",
+      "noteId": "female-reproductive-physiology-a118f900cb663a5dc413-note",
+      "id": "female-reproductive-physiology-a118f900cb663a5dc413",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The post-ovulation rise in basal body temperature is driven by {{c1::progesterone}}.",
+      "answer": "progesterone"
+    },
+    {
+      "topic": "Ovulation indicators",
+      "slide": 31,
+      "explanation": "The curve reflects progesterone exposure; it is not an exact prospective predictor of the release time.",
+      "images": [
+        "temperature"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Basal temperature is generally higher in the {{c1::luteal phase}} than before ovulation.",
+      "noteId": "female-reproductive-physiology-e6e6f7d0b6727d1a1c2b-note",
+      "id": "female-reproductive-physiology-e6e6f7d0b6727d1a1c2b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Basal temperature is generally higher in the {{c1::luteal phase}} than before ovulation.",
+      "answer": "luteal phase"
+    },
+    {
+      "topic": "Hormonal feedback",
+      "slide": 32,
+      "explanation": "The activity’s statement “FSH levels are promoting atresia” is clarified as reduced FSH support, not FSH being an intrinsically toxic signal.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Non-dominant follicles undergo atresia when FSH support {{c1::falls}}.",
+      "noteId": "female-reproductive-physiology-150e16cb3b0be51618d9-note",
+      "id": "female-reproductive-physiology-150e16cb3b0be51618d9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Non-dominant follicles undergo atresia when FSH support {{c1::falls}}.",
+      "answer": "falls"
+    },
+    {
+      "topic": "LH surge and ovulation",
+      "slide": 33,
+      "explanation": "Fluid and wall changes in the mature follicle help release the secondary oocyte.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The LH surge promotes follicular rupture and {{c1::ovulation}}.",
+      "noteId": "female-reproductive-physiology-218710d32df2b162ef34-note",
+      "id": "female-reproductive-physiology-218710d32df2b162ef34",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The LH surge promotes follicular rupture and {{c1::ovulation}}.",
+      "answer": "ovulation"
+    },
+    {
+      "topic": "LH surge and ovulation",
+      "slide": 33,
+      "explanation": "Correction to the slide: granulosa cells do not undergo oocyte meiosis. Completion produces a secondary oocyte and first polar body.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The cell that completes meiosis I around the ovulatory signal is the {{c1::primary oocyte}}.",
+      "noteId": "female-reproductive-physiology-7724d1c309a6b17cbcc7-note",
+      "id": "female-reproductive-physiology-7724d1c309a6b17cbcc7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cell that completes meiosis I around the ovulatory signal is the {{c1::primary oocyte}}.",
+      "answer": "primary oocyte"
+    },
+    {
+      "topic": "LH surge and ovulation",
+      "slide": 33,
+      "explanation": "They become luteal cells with a changed steroid-secretory profile.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Transformation of granulosa and thecal cells after ovulation is {{c1::luteinisation}}.",
+      "noteId": "female-reproductive-physiology-a2363173e0002326d8c4-note",
+      "id": "female-reproductive-physiology-a2363173e0002326d8c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Transformation of granulosa and thecal cells after ovulation is {{c1::luteinisation}}.",
+      "answer": "luteinisation"
+    },
+    {
+      "topic": "LH surge and ovulation",
+      "slide": 33,
+      "explanation": "The slide’s “switch” from oestrogen to progesterone should not be read as complete cessation of oestrogen secretion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "After luteinisation, progesterone production {{c1::increases}}.",
+      "noteId": "female-reproductive-physiology-85dd75187e776c4336bf-note",
+      "id": "female-reproductive-physiology-85dd75187e776c4336bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After luteinisation, progesterone production {{c1::increases}}.",
+      "answer": "increases"
+    },
+    {
+      "topic": "Uterine cycle",
+      "slide": 34,
+      "explanation": "Oestrogen promotes growth of the lining after menstruation.",
+      "images": [
+        "uterine-cycle"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The endometrial rebuilding phase before ovulation is the {{c1::proliferative phase}}.",
+      "noteId": "female-reproductive-physiology-432fbb85d48ad58b6f75-note",
+      "id": "female-reproductive-physiology-432fbb85d48ad58b6f75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The endometrial rebuilding phase before ovulation is the {{c1::proliferative phase}}.",
+      "answer": "proliferative phase"
+    },
+    {
+      "topic": "Uterine cycle",
+      "slide": 34,
+      "explanation": "Progesterone changes the previously oestrogen-primed endometrium.",
+      "images": [
+        "uterine-cycle"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The glandular phase after ovulation is the {{c1::secretory phase}}.",
+      "noteId": "female-reproductive-physiology-ecee069dcc284411f040-note",
+      "id": "female-reproductive-physiology-ecee069dcc284411f040",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The glandular phase after ovulation is the {{c1::secretory phase}}.",
+      "answer": "secretory phase"
+    },
+    {
+      "topic": "Uterine cycle",
+      "slide": 34,
+      "explanation": "Ovarian and uterine phase names describe different organs within the same cycle.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The ovarian luteal phase corresponds chiefly to the uterine {{c1::secretory phase}}.",
+      "noteId": "female-reproductive-physiology-83a74570d08d8ad83450-note",
+      "id": "female-reproductive-physiology-83a74570d08d8ad83450",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The ovarian luteal phase corresponds chiefly to the uterine {{c1::secretory phase}}.",
+      "answer": "secretory phase"
+    },
+    {
+      "topic": "Menstruation",
+      "slide": 35,
+      "explanation": "Regression of the corpus luteum removes hormonal support for the endometrial functional layer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Menstruation follows withdrawal of luteal {{c1::progesterone and oestrogen}}.",
+      "noteId": "female-reproductive-physiology-349b4126b9a5106e110e-note",
+      "id": "female-reproductive-physiology-349b4126b9a5106e110e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Menstruation follows withdrawal of luteal {{c1::progesterone and oestrogen}}.",
+      "answer": "progesterone and oestrogen"
+    },
+    {
+      "topic": "Menstruation",
+      "slide": 35,
+      "explanation": "Vascular and inflammatory changes contribute to breakdown of the functional lining, rather than shedding the whole uterine wall.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Constriction of endometrial vessels reduces local oxygen and {{c1::nutrient supply}}.",
+      "noteId": "female-reproductive-physiology-d092315b53b35306d29b-note",
+      "id": "female-reproductive-physiology-d092315b53b35306d29b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Constriction of endometrial vessels reduces local oxygen and {{c1::nutrient supply}}.",
+      "answer": "nutrient supply"
+    },
+    {
+      "topic": "Menstruation",
+      "slide": 35,
+      "explanation": "The source links these contractions to menstruation and the menstrual flow.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The mediators associated with menstrual myometrial contractions are {{c1::prostaglandins}}.",
+      "noteId": "female-reproductive-physiology-ff32633654c4e0ffcbe4-note",
+      "id": "female-reproductive-physiology-ff32633654c4e0ffcbe4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The mediators associated with menstrual myometrial contractions are {{c1::prostaglandins}}.",
+      "answer": "prostaglandins"
+    },
+    {
+      "topic": "Menstruation",
+      "slide": 36,
+      "explanation": "The slide uses this as context for repair research. Its cell-culture wound-healing findings do not establish an approved treatment for skin wounds.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Following normal menstrual shedding, the endometrium can regenerate without {{c1::scar formation}}.",
+      "noteId": "female-reproductive-physiology-176432bdcde4abc0d3ca-note",
+      "id": "female-reproductive-physiology-176432bdcde4abc0d3ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Following normal menstrual shedding, the endometrium can regenerate without {{c1::scar formation}}.",
+      "answer": "scar formation"
+    },
+    {
+      "topic": "Uterine hormone effects",
+      "slide": 37,
+      "explanation": "This rebuilds the tissue following the menstrual shedding phase.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Oestrogen stimulates endometrial {{c1::proliferation}}.",
+      "noteId": "female-reproductive-physiology-cf0424b03d0307bba76e-note",
+      "id": "female-reproductive-physiology-cf0424b03d0307bba76e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Oestrogen stimulates endometrial {{c1::proliferation}}.",
+      "answer": "proliferation"
+    },
+    {
+      "topic": "Uterine hormone effects",
+      "slide": 37,
+      "explanation": "The uterine response prepares an appropriate environment for potential implantation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Progesterone promotes a glandular, nutrient-rich {{c1::secretory endometrium}}.",
+      "noteId": "female-reproductive-physiology-8ef9f7a1e98e6563d716-note",
+      "id": "female-reproductive-physiology-8ef9f7a1e98e6563d716",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Progesterone promotes a glandular, nutrient-rich {{c1::secretory endometrium}}.",
+      "answer": "secretory endometrium"
+    },
+    {
+      "topic": "Uterine hormone effects",
+      "slide": 37,
+      "explanation": "This favours sperm passage near the fertile window; the source’s comparison is relative rather than an absolute barrier rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Under oestrogen influence, cervical mucus becomes relatively {{c1::thin and watery}}.",
+      "noteId": "female-reproductive-physiology-e279863f13cb017df76c-note",
+      "id": "female-reproductive-physiology-e279863f13cb017df76c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Under oestrogen influence, cervical mucus becomes relatively {{c1::thin and watery}}.",
+      "answer": "thin and watery"
+    },
+    {
+      "topic": "Uterine hormone effects",
+      "slide": 37,
+      "explanation": "This contributes to a barrier to sperm passage after ovulation and is used by progestogen contraception.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Progesterone makes cervical mucus relatively {{c1::thick and less penetrable}}.",
+      "noteId": "female-reproductive-physiology-bacf04f59298aa388be1-note",
+      "id": "female-reproductive-physiology-bacf04f59298aa388be1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Progesterone makes cervical mucus relatively {{c1::thick and less penetrable}}.",
+      "answer": "thick and less penetrable"
+    },
+    {
+      "topic": "Uterine hormone effects",
+      "slide": 37,
+      "explanation": "The source contrasts this with oestrogen-related growth and contractility; the effect depends on physiological context.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Progesterone tends to {{c1::reduce spontaneous myometrial contractions}}.",
+      "noteId": "female-reproductive-physiology-0f2b274838e1f823f996-note",
+      "id": "female-reproductive-physiology-0f2b274838e1f823f996",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Progesterone tends to {{c1::reduce spontaneous myometrial contractions}}.",
+      "answer": "reduce spontaneous myometrial contractions"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 38,
+      "explanation": "Progestogen is the drug class; it need not be identical to endogenous progesterone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The combined oral contraceptive pill contains an oestrogen and a {{c1::progestogen}}.",
+      "noteId": "female-reproductive-physiology-854859c29ef47d920a61-note",
+      "id": "female-reproductive-physiology-854859c29ef47d920a61",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The combined oral contraceptive pill contains an oestrogen and a {{c1::progestogen}}.",
+      "answer": "progestogen"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 38,
+      "explanation": "Feedback suppresses follicular development and the ovulatory surge; it is a pre-fertilisation mechanism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Combined hormonal contraception suppresses ovulation by reducing pituitary {{c1::FSH and LH}} stimulation.",
+      "noteId": "female-reproductive-physiology-f4cdb584b943567e5a0c-note",
+      "id": "female-reproductive-physiology-f4cdb584b943567e5a0c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Combined hormonal contraception suppresses ovulation by reducing pituitary {{c1::FSH and LH}} stimulation.",
+      "answer": "FSH and LH"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 38,
+      "explanation": "This is a contraceptive mechanism distinct from ovarian suppression.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Progestogen-mediated thickening of cervical mucus reduces {{c1::sperm passage}}.",
+      "noteId": "female-reproductive-physiology-20de759a160f18f57330-note",
+      "id": "female-reproductive-physiology-20de759a160f18f57330",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Progestogen-mediated thickening of cervical mucus reduces {{c1::sperm passage}}.",
+      "answer": "sperm passage"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 38,
+      "explanation": "Missed or incorrectly used pills explain some of the difference. The source’s 99.7%/91% estimates are dated, method- and time-dependent teaching figures, not universal current personalised rates.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Perfect-use contraceptive effectiveness can exceed {{c1::typical-use effectiveness}}.",
+      "noteId": "female-reproductive-physiology-dd4a40f9579b4576ceb7-note",
+      "id": "female-reproductive-physiology-dd4a40f9579b4576ceb7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Perfect-use contraceptive effectiveness can exceed {{c1::typical-use effectiveness}}.",
+      "answer": "typical-use effectiveness"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 39,
+      "explanation": "Oestrogen contributes to follicular suppression and cycle/endometrial stability; the comparison is not a dosing instruction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The progestogen component is the main {{c1::contraceptive}} component in the source’s hormone comparison.",
+      "noteId": "female-reproductive-physiology-5f07dc7b1f82b77545c1-note",
+      "id": "female-reproductive-physiology-5f07dc7b1f82b77545c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The progestogen component is the main {{c1::contraceptive}} component in the source’s hormone comparison.",
+      "answer": "contraceptive"
+    },
+    {
+      "topic": "Hormonal contraception",
+      "slide": 39,
+      "explanation": "The source lists endometrial effects; these should not be promoted into a claim that routine pills terminate an implanted pregnancy or that blocking implantation is the established primary mechanism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Hormonal contraception can cause endometrial {{c1::thinning}}.",
+      "noteId": "female-reproductive-physiology-cd719a6f2eb511a45b02-note",
+      "id": "female-reproductive-physiology-cd719a6f2eb511a45b02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hormonal contraception can cause endometrial {{c1::thinning}}.",
+      "answer": "thinning"
+    },
+    {
+      "topic": "Progestogen contraception",
+      "slide": 40,
+      "explanation": "The slide calls this the “mini pill”. Its “desogestrel 75 mg” is an apparent unit error; no dose question is made from it.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The progestogen-only pill lacks an {{c1::oestrogen component}}.",
+      "noteId": "female-reproductive-physiology-3e8fbcdaf94e265fbb78-note",
+      "id": "female-reproductive-physiology-3e8fbcdaf94e265fbb78",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The progestogen-only pill lacks an {{c1::oestrogen component}}.",
+      "answer": "oestrogen component"
+    },
+    {
+      "topic": "Progestogen contraception",
+      "slide": 40,
+      "explanation": "They inhibit ovulation variably; the lecture distinguishes them from more consistently ovulation-suppressing formulations.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Traditional progestogen-only pills act principally by thickening {{c1::cervical mucus}}.",
+      "noteId": "female-reproductive-physiology-9de77e50113bdf81bbf4-note",
+      "id": "female-reproductive-physiology-9de77e50113bdf81bbf4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Traditional progestogen-only pills act principally by thickening {{c1::cervical mucus}}.",
+      "answer": "cervical mucus"
+    },
+    {
+      "topic": "Progestogen contraception",
+      "slide": 40,
+      "explanation": "This prevents assuming every progestogen-only formulation has the same degree of ovarian suppression.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Desogestrel-containing progestogen-only pills more consistently {{c1::inhibit ovulation}}.",
+      "noteId": "female-reproductive-physiology-393b3a72079764950490-note",
+      "id": "female-reproductive-physiology-393b3a72079764950490",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Desogestrel-containing progestogen-only pills more consistently {{c1::inhibit ovulation}}.",
+      "answer": "inhibit ovulation"
+    },
+    {
+      "topic": "Progestogen contraception",
+      "slide": 40,
+      "explanation": "This applies to the formulations described; schedules differ for other products, so the card is not a general instruction for every progestogen-only pill.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The traditional/desogestrel pill examples shown are taken continuously with {{c1::no hormone-free break}}.",
+      "noteId": "female-reproductive-physiology-81c55453d2576535f29a-note",
+      "id": "female-reproductive-physiology-81c55453d2576535f29a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The traditional/desogestrel pill examples shown are taken continuously with {{c1::no hormone-free break}}.",
+      "answer": "no hormone-free break"
+    },
+    {
+      "topic": "Progestogen contraception",
+      "slide": 41,
+      "explanation": "The source describes an upper-arm implant. Duration and licensing depend on product and jurisdiction, so the lecture’s three-year statement is not treated as a universal current limit.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A contraceptive implant delivers {{c1::progestogen}} from a rod under the skin.",
+      "noteId": "female-reproductive-physiology-dec7e9da4314d4e8ba56-note",
+      "id": "female-reproductive-physiology-dec7e9da4314d4e8ba56",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A contraceptive implant delivers {{c1::progestogen}} from a rod under the skin.",
+      "answer": "progestogen"
+    },
+    {
+      "topic": "Menopause basics",
+      "slide": 42,
+      "explanation": "This assumes no alternative cause of amenorrhoea and an appropriate clinical context; hormonal contraception or treatment can obscure bleeding patterns.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Natural menopause is identified retrospectively after {{c1::12 months without menstrual periods}}.",
+      "noteId": "female-reproductive-physiology-2371b35f03059eaf894a-note",
+      "id": "female-reproductive-physiology-2371b35f03059eaf894a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Natural menopause is identified retrospectively after {{c1::12 months without menstrual periods}}.",
+      "answer": "12 months without menstrual periods"
+    },
+    {
+      "topic": "Menopause basics",
+      "slide": 42,
+      "explanation": "Cycles may change in interval and volume as hormone secretion becomes more variable.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The transition before the final cessation of periods is {{c1::perimenopause}}.",
+      "noteId": "female-reproductive-physiology-a115aa7782d95196028d-note",
+      "id": "female-reproductive-physiology-a115aa7782d95196028d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transition before the final cessation of periods is {{c1::perimenopause}}.",
+      "answer": "perimenopause"
+    },
+    {
+      "topic": "Menopause basics",
+      "slide": 42,
+      "explanation": "The transition is not a smooth monotonic fall in every oestrogen measurement.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "During perimenopause, cycle length and ovarian hormone secretion become {{c1::variable}}.",
+      "noteId": "female-reproductive-physiology-2a50e5e36ff639e2a718-note",
+      "id": "female-reproductive-physiology-2a50e5e36ff639e2a718",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During perimenopause, cycle length and ovarian hormone secretion become {{c1::variable}}.",
+      "answer": "variable"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 43,
+      "explanation": "They illustrate a population pattern rather than a hormone threshold diagnosing every individual.",
+      "images": [
+        "menopause-graphs"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The perimenopause graphs show gonadotrophin changes relative to the {{c1::final menstrual period}}.",
+      "noteId": "female-reproductive-physiology-4b4abc19f084c8359000-note",
+      "id": "female-reproductive-physiology-4b4abc19f084c8359000",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The perimenopause graphs show gonadotrophin changes relative to the {{c1::final menstrual period}}.",
+      "answer": "final menstrual period"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 44,
+      "explanation": "Fewer functioning follicular cells reduce the system’s ability to generate the usual cycle, while perimenopausal levels can fluctuate.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Declining follicle availability reduces ovarian {{c1::oestrogen secretion}} overall.",
+      "noteId": "female-reproductive-physiology-8aa83c50e746dedb7d2a-note",
+      "id": "female-reproductive-physiology-8aa83c50e746dedb7d2a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Declining follicle availability reduces ovarian {{c1::oestrogen secretion}} overall.",
+      "answer": "oestrogen secretion"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 44,
+      "explanation": "Not every perimenopausal cycle is anovulatory; ovulation can still occur.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Failure to generate the usual ovulatory surge increases {{c1::anovulatory cycles}}.",
+      "noteId": "female-reproductive-physiology-8f4b0305079a3c176dad-note",
+      "id": "female-reproductive-physiology-8f4b0305079a3c176dad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Failure to generate the usual ovulatory surge increases {{c1::anovulatory cycles}}.",
+      "answer": "anovulatory cycles"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 45,
+      "explanation": "This is the opposite of assuming that all reproductive hormones decrease at menopause.",
+      "images": [
+        "menopause-feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Loss of ovarian steroid negative feedback raises pituitary {{c1::FSH and LH}}.",
+      "noteId": "female-reproductive-physiology-902280c2d832b0c4084f-note",
+      "id": "female-reproductive-physiology-902280c2d832b0c4084f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Loss of ovarian steroid negative feedback raises pituitary {{c1::FSH and LH}}.",
+      "answer": "FSH and LH"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 45,
+      "explanation": "Inhibin normally restrains FSH release; declining inhibition adds to the FSH rise.",
+      "images": [
+        "menopause-feedback"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced follicular inhibin secretion particularly increases {{c1::FSH}}.",
+      "noteId": "female-reproductive-physiology-fdb899ff02a201c216da-note",
+      "id": "female-reproductive-physiology-fdb899ff02a201c216da",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced follicular inhibin secretion particularly increases {{c1::FSH}}.",
+      "answer": "FSH"
+    },
+    {
+      "topic": "Menopause feedback",
+      "slide": 45,
+      "explanation": "Without recurrent ovulation, the usual luteal progesterone production is lost.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Low progesterone after menopause is consistent with the absence of regular {{c1::corpus luteum formation}}.",
+      "noteId": "female-reproductive-physiology-5c8b74b072cda13b223f-note",
+      "id": "female-reproductive-physiology-5c8b74b072cda13b223f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Low progesterone after menopause is consistent with the absence of regular {{c1::corpus luteum formation}}.",
+      "answer": "corpus luteum formation"
+    },
+    {
+      "topic": "Menopausal effects",
+      "slide": 46,
+      "explanation": "The source symptom figure also describes vasomotor and urogenital changes.",
+      "images": [
+        "symptoms"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The bone complication highlighted with low postmenopausal oestrogen is {{c1::osteoporosis}}.",
+      "noteId": "female-reproductive-physiology-c6439e64bade7083f6f2-note",
+      "id": "female-reproductive-physiology-c6439e64bade7083f6f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The bone complication highlighted with low postmenopausal oestrogen is {{c1::osteoporosis}}.",
+      "answer": "osteoporosis"
+    },
+    {
+      "topic": "Menopausal effects",
+      "slide": 46,
+      "explanation": "These are symptom examples, not a requirement that every person experiences the same transition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Hot flushes and night sweats are {{c1::vasomotor symptoms}} associated with menopause.",
+      "noteId": "female-reproductive-physiology-734b53d5877e3db0defd-note",
+      "id": "female-reproductive-physiology-734b53d5877e3db0defd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hot flushes and night sweats are {{c1::vasomotor symptoms}} associated with menopause.",
+      "answer": "vasomotor symptoms"
+    },
+    {
+      "topic": "Menopausal effects",
+      "slide": 46,
+      "explanation": "The source groups these among urogenital changes; the symptoms still require appropriate clinical interpretation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Reduced oestrogen can contribute to vaginal {{c1::dryness and atrophy}}.",
+      "noteId": "female-reproductive-physiology-4a71b90c27518a550314-note",
+      "id": "female-reproductive-physiology-4a71b90c27518a550314",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced oestrogen can contribute to vaginal {{c1::dryness and atrophy}}.",
+      "answer": "dryness and atrophy"
+    },
+    {
+      "topic": "HRT principles",
+      "slide": 47,
+      "explanation": "The source generally describes combined replacement. Whether progestogen is needed depends particularly on whether the uterus is present.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Hormone replacement therapy treats menopausal symptoms by replacing {{c1::oestrogen}}.",
+      "noteId": "female-reproductive-physiology-e7e959904ce312875749-note",
+      "id": "female-reproductive-physiology-e7e959904ce312875749",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hormone replacement therapy treats menopausal symptoms by replacing {{c1::oestrogen}}.",
+      "answer": "oestrogen"
+    },
+    {
+      "topic": "HRT principles",
+      "slide": 47,
+      "explanation": "This clarifies why combined HRT is used; oestrogen-only regimens may be appropriate after hysterectomy. It is not a personal prescribing recommendation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Systemic oestrogen with an intact uterus generally requires {{c1::progestogen for endometrial protection}}.",
+      "noteId": "female-reproductive-physiology-1558fad07fc6ba99e52a-note",
+      "id": "female-reproductive-physiology-1558fad07fc6ba99e52a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Systemic oestrogen with an intact uterus generally requires {{c1::progestogen for endometrial protection}}.",
+      "answer": "progestogen for endometrial protection"
+    },
+    {
+      "topic": "HRT principles",
+      "slide": 47,
+      "explanation": "The source contrasts cyclical progestogen with continuous combined use; sequential treatment can produce scheduled withdrawal bleeding.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Sequential and continuous-combined HRT differ in the {{c1::pattern of progestogen exposure}}.",
+      "noteId": "female-reproductive-physiology-f2570bf8454a4606f591-note",
+      "id": "female-reproductive-physiology-f2570bf8454a4606f591",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sequential and continuous-combined HRT differ in the {{c1::pattern of progestogen exposure}}.",
+      "answer": "pattern of progestogen exposure"
+    },
+    {
+      "topic": "HRT principles",
+      "slide": 47,
+      "explanation": "This is a potential benefit alongside symptom relief; the decision still depends on the individual clinical situation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "HRT can help protect against menopausal {{c1::bone loss}}.",
+      "noteId": "female-reproductive-physiology-c54204d1acfdbab00eed-note",
+      "id": "female-reproductive-physiology-c54204d1acfdbab00eed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HRT can help protect against menopausal {{c1::bone loss}}.",
+      "answer": "bone loss"
+    },
+    {
+      "topic": "HRT principles",
+      "slide": 47,
+      "explanation": "The slide’s combined list of cancer, stroke and clot risks must not be read as one identical risk for all HRT. Oral/transdermal and combined/oestrogen-only regimens differ.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "HRT risks depend on formulation, route, duration and {{c1::individual risk factors}}.",
+      "noteId": "female-reproductive-physiology-890f74f07196b6822125-note",
+      "id": "female-reproductive-physiology-890f74f07196b6822125",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HRT risks depend on formulation, route, duration and {{c1::individual risk factors}}.",
+      "answer": "individual risk factors"
+    },
+    {
+      "topic": "Research and evolutionary context",
+      "slide": 48,
+      "explanation": "The source headline and preprint-style material do not establish that a new clinical immune function or treatment is settled physiology.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The proposed immune role of postmenopausal ovaries is presented as {{c1::emerging research}}.",
+      "noteId": "female-reproductive-physiology-f996e4c80891df89495b-note",
+      "id": "female-reproductive-physiology-f996e4c80891df89495b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The proposed immune role of postmenopausal ovaries is presented as {{c1::emerging research}}.",
+      "answer": "emerging research"
+    },
+    {
+      "topic": "Research and evolutionary context",
+      "slide": 49,
+      "explanation": "It is an evolutionary explanation under discussion, not a conscious purpose or established single cause of menopause.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The grandmother hypothesis proposes reproductive benefit through supporting {{c1::existing children and grandchildren}}.",
+      "noteId": "female-reproductive-physiology-a3fe6eab6e959b90150f-note",
+      "id": "female-reproductive-physiology-a3fe6eab6e959b90150f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The grandmother hypothesis proposes reproductive benefit through supporting {{c1::existing children and grandchildren}}.",
+      "answer": "existing children and grandchildren"
+    },
+    {
+      "topic": "Research and evolutionary context",
+      "slide": 49,
+      "explanation": "This is a hypothesis about descendant survival, distinct from a direct physiological feedback mechanism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The reproductive-conflict hypothesis emphasises reduced competition for {{c1::shared resources}} between generations.",
+      "noteId": "female-reproductive-physiology-aa48780e5b2b47190fc4-note",
+      "id": "female-reproductive-physiology-aa48780e5b2b47190fc4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The reproductive-conflict hypothesis emphasises reduced competition for {{c1::shared resources}} between generations.",
+      "answer": "shared resources"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 1",
+      "text": "Female Reproductive Physiology\nDr Sarah Heasman\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 2",
+      "text": "Topics we will cover today\n• Oogenesis – the production of /oocytes eggs\n• Menstrual Cycle: events in the ovary; \nhormonal control\n• Menstrual Cycle: events in the uterus; \nhormonal control\n• Oral contraception\n• The menopause\nFemale Reproductive Physiology\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 3",
+      "text": "Also available online via icat on the library \nwebsite\nReading\nHuman Physiology: An integrated \nApproach (2018) \nPearson by Dee Unglaub Silvertorn. \nCHAPTER 26\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 4",
+      "text": "Follicle Number\nAge\n•\nBy week 20 of embryonic development a \nfemale has all the eggs she will ever have in \nfollicles in her ovaries\n•\nFrom this point the numbers decline\n•\nBy puberty the ovarian reserve has dropped \nto 50%\n•\nFrom puberty onwards eggs are activated in \nbatches of around 1000 per month but only \none is released during ovulation\nThe Ovarian Reserve\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 5",
+      "text": "Chromosomes \nper cell\nChromatids per \nchromosome\n46                   2\n46                   2\n23                   2\n23                   1\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 6",
+      "text": "•\nIn female gamete production there \nis this process of asymmetrical cell \ndivision to produce cell + polar \nbody at each round of meiosis\n•\nThe polar body apoptoses in 17–\n24 hours following formation\nFirst Polar Body\nSecond Polar Body\nMeiosis I\nMeiosis II\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 7",
+      "text": "Why doesn't the female  \nbody just make 4 \nfunctional eggs in the same \nway a male produces 4 \nsperm?\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 8",
+      "text": "POLAR BODY\n1 x haploid set of chromosomes\n1% of the cytoplasm\nSometimes ribosomes, Golgi, \nmitochondria\nEGG\n1 x haploid set of chromosomes\n99% of the cytoplasm\nFull set of organelles\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 9",
+      "text": "Polar Bodies\n• They are a vessel for discarding the \nextra set of chromosomes\n• If process mirrored spermatogenesis \nthere would not be enough resources \nin the oocyte for the embryo to survive\n• Process produces largest cell in the \nhuman body\n• Polar bodies used during IVF for \npreimplantation genetic diagnoses\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 10",
+      "text": "1/5 women have \nretroverted uterus\nVagina\ncervix\nFallopian tube\nOvary\nUterus\nBladder\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 11",
+      "text": "Ovary\nVagina\ncervix\nFimbriae\nBody of uterus\nEndometrium\nMyometrium\nIsthmus of \nfallopian tube\nAmpulla of \nfallopian tube\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 12",
+      "text": "•\nInfundibulum & Fimbriae: The funnel-like portion \nthat’s closest to your ovaries. It includes finger-like \nstructures called fimbriae \n•\nAmpulla: The major channel\n•\nIsthmus: A tiny channel that connects the ampulla \nto the portion that’s closest to your uterus\n•\nWhat are they made of? thin mucous membrane \nand layers of muscle. Cilia (hair-like structures) line \nthe fallopian tubes\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 13",
+      "text": "Ovulation - Nucleus Health\nWatch from 1 min 21s\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 14",
+      "text": "•\nDefined as time between one period and the next – \ntypically 28 days\n•\nOnset at puberty and lasts until menopause  approx. \n450 in woman's lifetime\n•\nEvery month an oocyte is produced, the lining of the \nuterus thickens, hormones prepare the vagina and \nthe cervix to accept and support sperm. \n•\nIf no pregnancy the oocyte is absorbed back into the \nbody and the thick lining in the uterus is shed during \na woman’s period. \n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 15",
+      "text": "Summary of Ovarian Events During Menstrual Cycle\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 16",
+      "text": "The Menstrual Cycle | 3D \nAnimation (2/2)\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 17",
+      "text": "Ref: zerotofinals.com\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 18",
+      "text": "From: Vander’s Human Physiology, Widmaier, Raff and Strang, McGraw Hill\nDominant follicle\natresia\nMaturation of \nFollicle \nDays 1-14\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 19",
+      "text": "Formation of the Corpus Luteum (Days 15-28)\n•\nOvulation-loss of fluid and ovum from follicle\n•\nFollicle collapses down\n•\nGranulosa cells enlarge-secrete oestrogen, \nprogesterone and inhibin\n•\nFertilisation occurs –conceptus produces \nhuman chorionic gonadoprophin\n•\n-keeps CL alive\n•\nNo fertilisation = CL dies after about 10 days\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 20",
+      "text": "Control of Follicular Development\n•\nUp until early antral phase-automatic \ndevelopment\n•\nAfter that need Follicle Stimulating Hormone \n(FSH) and Luteinizing Hormone (LH) for further \ndevelopment\n•\nFSH and LH known as gonadotrophins. Produced \nin anterior pituitary\n•\nFSH stimulates granulosa cells -proliferation and \noestrogen production\n•\nLH stimulates thecal cells -proliferation and \nandrogen production \n•\nAndrogens passed to granulosa cell \n \nuse to synthesise oestrogens\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 21",
+      "text": "• At end of first 7 days-one follicle has become DOMINANT\n• Larger than the rest\n• The other developing follicles degenerate - undergo ‘ATRESIA’\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 22",
+      "text": "Why Does One Follicle \nBecome Dominant?\n• Not 100% understood\n• More FSH receptors-can withstand dropping \nFSH levels\n• Good blood supply\n• Granulosa cells start to develop LH receptors\n• Granulosa cells secrete Anti Mullerian \nHormone – stops other follicles developing\n• Just prior to ovulation, granulosa cells start \nproducing progesterone\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 23",
+      "text": "One dominant follicle is a problem for IVF\nTo maximise success in IVF need a large \nnumber of eggs\nThis means they need to prevent a \ndominant follicle forming \nInstead they want as many (within \nreason) follicles producing usable eggs\nUse pituitary gland inhibitors to prevent \na rise in LH\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 24",
+      "text": "Right and Left Ovary are not equal\n•\nResearch has shown that ovulation \noccurs more frequently from the \nright ovary than left (55% vs 45%)\n•\nOocyte released from right ovary \nduring ovulation more likely to result \nin pregnancy\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 25",
+      "text": "11\n1\n2\n1\n3\n1\n4\n1\n5\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 26",
+      "text": "",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 27",
+      "text": "Hormonal Control Of The Menstrual Cycle\nHuman Physiology: An Integrated Approach, Silverthorn DU, Pearson\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 28",
+      "text": "Ovulation Test Kits\n•\nAn ovulation test, or an ovulation predictor kit, is \ndesigned to check identify the most fertile days in a \nmenstrual cycle.\n•\nOvulation kits work by detecting a surge in Luteinizing \nHormone (LH) in your urine.\n•\nThis LH surge happens 24-36 hours before the egg is \nreleased and so identifies when a woman is most \nfertile\n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 29",
+      "text": "Gonadotrophin \nreleasing \nhormone (GnRH)\nDays \n12-14\nDays \n15-26\nDays \n12-14\nDays \n5-11\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 30",
+      "text": "Hormonal Control Of The Menstrual Cycle\nHuman Physiology: An Integrated Approach, Silverthorn DU, Pearson\n1                                                     14                                                            28 days\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 31",
+      "text": "Basal Body Temperature During The Menstrual Cycle\nHuman Physiology: An Integrated Approach, Silverthorn DU, Pearson\nProgesterone acts on the hypothalamus, which acts as your body's thermostat, nudging your resting temperature \nupward\nThis higher temperature stays elevated throughout the second half of your cycle (the luteal phase) and drops back \ndown just before the start of the next cycle\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 32",
+      "text": "Match these statements onto the correct days of the menstrual cycle:\nA) Oestrogen is having a positive feedback effect on the secretion of FSH and LH\nB) Progesterone is having a negative effect on the secretion of FSH and LH\nC) FSH levels are promoting atresia of follicles\nD) Oestrogen levels are having a negative feedback effect on secretion of FSH and LH\nE) The corpus luteum is forming from the follicle\nDay 12-14\nDay 15-26\nDay 7-11\nDay 5-11 & 15-25\nDay 14 onwards\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 33",
+      "text": "LH Surge - Trigger for  Ovulation \nLH binds to receptors on granulosa cells \n1.\nfluid to accumulate inside the follicle, weakens wall of ovary to cause rupture of follicle\n2.\nLH binds to granulosa cells and cell complete meiosis I\n3.     remaining cells of the ruptured follicle (the granulosa and theca cells) undergo a structural and  \n        biochemical transformation called luteinization\n4.    Granulosa cells switch from oestrogen to progesterone production\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 34",
+      "text": "Uterine Events During The Menstrual Cycle\nFrom: Vander’s Human Physiology, Widmaier, Raff and Strang, McGraw Hill\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 35",
+      "text": "Menstruation\n• Triggered by degeneration of corpus luteum\n• Drop in oestrogen and progesterone\n• Constriction of uterine blood vessels- reduces \nnutrients and oxygen reaching endometrium\n• Endometrium degenerates\n• Myometrium contracts-caused by prostaglandins\n• Endometrial arterioles then dilate\n• Haemorrhage through weakened walls – \nmenstrual flow (50-150ml)\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 36",
+      "text": "• Every month the endometrium (lining of the uterus) rebuilds itself in 3-5 days without forming a scar \n• Researchers took the plasma part of menstrual fluid and showed it promoted migration and skin repair \nquicker than normal blood plasma\n• In wounds made in human skin cells, plasma derived from menstrual fluid brought about complete repair \nin 24 hours, compared with about 40 % healing when using non-menstrual human blood plasma\n• The plasma contains specific proteins that appear to enhance skin repair\n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 37",
+      "text": "",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 38",
+      "text": "Oral Contraception\n•\nMost common type is combined oral contraceptive pill\n•\nIt contains a synthetic oestrogen (usually ethinylestadiol) \nand a progestogen\n•\nSupresses ovulation by inhibiting FSH/LH\n•\nThickens cervical mucus to block sperm\n•\nThins endometrium to prevent implantation\n•\n99.7 % effective with perfect use\n•\n91% effective with typical use\n    \n",
+      "images": [
+        "page-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 39",
+      "text": "Mechanisms of Action of Hormonal Contraceptives\n",
+      "images": [
+        "page-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 40",
+      "text": "Progesterone Only Pill (‘Mini’ Pill)\n•\nOral contraceptive containing only synthetic progestogen\n     (e.g. desogestrel 75mg)\n•\nTaken at some time each day-no break\n•\nThickens cervical mucus to block sperm from entering the womb. \n•\nThins the endometrium to make it less receptive to a fertilized egg. [\n•\nTraditional POPs (norethisterone/levonorgestrel) primarily thicken mucus and inhibit ovulation in some cycl\n•\nNewer generation POPs (like desogestrel) reliably inhibit ovulation as their primary mode of action. \n•\n99.7 % effective with perfect use\n•\n91% effective with typical use\n",
+      "images": [
+        "page-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 41",
+      "text": "•\nContraceptive implant (Nexplanon)\n•\nSmall flexible plastic rod placed under skin of \nupper arm\n•\nReleases progestogen into bloodstream\n•\nLasts for 3 years\n•\n99% effective\nContraceptive Implants\n",
+      "images": [
+        "page-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 42",
+      "text": "The Menopause\n•\nMenopause is the cessation of a woman’s \nmenstrual cycle, typical age of menopause in the \nUK is 51 years. \n•\nMenopause is defined as the cessation of \nperiods for 1 year. \n•\nBefore periods come to a complete stop they \nchange. Hormone levels fluctuate and there is a \nreduction in the amount of circulating oestrogen \n(produced by the tiring ovaries). \n•\nPeriods may become lighter, heavier, or variable \nin volume and occur at different intervals of \ntime. \n•\nHormone levels fluctuate in a way that the body \nis not used to and in combination with a \ndeclining level of oestrogen, can cause a variety \nof symptoms.\n",
+      "images": [
+        "page-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 43",
+      "text": "Perimenopausal changes to cycle length, LH and FSH\n",
+      "images": [
+        "page-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 44",
+      "text": "Reduced follicle numbers means reduced number of \ngranulosa and theca cells, so less binding sites for FSH and LH\nResults in reduction of oestrogen secretion\nNot enough oestrogen to trigger the LH surge so ovulation \nfrequently fails to occur\nSo get increase in anovulatory cycles.\n",
+      "images": [
+        "page-44"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 45",
+      "text": "• During the menopause very low \nlevels of circulating oestrogen \nactually remove negative \nfeedback on the hypothalamus \nand the pituitary gland. \n• Levels of FSH and LH increase \n• The decrease in developing \nfollicles also reduces the amount \nof inhibin released – causing an \nenhanced rise of FSH.\n/\n↑\n↓\n↓\n↓\n/\n↑\n",
+      "images": [
+        "page-45"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 46",
+      "text": "Menopausal \nSymptoms\nosteoporosis\n",
+      "images": [
+        "page-46"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 47",
+      "text": "Hormone Replacement Therapy \n(HRT)\n•\nTypically replaces both oestrogen and progesterone\n•\nHelps with menopause symptoms\n•\nHelps prevent osteoporosis and muscle strength\n•\nSlight increase in risk of breast cancer and ovarian cancer, \nstroke and blood clots\n•\nMany types  - can be delivered as gel, patch, tablets\nSequential or continuous\ne.g. Monthly cyclical regimen — oestrogen is taken daily and \nprogestogen is given at the end of the cycle for 10–14 days, \n(monthly bleeding) or take both continuously (no bleeding)\n•\nregimen varies depending if peri-menopausal or post-\nmenopausal\n",
+      "images": [
+        "page-47"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 48",
+      "text": "Mouse and human data suggest ovaries develop a new function after reproductive duties end\nAfter menopause, ovaries may transform into organs with immune powers\n",
+      "images": [
+        "page-48"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 49",
+      "text": "• Only humans and a handful of species of toothed whales are known to go through the menopause\n• A study published in Nature in 2024, suggests that menopause actually allows success over the longer term.\nThe Grandmother Hypothesis \nhaving children is important for passing \non genes to the next generation but \nensuring their survival is important too.\n \nIn this case, putting effort into raising \nexisting children and grandchildren might \nbe a better option than continuing to \nhave more offspring.\nThe Reproductive Conflict Hypothesis \nWen mothers and daughters have \nchildren at the same time, their \noffspring compete for the same \nresources.\n If an older female instead gives up \nreproducing, then there’s less \ncompetition and more chance of her \ndescendants surviving.\nWhat is the evolutionary purpose of the menopause?\n",
+      "images": [
+        "page-49"
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Female Reproductive Physiology — Oogenesis, Cycle Control & Menopause — page 50",
+      "text": "1. Which hormones decrease during the menopause?\nA. Oestrogen\nB. Progesterone\nC. FSH\nD. A+B only\nE. A+B+C\n2. During the perimenopause which statement is true?\nA. Less inhibin results in more FSH being released \nB. More inhibin results in less FSH being released\nC. Progesterone levels increase and exert a negative feedback on the hypothalamus\nD. oocytes are no longer released during ovulation\n3. The menopause is defined as having occurred when\nA. Sustained high FSH levels are detected\nB. Menopausal symptoms are reported\nC. A menstrual period has not occurred for 1 year\nD. Oocytes are no longer released \n",
+      "images": [
+        "page-50"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "female-reproductive-physiology/page-1.jpg",
+    "page-2": "female-reproductive-physiology/page-2.jpg",
+    "page-3": "female-reproductive-physiology/page-3.jpg",
+    "page-4": "female-reproductive-physiology/page-4.jpg",
+    "page-5": "female-reproductive-physiology/page-5.jpg",
+    "page-6": "female-reproductive-physiology/page-6.jpg",
+    "page-7": "female-reproductive-physiology/page-7.jpg",
+    "page-8": "female-reproductive-physiology/page-8.jpg",
+    "page-9": "female-reproductive-physiology/page-9.jpg",
+    "page-10": "female-reproductive-physiology/page-10.jpg",
+    "page-11": "female-reproductive-physiology/page-11.jpg",
+    "page-12": "female-reproductive-physiology/page-12.jpg",
+    "page-13": "female-reproductive-physiology/page-13.jpg",
+    "page-14": "female-reproductive-physiology/page-14.jpg",
+    "page-15": "female-reproductive-physiology/page-15.jpg",
+    "page-16": "female-reproductive-physiology/page-16.jpg",
+    "page-17": "female-reproductive-physiology/page-17.jpg",
+    "page-18": "female-reproductive-physiology/page-18.jpg",
+    "page-19": "female-reproductive-physiology/page-19.jpg",
+    "page-20": "female-reproductive-physiology/page-20.jpg",
+    "page-21": "female-reproductive-physiology/page-21.jpg",
+    "page-22": "female-reproductive-physiology/page-22.jpg",
+    "page-23": "female-reproductive-physiology/page-23.jpg",
+    "page-24": "female-reproductive-physiology/page-24.jpg",
+    "page-25": "female-reproductive-physiology/page-25.jpg",
+    "page-26": "female-reproductive-physiology/page-26.jpg",
+    "page-27": "female-reproductive-physiology/page-27.jpg",
+    "page-28": "female-reproductive-physiology/page-28.jpg",
+    "page-29": "female-reproductive-physiology/page-29.jpg",
+    "page-30": "female-reproductive-physiology/page-30.jpg",
+    "page-31": "female-reproductive-physiology/page-31.jpg",
+    "page-32": "female-reproductive-physiology/page-32.jpg",
+    "page-33": "female-reproductive-physiology/page-33.jpg",
+    "page-34": "female-reproductive-physiology/page-34.jpg",
+    "page-35": "female-reproductive-physiology/page-35.jpg",
+    "page-36": "female-reproductive-physiology/page-36.jpg",
+    "page-37": "female-reproductive-physiology/page-37.jpg",
+    "page-38": "female-reproductive-physiology/page-38.jpg",
+    "page-39": "female-reproductive-physiology/page-39.jpg",
+    "page-40": "female-reproductive-physiology/page-40.jpg",
+    "page-41": "female-reproductive-physiology/page-41.jpg",
+    "page-42": "female-reproductive-physiology/page-42.jpg",
+    "page-43": "female-reproductive-physiology/page-43.jpg",
+    "page-44": "female-reproductive-physiology/page-44.jpg",
+    "page-45": "female-reproductive-physiology/page-45.jpg",
+    "page-46": "female-reproductive-physiology/page-46.jpg",
+    "page-47": "female-reproductive-physiology/page-47.jpg",
+    "page-48": "female-reproductive-physiology/page-48.jpg",
+    "page-49": "female-reproductive-physiology/page-49.jpg",
+    "page-50": "female-reproductive-physiology/page-50.jpg",
+    "oogenesis": "female-reproductive-physiology/oogenesis.jpg",
+    "polar-bodies": "female-reproductive-physiology/polar-bodies.jpg",
+    "anatomy": "female-reproductive-physiology/anatomy.jpg",
+    "tube": "female-reproductive-physiology/tube.jpg",
+    "cycle-timeline": "female-reproductive-physiology/cycle-timeline.jpg",
+    "follicle-histology": "female-reproductive-physiology/follicle-histology.jpg",
+    "follicle-stages": "female-reproductive-physiology/follicle-stages.jpg",
+    "two-cell": "female-reproductive-physiology/two-cell.jpg",
+    "corpus-luteum": "female-reproductive-physiology/corpus-luteum.jpg",
+    "feedback": "female-reproductive-physiology/feedback.jpg",
+    "hormone-curves": "female-reproductive-physiology/hormone-curves.jpg",
+    "temperature": "female-reproductive-physiology/temperature.jpg",
+    "uterine-cycle": "female-reproductive-physiology/uterine-cycle.jpg",
+    "menopause-feedback": "female-reproductive-physiology/menopause-feedback.jpg",
+    "menopause-graphs": "female-reproductive-physiology/menopause-graphs.jpg",
+    "symptoms": "female-reproductive-physiology/symptoms.jpg"
+  }
+}
