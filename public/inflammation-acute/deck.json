@@ -1,0 +1,2387 @@
+{
+  "version": 2,
+  "lectureId": "inflammation-acute",
+  "title": "Inflammation I — Acute Inflammation & Repair",
+  "moduleId": "pathobiology",
+  "moduleName": "Pathobiology",
+  "moduleCode": "LS5009",
+  "source": "Inflammation LS5009  lectures 1 and 2 student copy.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Cytokines and chemokines",
+      "slide": 4,
+      "explanation": "They coordinate signalling between immune and other host cells; they are not all made exclusively by leukocytes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Soluble protein mediators regulating the activity of other cells are {{c1::cytokines}}.",
+      "noteId": "inflammation-acute-aca0507de8f3d9aa348b-note",
+      "id": "inflammation-acute-aca0507de8f3d9aa348b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Soluble protein mediators regulating the activity of other cells are {{c1::cytokines}}.",
+      "answer": "cytokines"
+    },
+    {
+      "topic": "Cytokines and chemokines",
+      "slide": 4,
+      "explanation": "Chemokines are cytokines, while not every cytokine is a chemokine.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The cytokine subfamily directing cell migration is the {{c1::chemokines}}.",
+      "noteId": "inflammation-acute-6efe91724d7dc75c0595-note",
+      "id": "inflammation-acute-6efe91724d7dc75c0595",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cytokine subfamily directing cell migration is the {{c1::chemokines}}.",
+      "answer": "chemokines"
+    },
+    {
+      "topic": "Cytokines and chemokines",
+      "slide": 5,
+      "explanation": "Chemokines guide leukocytes towards sites of infection or tissue injury.",
+      "images": [
+        "chemotaxis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Directed movement along a chemical concentration gradient is {{c1::chemotaxis}}.",
+      "noteId": "inflammation-acute-2676db58c8bbe68e14fb-note",
+      "id": "inflammation-acute-2676db58c8bbe68e14fb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Directed movement along a chemical concentration gradient is {{c1::chemotaxis}}.",
+      "answer": "chemotaxis"
+    },
+    {
+      "topic": "Cytokines and chemokines",
+      "slide": 5,
+      "explanation": "The source includes recruitment of neutrophils and monocytes as examples.",
+      "images": [
+        "chemotaxis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Inflammatory chemokines can recruit leukocytes from blood into {{c1::damaged or infected tissues}}.",
+      "noteId": "inflammation-acute-4f4b1574e60112e0e083-note",
+      "id": "inflammation-acute-4f4b1574e60112e0e083",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammatory chemokines can recruit leukocytes from blood into {{c1::damaged or infected tissues}}.",
+      "answer": "damaged or infected tissues"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "The pathway is drawn through STAT4 and T-bet. These are contextual teaching pathways, not exclusive rules for every in-vivo setting.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "In the simplified differentiation diagram, IL-12 favours {{c1::Th1}} development.",
+      "noteId": "inflammation-acute-25187e5401dcb0786a3c-note",
+      "id": "inflammation-acute-25187e5401dcb0786a3c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the simplified differentiation diagram, IL-12 favours {{c1::Th1}} development.",
+      "answer": "Th1"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "It links the depicted IL-12 signal with a Th1 cytokine programme.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The Th1 transcription factor labelled in the diagram is {{c1::T-bet}}.",
+      "noteId": "inflammation-acute-ebd705a079c0712d6d64-note",
+      "id": "inflammation-acute-ebd705a079c0712d6d64",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Th1 transcription factor labelled in the diagram is {{c1::T-bet}}.",
+      "answer": "T-bet"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "The diagram places IL-4/STAT6 upstream; the source is a schematic, not a complete differentiation protocol.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The transcription factor linked with Th2 differentiation is {{c1::GATA3}}.",
+      "noteId": "inflammation-acute-9a03f4002c8c379d4b4e-note",
+      "id": "inflammation-acute-9a03f4002c8c379d4b4e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transcription factor linked with Th2 differentiation is {{c1::GATA3}}.",
+      "answer": "GATA3"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "The simplified source places IL-6/TGF-β and STAT3 upstream.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The transcription factor linked with Th17 development is {{c1::RORγt}}.",
+      "noteId": "inflammation-acute-bd466df848e77032effb-note",
+      "id": "inflammation-acute-bd466df848e77032effb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transcription factor linked with Th17 development is {{c1::RORγt}}.",
+      "answer": "RORγt"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "The source links this programme with IL-2/TGF-β and STAT5.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The transcription factor marking the illustrated induced regulatory T-cell programme is {{c1::Foxp3}}.",
+      "noteId": "inflammation-acute-2359dc1edd251c061762-note",
+      "id": "inflammation-acute-2359dc1edd251c061762",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transcription factor marking the illustrated induced regulatory T-cell programme is {{c1::Foxp3}}.",
+      "answer": "Foxp3"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 7,
+      "explanation": "The diagram associates this with IL-6/STAT3 and Tfh differentiation.",
+      "images": [
+        "t-cell-induction"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The factor labelled in the T follicular helper pathway is {{c1::Bcl6}}.",
+      "noteId": "inflammation-acute-dd35e5530f6e2b35db82-note",
+      "id": "inflammation-acute-dd35e5530f6e2b35db82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The factor labelled in the T follicular helper pathway is {{c1::Bcl6}}.",
+      "answer": "Bcl6"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 8,
+      "explanation": "The source links Tfh help with antibody production.",
+      "images": [
+        "t-cell-effectors"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The Tfh cytokine supporting the illustrated B-cell response is {{c1::IL-21}}.",
+      "noteId": "inflammation-acute-94cee4cf0af3e6083863-note",
+      "id": "inflammation-acute-94cee4cf0af3e6083863",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Tfh cytokine supporting the illustrated B-cell response is {{c1::IL-21}}.",
+      "answer": "IL-21"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 8,
+      "explanation": "The figure also shows mucus production and effects on eosinophils, basophils and epithelia.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Th2-associated IL-4, IL-5 and IL-13 support responses including {{c1::worm expulsion}}.",
+      "noteId": "inflammation-acute-5298828c60dbd484f7ed-note",
+      "id": "inflammation-acute-5298828c60dbd484f7ed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Th2-associated IL-4, IL-5 and IL-13 support responses including {{c1::worm expulsion}}.",
+      "answer": "worm expulsion"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 8,
+      "explanation": "The source uses a broad effector schematic; not every listed response is a direct action on every cell.",
+      "images": [
+        "t-cell-effectors"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The characteristic Th1 cytokine activating macrophage-associated defences is {{c1::IFN-γ}}.",
+      "noteId": "inflammation-acute-5aad96ef30c2d0acecd2-note",
+      "id": "inflammation-acute-5aad96ef30c2d0acecd2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The characteristic Th1 cytokine activating macrophage-associated defences is {{c1::IFN-γ}}.",
+      "answer": "IFN-γ"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 8,
+      "explanation": "It acts through tissue-cell chemokine responses supporting defence against extracellular bacteria and fungi.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Th17-derived IL-17 helps promote {{c1::neutrophil recruitment}}.",
+      "noteId": "inflammation-acute-1fbb3f94a6c4e6d978bb-note",
+      "id": "inflammation-acute-1fbb3f94a6c4e6d978bb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Th17-derived IL-17 helps promote {{c1::neutrophil recruitment}}.",
+      "answer": "neutrophil recruitment"
+    },
+    {
+      "topic": "T-cell cytokine pathways",
+      "slide": 8,
+      "explanation": "This contrasts with simply treating all cytokines as uniformly pro-inflammatory.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The illustrated iTreg response uses IL-10 and TGF-β to {{c1::suppress T-cell responses}}.",
+      "noteId": "inflammation-acute-764ed789cc13a4f06551-note",
+      "id": "inflammation-acute-764ed789cc13a4f06551",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The illustrated iTreg response uses IL-10 and TGF-β to {{c1::suppress T-cell responses}}.",
+      "answer": "suppress T-cell responses"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 10,
+      "explanation": "It involves host cells, blood vessels and plasma/tissue proteins.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Inflammation is a protective response of {{c1::vascularised living tissue}} to injury or infection.",
+      "noteId": "inflammation-acute-ca92eef37394994a5058-note",
+      "id": "inflammation-acute-ca92eef37394994a5058",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammation is a protective response of {{c1::vascularised living tissue}} to injury or infection.",
+      "answer": "vascularised living tissue"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 10,
+      "explanation": "Necrosis, trauma, foreign material and immune reactions are among the lecture’s triggers; inflammation and infection are not synonyms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Inflammation can occur without infection, for example after {{c1::sterile tissue injury}}.",
+      "noteId": "inflammation-acute-2ff217e0ea35a7fff380-note",
+      "id": "inflammation-acute-2ff217e0ea35a7fff380",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammation can occur without infection, for example after {{c1::sterile tissue injury}}.",
+      "answer": "sterile tissue injury"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 11,
+      "explanation": "Adaptive responses can interact with it; the distinction is not that chronic inflammation excludes innate cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The rapid inflammatory response is a major component of {{c1::innate immunity}}.",
+      "noteId": "inflammation-acute-0a437be4fc1e5fd3d9da-note",
+      "id": "inflammation-acute-0a437be4fc1e5fd3d9da",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The rapid inflammatory response is a major component of {{c1::innate immunity}}.",
+      "answer": "innate immunity"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 12,
+      "explanation": "The response also depends on the host, rather than the agent alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Stimulus dose, potency and exposure duration influence the {{c1::inflammatory response}}.",
+      "noteId": "inflammation-acute-f82ab7e185257ecd80b9-note",
+      "id": "inflammation-acute-f82ab7e185257ecd80b9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Stimulus dose, potency and exposure duration influence the {{c1::inflammatory response}}.",
+      "answer": "inflammatory response"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 12,
+      "explanation": "The slide gives malnutrition and Chediak–Higashi syndrome as examples. It is not a complete account of the syndrome’s cell biology.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Poor nutrition and defective leukocyte function can impair {{c1::host defence}}.",
+      "noteId": "inflammation-acute-8473e5e8655803e24e23-note",
+      "id": "inflammation-acute-8473e5e8655803e24e23",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Poor nutrition and defective leukocyte function can impair {{c1::host defence}}.",
+      "answer": "host defence"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 13,
+      "explanation": "Its goals include toxin inactivation and restoration of function, not merely producing redness.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Alongside containing injury and eliminating microbes, inflammation prepares tissue for {{c1::repair}}.",
+      "noteId": "inflammation-acute-bf7cd925fbdcb7e800e9-note",
+      "id": "inflammation-acute-bf7cd925fbdcb7e800e9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Alongside containing injury and eliminating microbes, inflammation prepares tissue for {{c1::repair}}.",
+      "answer": "repair"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 14,
+      "explanation": "The same protective mechanisms may contribute to disease if excessive, misplaced or persistent.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Uncontrolled inflammatory responses can cause {{c1::host tissue damage}}.",
+      "noteId": "inflammation-acute-c580a4b25261bc8868c5-note",
+      "id": "inflammation-acute-c580a4b25261bc8868c5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Uncontrolled inflammatory responses can cause {{c1::host tissue damage}}.",
+      "answer": "host tissue damage"
+    },
+    {
+      "topic": "Inflammatory components",
+      "slide": 15,
+      "explanation": "The lecture distinguishes these from recruited circulating cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Resident connective-tissue sentinels include macrophages and {{c1::mast cells}}.",
+      "noteId": "inflammation-acute-19c4b427fc87e8939fea-note",
+      "id": "inflammation-acute-19c4b427fc87e8939fea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resident connective-tissue sentinels include macrophages and {{c1::mast cells}}.",
+      "answer": "mast cells"
+    },
+    {
+      "topic": "Inflammatory components",
+      "slide": 15,
+      "explanation": "Fibronectin, laminin and proteoglycans are other named matrix components.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The extracellular matrix contains structural proteins such as collagen and {{c1::elastin}}.",
+      "noteId": "inflammation-acute-c0b16135758e43df62cc-note",
+      "id": "inflammation-acute-c0b16135758e43df62cc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The extracellular matrix contains structural proteins such as collagen and {{c1::elastin}}.",
+      "answer": "elastin"
+    },
+    {
+      "topic": "Inflammatory components",
+      "slide": 15,
+      "explanation": "Correction to another item in the source: platelets participate in inflammation but are cell fragments, not white blood cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Fibrinogen and C-reactive protein are examples of inflammatory {{c1::plasma proteins}}.",
+      "noteId": "inflammation-acute-3a03d284c1a8c3a475b2-note",
+      "id": "inflammation-acute-3a03d284c1a8c3a475b2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fibrinogen and C-reactive protein are examples of inflammatory {{c1::plasma proteins}}.",
+      "answer": "plasma proteins"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 16,
+      "explanation": "The mediator table links NO with vasodilation and, in host defence, microbial killing.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Nitric oxide can relax vascular {{c1::smooth muscle}}.",
+      "noteId": "inflammation-acute-9f8b99674de5fa65bed6-note",
+      "id": "inflammation-acute-9f8b99674de5fa65bed6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nitric oxide can relax vascular {{c1::smooth muscle}}.",
+      "answer": "smooth muscle"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 16,
+      "explanation": "This is one reason inflammatory activation requires regulation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reactive oxygen species can kill microbes but also injure {{c1::host tissue}}.",
+      "noteId": "inflammation-acute-056117acc1166574ac7b-note",
+      "id": "inflammation-acute-056117acc1166574ac7b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reactive oxygen species can kill microbes but also injure {{c1::host tissue}}.",
+      "answer": "host tissue"
+    },
+    {
+      "topic": "Neutrophil effector functions",
+      "slide": 20,
+      "explanation": "Recruitment brings phagocytes to the site, whereas phagocytosis is an effector function performed once targets are encountered.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Engulfment of microbes or debris by a cell is {{c1::phagocytosis}}.",
+      "noteId": "inflammation-acute-f383c0ae6bb6b8ed1618-note",
+      "id": "inflammation-acute-f383c0ae6bb6b8ed1618",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Engulfment of microbes or debris by a cell is {{c1::phagocytosis}}.",
+      "answer": "phagocytosis"
+    },
+    {
+      "topic": "Acute versus chronic",
+      "slide": 23,
+      "explanation": "This is a characteristic pattern, not a universal rule for every pathogen or hypersensitivity reaction.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The predominant early leukocytes in typical acute inflammation are {{c1::neutrophils}}.",
+      "noteId": "inflammation-acute-1e8a03efeef8ed9825f2-note",
+      "id": "inflammation-acute-1e8a03efeef8ed9825f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The predominant early leukocytes in typical acute inflammation are {{c1::neutrophils}}.",
+      "answer": "neutrophils"
+    },
+    {
+      "topic": "Acute versus chronic",
+      "slide": 23,
+      "explanation": "This accompanies leukocyte emigration and often produces oedema.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Acute inflammation typically involves exudation of fluid and {{c1::plasma proteins}}.",
+      "noteId": "inflammation-acute-63491c000f3f79dc75f4-note",
+      "id": "inflammation-acute-63491c000f3f79dc75f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Acute inflammation typically involves exudation of fluid and {{c1::plasma proteins}}.",
+      "answer": "plasma proteins"
+    },
+    {
+      "topic": "Acute versus chronic",
+      "slide": 23,
+      "explanation": "Chronic inflammation also combines injury with vascular/fibroblast proliferation and attempted repair.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Macrophages and lymphocytes predominate in the typical {{c1::chronic inflammatory infiltrate}}.",
+      "noteId": "inflammation-acute-e0a86b34fe56fff5739e-note",
+      "id": "inflammation-acute-e0a86b34fe56fff5739e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophages and lymphocytes predominate in the typical {{c1::chronic inflammatory infiltrate}}.",
+      "answer": "chronic inflammatory infiltrate"
+    },
+    {
+      "topic": "Cardinal signs",
+      "slide": 27,
+      "explanation": "Increased local blood flow contributes to its appearance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The cardinal sign rubor means {{c1::redness}}.",
+      "noteId": "inflammation-acute-79d999bb6011e63786f9-note",
+      "id": "inflammation-acute-79d999bb6011e63786f9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cardinal sign rubor means {{c1::redness}}.",
+      "answer": "redness"
+    },
+    {
+      "topic": "Cardinal signs",
+      "slide": 27,
+      "explanation": "Vasodilation and greater blood flow help explain it; local warmth is distinct from systemic fever.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Calor describes local {{c1::heat}}.",
+      "noteId": "inflammation-acute-efb448170dc2f1739911-note",
+      "id": "inflammation-acute-efb448170dc2f1739911",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Calor describes local {{c1::heat}}.",
+      "answer": "heat"
+    },
+    {
+      "topic": "Cardinal signs",
+      "slide": 27,
+      "explanation": "Here the term refers to oedema and cellular accumulation, not necessarily a neoplasm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Tumor in the classical inflammatory signs means {{c1::swelling}}.",
+      "noteId": "inflammation-acute-3d2cadba184bfa9828c7-note",
+      "id": "inflammation-acute-3d2cadba184bfa9828c7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tumor in the classical inflammatory signs means {{c1::swelling}}.",
+      "answer": "swelling"
+    },
+    {
+      "topic": "Cardinal signs",
+      "slide": 27,
+      "explanation": "Tissue distortion, pressure and chemical mediators can all contribute.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Dolor is the inflammatory sign of {{c1::pain}}.",
+      "noteId": "inflammation-acute-b95944ecf3e551120719-note",
+      "id": "inflammation-acute-b95944ecf3e551120719",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dolor is the inflammatory sign of {{c1::pain}}.",
+      "answer": "pain"
+    },
+    {
+      "topic": "Cardinal signs",
+      "slide": 27,
+      "explanation": "Pain, swelling and tissue injury may limit movement or other local functions.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The fifth cardinal sign is {{c1::loss of function}}.",
+      "noteId": "inflammation-acute-aef023fb935b1e3f9ccb-note",
+      "id": "inflammation-acute-aef023fb935b1e3f9ccb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The fifth cardinal sign is {{c1::loss of function}}.",
+      "answer": "loss of function"
+    },
+    {
+      "topic": "Purpose and triggers",
+      "slide": 28,
+      "explanation": "Microbial infection is not required; damaged or dying cells can initiate sterile inflammation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ischaemic tissue necrosis can trigger {{c1::acute inflammation}}.",
+      "noteId": "inflammation-acute-67a5c164307634070307-note",
+      "id": "inflammation-acute-67a5c164307634070307",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ischaemic tissue necrosis can trigger {{c1::acute inflammation}}.",
+      "answer": "acute inflammation"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 30,
+      "explanation": "It promotes vasodilation and increased vascular permeability.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The vasoactive amine released prominently from mast cells is {{c1::histamine}}.",
+      "noteId": "inflammation-acute-de288190f1f5af234641-note",
+      "id": "inflammation-acute-de288190f1f5af234641",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The vasoactive amine released prominently from mast cells is {{c1::histamine}}.",
+      "answer": "histamine"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 30,
+      "explanation": "By contrast, GM-CSF and G-CSF in the same source list are colony-stimulating cytokines, not chemokines.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "IL-8, also called CXCL8, is a {{c1::chemokine}}.",
+      "noteId": "inflammation-acute-9cc0bb3438720062126b-note",
+      "id": "inflammation-acute-9cc0bb3438720062126b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "IL-8, also called CXCL8, is a {{c1::chemokine}}.",
+      "answer": "chemokine"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 31,
+      "explanation": "Their effects also include leukocyte activation and systemic acute-phase responses.",
+      "images": [
+        "tnf-il1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "TNF and IL-1 promote leukocyte recruitment by activating the {{c1::endothelium}}.",
+      "noteId": "inflammation-acute-41e85aea87f333757cab-note",
+      "id": "inflammation-acute-41e85aea87f333757cab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "TNF and IL-1 promote leukocyte recruitment by activating the {{c1::endothelium}}.",
+      "answer": "endothelium"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 32,
+      "explanation": "Prostaglandins can sensitise pain pathways; mechanical pressure is another contributor.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The pain mediators emphasised are prostaglandins and {{c1::bradykinin}}.",
+      "noteId": "inflammation-acute-ae1cc4a4f280aaa1bd3d-note",
+      "id": "inflammation-acute-ae1cc4a4f280aaa1bd3d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The pain mediators emphasised are prostaglandins and {{c1::bradykinin}}.",
+      "answer": "bradykinin"
+    },
+    {
+      "topic": "Chemical mediators",
+      "slide": 32,
+      "explanation": "The slide groups C3a and C5a under chemotaxis. C3a is chiefly an anaphylatoxin; it should not be treated as an equivalent major neutrophil chemoattractant.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The complement fragment strongly associated with neutrophil chemotaxis is {{c1::C5a}}.",
+      "noteId": "inflammation-acute-240214c37d3fbc22b05e-note",
+      "id": "inflammation-acute-240214c37d3fbc22b05e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The complement fragment strongly associated with neutrophil chemotaxis is {{c1::C5a}}.",
+      "answer": "C5a"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 33,
+      "explanation": "More blood flow produces local erythema and warmth.",
+      "images": [
+        "vascular-response"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Increased arteriolar diameter during inflammation is {{c1::vasodilation}}.",
+      "noteId": "inflammation-acute-117b5c1d4dbdef02b96b-note",
+      "id": "inflammation-acute-117b5c1d4dbdef02b96b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Increased arteriolar diameter during inflammation is {{c1::vasodilation}}.",
+      "answer": "vasodilation"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 33,
+      "explanation": "The resulting protein-rich fluid differs from a pressure-driven protein-poor transudate.",
+      "images": [
+        "vascular-response"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Increased permeability permits plasma proteins to escape into the {{c1::extravascular tissue}}.",
+      "noteId": "inflammation-acute-5619829b62a60ba762c4-note",
+      "id": "inflammation-acute-5619829b62a60ba762c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Increased permeability permits plasma proteins to escape into the {{c1::extravascular tissue}}.",
+      "answer": "extravascular tissue"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 33,
+      "explanation": "Vasodilation initially increases flow; do not infer that vasodilation alone immediately means stasis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Fluid loss from vessels can concentrate red cells and contribute to slowed flow called {{c1::stasis}}.",
+      "noteId": "inflammation-acute-14a8fd4590a9d99d3733-note",
+      "id": "inflammation-acute-14a8fd4590a9d99d3733",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fluid loss from vessels can concentrate red cells and contribute to slowed flow called {{c1::stasis}}.",
+      "answer": "stasis"
+    },
+    {
+      "topic": "Neutrophil effector functions",
+      "slide": 34,
+      "explanation": "They concentrate antimicrobial substances and help trap microbes.",
+      "images": [
+        "nets"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The extracellular fibrillar networks released by neutrophils are {{c1::neutrophil extracellular traps (NETs)}}.",
+      "noteId": "inflammation-acute-3a92e48547b457392564-note",
+      "id": "inflammation-acute-3a92e48547b457392564",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The extracellular fibrillar networks released by neutrophils are {{c1::neutrophil extracellular traps (NETs)}}.",
+      "answer": "neutrophil extracellular traps (NETs)"
+    },
+    {
+      "topic": "Neutrophil effector functions",
+      "slide": 34,
+      "explanation": "This differs from enclosing a microbe inside a phagocyte.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "NETs help limit microbial spread by {{c1::extracellular trapping}}.",
+      "noteId": "inflammation-acute-909d5b9d362bb19279f1-note",
+      "id": "inflammation-acute-909d5b9d362bb19279f1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "NETs help limit microbial spread by {{c1::extracellular trapping}}.",
+      "answer": "extracellular trapping"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 35,
+      "explanation": "The source contrasts increased hydrostatic pressure or reduced plasma oncotic pressure with inflammatory barrier leakage.",
+      "images": [
+        "transudate-exudate"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Protein-poor fluid associated with altered pressure balance is a {{c1::transudate}}.",
+      "noteId": "inflammation-acute-41a3759a3f2ea87dca14-note",
+      "id": "inflammation-acute-41a3759a3f2ea87dca14",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Protein-poor fluid associated with altered pressure balance is a {{c1::transudate}}.",
+      "answer": "transudate"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 35,
+      "explanation": "It reflects altered vascular permeability and may contain inflammatory cells.",
+      "images": [
+        "transudate-exudate"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Protein-rich inflammatory fluid is an {{c1::exudate}}.",
+      "noteId": "inflammation-acute-bcf3e0a8f5c3d36b33d0-note",
+      "id": "inflammation-acute-bcf3e0a8f5c3d36b33d0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Protein-rich inflammatory fluid is an {{c1::exudate}}.",
+      "answer": "exudate"
+    },
+    {
+      "topic": "Vascular changes",
+      "slide": 35,
+      "explanation": "Protein-rich inflammatory exudation instead implies a permeability change.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Raised hydrostatic pressure or reduced plasma oncotic pressure favours {{c1::transudation}}.",
+      "noteId": "inflammation-acute-9ca516593d060df3c404-note",
+      "id": "inflammation-acute-9ca516593d060df3c404",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised hydrostatic pressure or reduced plasma oncotic pressure favours {{c1::transudation}}.",
+      "answer": "transudation"
+    },
+    {
+      "topic": "Vascular permeability mechanisms",
+      "slide": 36,
+      "explanation": "Intercellular gaps open; the illustrated mediator-driven response is rapid and short-lived.",
+      "images": [
+        "permeability"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Histamine can rapidly increase permeability through endothelial {{c1::contraction or retraction}}.",
+      "noteId": "inflammation-acute-022d83872ddfbbecc20f-note",
+      "id": "inflammation-acute-022d83872ddfbbecc20f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Histamine can rapidly increase permeability through endothelial {{c1::contraction or retraction}}.",
+      "answer": "contraction or retraction"
+    },
+    {
+      "topic": "Vascular permeability mechanisms",
+      "slide": 36,
+      "explanation": "This may cause more sustained leakage than the short mediator-driven gap response.",
+      "images": [
+        "permeability"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Burns and some microbial toxins can increase leakage through direct {{c1::endothelial injury}}.",
+      "noteId": "inflammation-acute-19a0e01dcc38ffc65ae0-note",
+      "id": "inflammation-acute-19a0e01dcc38ffc65ae0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Burns and some microbial toxins can increase leakage through direct {{c1::endothelial injury}}.",
+      "answer": "endothelial injury"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "It precedes rolling, firm adhesion and emigration.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Movement of leukocytes towards the vessel wall during slowed flow is {{c1::margination}}.",
+      "noteId": "inflammation-acute-2c0413d853508b18aa98-note",
+      "id": "inflammation-acute-2c0413d853508b18aa98",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Movement of leukocytes towards the vessel wall during slowed flow is {{c1::margination}}.",
+      "answer": "margination"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "Selectin-mediated interactions allow repeated attachment and release.",
+      "images": [
+        "recruitment"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Transient weak endothelial interactions produce leukocyte {{c1::rolling}}.",
+      "noteId": "inflammation-acute-5be12b857bdd500e6eb4-note",
+      "id": "inflammation-acute-5be12b857bdd500e6eb4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Transient weak endothelial interactions produce leukocyte {{c1::rolling}}.",
+      "answer": "rolling"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "Their ligands are distinct from the firm-adhesion system.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The adhesion molecules principally mediating rolling are {{c1::selectins}}.",
+      "noteId": "inflammation-acute-7c526cd9e701a08c7dc7-note",
+      "id": "inflammation-acute-7c526cd9e701a08c7dc7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The adhesion molecules principally mediating rolling are {{c1::selectins}}.",
+      "answer": "selectins"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "Correction to the slide: integrins bind endothelial ligands such as ICAM/VCAM, not selectins as their principal firm-adhesion partners.",
+      "images": [
+        "recruitment"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Activated leukocyte integrins primarily support {{c1::firm adhesion}}.",
+      "noteId": "inflammation-acute-b28f30825e2a20789a67-note",
+      "id": "inflammation-acute-b28f30825e2a20789a67",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Activated leukocyte integrins primarily support {{c1::firm adhesion}}.",
+      "answer": "firm adhesion"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "This is also called diapedesis and follows recruitment to the vessel wall.",
+      "images": [
+        "recruitment"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Crossing the endothelial barrier into tissue is {{c1::transmigration}}.",
+      "noteId": "inflammation-acute-bb6febff5ceb760d206b-note",
+      "id": "inflammation-acute-bb6febff5ceb760d206b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Crossing the endothelial barrier into tissue is {{c1::transmigration}}.",
+      "answer": "transmigration"
+    },
+    {
+      "topic": "Leukocyte recruitment",
+      "slide": 37,
+      "explanation": "Chemotaxis directs movement within tissue; it is not identical to rolling along the endothelium.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "After leaving the vessel, recruited cells follow chemoattractant gradients towards the {{c1::injury or infection focus}}.",
+      "noteId": "inflammation-acute-33c7394e00486461525e-note",
+      "id": "inflammation-acute-33c7394e00486461525e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After leaving the vessel, recruited cells follow chemoattractant gradients towards the {{c1::injury or infection focus}}.",
+      "answer": "injury or infection focus"
+    },
+    {
+      "topic": "Vascular permeability mechanisms",
+      "slide": 38,
+      "explanation": "This is a recognised mechanism relevant to the prompt. The numbered image has no answer key, so the deck does not guess a one-to-one mapping of all seven labels.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Activated leukocytes can increase permeability by damaging {{c1::endothelial cells}}.",
+      "noteId": "inflammation-acute-1d116b44637adfe80d86-note",
+      "id": "inflammation-acute-1d116b44637adfe80d86",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Activated leukocytes can increase permeability by damaging {{c1::endothelial cells}}.",
+      "answer": "endothelial cells"
+    },
+    {
+      "topic": "Vascular permeability mechanisms",
+      "slide": 38,
+      "explanation": "This is one of the standard permeability mechanisms asked for by the activity; it is distinct from passage through a gap between cells. The low-detail numbered image is not used as a precise label key.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Increased vesicular transport through endothelial cells is {{c1::transcytosis}}.",
+      "noteId": "inflammation-acute-88d3d412e385d21948f1-note",
+      "id": "inflammation-acute-88d3d412e385d21948f1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Increased vesicular transport through endothelial cells is {{c1::transcytosis}}.",
+      "answer": "transcytosis"
+    },
+    {
+      "topic": "Vascular permeability mechanisms",
+      "slide": 38,
+      "explanation": "This links repair-associated angiogenesis with permeability. The activity supplies no complete labelled solution, so exact arrow assignments are not inferred.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Newly formed vessels may leak while their endothelial junctions are {{c1::immature}}.",
+      "noteId": "inflammation-acute-b0d3c0c717f12ff6ae56-note",
+      "id": "inflammation-acute-b0d3c0c717f12ff6ae56",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Newly formed vessels may leak while their endothelial junctions are {{c1::immature}}.",
+      "answer": "immature"
+    },
+    {
+      "topic": "Abscesses",
+      "slide": 40,
+      "explanation": "Pus includes dead/dying neutrophils, tissue debris, fluid and often microbes; it is not simply dead neutrophils alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A localised collection of pus within tissue is an {{c1::abscess}}.",
+      "noteId": "inflammation-acute-21183a245555d3b0ae6b-note",
+      "id": "inflammation-acute-21183a245555d3b0ae6b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A localised collection of pus within tissue is an {{c1::abscess}}.",
+      "answer": "abscess"
+    },
+    {
+      "topic": "Abscesses",
+      "slide": 40,
+      "explanation": "Their accumulation, antimicrobial activity and death contribute to the purulent material.",
+      "images": [
+        "abscess"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The dominant recruited cells contributing to pus in a typical bacterial abscess are {{c1::neutrophils}}.",
+      "noteId": "inflammation-acute-5a270a8c8422dbacaa78-note",
+      "id": "inflammation-acute-5a270a8c8422dbacaa78",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The dominant recruited cells contributing to pus in a typical bacterial abscess are {{c1::neutrophils}}.",
+      "answer": "neutrophils"
+    },
+    {
+      "topic": "Abscesses",
+      "slide": 40,
+      "explanation": "Encapsulation and the local environment may limit immune access and antimicrobial penetration; the source’s claim that no antibiotics can enter is too absolute.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An abscess wall can limit spread but also hinder {{c1::effective clearance}}.",
+      "noteId": "inflammation-acute-0cfa61c60f47eb61d657-note",
+      "id": "inflammation-acute-0cfa61c60f47eb61d657",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An abscess wall can limit spread but also hinder {{c1::effective clearance}}.",
+      "answer": "effective clearance"
+    },
+    {
+      "topic": "Abscesses",
+      "slide": 41,
+      "explanation": "The wall reflects inflammatory organisation and repair, not simply healthy neighbouring cells forming an impenetrable seal.",
+      "images": [
+        "abscess"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A mature abscess can develop a surrounding {{c1::fibrous wall}}.",
+      "noteId": "inflammation-acute-f8c4677e8474d8dad633-note",
+      "id": "inflammation-acute-f8c4677e8474d8dad633",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A mature abscess can develop a surrounding {{c1::fibrous wall}}.",
+      "answer": "fibrous wall"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 45,
+      "explanation": "Granulation tissue is a repair tissue, not a granuloma.",
+      "images": [
+        "wound-repair"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "New vessels, fibroblasts and loose matrix in a healing wound form {{c1::granulation tissue}}.",
+      "noteId": "inflammation-acute-25d179ff79c5306e1979-note",
+      "id": "inflammation-acute-25d179ff79c5306e1979",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "New vessels, fibroblasts and loose matrix in a healing wound form {{c1::granulation tissue}}.",
+      "answer": "granulation tissue"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 46,
+      "explanation": "The source’s days are approximate examples; healing phases overlap and vary with wound context.",
+      "images": [
+        "wound-repair"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In the later illustrated wound stage, abundant {{c1::macrophages}} replace many early neutrophils.",
+      "noteId": "inflammation-acute-0d32c4b251235ffe380e-note",
+      "id": "inflammation-acute-0d32c4b251235ffe380e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the later illustrated wound stage, abundant {{c1::macrophages}} replace many early neutrophils.",
+      "answer": "macrophages"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 46,
+      "explanation": "Migrating and proliferating endothelial cells support vascularisation of repair tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "New blood-vessel formation during healing is {{c1::angiogenesis}}.",
+      "noteId": "inflammation-acute-364a8d2a7eece680915b-note",
+      "id": "inflammation-acute-364a8d2a7eece680915b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "New blood-vessel formation during healing is {{c1::angiogenesis}}.",
+      "answer": "angiogenesis"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 46,
+      "explanation": "The source shows fibroblast migration/proliferation and later collagen deposition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The cells depositing much of the repair extracellular matrix are {{c1::fibroblasts}}.",
+      "noteId": "inflammation-acute-27e2248424507517dd0e-note",
+      "id": "inflammation-acute-27e2248424507517dd0e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The cells depositing much of the repair extracellular matrix are {{c1::fibroblasts}}.",
+      "answer": "fibroblasts"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 46,
+      "explanation": "Their contractile activity helps reduce the wound area.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Wound contraction is associated with fibroblasts differentiating into {{c1::myofibroblasts}}.",
+      "noteId": "inflammation-acute-b1b5feea11b33a242356-note",
+      "id": "inflammation-acute-b1b5feea11b33a242356",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Wound contraction is associated with fibroblasts differentiating into {{c1::myofibroblasts}}.",
+      "answer": "myofibroblasts"
+    },
+    {
+      "topic": "Wound repair",
+      "slide": 46,
+      "explanation": "This covers the wound surface, unlike collagen scar production in the deeper connective tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Re-epithelialisation requires keratinocyte proliferation and {{c1::migration from wound margins}}.",
+      "noteId": "inflammation-acute-f69dae140874d39e7c80-note",
+      "id": "inflammation-acute-f69dae140874d39e7c80",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Re-epithelialisation requires keratinocyte proliferation and {{c1::migration from wound margins}}.",
+      "answer": "migration from wound margins"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 47,
+      "explanation": "Macrophages and local tissue cells supply additional signals as healing proceeds.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Injured vessels and degranulating platelets provide growth factors that initiate {{c1::repair}}.",
+      "noteId": "inflammation-acute-3fe48a7858b99bf457be-note",
+      "id": "inflammation-acute-3fe48a7858b99bf457be",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Injured vessels and degranulating platelets provide growth factors that initiate {{c1::repair}}.",
+      "answer": "repair"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 47,
+      "explanation": "Vascular endothelial growth factor supports endothelial responses and new-vessel formation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The growth factor especially linked with wound angiogenesis is {{c1::VEGF}}.",
+      "noteId": "inflammation-acute-3ee8565e84a7c139b0b7-note",
+      "id": "inflammation-acute-3ee8565e84a7c139b0b7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The growth factor especially linked with wound angiogenesis is {{c1::VEGF}}.",
+      "answer": "VEGF"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 47,
+      "explanation": "The source names EGF, TGF-α and HB-EGF; TGF-α should not be confused with TGF-β.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "EGF-family signals help promote wound {{c1::re-epithelialisation}}.",
+      "noteId": "inflammation-acute-ae8302179c837814b7db-note",
+      "id": "inflammation-acute-ae8302179c837814b7db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "EGF-family signals help promote wound {{c1::re-epithelialisation}}.",
+      "answer": "re-epithelialisation"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 47,
+      "explanation": "The lecture includes knockout-mouse evidence for selected FGF/FGFR pathways. Those model results are not a complete clinical wound-healing treatment algorithm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "FGF-family signals contribute to healing responses of epithelial and {{c1::connective-tissue cells}}.",
+      "noteId": "inflammation-acute-7bb07c9d7e407bdbdae0-note",
+      "id": "inflammation-acute-7bb07c9d7e407bdbdae0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "FGF-family signals contribute to healing responses of epithelial and {{c1::connective-tissue cells}}.",
+      "answer": "connective-tissue cells"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 48,
+      "explanation": "The table presents platelet-derived growth factor as a repair-associated mitogen.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The growth factor PDGF supports proliferation of fibroblasts and vascular {{c1::smooth-muscle cells}}.",
+      "noteId": "inflammation-acute-4168a9664f57f0e1c6b0-note",
+      "id": "inflammation-acute-4168a9664f57f0e1c6b0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The growth factor PDGF supports proliferation of fibroblasts and vascular {{c1::smooth-muscle cells}}.",
+      "answer": "smooth-muscle cells"
+    },
+    {
+      "topic": "Repair signals",
+      "slide": 48,
+      "explanation": "Its biological actions depend on cell type and context; the table’s antiproliferative row does not mean it universally prevents scarring.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A growth factor associated with inhibition of many cells in vitro but also strong fibrogenic effects is {{c1::TGF-β}}.",
+      "noteId": "inflammation-acute-b0057f3c1dbd62d88a87-note",
+      "id": "inflammation-acute-b0057f3c1dbd62d88a87",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A growth factor associated with inhibition of many cells in vitro but also strong fibrogenic effects is {{c1::TGF-β}}.",
+      "answer": "TGF-β"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 50,
+      "explanation": "This differs from the neutrophil-rich pus of a suppurative abscess.",
+      "images": [
+        "serous-blister"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A thin fluid collection separating skin layers in the blister example illustrates {{c1::serous inflammation}}.",
+      "noteId": "inflammation-acute-ebeb0a269a0502143895-note",
+      "id": "inflammation-acute-ebeb0a269a0502143895",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A thin fluid collection separating skin layers in the blister example illustrates {{c1::serous inflammation}}.",
+      "answer": "serous inflammation"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 50,
+      "explanation": "This describes the source example rather than the location of every possible blister.",
+      "images": [
+        "serous-blister"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In the illustrated skin blister, serous fluid separates the epidermis from the {{c1::dermis}}.",
+      "noteId": "inflammation-acute-7a9ef6a31ee974c1365a-note",
+      "id": "inflammation-acute-7a9ef6a31ee974c1365a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the illustrated skin blister, serous fluid separates the epidermis from the {{c1::dermis}}.",
+      "answer": "dermis"
+    },
+    {
+      "topic": "Exercise and injury",
+      "slide": 51,
+      "explanation": "The source does not imply all exercise is harmful; the exposure/recovery context matters.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Repeated severe exercise injury without adequate recovery may sustain {{c1::inflammation}}.",
+      "noteId": "inflammation-acute-7ca6d455064e251047fd-note",
+      "id": "inflammation-acute-7ca6d455064e251047fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repeated severe exercise injury without adequate recovery may sustain {{c1::inflammation}}.",
+      "answer": "inflammation"
+    },
+    {
+      "topic": "Exercise and injury",
+      "slide": 52,
+      "explanation": "The acute sequence instead illustrates transient infiltration/collagen and regenerated muscle. This is a model comparison, not a diagnosis from exercise alone.",
+      "images": [
+        "muscle-repair"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The chronic-injury muscle panels show accumulated collagen and {{c1::fibrosis}} rather than complete regeneration.",
+      "noteId": "inflammation-acute-a7cf74a8bc00b3779f12-note",
+      "id": "inflammation-acute-a7cf74a8bc00b3779f12",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The chronic-injury muscle panels show accumulated collagen and {{c1::fibrosis}} rather than complete regeneration.",
+      "answer": "fibrosis"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 53,
+      "explanation": "Pain occurs in some forms but is not required in every case.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Immune-mediated inflammatory myopathies can cause muscle {{c1::weakness}}.",
+      "noteId": "inflammation-acute-4370d2892b5e01afb66a-note",
+      "id": "inflammation-acute-4370d2892b5e01afb66a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Immune-mediated inflammatory myopathies can cause muscle {{c1::weakness}}.",
+      "answer": "weakness"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 54,
+      "explanation": "The slide contrasts this with neutrophils accumulating within alveoli.",
+      "images": [
+        "acute-lung"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Congested lung vessels packed with erythrocytes illustrate the {{c1::vascular component}} of acute inflammation.",
+      "noteId": "inflammation-acute-60c07f0241650aacc4da-note",
+      "id": "inflammation-acute-60c07f0241650aacc4da",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Congested lung vessels packed with erythrocytes illustrate the {{c1::vascular component}} of acute inflammation.",
+      "answer": "vascular component"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 54,
+      "explanation": "This contrasts with relatively empty air spaces in the normal reference.",
+      "images": [
+        "acute-lung"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Neutrophils filling alveolar spaces illustrate the {{c1::cellular component}} of acute lung inflammation.",
+      "noteId": "inflammation-acute-0a27cb9babe6712a5cc7-note",
+      "id": "inflammation-acute-0a27cb9babe6712a5cc7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Neutrophils filling alveolar spaces illustrate the {{c1::cellular component}} of acute lung inflammation.",
+      "answer": "cellular component"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 55,
+      "explanation": "Infection or inhaled irritants can contribute; bronchitis is not automatically proof of a bacterial cause.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Inflammation of the bronchi is {{c1::bronchitis}}.",
+      "noteId": "inflammation-acute-d9b4bb10ef2c74efee18-note",
+      "id": "inflammation-acute-d9b4bb10ef2c74efee18",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammation of the bronchi is {{c1::bronchitis}}.",
+      "answer": "bronchitis"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 55,
+      "explanation": "The source compares the obstructed/inflamed airway with a clear normal airway.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Mucus, inflammatory cells and debris in inflamed airways contribute to {{c1::sputum}}.",
+      "noteId": "inflammation-acute-b76c8ab272399e7ea535-note",
+      "id": "inflammation-acute-b76c8ab272399e7ea535",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mucus, inflammatory cells and debris in inflamed airways contribute to {{c1::sputum}}.",
+      "answer": "sputum"
+    },
+    {
+      "topic": "Acute clinical patterns",
+      "slide": 56,
+      "explanation": "Surrounding vascular congestion accompanies the purulent lesion.",
+      "images": [
+        "lung-abscess"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The bacterial-pneumonia abscess contains neutrophils and {{c1::cellular debris}}.",
+      "noteId": "inflammation-acute-39ef416917a8dd32acbd-note",
+      "id": "inflammation-acute-39ef416917a8dd32acbd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The bacterial-pneumonia abscess contains neutrophils and {{c1::cellular debris}}.",
+      "answer": "cellular debris"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 57,
+      "explanation": "It is favoured when the insult is removed, tissue destruction is limited and the affected cells can regenerate.",
+      "images": [
+        "outcomes"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Return to normal tissue after limited injury is {{c1::complete resolution}}.",
+      "noteId": "inflammation-acute-8a1ebda8256706e681bd-note",
+      "id": "inflammation-acute-8a1ebda8256706e681bd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Return to normal tissue after limited injury is {{c1::complete resolution}}.",
+      "answer": "complete resolution"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 57,
+      "explanation": "Scar replaces lost tissue rather than perfectly restoring the original specialised cells.",
+      "images": [
+        "outcomes"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Substantial destruction of non-regenerating tissue favours healing by {{c1::fibrosis}}.",
+      "noteId": "inflammation-acute-46a9368e9595bd5e6844-note",
+      "id": "inflammation-acute-46a9368e9595bd5e6844",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Substantial destruction of non-regenerating tissue favours healing by {{c1::fibrosis}}.",
+      "answer": "fibrosis"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 57,
+      "explanation": "This is one outcome, not an inevitable stage for every acute response.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Failure to eliminate a persistent stimulus can lead from acute to {{c1::chronic inflammation}}.",
+      "noteId": "inflammation-acute-2dda93b211ff00c153e5-note",
+      "id": "inflammation-acute-2dda93b211ff00c153e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Failure to eliminate a persistent stimulus can lead from acute to {{c1::chronic inflammation}}.",
+      "answer": "chronic inflammation"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 58,
+      "explanation": "The general repair model distinguishes these responses; they can occur together in different parts of a wound.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Regeneration restores cells like those lost, whereas scar repair deposits {{c1::connective tissue}}.",
+      "noteId": "inflammation-acute-b097e09a63a1655e1020-note",
+      "id": "inflammation-acute-b097e09a63a1655e1020",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Regeneration restores cells like those lost, whereas scar repair deposits {{c1::connective tissue}}.",
+      "answer": "connective tissue"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 59,
+      "explanation": "Without termination signals, recruitment and vascular leakage may continue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Resolution requires removal or inactivation of inflammatory {{c1::chemical mediators}}.",
+      "noteId": "inflammation-acute-691e03302d2de661cbc3-note",
+      "id": "inflammation-acute-691e03302d2de661cbc3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resolution requires removal or inactivation of inflammatory {{c1::chemical mediators}}.",
+      "answer": "chemical mediators"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 59,
+      "explanation": "Resolution also requires clearance of fluid already present, not merely closing the barrier.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Normalisation of vascular permeability helps stop further {{c1::oedema formation}}.",
+      "noteId": "inflammation-acute-f297918a698f6dfd8c9c-note",
+      "id": "inflammation-acute-f297918a698f6dfd8c9c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Normalisation of vascular permeability helps stop further {{c1::oedema formation}}.",
+      "answer": "oedema formation"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 59,
+      "explanation": "This is one component of clearance during resolution.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Excess interstitial oedema fluid and proteins can leave through {{c1::lymphatic drainage}}.",
+      "noteId": "inflammation-acute-b02ea272800d8e68a7d1-note",
+      "id": "inflammation-acute-b02ea272800d8e68a7d1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Excess interstitial oedema fluid and proteins can leave through {{c1::lymphatic drainage}}.",
+      "answer": "lymphatic drainage"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 60,
+      "explanation": "Removal of dead cells and debris supports resolution rather than continued inflammatory injury.",
+      "images": [
+        "resolution"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Macrophage clearance of apoptotic neutrophils helps terminate {{c1::acute inflammation}}.",
+      "noteId": "inflammation-acute-e44f28ac29bb20fca6ee-note",
+      "id": "inflammation-acute-e44f28ac29bb20fca6ee",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophage clearance of apoptotic neutrophils helps terminate {{c1::acute inflammation}}.",
+      "answer": "acute inflammation"
+    },
+    {
+      "topic": "Outcomes and resolution",
+      "slide": 60,
+      "explanation": "Their functions therefore connect inflammatory defence, resolution and healing.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Besides clearing debris, macrophages release growth factors that promote {{c1::subsequent repair}}.",
+      "noteId": "inflammation-acute-0560641ddd406daf8809-note",
+      "id": "inflammation-acute-0560641ddd406daf8809",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Besides clearing debris, macrophages release growth factors that promote {{c1::subsequent repair}}.",
+      "answer": "subsequent repair"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 1",
+      "text": "Welcome to \nInflammation lecture (LS5009)\nDr Athina-Myrto Chioni\nA.chioni@kingston.ac.uk\n“ I hear, I know.\nI see, I remember.\nI do, I understand”\n(confucius, 551BC-479)\nPlease, listen (to know) and watch (to remember) the presentation \nand then study (to understand)….\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 2",
+      "text": "Inflammation-outline\n•\nIntroduction to inflammation\no Roles of inflammation\no Components of acute and chronic inflammation\no Local inflammatory response\n•\nAcute inflammation\no Cardinal signs\no Causes of acute inflammation\no Events of acute inflammation\no Clinical examples of acute inflammation\no Outcome of acute inflammation\n•\nChronic inflammation\no\nCauses of chronic inflammation\no\nFactors  affecting inflammation\no\nNonspecific and granulomatous inflammation\no\nClinical examples of chronic inflammation\no\nLocal and systemic manifestation of inflammation\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 3",
+      "text": "Cytokines and Chemokines……..\nLets briefly clarify what they are before we move \non….\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 4",
+      "text": "Cytokines\n•“Cytokines” are soluble protein mediators secreted by \nimmune cells (mostly) that act on other cells to regulate \ntheir activity; many are called “interleukins” (IL-1, IL-2, \netc.). \n•They are important in cell signalling (communication \nbetween cells).\n•A subfamily of cytokines primarily functions in directing \nmigration of cells, these are called “chemotactic \ncytokines” or “chemokines”\n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 5",
+      "text": "•\nThe major role of chemokines is to act as a chemoattractant to guide the \nmigration of cells. (i.e. they attract leukocytes, recruiting monocytes, \nneutrophils from the blood to sites of infection or tissue damage). \n•\nSome inflammatory chemokines activate cells to initiate an immune response \nor promote wound healing. They are released by many different cell types \nand serve to guide cells of both innate immune system and adaptive immune \nsystem.\n•\nTheir release is often stimulated by pro-inflammatory cytokines such as \ninterleukin 1.\nChemokines\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 6",
+      "text": "Cytokines vs Chemokines\nCytokines and chemokines are proteins that regulate the processes of the \nimmune system. They act as a messenger/postman trying to send signals/letters to \ncells in order to orhistrate/organise the ‘battle’ against infection. chemokines are a \nspecial type of cytokine that direct the migration of white blood cells to infected or \ndamaged tissues.\n“The difference between cytokines and chemokines lies in their function. \nA chemokine is a special type of cytokine whose main role is to guide the white \nblood cells to the affected area, a process which is known as chemotaxis. The white \nblood cells, along with lymphocytes, destroy any foreign microorganisms that may \nbe causing the infection. They get rid of these pathogens to ensure that they don’t \nspread throughout the body. Once pathogens are removed, the healing process \ncommences thanks to the cytokines”.\n (http://www.differencebetween.net/science/health/drugs-health/differences-between-cytokines-and-\nchemokines/#ixzz3IIBxlxSN)\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 7",
+      "text": "Created with BioRender.com\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 8",
+      "text": "Created with BioRender.com\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 9",
+      "text": "This is how inflammation looks like!\n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 10",
+      "text": "Inflammation \nInflammare = to set on fire (Latin)\nInflammation is the body’s local physiological \n(protective) response to infection and tissue injury. \nIt involves host cells, blood vessels and proteins.\nIt is the reaction of vascularized living tissue to local \ninjury and it is induced by:\n✓\nMicrobial infections\n✓\nPhysical agents\n✓\nChemicals\n✓\nNecrotic tissue\n✓\nImmunological reactions\n✓\nTrauma\n✓\nForeign bodies\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 11",
+      "text": "Inflammation is part of our innate immunity\nInflammation\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 12",
+      "text": "1) Factors relating to the inflammatory stimuli\n• Nature of the agent e.g. Physical, Chemical, biological\n• Amount / dose of agent\n• Strength/potency of agent \n• Duration of exposure\n2) Factors relating to host\n• Physiological state of the host e.g.\n– Malnutrition → ↑ risk of infection\n• Defects in WBC function e.g. Chediak-Higashi syndrome:\n– Characterised by: neutropenia, defective degranulation\n• Immune defect e.g. AIDS, hypersensitivity, autoimmunity\nFactors affecting Inflammation\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 13",
+      "text": "During the inflammatory response, a series of \ncellular and systemic reactions are triggered \n1.To contain and isolate injury\n2.To destroy invading microorganisms\n3.To inactivate toxins\n4.To prepare the tissues/organ for healing and repair\nRoles of inflammation\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 14",
+      "text": "Inflammation may have:\n- beneficial effects \n(e.g. destruction of pathogen and prevention of infection) \nor \n- cause disease \n(e.g. an abscess in the brain,  fibrosis may distort/ alter \ntissues functions, rheumatoid arthritis, anaphylactic \nreaction, atherosclerosis).\nInflammation \n    Is it a good or bad thing?\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 15",
+      "text": "Inflammatory response is normally self-limited \nand involves:\n• Intravascular cells (white blood cells): Neutrophiles, \nmonocytes, oesinophils, lymphocytes, basophils, platelets. Goal \nof inflammation is to bring those to the site of infection and/or \ntissue damage.\n• Connective tissue cells: mast cells, fibroblasts, macrophages.\n• Connective tissue matrix: structural proteins (collagen & \nelastin), glycoproteins (fibronectin & laminin), proteoglycan.\n• Plasma proteins: fibrinogen, c-reactive protein etc.\n• Chemical mediators produced by host cells: Cytokines (e.g. \nIL1), histamine, bradykinin, serotonin, protoglandins etc.\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 16",
+      "text": "Source\nMediator\nFunction\nMast cells and macrophages\nCytokines IL-1, TNF\nEndothelium activation, tissue \ndamage, pain, fever, shock\nMast cells and leukocytes\nChemokines\nLeukotrienes\nProstogladings\nLeukocyte chemotaxis and \nactivation.\nIncrease vascular permeability, \nleukocyte chemotaxis and adhesion.\nVasodilation, pain, fever\nMacrophages and endothelial cells\nNitric Oxide\nSmooth muscle relaxation and \nmicrobial killing\nLeukocytes\nReactive oxygen Species\nTissue damage and microbial killing\nPlatelets\nSerotinin\nVasodilation, increase permeability, \npain and fever.\nMast cells and basophiles\nHistamine\nVasodilation and increase \npermeability\nPlasma\nComplement\nKinins\nProteases\nLeukocyte chemotaxis and \nactivation\nVasodilation, increased permeability \nand pain\nLeukocyte recruitment\nSoluble chemical mediators in inflammation\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 17",
+      "text": "Components of acute and chronic inflammation\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 18",
+      "text": "Created with BioRender.com\nLabel the figure and write a figure legend.\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 19",
+      "text": "White Blood cell chases Bacteria\nhttps://www.youtube.com/watch?v=Z_mXDvZQ6dU\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 20",
+      "text": "Inflammatory response\nPathogen enters the tissue\nCell injury\nActivation of molecules in plasma and release of chemical mediators (histamine, \nkinins, complement, prostaglandins etc) , mast cells and microphages\nVasodilation\nIncrease vessel/capillary \npermeability\nIncrease phagocytosis by \nphagocytes migrating to \nthe infected area\nRelease of IL-1\nFEVER\nSystemic response\nEDEMA\nPAIN\nAntibodies arrive to the \ninflamed area from blood\nIncrease of blood flow in \nthe inflamed area\nfacilitate phagocytes, \nnutrients and antibodies to \narrive to the inflamed area\nREDNESS\nHEAT\nIncrease metabolic \nrate of cells\nPossible temporary loss of function\nChemotaxis: attract \nneutrophils, monocytes and \nlymphocytes to the area\nHEALING?\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 21",
+      "text": "Inflammation out of control\n• Autoimmunity\n Inappropriate inflammatory \nresponse when there is no \nforeign substance to fight \noff.\n• Excessive tissue damage \nto normal tissue\n When inflammation is not \ntightly regulated by the \nimmune system\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 22",
+      "text": "Current research suggests that inflammation may play an important role in common \nchronic diseases such as athesclerosis, type 2 diabetes, neurodegeneration and \ncancer\nInflammation and diseases \nINFLAMMATION\nCancer\nCardiovascular \ndiseases\nAlzheimer’s \ndisease\nPulmonary \ndiseases\nArthritis\nAutoimmune \ndiseases\nNeurological \ndiseases\nDiabetes\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 23",
+      "text": "Main types of inflammation\nInflammation is usually classified according its time course \nand the cell types involved.\nThe two main types of inflammations are: \nAcute: \n•\nwhich is the initial series of tissue responses to injury and \nmay take a few hours to a few days. \n•\nIts main characteristics are the exudation  of fluid and \nplasma proteins (oedema) and the emigration of leukocytes, \npredominantly neutrophils.\nChronic: \n•\nUsually primary and prolonged responses but does \noccasionally follow the recurrent acute inflammation. \n•\nIt is associated histologically with the presence of \nlymphocytes and macrophages, the proliferation of blood \nvessels, fibrosis, and tissue injury.\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 24",
+      "text": "Acute vs Chronic inflammation\nCausative agents?\nOnset?\nCellular infiltrate?\nTissue injury, Fibrosis?\nLocal and systemic signs?\nOutcomes?\nRobbins Basic Pathology, 9th Ed\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 25",
+      "text": "(A) The arm at the left is swollen (oedematous) and reddened (erythematous) compared to \nthe arm on the right. (B) A typical \"defence wound\" on the forearm of the victim of an assault \nwith a sharp weapon, producing the laceration. (C) Acute inflammation caused by herpes \nsimplex virus type I. The face is covered with numerous red lesions, representing ruptured \nvesicles. \n(A)\n(B)\nhttp://www.itgworld.com/MP_MD/pathology1/pathologytut\nhttp://www-medlib.med.utah.edu/WebPath/INFLHTML/INFL068.html\n(C)\nhttp://www-medlib.med.utah.edu/WebPath/FORHTML/FOR026.html\nAcute Inflammation\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 26",
+      "text": "Cardinal signs of acute inflammation\n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 27",
+      "text": "Physical characteristics of acute inflammation\n▪ Redness (rubor), e.g. skin sunburn \n▪ Heat (calor), due to vascular dilation and increased \nblood flow to the area\n▪ Swelling (tumor), due to oedema (i.e. accumulation \nof fluid in extracellular space and the mass of \ninflammatory cells)\n▪ Pain (dolor), due to stretching and distortion of \ntissues and from pus under pressure in an abscess \ncavity.  \n▪ Loss of function, e.g. lack of movement\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 28",
+      "text": "• Infections (bacterial, viral, parasitic) and microbial toxins\n• Trauma (blunt and penetrating)\n• Foreign bodies (splinters, dirt, sutures)\n• Physical and chemical agents (thermal injury, e.g., burns \nor frostbite; irradiation; some environmental chemicals)\n• Tissue necrosis (from any cause) due to insufficient blood \nsupply\n• Immune reactions (also called hypersensitivity reactions)\nStimuli/causes for acute inflammation  \n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 29",
+      "text": "A. Release of chemical mediators: the orchestrators of \nInflammation \nB. Alteration in microvasculature\nC. Cellular component: Migration of leukocytes (mainly \nneutrophils) at site of tissue injury\nD. Inflammatory cell activation and function\nE. Proliferative component resulting in tissue:\n-\nregeneration /healing (formation of new cells identical to those lost)\n-\ngranulation / fibrosis (newly formed connective tissue often found at   \nthe edge of or base of ulcers or wounds) \n-\nAbscess formation.\nMajor events in acute inflammation\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 30",
+      "text": "Chemical mediators\n1. Provides the initial stimulus for activation of \ninflammatory mechanisms. It results in the cellular \nrelease of vasoactive substances such as: \n• Histamine\n• Kinins (i.e., bradykinins and kallidins)\n• Serotonin\n• Prostaglandin and Leukotrienes (LT)\n2. Activates the immune system and production of: \n• pro-inflammatory cytokines (e.g., IL-1, IL-6, TNFα)\n• chemokines (e.g., IL-8, GM-CSF, G-CSF) which are \nchemotactic for a wide range of immune cells   \n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 31",
+      "text": "Major roles of cytokines in acute \ninflammation\nTNF- and IL-1 contribute to local and systemic reactions of inflammation!\n1. Endothelial activation\n2. Activation of leukocytes and other cells\n3. Systemic acute-phase response\nKumar et al (9th Ed.) Robbins Pathologic basis of Disease\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 32",
+      "text": "Signs of inflammation and corresponding \nchemical mediator\nInflammatory response\nChemical mediator\nSwelling, redness, and tissue warmth\n(vasodilation and increased cellular \npermeability)\nHistamine, prostaglandins, leukotrienes, \nbradykinin, platelet-activating factor\nTissue damage\nLysosomal enzymes and products \nreleased from neutrophils, macrophages, \nand other inflammatory cells\nChemotaxis\nComplement fragment C3a and C5a\nPain\nProstaglandins, Bradykinin\nFever\nInterlukin-1 and Interleukin-6\nLeukocytosis\nTumour necrosis factor and interleukin-8\nEssentials of Pathophysiology; Concepts of altered health states. Carol Mattson Porth, Lippincott Williams & Wilkins, Chap 9, 2004, \n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 33",
+      "text": "1. Vasodilatation : alterations in vascular calibre \n(diameter) that lead to an increase in blood flow \n(causing erythema and warmth).\nNO, histamine→ vascular smooth muscle →vasodilation → increase \nblood flow (heat and redness) → stasis\n2. Increased vascular permeability: structural \nchanges in the microvasculature that permit plasma \nproteins and leukocytes to leave the circulation. \nExtravasation and deposition of plasma fluid and \nproteins (oedema). \nFormation of an early transudate (protein-poor filtrate of plasma) gives \naway to exudate (protein-rich filtrate) into extracellular tissues.\n3. Cellular recruitment and activation: emigration of \nthe leukocytes from the microcirculation, their \naccumulation in the focus of injury, and their activation \nto eliminate the offending agent.\n4. Proliferative component, resulting in tissue:\n-\nRegeneration/resolution (formation of new cells identical to \nthose lost)\n-\nGranulation/fibrosis (newly formed connective tissue often \nfound at    the edge of or base of ulcers or wounds) \n-\nAbscess formation.\nKEY components of acute iInflammation\nFig. The major local manifestations of \nacute inflammation, compared to normal. \n(Robbins Basic Pathology)\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 34",
+      "text": "Neutrophil extracellular traps\nAre extracellular fibrillar networks that provide a high concentration of \nantimicrobial substances at sites of infection and prevent the spread of the \nmicrobes by trapping them in the fibrils!(Kumar et al, Robbins pathology)\n(Kumar et al, 9th edition. Robbins pathologic basis of disease)\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 35",
+      "text": "Increased vascular permeability\nRobbins Basic Pathology 9th edition\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 36",
+      "text": "Principal mechanism of increased vascular permeability in inflammation and \ntheir features and underlying causes (Kumar et al, Robins Pathology)\n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 37",
+      "text": "Cellular recruitment and activation\nLeukocyte leave the vasculature through the following \nsequence of events:\n1. Margination and rolling\n2. Activation and adhesion\n3. Transmigration \nThis will be covered in Dr S.K. lecture\nhttps://tu-dresden.de/med/mf/kpb/arbeitsgruppen/profil-ag-prof-dr-t-chavakis (Prof. Dr. Chavakis)\nhttp://bme.virginia.edu/ley/\nIntegrins\nSelectins\nIntegrins attach to selectins \n",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 38",
+      "text": "4\n1\n3\n2\n5\n6\n7\nMentimeter- Q6 \nWhat are the five mechanisms of \nincreased vascular permeability?\n",
+      "images": [
+        "page-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 39",
+      "text": "Q7 \nGive a title to the video.\n",
+      "images": [
+        "page-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 40",
+      "text": "❑Abscess is collection of pus (collection of dead neutrophils) in response to inflammation. \n❑Abscess formation is a defence mechanism to prevent infection from spreading to other \nparts of the body and arrest it locally.\n❑Common sites of abscess formation are skin, lungs, teeth, tonsils, kidneys, brain, liver etc. \nHow an abscess is formed?\n▪\ncytokines are released from the dead cells at the site of infection/injury.\n▪\nThe released cytokines cause an inflammatory response, which increase blood flow and \nattract white blood cells (mainly neutrophils). \n▪\nThe while blood cells may die while fighting the infection. Due to presence of white blood \ncells, pus is usually white in colour. \n▪\nThe wall (or capsule) of the abscess is formed by adjoining healthy cells to prevent \ninfection from spreading to neighbouring tissues. \n▪\nHowever, presence of wall or capsule has disadvantage too. The abscess wall prevents \nthe immune cells from attacking the bacteria in the pus and antibiotics from reaching the \npus in abscess.\nAbscess formation\n",
+      "images": [
+        "page-40"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 41",
+      "text": "Abscess formation\nEssentials of Pathophysiology; Concepts of altered health states. Carol Mattson Porth, Lippincott Williams & Wilkins, Chap 9, 2004, \n",
+      "images": [
+        "page-41"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 42",
+      "text": "Cell or tissue injury\nRelease of chemical \nmediators\nRelaxation of \narteriolar smooth \nmuscle\nIncrease in \npermeability of \nsmall vessels \nEscape of \noedema fluid\nIncrease in \nhydrostatic \npressure in \nsmall vessels\nIncrease in \nblood flow\n?\n?\n?\n?\n?\n?\nThis is inflammatory response. Can you add the symptoms?\n",
+      "images": [
+        "page-42"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 43",
+      "text": "Diseases/conditions in acute inflammation\n❑ Acute bronchitis\n❑ Prostatitis\n❑Infected ingrown toenail\n❑ Sore throat from cold or flu\n❑ Cut on the skin\n❑ Intense training\n❑ Acute appendicitis\n❑ Acute dermatitis\n❑ Acute tonsillitis\n❑ Acute infective meningitis\n❑ Acute sinusitis\n❑Myopathies\n❑ Appendicitis\nwww.medicalnewstoday.com\n",
+      "images": [
+        "page-43"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 44",
+      "text": "Eczema: is a form of dermatitis or inflammation \nof the epidermis\nAcute skin inflammation\n• Skin reacts to harmful \nstimuli (pathogens, \ndamaged cells, or \nchemicals)\n• Inflammation gets rid of the \nharmful stimuli and initiates \nskin tissue’s healing \nprocess\nhttps://111.wales.nhs.uk/encyclopaedia/e/article/eczema(atopic)/\nThis Photo by Unknown Author is licensed under CC BY-NC-ND\n",
+      "images": [
+        "page-44"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 45",
+      "text": "A, Pressure ulcer of the skin, \ncommonly found in diabetic \npatients. \nB, a skin ulcer with a large gap \nbetween the edges of the lesion; \nC, a thin layer of epidermal re-\nepithelialization and extensive \ngranulation tissue formation in the \ndermis; and \nD, continuing re-epithelialization of \nthe epidermis and wound \ncontraction. \n(Courtesy of Z. Argenyi, MD, \nUniversity of Washington, Seattle, \nWA.)\nWound healing\nA\nB\nC\nD\n",
+      "images": [
+        "page-45"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 46",
+      "text": "Different stages of wound repair\nWerner S. & Grose R. (2003) Physiol Rev 83: \n835\n(A) 12-14h after injury: wound filled with blood \nclot. Neutrophils have invaded into the clot.\n(B) 3-7 days after injury: most neutrophils have \nundergone apoptosis. Macrophages are \nabundant. Endothelial cells migrate into the \nclot; they proliferate and form new blood \nvessels, giving granular appearance - hence \n“granulation tissue”. Fibroblasts migrate into \nthe wound tissue, proliferate and deposite \nECM. Keratinocytes proliferate  and migrate \nin from the wound margins.\n(C) 1-2 weeks after injury the wound is filled with \ngranulation tissue. Fibroblasts have \ntransformed into myofibroblasts leading to \nwound contraction, collagen deposition and \nscar formation.\n",
+      "images": [
+        "page-46"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 47",
+      "text": "Wound repair: Growth factors\n•\nRepair is initiated by the release of growth factors and cytokines from the \nserum of injured blood vessels and from degranulating platelets.\n•\nFGFs play a key role in wound healing. FGFs 1, 2, 7, 10 and 22 increased \nafter injury.\n•\nEpithelial FGF receptors (FGFR1b and FGFR2b) known to bind FGFs 7, \n10 and 22 and shown to be important in wound reepithelialisation in \nknockout mouse studies.\n•\nEpidermal growth factor family (e.g.EGF, transforming growth factor- \n[TGF- ],heparin-binding EGF [HB-EGF]) are also important in \nreepithelialisation.\n•\nOther: VEGF (wound angiogenesis), HGF (angiogenesis, \nreepithelialisation and inflammation), IGFs and their receptors (pro-\nproliferative and anti-apoptotic), chemokines (IL-10, IL-6, IL-8; multiple \neffects).\n",
+      "images": [
+        "page-47"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 48",
+      "text": "Growth factors involved in wound healing that are associated with \ninflammation\nRobbins_Basic_Pathology\n",
+      "images": [
+        "page-48"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 49",
+      "text": "Please hold this thought….\nLater on we will make a link between wound repair and cancer progression! \nThere are similarities in the inflammatory response of our bodies during wound \nrepair and tumorigenesis.\n",
+      "images": [
+        "page-49"
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 50",
+      "text": "Acute inflammation: skin blister\nSerous inflammation (marked by the outpouring of a thin fluid). \nLow-power view of a cross-section of a skin blister showing the \nepidermis separated from the dermis by a focal collection of \nserous effusion.\nRobbins_Basic_Pathology\n",
+      "images": [
+        "page-50"
+      ]
+    },
+    {
+      "number": 51,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 51",
+      "text": "Excessive exercise with inadequate rest can result in acute inflammation that \nevolves into a chronic response. \n \nA systemic immune response involves \n(1)\nthe central nervous system (CNS), \n(2)\nthe liver, and \n(3)\nthe immune system. \n[Smith, L. et al. (2000) Med. Sci. Sports Exerc. 32:328.]\nExercise and inflammation\n",
+      "images": [
+        "page-51"
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 52",
+      "text": "Mann et al. Skeletal Muscle 2011 1:21  doi:10.1186/2044-5040-1-21\nExercise and inflammation\n",
+      "images": [
+        "page-52"
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 53",
+      "text": "Inflammatory myopathies\n✓weakness and inflammation of muscles and (in some types) \nmuscle pain.\n✓Caused by the immune system attacking components of the \nmuscle.\n✓It can occur together with other immune disorders (i.e. \ndermatomyositis, polymyositis, systemic sclerosis)\n",
+      "images": [
+        "page-53"
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 54",
+      "text": "A, Normal lung shows thin (virtually invisible) blood vessels in the alveolar \nwalls and no cells in the alveoli. \nB, The vascular component of acute inflammation is manifested by \ncongested blood vessels (packed with erythrocytes), resulting from stasis. \nC, The cellular component of the response is manifested by large numbers \nof leukocytes (neutrophils) in the alveoli.\nAcute inflammation of the lungs\nRobbins_Basic_Pathology\n",
+      "images": [
+        "page-54"
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 55",
+      "text": "Acute bronchitis\nBronchitis is inflammation of the large airways that branch off the trachea (bronchi), \nusually caused by infection but sometimes caused by irritation from inhaling gases, \nsmoke, dust particles, or some types of pollution.\nInflammation of the bronchi (right) \nwith the airway filled with thick \nmucus, inflammatory cells and debris \n(sputum). Normal healthy bronchi is \non the left with clear airway\nThis Photo by Unknown Author is licensed under CC BY\nhttp://www.merckmanuals.com/home/lung_and_airway_disorders/\nacute bronchitis/acute bronchitis.html\n",
+      "images": [
+        "page-55"
+      ]
+    },
+    {
+      "number": 56,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 56",
+      "text": "A. Multiple bacterial abscesses in the lung, in a case of bronchopneumonia.\n \nB. The abscess contains neutrophils and cellular debris, and is surrounded by \ncongested blood vessels.\nAcute inflammation-bacterial pneumonia\nA\nB\nhttp://quizlet.com/3192793/pathology-slides-test-2-flash-cards/\n",
+      "images": [
+        "page-56"
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 57",
+      "text": "Outcomes of acute inflammation!\nKumar, Abbas, Fausto and Aster 8th Edition, 2010\nProgression of the \ntissue response to \nchronic \ninflammation\nWhen acute \ninflammatory \nresponse cannot \nbe resolved\nCHRONIC INFLAMMATION\nFIBROSIS\nHealing by connective tissue replacement \n(fibrosis):\nThis occurs after substantial tissue \ndestruction\n1.\nThe inflammatory injury involves tissues \nthat are incapable of regeneration\n2.\nThere is abundant fibrin exudation\nCOMPLETE RESOLUTION\nABSCESS\n",
+      "images": [
+        "page-57"
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 58",
+      "text": "Preparing the ground for tissue regeneration: from mechanism to therapy\nStuart J Forbes & Nadia Rosenthal Nature Medicine 20, 857–869 (2014)\nGeneral model of tissue repair\n(Kumar et al, 9th edition. Robbins \npathologic basis of disease)\nSteps in repair by \nscar formation\n",
+      "images": [
+        "page-58"
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 59",
+      "text": "Complete resolution of acute \ninflammation\nWhen:\n1. The injury is limited or short-lived\n2. The damaged parenchymal cells can regenerate\n3. There has been little tissue destruction\nHow (mechanism):\n1. Neutralization and removal of chemical mediators\n2. Normalization of vascular permeability\n3. Halting leukocyte emigration\n4. Clearance of edema (Lymphatic drainage), inflammatory cells and \nnecrotic debris (macrophages)\n",
+      "images": [
+        "page-59"
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 60",
+      "text": "Events in the resolution of \ninflammation\nModified from Henson PM: In Clark R, Henson PM (eds): The molecular and cell biology of wound repair. New York Plenum Press, \n1996). Robbins Basic pathology.\n1. Return to normal vascular \npermeability\n2. Drainage of edema fluid and proteins \ninto lymphatics\n3. pinocytosis into macrophages\n4. phagocytosis of apoptotic neutrophils\n5. phagocytosis of necrotic debris\n6. disposal of macrophages\nMacrophages also produce growth \nfactors that initiate the subsequent \nprocess of repair\n",
+      "images": [
+        "page-60"
+      ]
+    },
+    {
+      "number": 61,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 61",
+      "text": "Mentimeter-recap Q8-12\n",
+      "images": [
+        "page-61"
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Inflammation I — Acute Inflammation & Repair — original page 62",
+      "text": "What did we learn so far??\nDiscuss your answers with your groups for 10 min and then write down in bullet point format \nyour thoughts. Then we will discuss your answers\n1. What is inflammation and its roles?\n2. Is inflammation part of our innate or adaptive immunity? What is \nthe difference?\n3. What are the two types of inflammation? What are their \ndifferences?\n4. What are the major components in acute inflammation?\n5. Give some clinical examples of acute inflammation\n",
+      "images": [
+        "page-62"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "inflammation-acute/page-1.jpg",
+    "page-2": "inflammation-acute/page-2.jpg",
+    "page-3": "inflammation-acute/page-3.jpg",
+    "page-4": "inflammation-acute/page-4.jpg",
+    "page-5": "inflammation-acute/page-5.jpg",
+    "page-6": "inflammation-acute/page-6.jpg",
+    "page-7": "inflammation-acute/page-7.jpg",
+    "page-8": "inflammation-acute/page-8.jpg",
+    "page-9": "inflammation-acute/page-9.jpg",
+    "page-10": "inflammation-acute/page-10.jpg",
+    "page-11": "inflammation-acute/page-11.jpg",
+    "page-12": "inflammation-acute/page-12.jpg",
+    "page-13": "inflammation-acute/page-13.jpg",
+    "page-14": "inflammation-acute/page-14.jpg",
+    "page-15": "inflammation-acute/page-15.jpg",
+    "page-16": "inflammation-acute/page-16.jpg",
+    "page-17": "inflammation-acute/page-17.jpg",
+    "page-18": "inflammation-acute/page-18.jpg",
+    "page-19": "inflammation-acute/page-19.jpg",
+    "page-20": "inflammation-acute/page-20.jpg",
+    "page-21": "inflammation-acute/page-21.jpg",
+    "page-22": "inflammation-acute/page-22.jpg",
+    "page-23": "inflammation-acute/page-23.jpg",
+    "page-24": "inflammation-acute/page-24.jpg",
+    "page-25": "inflammation-acute/page-25.jpg",
+    "page-26": "inflammation-acute/page-26.jpg",
+    "page-27": "inflammation-acute/page-27.jpg",
+    "page-28": "inflammation-acute/page-28.jpg",
+    "page-29": "inflammation-acute/page-29.jpg",
+    "page-30": "inflammation-acute/page-30.jpg",
+    "page-31": "inflammation-acute/page-31.jpg",
+    "page-32": "inflammation-acute/page-32.jpg",
+    "page-33": "inflammation-acute/page-33.jpg",
+    "page-34": "inflammation-acute/page-34.jpg",
+    "page-35": "inflammation-acute/page-35.jpg",
+    "page-36": "inflammation-acute/page-36.jpg",
+    "page-37": "inflammation-acute/page-37.jpg",
+    "page-38": "inflammation-acute/page-38.jpg",
+    "page-39": "inflammation-acute/page-39.jpg",
+    "page-40": "inflammation-acute/page-40.jpg",
+    "page-41": "inflammation-acute/page-41.jpg",
+    "page-42": "inflammation-acute/page-42.jpg",
+    "page-43": "inflammation-acute/page-43.jpg",
+    "page-44": "inflammation-acute/page-44.jpg",
+    "page-45": "inflammation-acute/page-45.jpg",
+    "page-46": "inflammation-acute/page-46.jpg",
+    "page-47": "inflammation-acute/page-47.jpg",
+    "page-48": "inflammation-acute/page-48.jpg",
+    "page-49": "inflammation-acute/page-49.jpg",
+    "page-50": "inflammation-acute/page-50.jpg",
+    "page-51": "inflammation-acute/page-51.jpg",
+    "page-52": "inflammation-acute/page-52.jpg",
+    "page-53": "inflammation-acute/page-53.jpg",
+    "page-54": "inflammation-acute/page-54.jpg",
+    "page-55": "inflammation-acute/page-55.jpg",
+    "page-56": "inflammation-acute/page-56.jpg",
+    "page-57": "inflammation-acute/page-57.jpg",
+    "page-58": "inflammation-acute/page-58.jpg",
+    "page-59": "inflammation-acute/page-59.jpg",
+    "page-60": "inflammation-acute/page-60.jpg",
+    "page-61": "inflammation-acute/page-61.jpg",
+    "page-62": "inflammation-acute/page-62.jpg",
+    "chemotaxis": "inflammation-acute/chemotaxis.jpg",
+    "t-cell-induction": "inflammation-acute/t-cell-induction.jpg",
+    "t-cell-effectors": "inflammation-acute/t-cell-effectors.jpg",
+    "tnf-il1": "inflammation-acute/tnf-il1.jpg",
+    "vascular-response": "inflammation-acute/vascular-response.jpg",
+    "transudate-exudate": "inflammation-acute/transudate-exudate.jpg",
+    "permeability": "inflammation-acute/permeability.jpg",
+    "recruitment": "inflammation-acute/recruitment.jpg",
+    "nets": "inflammation-acute/nets.jpg",
+    "abscess": "inflammation-acute/abscess.jpg",
+    "wound-repair": "inflammation-acute/wound-repair.jpg",
+    "serous-blister": "inflammation-acute/serous-blister.jpg",
+    "muscle-repair": "inflammation-acute/muscle-repair.jpg",
+    "acute-lung": "inflammation-acute/acute-lung.jpg",
+    "lung-abscess": "inflammation-acute/lung-abscess.jpg",
+    "outcomes": "inflammation-acute/outcomes.jpg",
+    "resolution": "inflammation-acute/resolution.jpg"
+  }
+}

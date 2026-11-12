@@ -1,0 +1,1918 @@
+{
+  "version": 2,
+  "lectureId": "inflammation-chronic",
+  "title": "Inflammation II — Chronic Inflammation & Disease",
+  "moduleId": "pathobiology",
+  "moduleName": "Pathobiology",
+  "moduleCode": "LS5009",
+  "source": "Inflammation LS5009  lectures 1 and 2 student copy.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Chronic inflammation basics",
+      "slide": 64,
+      "explanation": "These processes occur simultaneously rather than as three entirely separate chronological stages.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chronic inflammation combines ongoing inflammation, tissue destruction and {{c1::attempted repair}}.",
+      "noteId": "inflammation-chronic-5ac6165b99391ce2c88c-note",
+      "id": "inflammation-chronic-5ac6165b99391ce2c88c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chronic inflammation combines ongoing inflammation, tissue destruction and {{c1::attempted repair}}.",
+      "answer": "attempted repair"
+    },
+    {
+      "topic": "Chronic inflammation basics",
+      "slide": 64,
+      "explanation": "The lecture names macrophages, lymphocytes and plasma cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The typical chronic infiltrate is predominantly {{c1::mononuclear cells}}.",
+      "noteId": "inflammation-chronic-968ea142a7241482e86c-note",
+      "id": "inflammation-chronic-968ea142a7241482e86c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The typical chronic infiltrate is predominantly {{c1::mononuclear cells}}.",
+      "answer": "mononuclear cells"
+    },
+    {
+      "topic": "Chronic inflammation basics",
+      "slide": 64,
+      "explanation": "Both may coexist with active injury, rather than establishing that the inflammatory process has ended.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Repair during chronic inflammation can cause fibrosis and {{c1::angiogenesis}}.",
+      "noteId": "inflammation-chronic-5670a99180d90e08e0af-note",
+      "id": "inflammation-chronic-5670a99180d90e08e0af",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repair during chronic inflammation can cause fibrosis and {{c1::angiogenesis}}.",
+      "answer": "angiogenesis"
+    },
+    {
+      "topic": "Persistent triggers",
+      "slide": 65,
+      "explanation": "Tuberculosis is a named example; chronic responses may begin primarily or follow unresolved/recurrent acute inflammation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infection that is not eradicated can sustain {{c1::chronic inflammation}}.",
+      "noteId": "inflammation-chronic-568c061ad3e7994347d7-note",
+      "id": "inflammation-chronic-568c061ad3e7994347d7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infection that is not eradicated can sustain {{c1::chronic inflammation}}.",
+      "answer": "chronic inflammation"
+    },
+    {
+      "topic": "Persistent triggers",
+      "slide": 65,
+      "explanation": "The source uses pulmonary silicosis as an example of persistent exogenous material.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Prolonged silica exposure can sustain chronic inflammation in the {{c1::lung}}.",
+      "noteId": "inflammation-chronic-e34a2556fa976f0eeace-note",
+      "id": "inflammation-chronic-e34a2556fa976f0eeace",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Prolonged silica exposure can sustain chronic inflammation in the {{c1::lung}}.",
+      "answer": "lung"
+    },
+    {
+      "topic": "Persistent triggers",
+      "slide": 65,
+      "explanation": "The stimulus need not be a new external infection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An immune response against self antigens can perpetuate {{c1::autoimmune inflammation}}.",
+      "noteId": "inflammation-chronic-76591974da5d1037172a-note",
+      "id": "inflammation-chronic-76591974da5d1037172a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An immune response against self antigens can perpetuate {{c1::autoimmune inflammation}}.",
+      "answer": "autoimmune inflammation"
+    },
+    {
+      "topic": "Persistent triggers",
+      "slide": 66,
+      "explanation": "Whether inflammation occurs depends on material and host context; implantation does not mean every prosthesis causes a granuloma.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Sutures, asbestos fibres and implanted material can act as persistent {{c1::foreign-body stimuli}}.",
+      "noteId": "inflammation-chronic-c14c64fff11f8341ae24-note",
+      "id": "inflammation-chronic-c14c64fff11f8341ae24",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sutures, asbestos fibres and implanted material can act as persistent {{c1::foreign-body stimuli}}.",
+      "answer": "foreign-body stimuli"
+    },
+    {
+      "topic": "Chronic inflammation basics",
+      "slide": 67,
+      "explanation": "The source labels chronic inflammation “adaptive”; this is too exclusive, because innate macrophages and other cells remain central.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A continuing stimulus can produce a repetitive cycle of recruitment, injury and {{c1::repair}}.",
+      "noteId": "inflammation-chronic-2e8e4d420a6d7c471549-note",
+      "id": "inflammation-chronic-2e8e4d420a6d7c471549",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A continuing stimulus can produce a repetitive cycle of recruitment, injury and {{c1::repair}}.",
+      "answer": "repair"
+    },
+    {
+      "topic": "Fibrosis mechanisms",
+      "slide": 69,
+      "explanation": "Both increased collagen synthesis and reduced breakdown can contribute.",
+      "images": [
+        "fibrosis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Fibrosis develops when matrix production exceeds matrix {{c1::degradation}}.",
+      "noteId": "inflammation-chronic-c539d7331642084d0a09-note",
+      "id": "inflammation-chronic-c539d7331642084d0a09",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fibrosis develops when matrix production exceeds matrix {{c1::degradation}}.",
+      "answer": "degradation"
+    },
+    {
+      "topic": "Fibrosis mechanisms",
+      "slide": 69,
+      "explanation": "The source pathway connects this with extracellular-matrix accumulation.",
+      "images": [
+        "fibrosis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Reduced matrix metalloproteinase activity can decrease {{c1::collagen degradation}}.",
+      "noteId": "inflammation-chronic-a830ea03cf865444604d-note",
+      "id": "inflammation-chronic-a830ea03cf865444604d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced matrix metalloproteinase activity can decrease {{c1::collagen degradation}}.",
+      "answer": "collagen degradation"
+    },
+    {
+      "topic": "Fibrosis mechanisms",
+      "slide": 69,
+      "explanation": "Their growth factors and cytokines link persistent inflammation with scar production.",
+      "images": [
+        "fibrosis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Activated macrophages and lymphocytes can stimulate {{c1::fibroblast proliferation}}.",
+      "noteId": "inflammation-chronic-42916315f7ad45d512ff-note",
+      "id": "inflammation-chronic-42916315f7ad45d512ff",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Activated macrophages and lymphocytes can stimulate {{c1::fibroblast proliferation}}.",
+      "answer": "fibroblast proliferation"
+    },
+    {
+      "topic": "Fibrosis mechanisms",
+      "slide": 69,
+      "explanation": "FGF and PDGF also appear in the diagram; the response depends on cell type and context.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A major fibrogenic growth factor in the source pathway is {{c1::TGF-β}}.",
+      "noteId": "inflammation-chronic-cf7bf5129d965a9842da-note",
+      "id": "inflammation-chronic-cf7bf5129d965a9842da",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A major fibrogenic growth factor in the source pathway is {{c1::TGF-β}}.",
+      "answer": "TGF-β"
+    },
+    {
+      "topic": "Macrophages in chronic disease",
+      "slide": 70,
+      "explanation": "This is one illustrated pathway; tissue macrophage populations also have developmental origins not fully represented by this older schematic.",
+      "images": [
+        "macrophage"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The circulating leukocyte that can enter tissue and become a macrophage is the {{c1::monocyte}}.",
+      "noteId": "inflammation-chronic-8f8ac628b69a5a280f62-note",
+      "id": "inflammation-chronic-8f8ac628b69a5a280f62",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The circulating leukocyte that can enter tissue and become a macrophage is the {{c1::monocyte}}.",
+      "answer": "monocyte"
+    },
+    {
+      "topic": "Macrophages in chronic disease",
+      "slide": 70,
+      "explanation": "The diagram also includes non-immune triggers such as microbial products; activation is not exclusively antibody mediated.",
+      "images": [
+        "macrophage"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The T-cell cytokine highlighted for macrophage activation is {{c1::IFN-γ}}.",
+      "noteId": "inflammation-chronic-0d9799ca1a0c7c983c71-note",
+      "id": "inflammation-chronic-0d9799ca1a0c7c983c71",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The T-cell cytokine highlighted for macrophage activation is {{c1::IFN-γ}}.",
+      "answer": "IFN-γ"
+    },
+    {
+      "topic": "Macrophages in chronic disease",
+      "slide": 70,
+      "explanation": "Their antimicrobial products can also damage surrounding host tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Activated macrophages can sustain injury through proteases and {{c1::reactive oxygen metabolites}}.",
+      "noteId": "inflammation-chronic-65e79f76d025daf10ba4-note",
+      "id": "inflammation-chronic-65e79f76d025daf10ba4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Activated macrophages can sustain injury through proteases and {{c1::reactive oxygen metabolites}}.",
+      "answer": "reactive oxygen metabolites"
+    },
+    {
+      "topic": "Macrophages in chronic disease",
+      "slide": 70,
+      "explanation": "The source links PDGF, FGF and TGF-β with fibrogenic responses. A repair signal is not necessarily beneficial if prolonged.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Macrophage-derived growth factors can drive {{c1::fibrosis}} as well as repair.",
+      "noteId": "inflammation-chronic-b737f84e628109041db8-note",
+      "id": "inflammation-chronic-b737f84e628109041db8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophage-derived growth factors can drive {{c1::fibrosis}} as well as repair.",
+      "answer": "fibrosis"
+    },
+    {
+      "topic": "Patterns of chronic inflammation",
+      "slide": 72,
+      "explanation": "This describes a pattern, not absence of a cause or lack of clinical importance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Diffuse accumulation of macrophages and lymphocytes without organised granulomas is {{c1::non-specific chronic inflammation}}.",
+      "noteId": "inflammation-chronic-a80d386479edfb00a9bb-note",
+      "id": "inflammation-chronic-a80d386479edfb00a9bb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diffuse accumulation of macrophages and lymphocytes without organised granulomas is {{c1::non-specific chronic inflammation}}.",
+      "answer": "non-specific chronic inflammation"
+    },
+    {
+      "topic": "Patterns of chronic inflammation",
+      "slide": 72,
+      "explanation": "Normal connective/parenchymal tissue can be replaced by scar, impairing organ structure and function.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Chronic bowel-wall scarring may narrow the lumen and produce a {{c1::stricture}}.",
+      "noteId": "inflammation-chronic-d5edf01779224de20057-note",
+      "id": "inflammation-chronic-d5edf01779224de20057",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chronic bowel-wall scarring may narrow the lumen and produce a {{c1::stricture}}.",
+      "answer": "stricture"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 73,
+      "explanation": "They often take an epithelioid appearance. A fixed size or minimum five-cell count is not a universal diagnostic definition.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A granuloma is an organised aggregate of activated {{c1::macrophages}}.",
+      "noteId": "inflammation-chronic-1dbf927bab36d039e01b-note",
+      "id": "inflammation-chronic-1dbf927bab36d039e01b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A granuloma is an organised aggregate of activated {{c1::macrophages}}.",
+      "answer": "macrophages"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 73,
+      "explanation": "They remain macrophage-lineage cells; their appearance does not make them epithelial cells.",
+      "images": [
+        "granuloma-cells"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Macrophages with an epithelial-like appearance are called {{c1::epithelioid histiocytes}}.",
+      "noteId": "inflammation-chronic-3980ef7ae58b6abd0af5-note",
+      "id": "inflammation-chronic-3980ef7ae58b6abd0af5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophages with an epithelial-like appearance are called {{c1::epithelioid histiocytes}}.",
+      "answer": "epithelioid histiocytes"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 73,
+      "explanation": "Persistent microbes and foreign material can both be associated with this pattern.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Granulomatous inflammation can help contain material that is difficult to {{c1::eradicate or digest}}.",
+      "noteId": "inflammation-chronic-9c7867164efb241895be-note",
+      "id": "inflammation-chronic-9c7867164efb241895be",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Granulomatous inflammation can help contain material that is difficult to {{c1::eradicate or digest}}.",
+      "answer": "eradicate or digest"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 73,
+      "explanation": "Correction to the source list: placing sarcoidosis among microorganisms causing disease is misleading; granulomatous morphology is not synonymous with infection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Sarcoidosis is a granulomatous condition, but is {{c1::not an established infection by a named microorganism}}.",
+      "noteId": "inflammation-chronic-9b5813c8ad0c150bd2bb-note",
+      "id": "inflammation-chronic-9b5813c8ad0c150bd2bb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sarcoidosis is a granulomatous condition, but is {{c1::not an established infection by a named microorganism}}.",
+      "answer": "not an established infection by a named microorganism"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 73,
+      "explanation": "A granuloma is an organised macrophage-rich inflammatory structure; granulation tissue is vessel/fibroblast-rich repair tissue.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Granulomatous inflammation and granulation tissue are {{c1::different processes}}.",
+      "noteId": "inflammation-chronic-a3b2fc276cd07af36ef8-note",
+      "id": "inflammation-chronic-a3b2fc276cd07af36ef8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Granulomatous inflammation and granulation tissue are {{c1::different processes}}.",
+      "answer": "different processes"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 74,
+      "explanation": "The figure distinguishes fusion from transformation into a single epithelioid macrophage.",
+      "images": [
+        "granuloma-cells"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Fusion of macrophages can produce {{c1::multinucleated giant cells}}.",
+      "noteId": "inflammation-chronic-51aa06ceee004f313edc-note",
+      "id": "inflammation-chronic-51aa06ceee004f313edc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fusion of macrophages can produce {{c1::multinucleated giant cells}}.",
+      "answer": "multinucleated giant cells"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 74,
+      "explanation": "Occasional plasma cells may also occur; exact architecture varies with cause and stage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A granuloma commonly includes a surrounding component of {{c1::lymphocytes}}.",
+      "noteId": "inflammation-chronic-d100c5a486125397347c-note",
+      "id": "inflammation-chronic-d100c5a486125397347c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A granuloma commonly includes a surrounding component of {{c1::lymphocytes}}.",
+      "answer": "lymphocytes"
+    },
+    {
+      "topic": "Granulomas",
+      "slide": 75,
+      "explanation": "The source histology is attributed to a minipig model; it is not labelled as a human patient sample.",
+      "images": [
+        "tb-architecture"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The TB example shows a necrotic centre surrounded by an organised {{c1::granulomatous response}}.",
+      "noteId": "inflammation-chronic-12e91092c3421e31c341-note",
+      "id": "inflammation-chronic-12e91092c3421e31c341",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The TB example shows a necrotic centre surrounded by an organised {{c1::granulomatous response}}.",
+      "answer": "granulomatous response"
+    },
+    {
+      "topic": "Local versus systemic",
+      "slide": 77,
+      "explanation": "Vasodilation contributes, whereas systemic fever involves regulated thermoregulatory signalling.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Local redness and heat mainly reflect {{c1::increased local blood flow}}.",
+      "noteId": "inflammation-chronic-9ce549e8b7547be2ed46-note",
+      "id": "inflammation-chronic-9ce549e8b7547be2ed46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Local redness and heat mainly reflect {{c1::increased local blood flow}}.",
+      "answer": "increased local blood flow"
+    },
+    {
+      "topic": "Local versus systemic",
+      "slide": 78,
+      "explanation": "These include acute-phase protein changes, leukocyte changes and constitutional symptoms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Inflammatory mediators entering the circulation can produce {{c1::systemic manifestations}}.",
+      "noteId": "inflammation-chronic-615d5dfa68bb50153e3a-note",
+      "id": "inflammation-chronic-615d5dfa68bb50153e3a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammatory mediators entering the circulation can produce {{c1::systemic manifestations}}.",
+      "answer": "systemic manifestations"
+    },
+    {
+      "topic": "Local versus systemic",
+      "slide": 78,
+      "explanation": "CRP is a named example; a raised marker is not specific for one disease.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The plasma proteins whose concentrations change during inflammation are {{c1::acute-phase reactants}}.",
+      "noteId": "inflammation-chronic-e22f7e975a6aed13851c-note",
+      "id": "inflammation-chronic-e22f7e975a6aed13851c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The plasma proteins whose concentrations change during inflammation are {{c1::acute-phase reactants}}.",
+      "answer": "acute-phase reactants"
+    },
+    {
+      "topic": "Local versus systemic",
+      "slide": 78,
+      "explanation": "It is a possible systemic response, not something present in every severe infection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An increased circulating white-cell count is {{c1::leukocytosis}}.",
+      "noteId": "inflammation-chronic-cd6d63d0754b1cae3a4d-note",
+      "id": "inflammation-chronic-cd6d63d0754b1cae3a4d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An increased circulating white-cell count is {{c1::leukocytosis}}.",
+      "answer": "leukocytosis"
+    },
+    {
+      "topic": "Local versus systemic",
+      "slide": 78,
+      "explanation": "The lecture lists lymph-node enlargement with fever and blood changes; enlargement alone does not identify a cause.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Enlarged draining lymph nodes are a possible {{c1::systemic or regional inflammatory manifestation}}.",
+      "noteId": "inflammation-chronic-14cb58338f1977774ee9-note",
+      "id": "inflammation-chronic-14cb58338f1977774ee9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Enlarged draining lymph nodes are a possible {{c1::systemic or regional inflammatory manifestation}}.",
+      "answer": "systemic or regional inflammatory manifestation"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 78,
+      "explanation": "This clarifies the lecture’s list of severe systemic responses: sepsis is not simply any inflammation, fever or circulating cytokine increase.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sepsis involves life-threatening organ dysfunction from a dysregulated response to {{c1::infection}}.",
+      "noteId": "inflammation-chronic-a04a0bc368caea355394-note",
+      "id": "inflammation-chronic-a04a0bc368caea355394",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sepsis involves life-threatening organ dysfunction from a dysregulated response to {{c1::infection}}.",
+      "answer": "infection"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 78,
+      "explanation": "The source names it but gives no complete diagnostic criteria or treatment algorithm; neither is invented here.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Septic shock is a severe sepsis-related {{c1::circulatory and metabolic dysfunction}} state.",
+      "noteId": "inflammation-chronic-df8f6cfff09b6948c58f-note",
+      "id": "inflammation-chronic-df8f6cfff09b6948c58f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Septic shock is a severe sepsis-related {{c1::circulatory and metabolic dysfunction}} state.",
+      "answer": "circulatory and metabolic dysfunction"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 79,
+      "explanation": "They promote fever signalling, including effects on hypothalamic thermoregulation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "IL-1, IL-6 and TNF can act as endogenous {{c1::pyrogens}}.",
+      "noteId": "inflammation-chronic-ca660fae4b8eb3915d74-note",
+      "id": "inflammation-chronic-ca660fae4b8eb3915d74",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "IL-1, IL-6 and TNF can act as endogenous {{c1::pyrogens}}.",
+      "answer": "pyrogens"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 79,
+      "explanation": "The cytokines subsequently released by host cells are endogenous mediators; these are different sources.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Microbial products triggering host pyrogen release are called {{c1::exogenous pyrogens}}.",
+      "noteId": "inflammation-chronic-f245f9a08c816f609dca-note",
+      "id": "inflammation-chronic-f245f9a08c816f609dca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Microbial products triggering host pyrogen release are called {{c1::exogenous pyrogens}}.",
+      "answer": "exogenous pyrogens"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 79,
+      "explanation": "This differentiates regulated fever from simply warming a locally inflamed area. The lecture’s claim that most pathogens prefer temperatures below 37°C is overgeneralised.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Fever reflects an increased hypothalamic temperature {{c1::set point}}.",
+      "noteId": "inflammation-chronic-3504663d5623d171f4b8-note",
+      "id": "inflammation-chronic-3504663d5623d171f4b8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fever reflects an increased hypothalamic temperature {{c1::set point}}.",
+      "answer": "set point"
+    },
+    {
+      "topic": "Fever and severe responses",
+      "slide": 79,
+      "explanation": "This is a possible benefit, not a claim that every fever is harmless or that all pathogens stop growing above body temperature.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Raised temperature can enhance some immune functions, including {{c1::antigen processing}}.",
+      "noteId": "inflammation-chronic-899ae57d12abd876d536-note",
+      "id": "inflammation-chronic-899ae57d12abd876d536",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised temperature can enhance some immune functions, including {{c1::antigen processing}}.",
+      "answer": "antigen processing"
+    },
+    {
+      "topic": "Systemic consequences",
+      "slide": 80,
+      "explanation": "The lecture connects this metabolic change with type 2 diabetes risk; it is not the sole mechanism or a diagnostic rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Persistent inflammatory signalling can impair {{c1::insulin signalling}}.",
+      "noteId": "inflammation-chronic-81a4c0f943e6a288c0df-note",
+      "id": "inflammation-chronic-81a4c0f943e6a288c0df",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Persistent inflammatory signalling can impair {{c1::insulin signalling}}.",
+      "answer": "insulin signalling"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 84,
+      "explanation": "This is a contributory mechanism, not proof that every chronic inflammatory condition causes cancer.",
+      "images": [
+        "tumour-links"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chronic inflammation can support tumour initiation, growth and {{c1::metastatic progression}}.",
+      "noteId": "inflammation-chronic-176b01aeca33f24a97e4-note",
+      "id": "inflammation-chronic-176b01aeca33f24a97e4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chronic inflammation can support tumour initiation, growth and {{c1::metastatic progression}}.",
+      "answer": "metastatic progression"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 85,
+      "explanation": "New blood vessels support growing tissue; the presence of angiogenesis does not by itself mean malignancy.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A process shared by wound repair and tumour growth is {{c1::angiogenesis}}.",
+      "noteId": "inflammation-chronic-0fa4e90f4d8c4b008599-note",
+      "id": "inflammation-chronic-0fa4e90f4d8c4b008599",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A process shared by wound repair and tumour growth is {{c1::angiogenesis}}.",
+      "answer": "angiogenesis"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 85,
+      "explanation": "Changes in matrix and cell attachment influence migration, but the biological control of the two settings differs.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Repair and tumour progression can both involve remodelling of the {{c1::extracellular matrix}}.",
+      "noteId": "inflammation-chronic-c9bd939147190c2691f3-note",
+      "id": "inflammation-chronic-c9bd939147190c2691f3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repair and tumour progression can both involve remodelling of the {{c1::extracellular matrix}}.",
+      "answer": "extracellular matrix"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 86,
+      "explanation": "It highlights persistent repair-like signalling and histological parallels, not that normal wound healing is itself cancer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The phrase “tumours are wounds that do not heal” is a {{c1::biological analogy}}.",
+      "noteId": "inflammation-chronic-9e1901bfd01437dc10ba-note",
+      "id": "inflammation-chronic-9e1901bfd01437dc10ba",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The phrase “tumours are wounds that do not heal” is a {{c1::biological analogy}}.",
+      "answer": "biological analogy"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 86,
+      "explanation": "The source discusses overlapping gene programmes without establishing identical regulation or inevitable transformation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Growth factors and cytokines can support cell survival, proliferation and {{c1::migration}} in both repair and tumours.",
+      "noteId": "inflammation-chronic-ace2e6235ea4e17435e3-note",
+      "id": "inflammation-chronic-ace2e6235ea4e17435e3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Growth factors and cytokines can support cell survival, proliferation and {{c1::migration}} in both repair and tumours.",
+      "answer": "migration"
+    },
+    {
+      "topic": "Supplementary wound model",
+      "slide": 88,
+      "explanation": "This supplementary model investigates tissue repair. Cell counts, culture timing and fixative details are not turned into core exam filler.",
+      "images": [
+        "skin-model"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The organotypic skin model combines epithelial cells with a fibroblast-containing {{c1::collagen matrix}}.",
+      "noteId": "inflammation-chronic-adb05dfb4609ab980ef3-note",
+      "id": "inflammation-chronic-adb05dfb4609ab980ef3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The organotypic skin model combines epithelial cells with a fibroblast-containing {{c1::collagen matrix}}.",
+      "answer": "collagen matrix"
+    },
+    {
+      "topic": "Supplementary wound model",
+      "slide": 89,
+      "explanation": "This allows comparison of epithelial closure over the model substrate. It is a conceptual description, not a protocol for reproducing the experiment.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The illustrated wound model removes an area of epidermis while retaining the underlying {{c1::matrix}}.",
+      "noteId": "inflammation-chronic-53ceb486a894d5314786-note",
+      "id": "inflammation-chronic-53ceb486a894d5314786",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The illustrated wound model removes an area of epidermis while retaining the underlying {{c1::matrix}}.",
+      "answer": "matrix"
+    },
+    {
+      "topic": "Supplementary wound model",
+      "slide": 90,
+      "explanation": "The images are labelled 0 h,24 h,4 d and7 d. No quantitative migration rate or clinical wound-healing timetable is inferred from them.",
+      "images": [
+        "model-repair"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Serial sections of the model compare repair at different {{c1::time points}}.",
+      "noteId": "inflammation-chronic-d4ede8271ec2e2d8dfa0-note",
+      "id": "inflammation-chronic-d4ede8271ec2e2d8dfa0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Serial sections of the model compare repair at different {{c1::time points}}.",
+      "answer": "time points"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 91,
+      "explanation": "The source places repair and tumour schematics together to compare shared signalling with different outcomes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Unlike controlled wound repair, invasive tumour growth can show {{c1::persistent dysregulated tissue invasion}}.",
+      "noteId": "inflammation-chronic-6f1678637bf1344ea124-note",
+      "id": "inflammation-chronic-6f1678637bf1344ea124",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Unlike controlled wound repair, invasive tumour growth can show {{c1::persistent dysregulated tissue invasion}}.",
+      "answer": "persistent dysregulated tissue invasion"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 92,
+      "explanation": "The hallmarks overview is a comparison prompt; it does not establish that inflammation alone supplies every hallmark or causes every tumour.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A tumour-associated inflammatory response can help sustain a permissive {{c1::microenvironment}}.",
+      "noteId": "inflammation-chronic-4a2c1d9449d4c934f8b3-note",
+      "id": "inflammation-chronic-4a2c1d9449d4c934f8b3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A tumour-associated inflammatory response can help sustain a permissive {{c1::microenvironment}}.",
+      "answer": "microenvironment"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 93,
+      "explanation": "The source contrasts therapeutic/pathological inflammation. Effects depend on cell composition, signalling and timing rather than all inflammation being uniformly pro-cancer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Inflammation may have tumour-promoting or tumour-restraining effects depending on {{c1::context}}.",
+      "noteId": "inflammation-chronic-332f7928f33fee02d0ea-note",
+      "id": "inflammation-chronic-332f7928f33fee02d0ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Inflammation may have tumour-promoting or tumour-restraining effects depending on {{c1::context}}.",
+      "answer": "context"
+    },
+    {
+      "topic": "Angiogenesis",
+      "slide": 94,
+      "explanation": "The source’s “spouting” is a typographical error.",
+      "images": [
+        "angiogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Repair-associated angiogenesis commonly occurs by {{c1::sprouting from existing vessels}}.",
+      "noteId": "inflammation-chronic-c5b9c81fc133fb74c9d5-note",
+      "id": "inflammation-chronic-c5b9c81fc133fb74c9d5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repair-associated angiogenesis commonly occurs by {{c1::sprouting from existing vessels}}.",
+      "answer": "sprouting from existing vessels"
+    },
+    {
+      "topic": "Angiogenesis",
+      "slide": 94,
+      "explanation": "The diagram associates its behaviour with VEGF and Notch signalling; it is not a separate immune-cell type.",
+      "images": [
+        "angiogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The leading endothelial cell in a vessel sprout is the {{c1::tip cell}}.",
+      "noteId": "inflammation-chronic-9cda30d38de3092c524f-note",
+      "id": "inflammation-chronic-9cda30d38de3092c524f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The leading endothelial cell in a vessel sprout is the {{c1::tip cell}}.",
+      "answer": "tip cell"
+    },
+    {
+      "topic": "Angiogenesis",
+      "slide": 94,
+      "explanation": "This permits endothelial migration; later stabilisation requires re-establishment of supporting structures.",
+      "images": [
+        "angiogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Matrix metalloproteinases assist sprouting by degrading the {{c1::basement membrane}}.",
+      "noteId": "inflammation-chronic-8a2b1dfe72ef1edfc2f7-note",
+      "id": "inflammation-chronic-8a2b1dfe72ef1edfc2f7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Matrix metalloproteinases assist sprouting by degrading the {{c1::basement membrane}}.",
+      "answer": "basement membrane"
+    },
+    {
+      "topic": "Angiogenesis",
+      "slide": 94,
+      "explanation": "The source illustrates recruitment after sprout extension.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Recruitment of {{c1::pericytes}} helps stabilise newly formed vessels.",
+      "noteId": "inflammation-chronic-7bd20e282b3703683716-note",
+      "id": "inflammation-chronic-7bd20e282b3703683716",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Recruitment of {{c1::pericytes}} helps stabilise newly formed vessels.",
+      "answer": "pericytes"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 95,
+      "explanation": "The older diagram’s Th1/Th2 labels are simplified: IL-1 and TNF are not exclusive Th1 products, and cytokine effects are not a universal two-box classification.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The balance of cytokines and chemokines helps determine the tumour {{c1::inflammatory infiltrate}}.",
+      "noteId": "inflammation-chronic-38ee0d9aa1e2db1e4424-note",
+      "id": "inflammation-chronic-38ee0d9aa1e2db1e4424",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The balance of cytokines and chemokines helps determine the tumour {{c1::inflammatory infiltrate}}.",
+      "answer": "inflammatory infiltrate"
+    },
+    {
+      "topic": "Inflammation and cancer",
+      "slide": 95,
+      "explanation": "The source contrasts pro-angiogenic and angiostatic outcomes. It is an illustrative model, not a prediction from one cytokine measurement in a patient.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Chemokine effects on vascularisation can alter {{c1::tumour growth}}.",
+      "noteId": "inflammation-chronic-538cf431e4ec760e5b44-note",
+      "id": "inflammation-chronic-538cf431e4ec760e5b44",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chemokine effects on vascularisation can alter {{c1::tumour growth}}.",
+      "answer": "tumour growth"
+    },
+    {
+      "topic": "Chronic lung histology",
+      "slide": 96,
+      "explanation": "This combines the three core chronic processes in one histological example.",
+      "images": [
+        "chronic-lung"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chronic lung inflammation shows inflammatory cells, tissue destruction and {{c1::fibrosis}}.",
+      "noteId": "inflammation-chronic-3ea94a4caec467affcf1-note",
+      "id": "inflammation-chronic-3ea94a4caec467affcf1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chronic lung inflammation shows inflammatory cells, tissue destruction and {{c1::fibrosis}}.",
+      "answer": "fibrosis"
+    },
+    {
+      "topic": "Chronic lung histology",
+      "slide": 96,
+      "explanation": "The source contrasts this with mononuclear inflammation, parenchymal loss and connective-tissue replacement in chronic disease.",
+      "images": [
+        "chronic-lung"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "In acute bronchopneumonia, the dominant cells filling alveolar spaces are {{c1::neutrophils}}.",
+      "noteId": "inflammation-chronic-22ff9bbbd80c63eff7cd-note",
+      "id": "inflammation-chronic-22ff9bbbd80c63eff7cd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In acute bronchopneumonia, the dominant cells filling alveolar spaces are {{c1::neutrophils}}.",
+      "answer": "neutrophils"
+    },
+    {
+      "topic": "TB histology",
+      "slide": 97,
+      "explanation": "Its surrounding cellular architecture supports interpretation; central necrosis alone is not organism identification.",
+      "images": [
+        "tb-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The central zone in the illustrated tuberculous granuloma is {{c1::necrotic}}.",
+      "noteId": "inflammation-chronic-5f06ee9d8af59cb54982-note",
+      "id": "inflammation-chronic-5f06ee9d8af59cb54982",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The central zone in the illustrated tuberculous granuloma is {{c1::necrotic}}.",
+      "answer": "necrotic"
+    },
+    {
+      "topic": "TB histology",
+      "slide": 97,
+      "explanation": "Langhans-type giant cells are not Langerhans dendritic cells. Morphology alone is not uniquely specific for tuberculosis.",
+      "images": [
+        "tb-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The large multinucleated macrophage-derived cells labelled in the TB example are {{c1::Langhans-type giant cells}}.",
+      "noteId": "inflammation-chronic-2eb2ab80685e7b8cb0a0-note",
+      "id": "inflammation-chronic-2eb2ab80685e7b8cb0a0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The large multinucleated macrophage-derived cells labelled in the TB example are {{c1::Langhans-type giant cells}}.",
+      "answer": "Langhans-type giant cells"
+    },
+    {
+      "topic": "TB histology",
+      "slide": 97,
+      "explanation": "These accompany epithelioid macrophages and giant cells rather than replacing them as the defining central cell type.",
+      "images": [
+        "tb-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The periphery of the illustrated granuloma contains a rim of {{c1::lymphocytes}}.",
+      "noteId": "inflammation-chronic-7f8745b25f50180db36b-note",
+      "id": "inflammation-chronic-7f8745b25f50180db36b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The periphery of the illustrated granuloma contains a rim of {{c1::lymphocytes}}.",
+      "answer": "lymphocytes"
+    },
+    {
+      "topic": "Clinical chronic inflammation",
+      "slide": 98,
+      "explanation": "The lecture identifies a role in myocardial infarction, stroke and ischaemic gangrene; these outcomes do not occur in every plaque.",
+      "images": [
+        "atherosclerosis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Atherosclerosis combines lipid accumulation with an {{c1::inflammatory response}}.",
+      "noteId": "inflammation-chronic-497250fe9dce9cc63268-note",
+      "id": "inflammation-chronic-497250fe9dce9cc63268",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Atherosclerosis combines lipid accumulation with an {{c1::inflammatory response}}.",
+      "answer": "inflammatory response"
+    },
+    {
+      "topic": "Clinical chronic inflammation",
+      "slide": 99,
+      "explanation": "The source describes collections of dark-blue lymphocytes in chronically inflamed tissue.",
+      "images": [
+        "ra-histology"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The rheumatoid arthritis histology example is taken from the joint {{c1::synovium}}.",
+      "noteId": "inflammation-chronic-ffb29d82bf7c91f19930-note",
+      "id": "inflammation-chronic-ffb29d82bf7c91f19930",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The rheumatoid arthritis histology example is taken from the joint {{c1::synovium}}.",
+      "answer": "synovium"
+    },
+    {
+      "topic": "Clinical chronic inflammation",
+      "slide": 99,
+      "explanation": "This contrasts with a local acute response to a transient traumatic insult.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Rheumatoid arthritis illustrates chronic {{c1::autoimmune inflammation}}.",
+      "noteId": "inflammation-chronic-2e7ef51290d2d3dd7180-note",
+      "id": "inflammation-chronic-2e7ef51290d2d3dd7180",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Rheumatoid arthritis illustrates chronic {{c1::autoimmune inflammation}}.",
+      "answer": "autoimmune inflammation"
+    },
+    {
+      "topic": "Inflammatory bowel disease",
+      "slide": 100,
+      "explanation": "The source contrasts this distribution with the possible full gastrointestinal distribution of Crohn’s disease.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ulcerative colitis principally involves the mucosal lining of the rectum and {{c1::colon}}.",
+      "noteId": "inflammation-chronic-9bb9dcdadd755bf69308-note",
+      "id": "inflammation-chronic-9bb9dcdadd755bf69308",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ulcerative colitis principally involves the mucosal lining of the rectum and {{c1::colon}}.",
+      "answer": "colon"
+    },
+    {
+      "topic": "Inflammatory bowel disease",
+      "slide": 100,
+      "explanation": "This distribution does not mean every person has disease throughout the entire tract.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Crohn’s disease may involve the gastrointestinal tract from mouth to {{c1::anus}}.",
+      "noteId": "inflammation-chronic-41492ab3849007ba18e2-note",
+      "id": "inflammation-chronic-41492ab3849007ba18e2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Crohn’s disease may involve the gastrointestinal tract from mouth to {{c1::anus}}.",
+      "answer": "anus"
+    },
+    {
+      "topic": "Inflammatory bowel disease",
+      "slide": 100,
+      "explanation": "The slide supplies a labelled histology example. Their absence does not exclude Crohn’s, and the appearance is not a stand-alone diagnosis.",
+      "images": [
+        "crohns"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Granulomas can occur in {{c1::Crohn’s disease}}.",
+      "noteId": "inflammation-chronic-48d126124d936072923d-note",
+      "id": "inflammation-chronic-48d126124d936072923d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Granulomas can occur in {{c1::Crohn’s disease}}.",
+      "answer": "Crohn’s disease"
+    },
+    {
+      "topic": "Inflammatory bowel disease",
+      "slide": 100,
+      "explanation": "The source emphasises ulcerative colitis. Risk depends on factors such as extent and duration; no individual percentage or surveillance schedule is supplied.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Long-standing colonic inflammatory disease can raise {{c1::colorectal cancer risk}}.",
+      "noteId": "inflammation-chronic-dd007d6a7792af6d68a4-note",
+      "id": "inflammation-chronic-dd007d6a7792af6d68a4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Long-standing colonic inflammatory disease can raise {{c1::colorectal cancer risk}}.",
+      "answer": "colorectal cancer risk"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 101,
+      "explanation": "The lecture links tissue stress and immune-cell accumulation rather than treating fat as only passive storage.",
+      "images": [
+        "adipose-inflammation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Visceral adipose tissue can recruit {{c1::macrophages}} during chronic metabolic inflammation.",
+      "noteId": "inflammation-chronic-43e5be07b916cb316016-note",
+      "id": "inflammation-chronic-43e5be07b916cb316016",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Visceral adipose tissue can recruit {{c1::macrophages}} during chronic metabolic inflammation.",
+      "answer": "macrophages"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 101,
+      "explanation": "These markers are not uniquely diagnostic of obesity or one disease.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The source names TNF, IL-6 and CRP as markers associated with {{c1::metabolic inflammation}}.",
+      "noteId": "inflammation-chronic-b947484592345b4de98b-note",
+      "id": "inflammation-chronic-b947484592345b4de98b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The source names TNF, IL-6 and CRP as markers associated with {{c1::metabolic inflammation}}.",
+      "answer": "metabolic inflammation"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 102,
+      "explanation": "It produces hormones/cytokines and interacts with liver, heart and muscle, not just an inert energy depot.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Adipose tissue acts as an {{c1::endocrine and signalling organ}}.",
+      "noteId": "inflammation-chronic-c3adb1ab22a175bec88a-note",
+      "id": "inflammation-chronic-c3adb1ab22a175bec88a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Adipose tissue acts as an {{c1::endocrine and signalling organ}}.",
+      "answer": "endocrine and signalling organ"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 102,
+      "explanation": "This is a model of adipokine dysregulation, not a rule allowing clinical diagnosis from one hormone value.",
+      "images": [
+        "adipokines"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "In the obesity-related schematic, adiponectin is shown {{c1::decreased}}.",
+      "noteId": "inflammation-chronic-7d9a6b236ee858be9747-note",
+      "id": "inflammation-chronic-7d9a6b236ee858be9747",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the obesity-related schematic, adiponectin is shown {{c1::decreased}}.",
+      "answer": "decreased"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 102,
+      "explanation": "The slide’s nearby LDL annotation is too simple to establish one adipokine as the universal cause of elevated LDL.",
+      "images": [
+        "adipokines"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The adipokine schematic shows inflammatory signalling converging on {{c1::insulin resistance}}.",
+      "noteId": "inflammation-chronic-525c16fea855ede34d10-note",
+      "id": "inflammation-chronic-525c16fea855ede34d10",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The adipokine schematic shows inflammatory signalling converging on {{c1::insulin resistance}}.",
+      "answer": "insulin resistance"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 103,
+      "explanation": "In this model, SOCS3 inhibits components of metabolic signalling. This is a particular cardiac/metabolic scheme, not every physiological IL-6 response.",
+      "images": [
+        "insulin-signalling"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The displayed IL-6 pathway activates STAT3 and then {{c1::SOCS3}}.",
+      "noteId": "inflammation-chronic-7503d999de962edf6d2b-note",
+      "id": "inflammation-chronic-7503d999de962edf6d2b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The displayed IL-6 pathway activates STAT3 and then {{c1::SOCS3}}.",
+      "answer": "SOCS3"
+    },
+    {
+      "topic": "Adipose inflammation",
+      "slide": 103,
+      "explanation": "The schematic links inhibited signalling with lower GLUT4-related metabolic activity.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Impaired insulin signalling can reduce insulin-stimulated {{c1::glucose uptake}}.",
+      "noteId": "inflammation-chronic-8c84c5743707ef25ba1c-note",
+      "id": "inflammation-chronic-8c84c5743707ef25ba1c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Impaired insulin signalling can reduce insulin-stimulated {{c1::glucose uptake}}.",
+      "answer": "glucose uptake"
+    },
+    {
+      "topic": "Adipose tissue and cancer",
+      "slide": 104,
+      "explanation": "It connects leptin with tumour/stromal pathways and invasion-related processes, not a deterministic claim that obesity or leptin inevitably produces metastasis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The adipose–tumour schematic highlights increased {{c1::leptin signalling}}.",
+      "noteId": "inflammation-chronic-0bcf556bb94766c1c33e-note",
+      "id": "inflammation-chronic-0bcf556bb94766c1c33e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The adipose–tumour schematic highlights increased {{c1::leptin signalling}}.",
+      "answer": "leptin signalling"
+    },
+    {
+      "topic": "Adipose tissue and cancer",
+      "slide": 105,
+      "explanation": "This is a histological/diagrammatic feature of inflamed adipose tissue, not a granuloma.",
+      "images": [
+        "adipose-inflammation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Macrophages surrounding a dead adipocyte form a {{c1::crown-like structure}}.",
+      "noteId": "inflammation-chronic-ecf876034dd2c73a04f9-note",
+      "id": "inflammation-chronic-ecf876034dd2c73a04f9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Macrophages surrounding a dead adipocyte form a {{c1::crown-like structure}}.",
+      "answer": "crown-like structure"
+    },
+    {
+      "topic": "Adipose tissue and cancer",
+      "slide": 105,
+      "explanation": "This is one proposed pathway in obesity-related breast cancer biology, not a universal cause of every breast tumour.",
+      "images": [
+        "adipose-cancer"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The diagram links adipose inflammation with increased aromatase and local {{c1::oestrogen production}}.",
+      "noteId": "inflammation-chronic-52c532b7287483904004-note",
+      "id": "inflammation-chronic-52c532b7287483904004",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The diagram links adipose inflammation with increased aromatase and local {{c1::oestrogen production}}.",
+      "answer": "oestrogen production"
+    },
+    {
+      "topic": "Adipose tissue and cancer",
+      "slide": 105,
+      "explanation": "The illustration shows reciprocal communication, angiogenic effects and metabolic pathways rather than a single one-way causal chain.",
+      "images": [
+        "adipose-cancer"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Adipocytes, macrophages and tumour cells can interact through {{c1::cytokine and adipokine signalling}}.",
+      "noteId": "inflammation-chronic-ff01c0a26227318df1bf-note",
+      "id": "inflammation-chronic-ff01c0a26227318df1bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Adipocytes, macrophages and tumour cells can interact through {{c1::cytokine and adipokine signalling}}.",
+      "answer": "cytokine and adipokine signalling"
+    }
+  ],
+  "slides": [
+    {
+      "number": 63,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 63",
+      "text": "2nd Lecture: Chronic inflammation\n",
+      "images": [
+        "page-63"
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 64",
+      "text": "◼Inflammatory response of prolonged duration in which active \ninflammation, tissue destruction and attempts at repair are \noccurring simultaneously.\n▪Usually primary, but may follow recurrent acute \n   inflammation.\n◼Its is characterized by:\n▪infiltration of mononuclear cells. Lymphocytes, plasma \ncells and macrophages predominately.  \n▪proliferation of fibroblasts and increases the risk of \nscaring (Repair with fibrosis and angiogenesis)\n▪Tissue destruction by inflammatory cells\nWhat is chronic inflammation?\n",
+      "images": [
+        "page-64"
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 65",
+      "text": "• Persistent infection by certain microorganisms\n– Ulcer\n– tuberculosis\n• Prolonged exposure to toxic agent\n– Endogenous e.g. plasma lipids → atherosclerosis\n– Pulmonary silicosis (silica in the lung)\n• Autoimmunity\n– Antibodies to self antigens → perpetual immune response.\n– Rheumatoid arthritis\n– Systemic lupus erythematosus \n– Multiple sclerosis\nWhat causes chronic inflammation?\n",
+      "images": [
+        "page-65"
+      ]
+    },
+    {
+      "number": 66,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 66",
+      "text": "Some examples of primary \nchronic inflammation\nCause of inflammation\nExamples\nResistance of infectious agent to \nphagocytosis and intracellular killing\nTuberculosis, leprosy, brucellosis, viral \ninfections\nEndogenous materials\nNecrotic adipose tissue, bone, uric acid \ncrystals\nExogenous materials\nSilica, asbestos fibres, suture materials, \nimplanted prostheses\nSome autoimmune diseases\nOrgan-specific disease, e.g. \nHashimoto’s throiditis\nNon-organ-specific autoimmune \ndisease e.g. Rheumatoid arthritis\nSpecific diseases of unknown aetiology\nChronic inflammatory bowel disease \ne.g. ulcerative colitis\nPrimary granulomatous diseases\nCrohn’s disease, \n",
+      "images": [
+        "page-66"
+      ]
+    },
+    {
+      "number": 67,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 67",
+      "text": "Imbalance between mediators\nAcute inflammation \n(innate immunity)\nAction of Immune \ncells for healing\nEnd of stimulus\nHealing\nStimulus\nChronic inflammation \n(adaptive immunity)\nOngoing \nStimulus\nImmune cells trying to heal but ongoing \nstimulus results in more recruitment, increased \ninflammation and cell changes.\nRepetitive cycle\nDisease\n",
+      "images": [
+        "page-67"
+      ]
+    },
+    {
+      "number": 68,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 68",
+      "text": "Outcomes of acute inflammation…a reminder!\nKumar, Abbas, Fausto and Aster 8th Edition, 2010\nProgression of the \ntissue response to \nchronic \ninflammation\nWhen acute \ninflammatory \nresponse cannot \nbe resolved\nCHRONIC INFLAMMATION\nFIBROSIS\nHealing by connective tissue replacement \n(fibrosis):\nThis occurs after substantial tissue \ndestruction\n1.\nThe inflammatory injury involves tissues \nthat are incapable of regeneration\n2.\nThere is abundant fibrin exudation\nCOMPLETE RESOLUTION\nABSCESS\n",
+      "images": [
+        "page-68"
+      ]
+    },
+    {
+      "number": 69,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 69",
+      "text": "Mechanisms of fibrosis (Kumar et al)\nA\nB\nChronic inflammation: \nPersistent stimulus\nMacrophages and lymphocytes activation\nGrowth factors \n(FGF, TGF, \nPDGF)\nCytokines\n(TNF, IL-1, IL-4, \nIL-13)\nDecreased \nmetalloproteinase \nactivity\nIncreased \ncollagen synthesis\nDecreased \ncollagen \ndegradation\nIncrease of \nFibroblast, \nendothelial and \nspecialized \nfibrogenic cell \nproliferation\nFIBROSIS\n",
+      "images": [
+        "page-69"
+      ]
+    },
+    {
+      "number": 70,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 70",
+      "text": "Role of activated macrophages in chronic inflammation\nMacrophages are activated by cytokines from \nimmune-activated T cells (particularly \nIFNgamma) or by non-immunologic stimuli such \nas endotoxin. The products made by activated \nmacrophages that cause tissue injury and \nfibrosis are indicated in the figures.\nAA: arachidonic acid\nPDGF: Platelet-derived growth factor, \nFGF: Fibroblast growth factor; \nTGF beta: transforming growth factor beta\nA\nB\nC\n(Kumar et al, 9th edition. Robbins pathologic basis of disease)\n",
+      "images": [
+        "page-70"
+      ]
+    },
+    {
+      "number": 71,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 71",
+      "text": "The two patterns of chronic inflammation:\n1. Nonspecific\n2. Granulomatous \nRheumatology International 2011\nClinico-pathological correlation of non specific inflammation in bowel histology with joint manifestation in a tertiary center in South India\nR. Goel, D. Danda, B. Avinash, A. Pulimood, J. Mathew, B. Ramakrishna\nBowel histology\nThis Photo by Unknown Author is licensed under CC BY-SA\n",
+      "images": [
+        "page-71"
+      ]
+    },
+    {
+      "number": 72,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 72",
+      "text": "Non-specific chronic inflammation \n▪Has a diffuse accumulation of macrophages and \nlymphocytes at the site of injury. \n▪Persistent chemotaxis: \n- causes \ninfiltration \nand \naccumulation \nof    \nmacrophages at  the inflamed area\n- leads to fibroblast proliferation with subsequent \nscar formation\n▪In many cases, the scar tissues replaces the \nnormal connective and parenchymal tissues.\n  e.g. tissue scar resulting from CI of the bowel causes narrowing of the \nbowel lumen.\n",
+      "images": [
+        "page-72"
+      ]
+    },
+    {
+      "number": 73,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 73",
+      "text": "Granulomatous inflammation \n▪It is a specific type of chronic inflammation. \n▪It is a protective response to chronic infection or foreign \nmaterial, \npreventing \ndissemination \nand \nrestricting \ninflammation.\n▪A granuloma is a small lesion (1-2mm) and   typically is an \naggregate of 5 or more epithelioid histiocytes (i.e. the \nmodified macrophages that resemble epithelial cells).\n▪ It is associated with agents which are poorly digested:\n▪foreign bodies such as splinters, sutures, silica, and asbestos \netc.,\n▪drugs such as allopurinol and phenylbutazone in hepatic \ngranulomas \n▪microorganisms that cause tuberculosis, syphilis, sarcoidosis, \nbrucellosis, and deep fungal infections. \n",
+      "images": [
+        "page-73"
+      ]
+    },
+    {
+      "number": 74,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 74",
+      "text": "Fate of macrophages in granulomatous \ninflammation\nPathology: Basic and systemic by Woolf (1998) P152\nCellular constituents of \nGranulomas\n•\nThe predominant cell type \nis an activated macrophage \nwith a modified epithelial-\nlike (epithelioid) \nappearance\n•\nLymphocytes\n•\nOccasional plasma cells\n",
+      "images": [
+        "page-74"
+      ]
+    },
+    {
+      "number": 75,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 75",
+      "text": "Typical architecture of a TB granuloma. (A) Representative granuloma with central \nnecrosis from minipig lung tissue. Histological samples were formalin-fixed, cut, and \nstained with hematoxylin-eosin. Adapted from Gil et al. (2010). (B) Schematic of the \ncellular constituents of a TB granuloma.\nFront. Immunol., 22 April 2013 | http://dx.doi.org/10.3389/fimmu.2013.00098\nEvelyn Guirado and Larry S. Schlesinger*\nTuberculous Granuloma\n",
+      "images": [
+        "page-75"
+      ]
+    },
+    {
+      "number": 76,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 76",
+      "text": "MANIFESTATIONS OF \nINFLAMMATION\nInflammation\nTYPES\nACUTE\nCHRONIC\nRecurrent\nNon-specific\nGranulomatous\nLocal\nSystemic\nMANIFESTATIONS\n",
+      "images": [
+        "page-76"
+      ]
+    },
+    {
+      "number": 77,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 77",
+      "text": "Local manifestations of inflammation\n▪Local manifestations of inflammation are result of \nthe vascular changes associated with acute \ninflammatory process (vasodialation and increased \ncapillary permeability). The symptoms can be: \nredness, heat, swelling and pain.\n  \n▪Dependent upon its cause and the tissue involved.\n▪  Range from swelling and the formation of \n   exudates to abscess formation and ulceration.\n",
+      "images": [
+        "page-77"
+      ]
+    },
+    {
+      "number": 78,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 78",
+      "text": "Systemic Manifestations of Inflammation\n▪ The inflammatory response remains confined to a localized area \nunder optimal conditions.\n▪ In some cases, local injury can result in systemic manifestations \nas inflammatory mediators are released into the circulation.\n▪  The most prominent systemic manifestations of inflammation \nare: \n-  changes in the levels of the plasma protein (i.e. acute  \n   phase reactants).\n-  haematological changes (increased levels of circulating  \nleukocytes )\n-  lymph node enlargement \n-  fever, weight loss, malaise, anorexia and nausea\n-  sepsis and septic shock, which represent the sever \n   systemic manifestations of inflammation.\n",
+      "images": [
+        "page-78"
+      ]
+    },
+    {
+      "number": 79,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 79",
+      "text": "IL-1, IL-6 and TNFalpha (endogenous pyrogens) released  by \nmacrophages act on the hypothalamus, muscle and fat cells to raise \nbody temperature (fever)\nHow does fever helps the immune system fight infection?\n1. Most bacterial and viral pathogens grow better at temperature lower \nthan human body temperature (37C)\n2. Human cells become more resistant to the deleterious effects of TNF \nalpha at raised temperatures\n3. Adaptive immunity becomes more potent at higher temperatures \n(antigen processing is enhanced)\nFEVER: a systemic effect of inflammation\nNote: Bacterial products (called exogenous pyrogens) stimulate leukocytes to release \ncytokines…\n",
+      "images": [
+        "page-79"
+      ]
+    },
+    {
+      "number": 80,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 80",
+      "text": "Causes and consequences of \nchronic inflammation\nChronic inflammation\nIL-6 TNFa, IL-1b, IL-18\nMetabolic changes:\n•\nImpaired insulin signalling\nType 2 diabetes\nOther systemic disease:\n•\nOrgan failure (kidney, heart, liver)\n•\nCancer\n•\nAlzheimer’s\nTissue changes:\n•\nCell death\n•\nScarring (fibrosis)\n•\nBlood vessel growth (angiogenesis)\n•\nCell proliferation\nNon-infectious causes:\n•\nObesity\n•\nTissue damage\n•\nHeart disease and \natherosclerosis\nInfectious causes:\n•\nUnresolved infection\n•\nIntestinal microbes\nKuby immunology 7th Ed\n",
+      "images": [
+        "page-80"
+      ]
+    },
+    {
+      "number": 81,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 81",
+      "text": "What is wrong with \nGeorge???? Oh NO! he \nhas a boil on the bum and \nhe is not impressed! He is \nwell aware that the boil \nexhibits the cardinal \nfeatures of pain, swelling, \nredness and heat!!! What \nwill happen next?\nDiscuss with your fellow students what are the possible outcomes by looking at \nthe picture and try to come up with a figure legend.\n",
+      "images": [
+        "page-81"
+      ]
+    },
+    {
+      "number": 82,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 82",
+      "text": "Diseases/conditions in chronic inflammation:\nwww.medicalnewstoday.com\nAIS: Amyotrophic Lateral Sclerosis\nCKD: Chronic Kidney Disease\nIBD: Inflammatory Bowel Disease\nCOPD: Chronic Obstructive \nPulmonary Disease \nRA: Rheumatoid Arthritis \nCICTD: Chronic Inflammatory Connective Tissue Diseases\nDDD: Degenerative Disc Disease \nCIDP: Chronic Inflammatory Demyelinating \nPolyneuropathy \n❑ Asthma\n❑ Chronic peptic ulcer\n❑ Tuberculosis\n❑ Rheumatoid arthritis\n❑ Chronic periodontitis\n❑ Chronic sinusitis\n❑ Chronic active hepatitis\n❑ Cancer\n❑ Diet\n❑Ulcerative colitis and Crohn’s disease\n",
+      "images": [
+        "page-82"
+      ]
+    },
+    {
+      "number": 83,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 83",
+      "text": "Clinical examples of chronic \ninflammation\n",
+      "images": [
+        "page-83"
+      ]
+    },
+    {
+      "number": 84,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 84",
+      "text": "Chronic inflammation and cancer \nMicrobial pathogens\nEnvironmental exposure\nDietary lifestyle\nTherapy induced\nChronic inflammation\nCell transformation\nPrimary growth\nMetastasis\nTumour development\nPersistent stimulus\nChronic inflammation initiates and impacts all major stages of \ntumour development and progression.\n",
+      "images": [
+        "page-84"
+      ]
+    },
+    {
+      "number": 85,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 85",
+      "text": "Wound healing and cancer progression have striking similarities:\n✓Formation of new blood vessels- Angiogenesis, \n✓Rearrangement of the molecular matrix around the cells, \n✓Changes in how cells attach to each other.\nInflammation and cancer \n",
+      "images": [
+        "page-85"
+      ]
+    },
+    {
+      "number": 86,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 86",
+      "text": "Parallels between wound healing and tumorigenesis \n•\n“Tumours are wounds that do not heal” \n \n \nDvorak HF (1986) N Engl J Med 315:1650.\n•\nTumours share many histological features with repairing tissues.\n•\nIn both wound sites and tumours cell proliferation, survival and \nmigration is accompanied by an inflammatory response (in response \nto GFs and cytokines).\n•\nDuring wound healing keratinocytes hyperproliferate, migrate and \ninvade, similar to keratinocytes during malignant transformation in \nsquamous cell carcinoma.\n•\nDuring repair in keratinocytes one third of the genes expressed are \nalso present in squamous cell carcinoma. Pedersen et al. (2003) Oncogene 22: 3964\n•\n‘Wound’ signals in tumours can facilitate cancer progression.\n",
+      "images": [
+        "page-86"
+      ]
+    },
+    {
+      "number": 87,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 87",
+      "text": "In vitro model of wound healing\nExtra material \n",
+      "images": [
+        "page-87"
+      ]
+    },
+    {
+      "number": 88,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 88",
+      "text": "I. Experimental design \n• Construction of organotypic skin culture.\n– Cell lines used: \n• HaCaT/NTERT (human keratinocytes; 1 x 106 cells)  \n• HFF (human foreskin fibroblasts; 2-3 x 105 cells)\n– Collagen type I.\n– Lifting to air-liquid interface is defined as the start of organotypic \nculture (O.C.) \nEpidermal cells\nCollagen/fibroblasts\nLiquid medium\nGrid\nNylon discs coated with collagen  \n& fixed in 1% glutaraldehyde\nAir\n",
+      "images": [
+        "page-88"
+      ]
+    },
+    {
+      "number": 89,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 89",
+      "text": "II. Experimental design \n•\nWounding model: 5 mm punch biopsy, where a defined circle of epidermis \nis removed without removing the underlying gel (12-days after the start of \norganotypic culture).\n5 mm\npunch  biopsy\nWound healing\nWound edges\nWound edges\nA.                                                    B.\n5mm\n8mm\n1.5 mm\nOrganotypic culture: Control\nTOP VIEW\nOrganotypic culture: wounded\nTOP VIEW\n8mm\n1.5 mm\n",
+      "images": [
+        "page-89"
+      ]
+    },
+    {
+      "number": 90,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 90",
+      "text": "Wound margins\nH & E Stained sections of organotypic skin\n0 h\n24 h\n4 d\n7 d\n1 mm\n",
+      "images": [
+        "page-90"
+      ]
+    },
+    {
+      "number": 91,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 91",
+      "text": "Werner & Schafer (2008) Cancer as an over healing wound: an old hypothesis revisited (2008) Nature Reviews Molecular Cell \nBiology 9, 628-638\nCoussens & Werb (2002) Inflammation and Cancer. Nature 19; 420(6917)\nWound healing versus invasive tumour growth\nA. invasive tumour\nB. Wound healing\n",
+      "images": [
+        "page-91"
+      ]
+    },
+    {
+      "number": 92,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 92",
+      "text": "Can we find similarities with inflammatory response?\nCreated with BioRender.com\n",
+      "images": [
+        "page-92"
+      ]
+    },
+    {
+      "number": 93,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 93",
+      "text": "Different faces of inflammation and its role in \ntumorigenesis\nSingh N, Baby D, Rajguru JP, Patil PB, Thakkannavar SS, Pujari VB. Inflammation and cancer. Ann Afr Med. 2019 Jul-Sep;18(3):121-126.\ndoi: 10.4103/aam.aam_56_18. PMID: 31417011; PMCID: PMC6704802.\n",
+      "images": [
+        "page-93"
+      ]
+    },
+    {
+      "number": 94,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 94",
+      "text": "Angiogenesis in tissue repair occurs mainly by \nspouting of  new vessels \n(Kumar et al, Robins Pathologic basis of disease (9th edition)\n",
+      "images": [
+        "page-94"
+      ]
+    },
+    {
+      "number": 95,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 95",
+      "text": "Cytokine and chemokine balances regulate neoplastic outcome. The balance of \ncytokines in any given tumour is critical for regulating the type and extent of \ninflammatory infiltrate that forms. \nCoussens & Werb (2002) Inflammation and Cancer. Nature 19; 420(6917)\n",
+      "images": [
+        "page-95"
+      ]
+    },
+    {
+      "number": 96,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 96",
+      "text": "A. Three characteristic histologic \nfeatures: \n(1) collection of chronic inflammatory \ncells (*), \n(2) destruction of parenchyma (normal \nalveoli are replaced by spaces lined by \ncuboidal epithelium, arrowheads), and \n(3) replacement by connective tissue \n(fibrosis, arrows). \nB. By contrast, in acute inflammation \nof the lung (acute bronchopneumonia), \nneutrophils fill the alveolar spaces and \nblood vessels are congested.\nChronic inflammation of the lung\nhttp://quizlet.com/3192793/pathology-slides-test-2-flash-cards/\n",
+      "images": [
+        "page-96"
+      ]
+    },
+    {
+      "number": 97,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 97",
+      "text": "Figure is showing an area of central necrosis surrounded by multiple Langhans-type \ngiant cells, epithelioid cells, and lymphocytes.\nOne of the main features of the immune response to M. Tuberculosis is the formation of \nan organized structure called granuloma. It consists mainly in the recruitment at the \ninfectious stage of macrophages, highly differentiated cells such as multinucleated giant \ncells, epithelioid cells and Foamy cells, all these cells being surrounded by a rim of \nlymphocytes.\nTuberculous granuloma\nhttp://quizlet.com/3192793/pathology-slides-test-2-flash-cards/\nClinical and Developmental Immunology Volume 2012 (2012)\nFeatures\n1. Central necrosis\n2. Epithelioid macrophages\n3. Langhans-type giant cells\n4. Peripheral lymphocytes\n",
+      "images": [
+        "page-97"
+      ]
+    },
+    {
+      "number": 98,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 98",
+      "text": "Inflammation in atherosclerosis\nInflammation is the key factor in development of atherosclerosis\nAtherosclerosis, the cause of myocardial infarction, stroke, and ischemic \ngangrene, is an inflammatory disease.\nKlingenberg R , and Hansson G K Eur Heart J 2009;30:2838-\n2844\n",
+      "images": [
+        "page-98"
+      ]
+    },
+    {
+      "number": 99,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 99",
+      "text": "Chronic inflammation can go on for a long time: weeks to months to years. Seen here in \nthe synovium from the joint of a patient with rheumatoid arthritis are collections of dark \nblue lymphocytes.\nRheumatoid arthritis\nhttp://library.med.utah.edu/WebPath/INFLHTML/INFL036.html\nCreated with BioRender.com\n",
+      "images": [
+        "page-99"
+      ]
+    },
+    {
+      "number": 100,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 100",
+      "text": "Chronic inflammatory bowel disease \nTwo important forms: \n1. Ulcerative colitis\n2. Crohn’s disease\n❑Ulcerative colitis is an inflammatory condition that is limited to the inner linings of the \nrectum and colon. The risk of colon cancer is much higher in individuals with \nulcerative colitis.\n❑In Crohn’s disease, the inflammatory condition may affect any part of the \ngastrointestinal tract, from the mouth to the anus. \nGranuloma\nColon in Crohn’s disease\nhttp://www.healingwell.com/library/ibd/crohns1.asp\nhttp://commons.wikimedia.org/wiki/File:Crohn's_disease_-_colon_-_intermed_mag.jpg\nhttp://www.emedicalguild.com/ibd-overview-types-inflammatory-bowel-disease/\n",
+      "images": [
+        "page-100"
+      ]
+    },
+    {
+      "number": 101,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 101",
+      "text": "Nature 454, 463-469 (24 July 2008)\nDiet and chronic inflammation\nChronic inflammation is a metabolic inflammatory \nresponse:\nThe immune system responds to distress from adipocytes (fat \ncells) and other metabolic cell (liver, brain, muscle).\nVisceral fat (fat around the internal organs) triggers \ninflammation:\nMacrophages are activated to the site of the fat tissue and the \nbody show a small but significant increase in markers of \ninflammation (i.e. Tumor necrosis factor-a (TNF-a), \nInterleukin-6 (-6) and c-reactive protein (CRP))\n",
+      "images": [
+        "page-101"
+      ]
+    },
+    {
+      "number": 102,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 102",
+      "text": "Adipose tissue is a major \nendocrine organ that produces \nhormones and cytokines\nGray and Kim (2011) New insights into insulin resistance in the diabetic heart. Trends in Endocrinology and metabolism. \n22(10):394-403\nCause of \nincreased \nlevels LDL \n(bad cholesterol)\nRegulates \nGlucose levels \nand fatty acid \nbreak down\n",
+      "images": [
+        "page-102"
+      ]
+    },
+    {
+      "number": 103,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 103",
+      "text": "Obesity induces local inflammation in \nheart, and causes insulin resistance\nCytokine \nproduction\n",
+      "images": [
+        "page-103"
+      ]
+    },
+    {
+      "number": 104,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 104",
+      "text": "Barone et al., 2020 “The weight of obesity in breast cancer progression and \nmetastasis: clinical and molecular perspectives” Seminars in Cancer Biology 60:274\n",
+      "images": [
+        "page-104"
+      ]
+    },
+    {
+      "number": 105,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 105",
+      "text": "Obesity and Breast Cancer: A Case of Inflamed Adipose Tissue\nby Ryan Kolb and Weizhou Zhang (2020) Cancers. 12(6):1686\nObesity-associated adipose tissue inflammation\nMechanisms of obesity-driven breast cancer.\n",
+      "images": [
+        "page-105"
+      ]
+    },
+    {
+      "number": 106,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 106",
+      "text": "Q1-6 Recap, critical review\n",
+      "images": [
+        "page-106"
+      ]
+    },
+    {
+      "number": 107,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 107",
+      "text": "▪What is inflammation and what causes it?\n▪Why is inflammation so important?\n▪Why inflammation should be tightly regulated?\n▪Know the 5 cardinal signs of inflammation\n▪Know the main features of acute vs chronic inflammation and the \npredominant cell types in each\n▪Know some clinical examples of acute and chronic inflammation\nNote: Please do not forget that Dr SK will cover very important aspects of \nimmunology that you should also be aware of!\n▪Immune cell activation and chemical mediators\n▪Stages of immune cell emigration\nKey things to remember:\n",
+      "images": [
+        "page-107"
+      ]
+    },
+    {
+      "number": 108,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 108",
+      "text": "Further readings (most resent editions)\n• Robbins & Cotran Pathologic Basis of Disease \nAuthors: Vinay Kumar, Abul Abbas, Jon Aster\n•  General and Systematic Pathology\nAuthors : James C. E. Underwood & Simon S. Cross\n• Robbins Basic Pathology\nAuthors : Vinay Kumar & Abul K. Abbas & Jon Aster\n• Basic Pathology\nAuthors: Sunil Lakhani, Susan A Dilly , Caroline J Finlayson\n• The Human Body in Health & Disease\nAuthors: Kevin T. Patton, PhD and Gary A. Thibodeau, PhD\n• Other Articles from PubMed, Science direct etc.,  \n",
+      "images": [
+        "page-108"
+      ]
+    },
+    {
+      "number": 109,
+      "topic": "Inflammation II — Chronic Inflammation & Disease — original page 109",
+      "text": "Thank you for your \nattention!\n",
+      "images": [
+        "page-109"
+      ]
+    }
+  ],
+  "media": {
+    "page-63": "inflammation-chronic/page-63.jpg",
+    "page-64": "inflammation-chronic/page-64.jpg",
+    "page-65": "inflammation-chronic/page-65.jpg",
+    "page-66": "inflammation-chronic/page-66.jpg",
+    "page-67": "inflammation-chronic/page-67.jpg",
+    "page-68": "inflammation-chronic/page-68.jpg",
+    "page-69": "inflammation-chronic/page-69.jpg",
+    "page-70": "inflammation-chronic/page-70.jpg",
+    "page-71": "inflammation-chronic/page-71.jpg",
+    "page-72": "inflammation-chronic/page-72.jpg",
+    "page-73": "inflammation-chronic/page-73.jpg",
+    "page-74": "inflammation-chronic/page-74.jpg",
+    "page-75": "inflammation-chronic/page-75.jpg",
+    "page-76": "inflammation-chronic/page-76.jpg",
+    "page-77": "inflammation-chronic/page-77.jpg",
+    "page-78": "inflammation-chronic/page-78.jpg",
+    "page-79": "inflammation-chronic/page-79.jpg",
+    "page-80": "inflammation-chronic/page-80.jpg",
+    "page-81": "inflammation-chronic/page-81.jpg",
+    "page-82": "inflammation-chronic/page-82.jpg",
+    "page-83": "inflammation-chronic/page-83.jpg",
+    "page-84": "inflammation-chronic/page-84.jpg",
+    "page-85": "inflammation-chronic/page-85.jpg",
+    "page-86": "inflammation-chronic/page-86.jpg",
+    "page-87": "inflammation-chronic/page-87.jpg",
+    "page-88": "inflammation-chronic/page-88.jpg",
+    "page-89": "inflammation-chronic/page-89.jpg",
+    "page-90": "inflammation-chronic/page-90.jpg",
+    "page-91": "inflammation-chronic/page-91.jpg",
+    "page-92": "inflammation-chronic/page-92.jpg",
+    "page-93": "inflammation-chronic/page-93.jpg",
+    "page-94": "inflammation-chronic/page-94.jpg",
+    "page-95": "inflammation-chronic/page-95.jpg",
+    "page-96": "inflammation-chronic/page-96.jpg",
+    "page-97": "inflammation-chronic/page-97.jpg",
+    "page-98": "inflammation-chronic/page-98.jpg",
+    "page-99": "inflammation-chronic/page-99.jpg",
+    "page-100": "inflammation-chronic/page-100.jpg",
+    "page-101": "inflammation-chronic/page-101.jpg",
+    "page-102": "inflammation-chronic/page-102.jpg",
+    "page-103": "inflammation-chronic/page-103.jpg",
+    "page-104": "inflammation-chronic/page-104.jpg",
+    "page-105": "inflammation-chronic/page-105.jpg",
+    "page-106": "inflammation-chronic/page-106.jpg",
+    "page-107": "inflammation-chronic/page-107.jpg",
+    "page-108": "inflammation-chronic/page-108.jpg",
+    "page-109": "inflammation-chronic/page-109.jpg",
+    "fibrosis": "inflammation-chronic/fibrosis.jpg",
+    "macrophage": "inflammation-chronic/macrophage.jpg",
+    "granuloma-cells": "inflammation-chronic/granuloma-cells.jpg",
+    "tb-architecture": "inflammation-chronic/tb-architecture.jpg",
+    "tumour-links": "inflammation-chronic/tumour-links.jpg",
+    "skin-model": "inflammation-chronic/skin-model.jpg",
+    "model-repair": "inflammation-chronic/model-repair.jpg",
+    "angiogenesis": "inflammation-chronic/angiogenesis.jpg",
+    "chronic-lung": "inflammation-chronic/chronic-lung.jpg",
+    "tb-histology": "inflammation-chronic/tb-histology.jpg",
+    "atherosclerosis": "inflammation-chronic/atherosclerosis.jpg",
+    "ra-histology": "inflammation-chronic/ra-histology.jpg",
+    "crohns": "inflammation-chronic/crohns.jpg",
+    "adipose-inflammation": "inflammation-chronic/adipose-inflammation.jpg",
+    "adipokines": "inflammation-chronic/adipokines.jpg",
+    "insulin-signalling": "inflammation-chronic/insulin-signalling.jpg",
+    "adipose-cancer": "inflammation-chronic/adipose-cancer.jpg"
+  }
+}
