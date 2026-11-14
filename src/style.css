@@ -168,3 +168,7 @@
 .teaching-week-group>h3{display:flex;align-items:baseline;gap:.6rem;font-size:1.05rem;margin:.6rem 0}
 .teaching-week-group>h3>small{font-size:.7rem;font-weight:400;opacity:.7}
 .teaching-week-group .practical-collection{margin-top:.75rem}
+
+.lecture-search-toolbar{margin:18px 0 22px;padding:16px;border:1px solid var(--theme-border);border-radius:10px;background:var(--theme-panel)}
+.lecture-search-toolbar>label{display:block;font-size:13px;font-weight:600;margin-bottom:9px}.lecture-search-input{display:flex;gap:8px;align-items:center}.lecture-search-input input{flex:1;min-width:0;width:100%;min-height:44px;padding:11px 12px;border:1px solid var(--theme-border);border-radius:8px;background:var(--theme-bg);color:var(--theme-text);font:inherit;font-size:14px}.lecture-search-input .button{min-height:44px;flex-shrink:0}.lecture-search-toolbar>small{display:block;margin-top:9px;font-size:11px;color:var(--theme-muted)}.lecture-search-empty{padding:18px 0;color:var(--theme-muted);line-height:1.6}
+@media(max-width:640px){.lecture-search-input input{font-size:16px}}
