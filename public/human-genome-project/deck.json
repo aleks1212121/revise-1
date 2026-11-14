@@ -1,0 +1,602 @@
+{
+  "version": 2,
+  "lectureId": "human-genome-project",
+  "title": "The Human Genome Project — Mapping, Sequencing & Applications",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "HGP upload-1.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Purpose and reference",
+      "slide": 2,
+      "explanation": "It created a reference for investigating human genes and genetic variation.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Human Genome Project aimed to map and sequence the {{c1::human genome}}.",
+      "noteId": "human-genome-project-f51f7ed5a3bee50add24-note",
+      "id": "human-genome-project-f51f7ed5a3bee50add24",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Human Genome Project aimed to map and sequence the {{c1::human genome}}.",
+      "answer": "human genome"
+    },
+    {
+      "topic": "Purpose and reference",
+      "slide": 7,
+      "explanation": "It is neither one universally typical person nor a complete representation of all human diversity.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The original human reference sequence was assembled from {{c1::multiple donors}}.",
+      "noteId": "human-genome-project-d3eb66069e89d2b007ac-note",
+      "id": "human-genome-project-d3eb66069e89d2b007ac",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The original human reference sequence was assembled from {{c1::multiple donors}}.",
+      "answer": "multiple donors"
+    },
+    {
+      "topic": "Purpose and reference",
+      "slide": 7,
+      "explanation": "The source explains why identifying information was separated from reference sequencing.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Keeping donor identities anonymous helps protect genetic {{c1::privacy}}.",
+      "noteId": "human-genome-project-ef6129b48a1a839cfc89-note",
+      "id": "human-genome-project-ef6129b48a1a839cfc89",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Keeping donor identities anonymous helps protect genetic {{c1::privacy}}.",
+      "answer": "privacy"
+    },
+    {
+      "topic": "Mapping",
+      "slide": 8,
+      "explanation": "This differs from measuring physical base-pair locations. The slide's wording compresses this distinction.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Genetic mapping estimates relative positions from {{c1::inheritance/recombination}} patterns.",
+      "noteId": "human-genome-project-1b60cd58b443c1338256-note",
+      "id": "human-genome-project-1b60cd58b443c1338256",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Genetic mapping estimates relative positions from {{c1::inheritance/recombination}} patterns.",
+      "answer": "inheritance/recombination"
+    },
+    {
+      "topic": "Mapping",
+      "slide": 8,
+      "explanation": "This can support assembly and sequencing of genomic regions.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A physical map locates DNA features by their {{c1::physical position}}.",
+      "noteId": "human-genome-project-fc9f25290f83c2ca30dd-note",
+      "id": "human-genome-project-fc9f25290f83c2ca30dd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A physical map locates DNA features by their {{c1::physical position}}.",
+      "answer": "physical position"
+    },
+    {
+      "topic": "Mapping",
+      "slide": 9,
+      "explanation": "RFLPs are one lecture example.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An inherited variable feature used to follow a genomic region is a genetic {{c1::marker}}.",
+      "noteId": "human-genome-project-bfcc0692704146f51bd1-note",
+      "id": "human-genome-project-bfcc0692704146f51bd1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An inherited variable feature used to follow a genomic region is a genetic {{c1::marker}}.",
+      "answer": "marker"
+    },
+    {
+      "topic": "Mapping",
+      "slide": 9,
+      "explanation": "Sequence differences can alter fragment lengths after restriction digestion.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "RFLP stands for restriction fragment {{c1::length polymorphism}}.",
+      "noteId": "human-genome-project-42b372482f536789d97b-note",
+      "id": "human-genome-project-42b372482f536789d97b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "RFLP stands for restriction fragment {{c1::length polymorphism}}.",
+      "answer": "length polymorphism"
+    },
+    {
+      "topic": "Mapping",
+      "slide": 9,
+      "explanation": "A sequence variant can remove or introduce a site and alter the observed fragments.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Restriction enzymes cut at specific DNA {{c1::recognition sequences}}.",
+      "noteId": "human-genome-project-b8c96caeb4cd50e3ee8c-note",
+      "id": "human-genome-project-b8c96caeb4cd50e3ee8c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Restriction enzymes cut at specific DNA {{c1::recognition sequences}}.",
+      "answer": "recognition sequences"
+    },
+    {
+      "topic": "Preparing DNA",
+      "slide": 10,
+      "explanation": "The lecture contrasts PCR with cloning genomic fragments in vectors.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "PCR increases the amount of a selected DNA region by {{c1::amplification}}.",
+      "noteId": "human-genome-project-2514c4fb1bdd36a3c186-note",
+      "id": "human-genome-project-2514c4fb1bdd36a3c186",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "PCR increases the amount of a selected DNA region by {{c1::amplification}}.",
+      "answer": "amplification"
+    },
+    {
+      "topic": "Preparing DNA",
+      "slide": 10,
+      "explanation": "BACs are vectors used to maintain large DNA fragments.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "BAC stands for bacterial artificial {{c1::chromosome}}.",
+      "noteId": "human-genome-project-f0f0248d14648147fb55-note",
+      "id": "human-genome-project-f0f0248d14648147fb55",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "BAC stands for bacterial artificial {{c1::chromosome}}.",
+      "answer": "chromosome"
+    },
+    {
+      "topic": "Preparing DNA",
+      "slide": 10,
+      "explanation": "The source lists YACs alongside BACs as cloning tools.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "YAC stands for yeast artificial {{c1::chromosome}}.",
+      "noteId": "human-genome-project-d11649cacb95043c9a31-note",
+      "id": "human-genome-project-d11649cacb95043c9a31",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "YAC stands for yeast artificial {{c1::chromosome}}.",
+      "answer": "chromosome"
+    },
+    {
+      "topic": "Sequencing",
+      "slide": 11,
+      "explanation": "The overlaps permit reconstruction rather than sequencing a whole chromosome in a single read.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Shotgun sequencing assembles sequence from many {{c1::overlapping fragments}}.",
+      "noteId": "human-genome-project-4457a2f4dd3fd4adbce7-note",
+      "id": "human-genome-project-4457a2f4dd3fd4adbce7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Shotgun sequencing assembles sequence from many {{c1::overlapping fragments}}.",
+      "answer": "overlapping fragments"
+    },
+    {
+      "topic": "Sequencing",
+      "slide": 12,
+      "explanation": "The diagram shows a set of differently sized products used to infer order.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Sanger sequencing uses nucleotide incorporation that can {{c1::terminate a growing chain}}.",
+      "noteId": "human-genome-project-51e2ae078ec6bd9a0bc9-note",
+      "id": "human-genome-project-51e2ae078ec6bd9a0bc9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sanger sequencing uses nucleotide incorporation that can {{c1::terminate a growing chain}}.",
+      "answer": "terminate a growing chain"
+    },
+    {
+      "topic": "Sequencing",
+      "slide": 12,
+      "explanation": "This connects the series of stopped chains with base calling.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Ordering Sanger termination products by {{c1::length}} reveals their sequence order.",
+      "noteId": "human-genome-project-313f748c67e1eb643c7e-note",
+      "id": "human-genome-project-313f748c67e1eb643c7e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ordering Sanger termination products by {{c1::length}} reveals their sequence order.",
+      "answer": "length"
+    },
+    {
+      "topic": "Outputs",
+      "slide": 13,
+      "explanation": "It supports diagnosis and mechanism research; a reference alone does not establish every variant's effect.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A genome reference helps identify genes associated with {{c1::disease}}.",
+      "noteId": "human-genome-project-7dd23ec072fdc866ae03-note",
+      "id": "human-genome-project-7dd23ec072fdc866ae03",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A genome reference helps identify genes associated with {{c1::disease}}.",
+      "answer": "disease"
+    },
+    {
+      "topic": "Outputs",
+      "slide": 13,
+      "explanation": "Cataloguing variation enables comparison between genomes rather than treating the reference as every person's sequence.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "SNPs are single {{c1::nucleotide}} polymorphisms.",
+      "noteId": "human-genome-project-147bf0a2812693855f85-note",
+      "id": "human-genome-project-147bf0a2812693855f85",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "SNPs are single {{c1::nucleotide}} polymorphisms.",
+      "answer": "nucleotide"
+    },
+    {
+      "topic": "Outputs",
+      "slide": 13,
+      "explanation": "Sequence availability enables further research; it does not explain all regulation or disease causation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A reference genome is not the same as complete knowledge of every gene's {{c1::function}}.",
+      "noteId": "human-genome-project-cb6cc6268140afbf2d16-note",
+      "id": "human-genome-project-cb6cc6268140afbf2d16",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A reference genome is not the same as complete knowledge of every gene's {{c1::function}}.",
+      "answer": "function"
+    },
+    {
+      "topic": "Clinical applications",
+      "slide": 14,
+      "explanation": "This is one route towards more personalised treatment.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Studying how genetic variation affects drug response is {{c1::pharmacogenomics}}.",
+      "noteId": "human-genome-project-ac7c29352e1bc4e98660-note",
+      "id": "human-genome-project-ac7c29352e1bc4e98660",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Studying how genetic variation affects drug response is {{c1::pharmacogenomics}}.",
+      "answer": "pharmacogenomics"
+    },
+    {
+      "topic": "Clinical applications",
+      "slide": 14,
+      "explanation": "Interpretation must connect the variant, phenotype and evidence.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Testing DNA for clinically relevant variants is {{c1::genetic testing}}.",
+      "noteId": "human-genome-project-8570bc92523d769928f9-note",
+      "id": "human-genome-project-8570bc92523d769928f9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Testing DNA for clinically relevant variants is {{c1::genetic testing}}.",
+      "answer": "genetic testing"
+    },
+    {
+      "topic": "Clinical applications",
+      "slide": 14,
+      "explanation": "The relevant application is biological variation, not sequencing alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Using genetic information to tailor treatment is {{c1::personalised medicine}}.",
+      "noteId": "human-genome-project-29e529f2446ec75a1a67-note",
+      "id": "human-genome-project-29e529f2446ec75a1a67",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using genetic information to tailor treatment is {{c1::personalised medicine}}.",
+      "answer": "personalised medicine"
+    },
+    {
+      "topic": "Wider applications",
+      "slide": 15,
+      "explanation": "Identification uses informative variation rather than a name contained within DNA.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Genetic markers can assist human identification in {{c1::forensic science}}.",
+      "noteId": "human-genome-project-fb5dd42d31c3f88fbf83-note",
+      "id": "human-genome-project-fb5dd42d31c3f88fbf83",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Genetic markers can assist human identification in {{c1::forensic science}}.",
+      "answer": "forensic science"
+    },
+    {
+      "topic": "Wider applications",
+      "slide": 15,
+      "explanation": "Relatedness is assessed across evidence, not from one universal reference sequence.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Comparing genomic sequences can inform {{c1::evolutionary relationships}}.",
+      "noteId": "human-genome-project-a52e8fa67d0c31800993-note",
+      "id": "human-genome-project-a52e8fa67d0c31800993",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Comparing genomic sequences can inform {{c1::evolutionary relationships}}.",
+      "answer": "evolutionary relationships"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 1",
+      "text": "\nThe Human Genome Project\nDr Nadine Wehida\nLecturer in Genetics and Molecular Biology",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 2",
+      "text": "\n\nWhat is the Human Genome Project?\nAn international scientific research initiative aimed at mapping and understanding all the genes of the human species, collectively known as the human genome. \nLaunched in 1990 and completed in 2003, the project involved collaboration among scientists from various countries and institutions.\u000b",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 3",
+      "text": "\nWhat are the goals of the HGP?",
+      "images": []
+    },
+    {
+      "number": 4,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 4",
+      "text": "Timeline of the Human Genome Project\nPhoto Credit: [Darryl Leja, NHGRI]",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 5",
+      "text": "\nWho carried out the HGP?\nIn the US, the researchers were funded by the Department of Energy and the National Institutes of Health, which created the Office for Human Genome Research in 1988.\n\nThe sequencing of the human genome involved researchers from 20 separate universities and research centres across the United States, United Kingdom, France, Germany, Japan and China. The groups in these countries became known as the International Human Genome Sequencing Consortium.\n\n\n\n",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 6",
+      "text": "\n DNA sequencing volunteers\nA Buffalo, New York, newspaper advertisement from 1997 recruiting volunteers to provide blood samples and DNA for the Human Genome Project. (NHGRI History of Genomics Program Archive)",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 7",
+      "text": "\nAlthough most of the sequence came from one person of blended ancestry, around 30% was a patchwork of multiple people whose identities were intentionally made anonymous to protect their privacy.\n  \nWho’s DNA was sequenced?",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 8",
+      "text": "How was it technically achieved?\nGenetic and physical mapping\n\nA genetic map shows the location of genes on a genome, while a physical map shows the physical features of DNA molecules in chromosomes\nGenetic maps can help determine if a disease is linked to a gene and which chromosome it's on. Physical maps can help researchers determine the sequence of DNA base pairs\n\n\n\n",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 9",
+      "text": "\n\nHow was it technically achieved?\nGenetic mapping\nBy using genetic markers, inherited physical or molecular characteristics that are different among individuals of a population.\nRFLP are an example of a genetic marker.\nEnzymes recognise short sequences of DNA & cut them at specific sites, cutting DNA into many different fragments.",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 10",
+      "text": "\n\nDNA sequencing\nBefore sequencing the DNA need to be amplified.\nThis can be through cloning vectors such as YAC and BAC or through a polymerase chain reaction (PCR)\nSequencing of the human genome project has been achieved through both shotgun sequencing and Sanger sequencing.",
+      "images": [
+        "slide-10-image-1"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 11",
+      "text": "Shotgun sequencing\nShotgun Sequencing (genome.gov)",
+      "images": [
+        "slide-11-image-1"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 12",
+      "text": "Sanger Sequencing\nGauthier, Michel. (2007). Simulation of polymer translocation through small channels: A molecular dynamics study and a new Monte Carlo approach. /",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 13",
+      "text": "What was elucidated from the HGP?\nAdvancements in Genomic Technologies: The development of new sequencing technologies and bioinformatics tools, significantly improving the speed and accuracy of DNA sequencing. \u000b\nDisease Gene Identification: The project facilitated the identification of genes associated with specific diseases, leading to better understanding, diagnosis, and treatment of genetic disorders\n\nComplete Human Genome Sequence: A reference sequence of the human genome, identifying the location and sequence of approximately  23,000 genes, as well as several other organisms that are of research value\u000b\u000b\nUnderstanding Genetic Variation: The project provided insights into human genetic diversity and variation, including the identification of single nucleotide polymorphisms (SNPs) and other genetic markers. ",
+      "images": []
+    },
+    {
+      "number": 14,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 14",
+      "text": "Applications of the HGP\u000b\nDisease research\nPersonalised medicine\nPharmacogenomics\nGenetic testing\nGene therapy",
+      "images": []
+    },
+    {
+      "number": 15,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 15",
+      "text": "Applications of the HGP\u000b\nForensic science\nEvolutionary biology\nPublic Health and Epidemiology\nGenomic Research and Biotechnology",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 16",
+      "text": "Debnath, Mousumi & Prasad, GBKS & Bisen, Prakash. (2010). Impact of HGP on Molecular Diagnostics. 10.1007/978-90-481-3261-4_6.",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 17",
+      "text": "\nEthical considerations\n",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 18",
+      "text": "Reference Books\nMedical Genetics\n5th Edition\nEmery’s Elements of Medical Genetics\nElsevier (2017)\nEssential Medical Genetics\n6th edition \n18",
+      "images": [
+        "slide-18-image-1",
+        "slide-18-image-2",
+        "slide-18-image-3"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "The Human Genome Project — Mapping, Sequencing & Applications — source 19",
+      "text": "\nTHANK YOU!\n\n\n19",
+      "images": [
+        "slide-19-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "human-genome-project/slide-1-image-1.webp",
+    "slide-2-image-1": "human-genome-project/slide-2-image-1.webp",
+    "slide-4-image-1": "human-genome-project/slide-4-image-1.webp",
+    "slide-5-image-1": "human-genome-project/slide-5-image-1.webp",
+    "slide-6-image-1": "human-genome-project/slide-6-image-1.webp",
+    "slide-7-image-1": "human-genome-project/slide-7-image-1.webp",
+    "slide-8-image-1": "human-genome-project/slide-8-image-1.webp",
+    "slide-9-image-1": "human-genome-project/slide-9-image-1.webp",
+    "slide-10-image-1": "human-genome-project/slide-10-image-1.webp",
+    "slide-11-image-1": "human-genome-project/slide-11-image-1.webp",
+    "slide-12-image-1": "human-genome-project/slide-12-image-1.webp",
+    "slide-16-image-1": "human-genome-project/slide-16-image-1.webp",
+    "slide-18-image-1": "human-genome-project/slide-18-image-1.webp",
+    "slide-18-image-2": "human-genome-project/slide-18-image-2.webp",
+    "slide-18-image-3": "human-genome-project/slide-18-image-3.webp",
+    "slide-19-image-1": "human-genome-project/slide-19-image-1.webp"
+  },
+  "week": 4,
+  "weekEnd": 4
+}

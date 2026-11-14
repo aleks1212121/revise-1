@@ -1,0 +1,455 @@
+{
+  "version": 2,
+  "lectureId": "genetics-practical-1",
+  "title": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "LS5023 Practical 1.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "Different pathogenic variants can impair expression, trafficking or function; the protocol's folding/trafficking explanation is not every CF mechanism.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "CFTR encodes a {{c1::chloride channel}}.",
+      "noteId": "genetics-practical-1-17aad79929aafb77caf3-note",
+      "id": "genetics-practical-1-17aad79929aafb77caf3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "CFTR encodes a {{c1::chloride channel}}.",
+      "answer": "chloride channel"
+    },
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "HBB variants leave excess unpaired alpha-globin, damaging developing red cells.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Beta-thalassaemia involves reduced production of {{c1::beta-globin}}.",
+      "noteId": "genetics-practical-1-af89be3d471ff8181c0f-note",
+      "id": "genetics-practical-1-af89be3d471ff8181c0f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Beta-thalassaemia involves reduced production of {{c1::beta-globin}}.",
+      "answer": "beta-globin"
+    },
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "It encodes the beta-globin subunit of haemoglobin.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The gene linked to beta-thalassaemia in the protocol is {{c1::HBB}}.",
+      "noteId": "genetics-practical-1-1a44eaaeb9dea861a19e-note",
+      "id": "genetics-practical-1-1a44eaaeb9dea861a19e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The gene linked to beta-thalassaemia in the protocol is {{c1::HBB}}.",
+      "answer": "HBB"
+    },
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "The encoded enzyme is phenylalanine hydroxylase.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Phenylketonuria commonly involves pathogenic variants in {{c1::PAH}}.",
+      "noteId": "genetics-practical-1-44afc6654489b364c44d-note",
+      "id": "genetics-practical-1-44afc6654489b364c44d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Phenylketonuria commonly involves pathogenic variants in {{c1::PAH}}.",
+      "answer": "PAH"
+    },
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "This connects the enzyme defect with dietary management principles.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Deficient phenylalanine hydroxylase impairs metabolism of {{c1::phenylalanine}}.",
+      "noteId": "genetics-practical-1-b31ffbd4453f3b536b7b-note",
+      "id": "genetics-practical-1-b31ffbd4453f3b536b7b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Deficient phenylalanine hydroxylase impairs metabolism of {{c1::phenylalanine}}.",
+      "answer": "phenylalanine"
+    },
+    {
+      "topic": "Disease mechanisms",
+      "slide": 2,
+      "explanation": "It encodes the alpha subunit of beta-hexosaminidase A.",
+      "images": [
+        "slide-2-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Tay–Sachs gene highlighted in the protocol is {{c1::HEXA}}.",
+      "noteId": "genetics-practical-1-5af7083d65da2cd4f3b5-note",
+      "id": "genetics-practical-1-5af7083d65da2cd4f3b5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Tay–Sachs gene highlighted in the protocol is {{c1::HEXA}}.",
+      "answer": "HEXA"
+    },
+    {
+      "topic": "Tracking DNA",
+      "slide": 4,
+      "explanation": "Avoid transferring the precipitated debris; the retained fraction changes later in the procedure. Supporting diagram: practical overview, slide 9.",
+      "images": [
+        "overview-9"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "After the neutralisation/clarification step, the protocol transfers DNA-containing {{c1::supernatant}} to the spin column.",
+      "noteId": "genetics-practical-1-1da547690173330aaa99-note",
+      "id": "genetics-practical-1-1da547690173330aaa99",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After the neutralisation/clarification step, the protocol transfers DNA-containing {{c1::supernatant}} to the spin column.",
+      "answer": "supernatant"
+    },
+    {
+      "topic": "Tracking DNA",
+      "slide": 4,
+      "explanation": "Discarded flow-through is not the final DNA sample. Supporting diagram: practical overview, slide 9.",
+      "images": [
+        "overview-9"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "During column washing, the fraction retained for the next step is the {{c1::column-bound DNA}}.",
+      "noteId": "genetics-practical-1-a9c5b4ab5482aa54cdbc-note",
+      "id": "genetics-practical-1-a9c5b4ab5482aa54cdbc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During column washing, the fraction retained for the next step is the {{c1::column-bound DNA}}.",
+      "answer": "column-bound DNA"
+    },
+    {
+      "topic": "Tracking DNA",
+      "slide": 4,
+      "explanation": "The extra spin helps remove residual wash fluid before elution. Supporting diagram: practical overview, slide 9.",
+      "images": [
+        "overview-9"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The protocol's wash solution contains {{c1::ethanol}}.",
+      "noteId": "genetics-practical-1-fb284978c2d0918a4524-note",
+      "id": "genetics-practical-1-fb284978c2d0918a4524",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The protocol's wash solution contains {{c1::ethanol}}.",
+      "answer": "ethanol"
+    },
+    {
+      "topic": "Tracking DNA",
+      "slide": 4,
+      "explanation": "Residual contaminants can impair subsequent reactions; concentration alone is not sufficient quality control. Supporting diagram: practical overview, slide 9.",
+      "images": [
+        "overview-9"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The final dry spin reduces carry-over of {{c1::wash solution}}.",
+      "noteId": "genetics-practical-1-a4bb90cd1224e19192bc-note",
+      "id": "genetics-practical-1-a4bb90cd1224e19192bc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The final dry spin reduces carry-over of {{c1::wash solution}}.",
+      "answer": "wash solution"
+    },
+    {
+      "topic": "Tracking DNA",
+      "slide": 5,
+      "explanation": "The column can then be discarded; confusing this with wash flow-through loses the sample. Supporting diagram: practical overview, slide 9.",
+      "images": [
+        "overview-9"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "After elution, the sample retained is the DNA-containing {{c1::eluate}}.",
+      "noteId": "genetics-practical-1-d95a738864b2fc83624c-note",
+      "id": "genetics-practical-1-d95a738864b2fc83624c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After elution, the sample retained is the DNA-containing {{c1::eluate}}.",
+      "answer": "eluate"
+    },
+    {
+      "topic": "Quantification",
+      "slide": 5,
+      "explanation": "This accounts for background absorbance from the solvent. Supporting diagram: practical overview, slide 10.",
+      "images": [
+        "overview-10"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The spectrophotometer is blanked using the sample's {{c1::elution buffer}}.",
+      "noteId": "genetics-practical-1-c705f122d151af6a7b4d-note",
+      "id": "genetics-practical-1-c705f122d151af6a7b4d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The spectrophotometer is blanked using the sample's {{c1::elution buffer}}.",
+      "answer": "elution buffer"
+    },
+    {
+      "topic": "Quantification",
+      "slide": 5,
+      "explanation": "It is not the DNA concentration itself; the source does not specify a universal acceptance threshold. Supporting diagram: practical overview, slide 10.",
+      "images": [
+        "overview-10"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The A260/A280 ratio is used as an indicator of nucleic-acid {{c1::purity}}.",
+      "noteId": "genetics-practical-1-6f43970db8d3e3db43d0-note",
+      "id": "genetics-practical-1-6f43970db8d3e3db43d0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The A260/A280 ratio is used as an indicator of nucleic-acid {{c1::purity}}.",
+      "answer": "purity"
+    },
+    {
+      "topic": "Quantification",
+      "slide": 5,
+      "explanation": "Combining different patient sources would compromise attribution of a later variant. Supporting diagram: practical overview, slide 10.",
+      "images": [
+        "overview-10"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Pooling in this protocol requires samples from the {{c1::same source}}.",
+      "noteId": "genetics-practical-1-54e5d5226cae5cde8603-note",
+      "id": "genetics-practical-1-54e5d5226cae5cde8603",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pooling in this protocol requires samples from the {{c1::same source}}.",
+      "answer": "same source"
+    },
+    {
+      "topic": "PCR controls",
+      "slide": 6,
+      "explanation": "Other reaction components should otherwise be comparable. Supporting diagram: practical overview, slide 11.",
+      "images": [
+        "overview-11"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The experimental and no-template reactions differ in whether they receive {{c1::template DNA}}.",
+      "noteId": "genetics-practical-1-9e4fd97ed2edcbe51aec-note",
+      "id": "genetics-practical-1-9e4fd97ed2edcbe51aec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The experimental and no-template reactions differ in whether they receive {{c1::template DNA}}.",
+      "answer": "template DNA"
+    },
+    {
+      "topic": "PCR controls",
+      "slide": 6,
+      "explanation": "It undermines confidence that the sample band derives solely from the intended sample. Supporting diagram: practical overview, slide 11.",
+      "images": [
+        "overview-11"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A target-sized band in the no-template control raises concern about {{c1::contamination}}.",
+      "noteId": "genetics-practical-1-d08ddc978f9fbe86d8b0-note",
+      "id": "genetics-practical-1-d08ddc978f9fbe86d8b0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A target-sized band in the no-template control raises concern about {{c1::contamination}}.",
+      "answer": "contamination"
+    },
+    {
+      "topic": "PCR controls",
+      "slide": 6,
+      "explanation": "No band in both sample and NTC cannot distinguish failed PCR from absence of an amplifiable sample without further evidence. Supporting diagram: practical overview, slide 11.",
+      "images": [
+        "overview-11"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A no-template control is not a {{c1::positive amplification control}}.",
+      "noteId": "genetics-practical-1-0aca06d60e5f975b5474-note",
+      "id": "genetics-practical-1-0aca06d60e5f975b5474",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A no-template control is not a {{c1::positive amplification control}}.",
+      "answer": "positive amplification control"
+    },
+    {
+      "topic": "PCR controls",
+      "slide": 6,
+      "explanation": "The downstream sequencing stage is needed to investigate variants. Supporting diagram: practical overview, slide 11.",
+      "images": [
+        "overview-11"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Amplifying a gene does not alone establish that its sequence is {{c1::normal}}.",
+      "noteId": "genetics-practical-1-c8fca3d14235a91e50c8-note",
+      "id": "genetics-practical-1-c8fca3d14235a91e50c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Amplifying a gene does not alone establish that its sequence is {{c1::normal}}.",
+      "answer": "normal"
+    },
+    {
+      "topic": "PCR controls",
+      "slide": 6,
+      "explanation": "The thermal cycler makes products; the gel checks their apparent size and presence. Supporting diagram: practical overview, slide 11.",
+      "images": [
+        "overview-11"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The PCR products will be checked using agarose gel {{c1::electrophoresis}}.",
+      "noteId": "genetics-practical-1-b78107f68ae7468fccc9-note",
+      "id": "genetics-practical-1-b78107f68ae7468fccc9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The PCR products will be checked using agarose gel {{c1::electrophoresis}}.",
+      "answer": "electrophoresis"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 1",
+      "text": "LS5023 Medical Genetics \nPractical 1: DNA extraction \n \n \n",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 2",
+      "text": "Introduction \nSingle-gene disorders are conditions caused by mutations in a specific gene. Examples include cystic \nfibrosis, sickle cell anaemia, phenylketonuria, and Tay-Sachs disease. Molecular genetic testing for \nsingle-gene disorders is crucial in clinical practice as it provides an objective diagnosis, leading to \nproper patient management, facilitating genetic counselling, and potential prevention of disease \ntransmission in future pregnancies. \nOne of the widely used methods for the molecular genetic diagnosis of single-gene disorders is \ngene/mutation-targeted testing using Sanger sequencing. Despite the development of next-\ngeneration sequencing (NGS) techniques, Sanger sequencing remains the gold standard test for \nmany single-gene disorders due to its cost-effectiveness and quick turnaround time.  \nGenetic disorders under investigation \nEach group of students will investigate one of the following disorders: \n1. Cystic fibrosis: an inherited disorder caused by biallelic mutations in the CFTR gene, which \nencodes a chloride channel protein. Mutations in the CFTR gene impair the folding and \ntrafficking of the CFTR protein to the cell membrane, leading to reduced chloride transport \nand mucus accumulation in the lungs and other organs. \n2. Beta thalassaemia: an inherited blood disorder caused by mutations in the HBB gene, which \nencodes the beta-globin subunit of haemoglobin. These mutations reduce or abolish the \nproduction of beta-globin, leaving an excess of unpaired alpha-globin chains that damage \nthe developing red blood cells and cause them to be destroyed prematurely. The result is a \nshortage of healthy red blood cells, leading to severe complications including anaemia, \nineffective red blood cell production, enlargement of the spleen and liver, iron overload, \nsusceptibility to infections, and damage to body organs. \n3. Phenylketonuria: an inherited disorder caused by biallelic mutations in the PAH gene, which \nencodes for the enzyme phenylalanine hydroxylase. The disorder inhibits the body’s ability \nto metabolize the essential amino acid phenylalanine, leading to an intolerance to dietary \nintake of phenylalanine. \n4. Tay-Sachs disease: an inherited disorder caused by biallelic mutations in the HEXA gene, \nwhich encodes the alpha subunit of the enzyme beta-hexosaminidase A. It results in the \ndestruction of nerve cells in the brain and spinal cord. \n \n",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 3",
+      "text": "Session Overview \n• Practical 1: DNA extraction from a peripheral blood sample for patients with one of the \nabove-mentioned genetic diseases. \nReagents and equipment \nThe following materials and equipment are required for the lab sessions: \n• \nCell sample of a patient with one of the four listed diseases. \n• \nDNA extraction kit. \n• \nNanodrop. \n \n \n",
+      "images": [
+        "slide-3-image-1"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 4",
+      "text": "Practical 1: DNA extraction \nStudents will extract DNA from a cell sample of a patient with one of the above-mentioned \ndiseases. \nStudents should work individually. \n \nPart 1: Spin column genomic DNA preparation (Solution tubes are shared between 4 students): \n \n1. \nLabel a 1.5ml ml tube of sample material (provided for you) with your initials & date. \n2. Centrifuge at 13000rpm, 4° C to pellet the cells. THIS STEP HAS BEEN DONE FOR YOU \n3. \nPipette off the supernatant (Dispose of in waste bucket provided) \n4. \nAdd 250 μl of the Resuspension Solution (with RNase A) to the tube. \n5. \nResuspended the cells completely by vortexing until no cell clumps remain. \n6. \nAdd 250 μl of the Lysis Solution to the tube. \n7. \nMix thoroughly by inverting the tube 4-6 times. Do not vortex. \n8. \nAdd 350 μl of the Neutralization Solution to the tube. \n9. \nMix immediately and thoroughly by inverting the tube 4-6 times. \n10. \nCentrifuge for 5 minutes at 13,000 rpm. \n11. \nLabel a GeneJET™ spin column, collection tube, and a 1.5 ml sample tube. \n12. \nCarefully, transfer the supernatant (containing the DNA) to the GeneJET™ spin \ncolumn by pipetting. Avoid disturbing or transferring the white precipitate. This is best \nachieved by setting your P200 micropipette to 200 μl and gently removing 200 μl of the \nsupernatant at a time. \n13. \nCentrifuge the GeneJET™ spin column for 1 minute at 13,000 rpm. \n14. \nDiscard the flow-through and place the column back into the same collection tube. \n15. \nAdd 500 μl of the Wash Solution (containing ethanol) to the GeneJET™ spin column. \n16. \nCentrifuge the GeneJET™ spin column for 1 minute at 13,000 rpm. \n17. \nDiscard the flow-through and place the column back into the same collection tube. \n18. \nAdd 500 μl of the Wash Solution (containing ethanol) to the GeneJET™ spin column. \n19. \nCentrifuge the GeneJET™ spin column for 1 minute at 13,000 rpm. \n20. \nDiscard the flow-through and place the column back into the same collection tube. \n21. \nCentrifuge the GeneJET™ spin column for an additional 1 minute at 13,000 rpm. \n",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 5",
+      "text": "22. \nTransfer the GeneJET™ spin column into the fresh, labeled 1.5 ml microcentrifuge \ntube. \n23. \nAdd  25 μl of the Elution Buffer to the center of GeneJET™ spin column membrane. \n24. \nIncubate the GeneJET™ spin column and Elution Buffer for 2 minutes at room \ntemperature. \n25. \nCentrifuge for 2 minutes at 13,000 rpm. \n26. \nDiscard the GeneJET™ spin column. \n27. \nEnsure that the 1.5 ml tube containing the DNA is properly labelled. \n \nPart 2: Determination of the concentration of the extracted DNA using a nanodrop: \n \nSTUDENTS SHOULD WORK IN PAIRS FOR THIS PART OF THE PROTOCOL. \n \n1. \n‘Pool’ your DNA sample with that of a fellow student (SAME SOURCE) \n2. \nLoad 2 µl of Elution Buffer onto the Nanodrop sample plate and read the blank. \n3. \nWipe the upper and lower plates with lens tissue. \n4. \nLoad 2 µl of Elution Buffer onto the Nanodrop sample plate and read the blank. \n5. \nWipe the upper and lower plates with lens tissue. \n6. \nLoad 2 µl of your extracted DNA onto the sample plate and read the concentration. \nRecord this on the plasmid tube  \nA260/A280 \nConcentration \n \n \n \n \n",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Genetics Practical 1 — DNA Extraction, Quality & PCR Controls — source 6",
+      "text": "Part 3: Setting up the Polymerase Chain Reaction (PCR) for a target gene:  \n \nSTUDENTS SHOULD WORK IN PAIRS FOR THIS PART OF THE PROTOCOL. \n \n1. \nLabel the 2 tubes containing the 20 µl DreamTaq Green PCR Master Mix (the green solution) \nwith your initials & the numbers 1 & 2. \n \n2. \nAdd to the 20 µl DreamTaq Green PCR Master Mix in TUBE 1: \n \n \n5 μl of oligonucleotide primer (5 μM) – labeled F \n \n \n5 μl of oligonucleotide primer (5 μM) – labeled R \n \n \n10 μl of your DNA (~1 μg/μl)  \n \n \n \n \n3. \nAdd to the 20 µl DreamTaq Green PCR Master Mix in TUBE 2: \n \n \n5 μl of oligonucleotide primer (5 μM) – labeled F \n \n \n5 μl of oligonucleotide primer (5 μM) – labeled R \n \n \n10 μl of water \n \nThis tube is to be a ‘no template control’  \n \n \n4. \nSeal the tube and place in the thermal cycler. The thermal cycler will be programmed & run \nfor you. \n5. \nYou will visualize your PCR products by agarose gel electrophoresis in the next practical \nsession. \n \n \n",
+      "images": [
+        "slide-6-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "genetics-practical-1/slide-1-image-1.webp",
+    "slide-2-image-1": "genetics-practical-1/slide-2-image-1.webp",
+    "slide-3-image-1": "genetics-practical-1/slide-3-image-1.webp",
+    "slide-4-image-1": "genetics-practical-1/slide-4-image-1.webp",
+    "slide-5-image-1": "genetics-practical-1/slide-5-image-1.webp",
+    "slide-6-image-1": "genetics-practical-1/slide-6-image-1.webp",
+    "overview-9": "genetics-practical-1/overview-slide-9-image-1.webp",
+    "overview-10": "genetics-practical-1/overview-slide-10-image-1.webp",
+    "overview-11": "genetics-practical-1/overview-slide-11-image-1.webp"
+  },
+  "week": 4,
+  "weekEnd": 7
+}

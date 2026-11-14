@@ -161,3 +161,10 @@
  .study-mode .flashcard .slide-pictures{max-height:clamp(180px,30vh,210px)}
  .study-mode .study-diagrams .slide-pictures{max-height:clamp(200px,33vh,230px)}
 }
+
+/* Teaching weeks organise the collection without changing review scheduling. */
+.lecture-week{display:inline-block;font-size:.72rem;line-height:1.4;font-weight:600;padding:.15rem .5rem;margin:.15rem .25rem;border:1px solid currentColor;border-radius:1rem;vertical-align:middle;opacity:.85;white-space:nowrap}
+.teaching-week-group{margin-top:1.4rem;padding-top:.4rem;border-top:1px solid var(--line,#c8c8c844)}
+.teaching-week-group>h3{display:flex;align-items:baseline;gap:.6rem;font-size:1.05rem;margin:.6rem 0}
+.teaching-week-group>h3>small{font-size:.7rem;font-weight:400;opacity:.7}
+.teaching-week-group .practical-collection{margin-top:.75rem}

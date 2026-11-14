@@ -1,0 +1,800 @@
+{
+  "version": 2,
+  "lectureId": "lab-safety",
+  "title": "Laboratory Safety — CoSHH, Containment & Risk",
+  "moduleId": "infection-immunity",
+  "moduleName": "",
+  "moduleCode": "LS5008",
+  "source": "Safe working practices and current legislation canvas sttudent notes 2020.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Safe working",
+      "slide": 5,
+      "explanation": "It protects workers and limits onward transmission; chemical and radiation risks also need controls.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Good microbiological practice reduces exposure to sources of {{c1::infection}}.",
+      "noteId": "lab-safety-38081fc42d19910daf79-note",
+      "id": "lab-safety-38081fc42d19910daf79",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Good microbiological practice reduces exposure to sources of {{c1::infection}}.",
+      "answer": "infection"
+    },
+    {
+      "topic": "Exposure routes",
+      "slide": 7,
+      "explanation": "Microbes can pass from fingers or contaminated objects to the mouth.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Eating with contaminated hands can cause laboratory infection by {{c1::ingestion}}.",
+      "noteId": "lab-safety-de61828df791c928b30a-note",
+      "id": "lab-safety-de61828df791c928b30a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Eating with contaminated hands can cause laboratory infection by {{c1::ingestion}}.",
+      "answer": "ingestion"
+    },
+    {
+      "topic": "Exposure routes",
+      "slide": 7,
+      "explanation": "Sharps can breach the protective skin barrier.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A contaminated needlestick is a {{c1::percutaneous}} exposure.",
+      "noteId": "lab-safety-37b91a47ac7889cf2ece-note",
+      "id": "lab-safety-37b91a47ac7889cf2ece",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A contaminated needlestick is a {{c1::percutaneous}} exposure.",
+      "answer": "percutaneous"
+    },
+    {
+      "topic": "Exposure routes",
+      "slide": 7,
+      "explanation": "Contaminated fingers can also transfer organisms to this mucosal surface.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infectious splash into the eye exposes the {{c1::conjunctiva}}.",
+      "noteId": "lab-safety-7b2c5a96fac0d661d042-note",
+      "id": "lab-safety-7b2c5a96fac0d661d042",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infectious splash into the eye exposes the {{c1::conjunctiva}}.",
+      "answer": "conjunctiva"
+    },
+    {
+      "topic": "Exposure routes",
+      "slide": 7,
+      "explanation": "An aerosol may be generated without an obvious visible spill.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Airborne laboratory aerosols create a risk of {{c1::inhalation}} exposure.",
+      "noteId": "lab-safety-520e7917bcbf8c6c4729-note",
+      "id": "lab-safety-520e7917bcbf8c6c4729",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Airborne laboratory aerosols create a risk of {{c1::inhalation}} exposure.",
+      "answer": "inhalation"
+    },
+    {
+      "topic": "Asepsis",
+      "slide": 9,
+      "explanation": "It limits escape of the handled organism and entry of unwanted environmental organisms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Aseptic practice protects both the worker and the {{c1::culture}} from contamination.",
+      "noteId": "lab-safety-4cbcb0e9fd345866df93-note",
+      "id": "lab-safety-4cbcb0e9fd345866df93",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Aseptic practice protects both the worker and the {{c1::culture}} from contamination.",
+      "answer": "culture"
+    },
+    {
+      "topic": "Asepsis",
+      "slide": 10,
+      "explanation": "Use approved mechanical pipetting equipment rather than risking ingestion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Pipetting by {{c1::mouth}} is prohibited in microbiological work.",
+      "noteId": "lab-safety-0fdd7ac0fbe17acedadd-note",
+      "id": "lab-safety-0fdd7ac0fbe17acedadd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pipetting by {{c1::mouth}} is prohibited in microbiological work.",
+      "answer": "mouth"
+    },
+    {
+      "topic": "Asepsis",
+      "slide": 10,
+      "explanation": "Gloves and laboratory coats do not replace hand hygiene.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Before leaving a microbiology laboratory, workers should {{c1::wash their hands}}.",
+      "noteId": "lab-safety-01331159519c114e25c1-note",
+      "id": "lab-safety-01331159519c114e25c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Before leaving a microbiology laboratory, workers should {{c1::wash their hands}}.",
+      "answer": "wash their hands"
+    },
+    {
+      "topic": "Asepsis",
+      "slide": 11,
+      "explanation": "The safety issue is dispersal into air, not only direct contact with liquid.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Vigorous culture handling and poorly sealed centrifuge tubes can generate infectious {{c1::aerosols}}.",
+      "noteId": "lab-safety-dc8f6af26027df70f6dd-note",
+      "id": "lab-safety-dc8f6af26027df70f6dd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vigorous culture handling and poorly sealed centrifuge tubes can generate infectious {{c1::aerosols}}.",
+      "answer": "aerosols"
+    },
+    {
+      "topic": "Safety oversight",
+      "slide": 12,
+      "explanation": "The source discusses HSE alongside advisory and security bodies; its historical dates are not a current legal checklist.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The UK regulator abbreviated HSE is the {{c1::Health and Safety Executive}}.",
+      "noteId": "lab-safety-fd0a4096430ffe8af1f1-note",
+      "id": "lab-safety-fd0a4096430ffe8af1f1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The UK regulator abbreviated HSE is the {{c1::Health and Safety Executive}}.",
+      "answer": "Health and Safety Executive"
+    },
+    {
+      "topic": "Safety oversight",
+      "slide": 12,
+      "explanation": "It provides advice concerning biological agents and their hazards.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "ACDP stands for Advisory Committee on {{c1::Dangerous Pathogens}}.",
+      "noteId": "lab-safety-9d319126d44ce6d8171f-note",
+      "id": "lab-safety-9d319126d44ce6d8171f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ACDP stands for Advisory Committee on {{c1::Dangerous Pathogens}}.",
+      "answer": "Dangerous Pathogens"
+    },
+    {
+      "topic": "Risk assessment",
+      "slide": 13,
+      "explanation": "Biological agents as well as hazardous chemicals can be relevant to a laboratory assessment.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "CoSHH addresses substances {{c1::hazardous to health}}.",
+      "noteId": "lab-safety-9ceb2c472bafbe6f1567-note",
+      "id": "lab-safety-9ceb2c472bafbe6f1567",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "CoSHH addresses substances {{c1::hazardous to health}}.",
+      "answer": "hazardous to health"
+    },
+    {
+      "topic": "Safety responsibilities",
+      "slide": 14,
+      "explanation": "Workers also have responsibilities to use controls and follow safe procedures.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Providing suitable training and fit-for-purpose safety equipment is an {{c1::employer}} responsibility.",
+      "noteId": "lab-safety-d3232050e9cbae0a46cb-note",
+      "id": "lab-safety-d3232050e9cbae0a46cb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Providing suitable training and fit-for-purpose safety equipment is an {{c1::employer}} responsibility.",
+      "answer": "employer"
+    },
+    {
+      "topic": "Safety responsibilities",
+      "slide": 14,
+      "explanation": "The lecture includes containment, disinfection and waste disposal within this remit.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The BSO advises on laboratory {{c1::biological safety}}.",
+      "noteId": "lab-safety-5125a0cb0bb4f97d1e4d-note",
+      "id": "lab-safety-5125a0cb0bb4f97d1e4d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The BSO advises on laboratory {{c1::biological safety}}.",
+      "answer": "biological safety"
+    },
+    {
+      "topic": "Hazard and containment",
+      "slide": 15,
+      "explanation": "The four-group scheme increases towards HG4.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lowest biological hazard group is {{c1::HG1}}.",
+      "noteId": "lab-safety-9585ab163cd808deff06-note",
+      "id": "lab-safety-9585ab163cd808deff06",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lowest biological hazard group is {{c1::HG1}}.",
+      "answer": "HG1"
+    },
+    {
+      "topic": "Hazard and containment",
+      "slide": 15,
+      "explanation": "Hazard grouping describes the agent; containment describes controls applied to work.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The highest biological hazard group is {{c1::HG4}}.",
+      "noteId": "lab-safety-0faa0d48415f002861d8-note",
+      "id": "lab-safety-0faa0d48415f002861d8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The highest biological hazard group is {{c1::HG4}}.",
+      "answer": "HG4"
+    },
+    {
+      "topic": "Hazard and containment",
+      "slide": 16,
+      "explanation": "The lecture pairs their numbers as a teaching rule. The actual activity and risk assessment determine the required controls; a numbered group alone is not a complete operating instruction.",
+      "images": [
+        "slide-16-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A pathogen's hazard group and a laboratory's containment level describe {{c1::different things}}.",
+      "noteId": "lab-safety-b9e3a7070cf66abbc9c6-note",
+      "id": "lab-safety-b9e3a7070cf66abbc9c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A pathogen's hazard group and a laboratory's containment level describe {{c1::different things}}.",
+      "answer": "different things"
+    },
+    {
+      "topic": "Hazard examples",
+      "slide": 17,
+      "explanation": "This is a source example rather than a claim that every yeast is low hazard.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The yeast example used for HG1 in the lecture is {{c1::Saccharomyces cerevisiae}}.",
+      "noteId": "lab-safety-b542a6db57cf8e1c09f5-note",
+      "id": "lab-safety-b542a6db57cf8e1c09f5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The yeast example used for HG1 in the lecture is {{c1::Saccharomyces cerevisiae}}.",
+      "answer": "Saccharomyces cerevisiae"
+    },
+    {
+      "topic": "Hazard examples",
+      "slide": 18,
+      "explanation": "Species, strain, activity and the current approved list matter when assessing real work.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture places Mycobacterium tuberculosis in {{c1::hazard group 3}}.",
+      "noteId": "lab-safety-ac1d62a8a34501a357ad-note",
+      "id": "lab-safety-ac1d62a8a34501a357ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture places Mycobacterium tuberculosis in {{c1::hazard group 3}}.",
+      "answer": "hazard group 3"
+    },
+    {
+      "topic": "Hazard examples",
+      "slide": 19,
+      "explanation": "Do not generalise all viruses to one hazard group.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ebola virus is used as an example of {{c1::hazard group 4}}.",
+      "noteId": "lab-safety-4812bb8058f5d2df6bf5-note",
+      "id": "lab-safety-4812bb8058f5d2df6bf5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ebola virus is used as an example of {{c1::hazard group 4}}.",
+      "answer": "hazard group 4"
+    },
+    {
+      "topic": "Safety cabinets",
+      "slide": 21,
+      "explanation": "The lecture particularly discusses containment-level 2 and 3 work; selection depends on the risk assessment.",
+      "images": [
+        "slide-21-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A microbiological safety cabinet is indicated when work creates a risk of infectious {{c1::aerosol exposure}}.",
+      "noteId": "lab-safety-512b71bf9d74fd02f15e-note",
+      "id": "lab-safety-512b71bf9d74fd02f15e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A microbiological safety cabinet is indicated when work creates a risk of infectious {{c1::aerosol exposure}}.",
+      "answer": "aerosol exposure"
+    },
+    {
+      "topic": "Safety cabinets",
+      "slide": 21,
+      "explanation": "Correct selection and installation are also necessary; the presence of a cabinet alone is insufficient.",
+      "images": [
+        "slide-21-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A safety cabinet must be correctly used and {{c1::maintained}} to provide its intended protection.",
+      "noteId": "lab-safety-c34999653a19ef923e96-note",
+      "id": "lab-safety-c34999653a19ef923e96",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A safety cabinet must be correctly used and {{c1::maintained}} to provide its intended protection.",
+      "answer": "maintained"
+    },
+    {
+      "topic": "Safety cabinets",
+      "slide": 22,
+      "explanation": "It is a particle-filtration term, not proof that all gases or vapours are removed.",
+      "images": [
+        "slide-22-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "HEPA means High Efficiency {{c1::Particulate Air}} filtration.",
+      "noteId": "lab-safety-edc3708c640cfcf95ebc-note",
+      "id": "lab-safety-edc3708c640cfcf95ebc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HEPA means High Efficiency {{c1::Particulate Air}} filtration.",
+      "answer": "Particulate Air"
+    },
+    {
+      "topic": "Safety cabinets",
+      "slide": 25,
+      "explanation": "The layout diagram emphasises keeping cabinet airflow unobstructed.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Nearby movement can disturb the protective {{c1::airflow}} of a safety cabinet.",
+      "noteId": "lab-safety-48d6b77ba320c1c11641-note",
+      "id": "lab-safety-48d6b77ba320c1c11641",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Nearby movement can disturb the protective {{c1::airflow}} of a safety cabinet.",
+      "answer": "airflow"
+    },
+    {
+      "topic": "Transport",
+      "slide": 27,
+      "explanation": "The slide illustrates layered containment and clear hazard labelling. Current transport requirements must be checked separately rather than inferred from this old slide.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infectious specimen needs secure primary containment plus {{c1::secondary containment}}.",
+      "noteId": "lab-safety-775d990929d56f943af0-note",
+      "id": "lab-safety-775d990929d56f943af0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infectious specimen needs secure primary containment plus {{c1::secondary containment}}.",
+      "answer": "secondary containment"
+    },
+    {
+      "topic": "Genetic modification",
+      "slide": 28,
+      "explanation": "Risk cannot be assumed unchanged merely because the starting strain was familiar.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Genetic modification may change a microorganism's {{c1::hazard}}.",
+      "noteId": "lab-safety-a1fb58e73e160e9a03a9-note",
+      "id": "lab-safety-a1fb58e73e160e9a03a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Genetic modification may change a microorganism's {{c1::hazard}}.",
+      "answer": "hazard"
+    },
+    {
+      "topic": "Genetic modification",
+      "slide": 29,
+      "explanation": "The source also emphasises local oversight and monitoring.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Choosing a less hazardous host is a form of {{c1::risk reduction}} in genetic modification.",
+      "noteId": "lab-safety-f704015497ffe7f72c75-note",
+      "id": "lab-safety-f704015497ffe7f72c75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Choosing a less hazardous host is a form of {{c1::risk reduction}} in genetic modification.",
+      "answer": "risk reduction"
+    },
+    {
+      "topic": "Genetic modification",
+      "slide": 30,
+      "explanation": "These are distinct potential recipients of harm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A GM risk assessment considers human health, animal health and the {{c1::environment}}.",
+      "noteId": "lab-safety-5b971ecaf6fe8401ab30-note",
+      "id": "lab-safety-5b971ecaf6fe8401ab30",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A GM risk assessment considers human health, animal health and the {{c1::environment}}.",
+      "answer": "environment"
+    },
+    {
+      "topic": "Genetic modification",
+      "slide": 30,
+      "explanation": "The uploaded safety slides contain historical legal and classification statements; current procedures must use current institutional and HSE guidance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "New knowledge should trigger review of the GM {{c1::risk assessment}}.",
+      "noteId": "lab-safety-2fb777bdacffd7733bf8-note",
+      "id": "lab-safety-2fb777bdacffd7733bf8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "New knowledge should trigger review of the GM {{c1::risk assessment}}.",
+      "answer": "risk assessment"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 1",
+      "text": "Safe working practices and current legislation, including those relating to genetic manipulation\nDr. Simon Gould",
+      "images": []
+    },
+    {
+      "number": 2,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 2",
+      "text": "By the end of this lecture you should able; \nTo understand  the need for safety within the any laboratory (with a focus on micro).\nIdentify the governing bodies and current legislation, including genetic manipulation.\nDescription of the Hazard Group and the containment level required, plus identify  micro-organisms in those groups. Appreciate the important and workload involved in laboratory safety.\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 3",
+      "text": "How many safety infringement can you spot \nPicture demonstrating three students no following safety regulation with a microbiology laboratory",
+      "images": [
+        "slide-3-image-1"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 4",
+      "text": "Safe working practices \n\t“There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we now know we don’t know. But there are also unknown unknowns. These are things we do not know we don’t know. ” \n\t-United States Secretary of Defence Donald Rumsfeld\n\n\nhttp://politicalhumor.about.com/cs/quotethis/a/rumsfeldquotes.htm",
+      "images": []
+    },
+    {
+      "number": 5,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 5",
+      "text": "Safe working practices  #2\nWhy do we need them?\nTo reduce contact with sources of infection.\nTo avoid transmission of infection. \nTo reduce contact with sources of harmful chemical, radiation.\nWorking with micro-organism involves: \n“Good microbiological practice”.\nContainment.\n",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 6",
+      "text": "What are we trying to prevent ?\n\nImperial collage London Foundation training in laboratory safety\nhttp://news.bbc.co.uk/1/hi/uk/6993169.stm\nPictures showing laboratory injuries and new report ",
+      "images": [
+        "slide-6-image-1",
+        "slide-6-image-2",
+        "slide-6-image-3",
+        "slide-6-image-4",
+        "slide-6-image-5",
+        "slide-6-image-6",
+        "slide-6-image-7",
+        "slide-6-image-8"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 7",
+      "text": "Route of tranmission of microbes \nIngestion\nEating, drinking and smoking in the laboratory.\nTransfer of micro-organisms to mouth by: \ncontaminated fingers or articles.\nSkin (percutaneous)\nSkin puncture by needle or other sharps.\nBites and scratches by animals.\nExisting cuts or scratches.\nConjunctiva\nSplashes of infectious material into the eye.\nTransfer to eye by contaminated fingers or \n   articles.\nInhalation\nInhalation of airbourne hazards ie. aerosols.\n\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\u000b\nPictures shown route of transmission ",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 8",
+      "text": "Good microbiological practice (GMP) & Containment \u000b\nWhat do we class as micro-organisms:\nBacteria\nFungi\nProtozoa \nViruses \nPrions",
+      "images": []
+    },
+    {
+      "number": 9,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 9",
+      "text": "Good microbiological practice \u000b& Containment #2\nWhen handling micro-organism aseptic techniques should be used at all times.\nWhy?\nTo prevent contamination of the laboratory or personnel by the organisms being handled\nTo prevent contamination of the organisms from the environment or handler \n",
+      "images": []
+    },
+    {
+      "number": 10,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 10",
+      "text": "Aseptic techniques include: \nNo mouth pipetting.\nNo eating, drinking, smoking or applying makeup or mobiles.\nGeneral tidiness and cleanliness: \nCleaning up spillage with suitable agent. \nPlacing used pipette in disinfectant tip down.\nClearly label all specimens.\nLoops sterilised immediately after use in Bunsen flame and ensuring the loop is not overload to prevent spitting.\nWash hand before leaving the laboratory.\nNo open toes or soft fabric shoes.\nDesignated Micro lab coat and safety glass\n\n",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 11",
+      "text": "Aseptic techniques include: \nAvoid creation of aerosols:\nDon’t blow material from pipettes.\nDon’t shake cultures too vigorously.\nDon’t expose culture to air for too long.\nCare should be taken with post-mortem dissection.\nCare when grinding/homogenisation tissue.\nCare when centrifugation – tube should be well sealed.\n",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 12",
+      "text": "Current legislation \nStrict legislation for control of the handing of micro-organism.\nControl by a number of government bodies: \nHealth and Safety Executive (HSE) (Act 1974).\nAdvisory Committee on Dangerous Pathogens (ACDP). \nThe National Counter Terrorism Security Office (NaCTSO).\nThese bodies have produced a number of reports\nThe Howie report – established code of practice for prevention of infection in clinical labs and post-mortem room.\nCategorise pathogens according to hazard and category of containment (ACDP).\n“The approved list of biological agent” last updated 2013\n\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 13",
+      "text": "Current legislation #2\nControl of Substance Hazardous to Health (COSHH).\nGenetic modified organism (GMO) .",
+      "images": [
+        "slide-13-image-1",
+        "slide-13-image-2",
+        "slide-13-image-3"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 14",
+      "text": "Safe in the laboratory: who’s job is it?\nThe employer: \nMust provide safety  training and equipment fit for purpose. \nBiological Safety Office (BSO) who sits on the safety committee:\nHazard Advise on microbiological safety.\nHazard groups that can be safely work with: \nContainment. \nDisinfection .\nSafe dispose of waste material.\nThe employee “YOU AS A WORKER”.\nLegally obligation. ",
+      "images": []
+    },
+    {
+      "number": 15,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 15",
+      "text": "Assessment of risk\nMicrobial pathogens are categorised according to hazard and containment by ACDP. \nMicro organisms are categorised in one of four group:\nHazard group 1 contains micro-organisms with the lowest level of risk.\nHazard group 4 contain micro-organisms with the highest level of risk.  \n",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 16",
+      "text": "Containment\nHazards groups handle in same level containment (laboratory).\n \nHazard\u000bGroup 1\nHazard\u000bGroup 2\nHazard\u000bGroup 3\nHazard\u000bGroup 4\nIncreasing hazard to human health\nLab containment\u000bLevel 1\nLab containment \nLevel 2\nLab containment \nLevel 3\nLab containment \nLevel 4\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\u000b",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 17",
+      "text": "Hazard Grouping (HG) \nExample of Hazard group 1 pathogens:\nBacteria: Bacillius subtilis, Lactobacillus casei\nYeast: Saccharomyces cerevisiae\nExample of hazard group 2 microbes:\nBacteria: Escherichia coli, methicillin resistant Staphlyococcus aureus, Clostridium tetani (tetanus).\nFungi: Candida albicans (thrush), Aspergillus sp. (lung disease).\nParasite: Toxoplasma gondii (toxoplasmosis), Schistosoma mansoni (schistosomiesis).\nVirus: Epstein-barr virus (glandular fever), Measles virus, Mumps virus, polio virus (vaccines existed), BCG vaccine.\n\n\nhttp://www.hse.gov.uk/biosafety/biologagents.pdf",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 18",
+      "text": "Hazard Grouping #4\nExample of hazard group 3 microbes:\nBacteria: Bacillus anthrasis (anthrax), Mycobacterium tuberculosis (tuberculosis).\nFungi: Histoplasma (histoplasmosis).\nParasite: Trypanosoma brucei rhodesiense (toxoplasmosis).\nViruses: HIV, Rabies virus, Hepatitis. \nhttp://www.hse.gov.uk/biosafety/biologagents.pdf",
+      "images": []
+    },
+    {
+      "number": 19,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 19",
+      "text": "Hazard Grouping #6\nExamples of hazard group 4 microbes:\nOnly consists of viruses: Lassa fever, Congo Hemorrhagic fever virus, Ebola fever, Herpes virus simiae, Smallpox virus (white pox virus)\n\nhttp://www.hse.gov.uk/biosafety/biologagents.pdf",
+      "images": []
+    },
+    {
+      "number": 20,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 20",
+      "text": "Category 4 laboratory #2\n\n\nSecondary control \nmeasure\n\n\nThe worker\n\n\nPrimary control measure\n\nFigure showing the separation of areas in CAT 4 lab \nBio-hazard suit ",
+      "images": [
+        "slide-20-image-1",
+        "slide-20-image-2"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 21",
+      "text": "Microbiological safety cabinets (MSC)\nRequired for work at containment level 2 and 3 if the work presents a risk of aerosol exposure:\nMust be correctly selected (type and make).\nMust be correctly installed.\nMust be correctly used.\nMust be correctly maintained.\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\u000b",
+      "images": [
+        "slide-21-image-1"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 22",
+      "text": "MSC  - class I\n\n\n\n\n\n\n\n\n\n\nUSER\nHigh Efficiency Particulate \nAir (HEPA)\nfilter\n\nFigure showing the air flow into the cabinet ",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 23",
+      "text": "MSC  - class II\n\n\n\n\n\n\n\n\n\nUSER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownflow\u000bHEPA filter\n\n\n\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\u000b\nHigh Efficiency Particulate \nAir (HEPA)\nfilter\nFigure showing the air flow into the cabinet ",
+      "images": [
+        "slide-23-image-1"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 24",
+      "text": "MSC – class III\n\n\n\n\n\n\nUSER\nHEPA filter\n\n\n\n\n\nHEPA filter\n\n\n\n\n\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\nhttp://www.google.co.uk/imgres?imgurl=http://web.princeton.edu/sites/ehs/biosafety/livevirusworker/18a-Autoclavetape.jpg&imgrefurl=http://web.princeton.edu/sites/ehs/biosafety/livevirusworker/decontamination.htm&usg=__mazENUD732mS5lXuhnwOaDsszho=&h=960&w=1280&sz=82&hl=en&start=47&zoom=1&itbs=1&tbnid=NMc-zURl3JWT-M:&tbnh=113&tbnw=150&prev=/search%3Fq%3Dtaping%2Bup%2Ba%2Bautoclave%2Bbags%26start%3D40%26hl%3Den%26sa%3DN%26ndsp%3D20%26biw%3D1259%26bih%3D878%26tbm%3Disch%26prmd%3Divns&ei=AbbLTfa-LMGGswbntbXbAw\n\u000b\nFigure showing the air flow into the cabinet ",
+      "images": [
+        "slide-24-image-1"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 25",
+      "text": "MSC – airflow sensitivity\n\nMSC\n\n\n\n\nbench\n\n\n\n\n\n\n\nMSC\n\n\n\n\nbench\n\n\n\n\n300 mm\n\nDo not have another worker at an adjacent bench\nAllow adequate room for workers at nearby benches\nhttps://www8.imperial.ac.uk/.../healthandsafety/Module%201%20Sept%2009v1.ppt\u000b",
+      "images": []
+    },
+    {
+      "number": 26,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 26",
+      "text": "Movement of microbes\nMove of pathogen between laboratory has always been problematic. \nRegulation have been tighten since early 2000.\nRegulated by  number of agencies:\nDepartment of transport\nTransport of infectious substance (2006).\nACDP, NaCTSO and HSE.\nHazard group 3 and 4 microbes must not sent through the post. \nGroup 4 microbes usually have a police escort and expert used to handling the pathogen.\nGroup 4 microbes also require government approval before  movement.  \nhttp://webarchive.nationalarchives.gov.uk/+/http://www.dft.gov.uk/pgr/freight/dgt1/guidance/guidancenonclass7/guidanceontransportofinfecti3186",
+      "images": []
+    },
+    {
+      "number": 27,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 27",
+      "text": "Movement of microbes cont.\nSpecimen should be in:\t\nIn a double container\nContainer should be metal/plastic with a screw top\nLabelled clearly with biohazard warning\n\nPrimary container\n\n\nSecondly container\n",
+      "images": []
+    },
+    {
+      "number": 28,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 28",
+      "text": "Genetic manipulation/modification organism (GMO)\nGenetic make up of microbes may change naturally (antibiotic resistance) or intentionally in the laboratory.\nTherefore may be necessary to up-grade their hazard group.\nRegulated by  number of agencies: \nGuidance from the Scientific Advisory Committee on Genetic Modification (SACGM);\nHSE. \nADCP.\nDepartment for Environment, Food and Rural Affairs (DEFRA).\nScottish Executive Environment and Rural Affairs Department (SSREAD).",
+      "images": []
+    },
+    {
+      "number": 29,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 29",
+      "text": "GMO #2\nWithin laboratory GMO is regulated by:\nGM committee and the BSO.\nAre subject to all regulations that affect non GMO microbiology laboratories.   \nSubject to a higher level of monitoring\nHealth surveillance of employees to detect adverse reaction/ill health to prevent further exposure.\nChoose the less hazardous microbe to manipulate.\n",
+      "images": []
+    },
+    {
+      "number": 30,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 30",
+      "text": "GMO #3\nGM risk assessment should consider the potential impact to:\t\nHuman health.\nAnimal health.\nThe environment.\nGM risk assessment should be reviewed regularly and up date in light of new knowledge: \nThese risk assessments must be kept for 10 years after the work has end. ",
+      "images": []
+    },
+    {
+      "number": 31,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 31",
+      "text": "Summary \nSafe working practises in any laboratory is paramount.\nEspecially important in microbiology when the risk may be unknown.\nIt is a highly legislated by a number of bodies:\nHSE, ACDP, NaCTSO, DoT, DEFRA.\nMicro organism are categorised into group with HG1 being the lowest group and 4 being the highest group.\nHG are manipulated at the same containment level.\n\n",
+      "images": []
+    },
+    {
+      "number": 32,
+      "topic": "Laboratory Safety — CoSHH, Containment & Risk — source 32",
+      "text": "Future reading \nBiological agents: Managing the risks in laboratories and healthcare premises\nhttp://www.hse.gov.uk/biosafety/biologagents.pdf\nThe approved list of biological agents\nhttp://www.hse.gov.uk/pubns/misc208.pdf\n32",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-3-image-1": "lab-safety/slide-3-image-1.webp",
+    "slide-6-image-1": "lab-safety/slide-6-image-1.webp",
+    "slide-6-image-2": "lab-safety/slide-6-image-2.webp",
+    "slide-6-image-3": "lab-safety/slide-6-image-3.webp",
+    "slide-6-image-4": "lab-safety/slide-6-image-4.webp",
+    "slide-6-image-5": "lab-safety/slide-6-image-5.webp",
+    "slide-6-image-6": "lab-safety/slide-6-image-6.webp",
+    "slide-6-image-7": "lab-safety/slide-6-image-7.webp",
+    "slide-6-image-8": "lab-safety/slide-6-image-8.webp",
+    "slide-7-image-1": "lab-safety/slide-7-image-1.webp",
+    "slide-13-image-1": "lab-safety/slide-13-image-1.webp",
+    "slide-13-image-2": "lab-safety/slide-13-image-2.webp",
+    "slide-13-image-3": "lab-safety/slide-13-image-3.webp",
+    "slide-16-image-1": "lab-safety/slide-16-image-1.webp",
+    "slide-20-image-1": "lab-safety/slide-20-image-1.webp",
+    "slide-20-image-2": "lab-safety/slide-20-image-2.webp",
+    "slide-21-image-1": "lab-safety/slide-21-image-1.webp",
+    "slide-22-image-1": "lab-safety/slide-22-image-1.webp",
+    "slide-23-image-1": "lab-safety/slide-23-image-1.webp",
+    "slide-24-image-1": "lab-safety/slide-24-image-1.webp"
+  },
+  "week": 1,
+  "weekEnd": 1
+}

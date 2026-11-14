@@ -1,0 +1,1346 @@
+{
+  "version": 2,
+  "lectureId": "human-microbiome",
+  "title": "The Human Microbiome — Communities, Protection & Dysbiosis",
+  "moduleId": "infection-immunity",
+  "moduleName": "",
+  "moduleCode": "LS5008",
+  "source": "The_Human_Microbiome_LS5008-30.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Core concepts",
+      "slide": 4,
+      "explanation": "Microbiome is used more broadly to include collective genes and activities.",
+      "images": [
+        "slide-4-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The organisms in a host-associated community are the {{c1::microbiota}}.",
+      "noteId": "human-microbiome-e64476e9d99d222464be-note",
+      "id": "human-microbiome-e64476e9d99d222464be",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The organisms in a host-associated community are the {{c1::microbiota}}.",
+      "answer": "microbiota"
+    },
+    {
+      "topic": "Core concepts",
+      "slide": 4,
+      "explanation": "This is the distinction used in the lecture rather than treating both terms as exact synonyms.",
+      "images": [
+        "slide-4-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The microbiome includes microbial organisms plus their collective {{c1::genes and activities}}.",
+      "noteId": "human-microbiome-ec1bd93f6449f3e05ca1-note",
+      "id": "human-microbiome-ec1bd93f6449f3e05ca1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The microbiome includes microbial organisms plus their collective {{c1::genes and activities}}.",
+      "answer": "genes and activities"
+    },
+    {
+      "topic": "Core concepts",
+      "slide": 4,
+      "explanation": "Local physical and chemical conditions influence which organisms persist.",
+      "images": [
+        "slide-4-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Different body sites support {{c1::distinct microbial communities}}.",
+      "noteId": "human-microbiome-a5b0397bac3aa29fef63-note",
+      "id": "human-microbiome-a5b0397bac3aa29fef63",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Different body sites support {{c1::distinct microbial communities}}.",
+      "answer": "distinct microbial communities"
+    },
+    {
+      "topic": "Core concepts",
+      "slide": 5,
+      "explanation": "The source does not support the older universal claim of ten microbial cells per human cell.",
+      "images": [
+        "slide-5-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Human-associated microbial and human cell numbers are roughly of the {{c1::same order of magnitude}}.",
+      "noteId": "human-microbiome-a6655a3f0daf3112ee60-note",
+      "id": "human-microbiome-a6655a3f0daf3112ee60",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Human-associated microbial and human cell numbers are roughly of the {{c1::same order of magnitude}}.",
+      "answer": "same order of magnitude"
+    },
+    {
+      "topic": "Core concepts",
+      "slide": 5,
+      "explanation": "This is a distribution statement, not evidence that other sites are sterile.",
+      "images": [
+        "slide-5-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Most human-associated microbial biomass is found in the {{c1::colon}}.",
+      "noteId": "human-microbiome-2ebc3c282c7f3f95f616-note",
+      "id": "human-microbiome-2ebc3c282c7f3f95f616",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most human-associated microbial biomass is found in the {{c1::colon}}.",
+      "answer": "colon"
+    },
+    {
+      "topic": "Studying communities",
+      "slide": 6,
+      "explanation": "Traditional culture recovers only part of the community.",
+      "images": [
+        "slide-6-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Bacterial community profiling commonly uses the {{c1::16S rRNA gene}}.",
+      "noteId": "human-microbiome-0ba0ff897ee1e4b3a6ec-note",
+      "id": "human-microbiome-0ba0ff897ee1e4b3a6ec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Bacterial community profiling commonly uses the {{c1::16S rRNA gene}}.",
+      "answer": "16S rRNA gene"
+    },
+    {
+      "topic": "Studying communities",
+      "slide": 6,
+      "explanation": "This asks about genetic potential beyond identification by culture alone.",
+      "images": [
+        "slide-6-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Studying a community's collective genes and pathways uses {{c1::metagenomics}}.",
+      "noteId": "human-microbiome-4933b437a5283bea0dca-note",
+      "id": "human-microbiome-4933b437a5283bea0dca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Studying a community's collective genes and pathways uses {{c1::metagenomics}}.",
+      "answer": "metagenomics"
+    },
+    {
+      "topic": "Community development",
+      "slide": 7,
+      "explanation": "The lecture marks the exact start of colonisation with a question mark; it should not be treated as proof of a healthy placental microbiome.",
+      "images": [
+        "slide-7-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Diet, antibiotics, environment and {{c1::age}} can change microbiome composition.",
+      "noteId": "human-microbiome-8049cea61c65653fff8b-note",
+      "id": "human-microbiome-8049cea61c65653fff8b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Diet, antibiotics, environment and {{c1::age}} can change microbiome composition.",
+      "answer": "age"
+    },
+    {
+      "topic": "Gut functions",
+      "slide": 9,
+      "explanation": "This can provide usable metabolites from otherwise indigestible material.",
+      "images": [
+        "slide-9-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Gut microbes ferment dietary components that the host cannot fully {{c1::digest}}.",
+      "noteId": "human-microbiome-4828e41f6b23988f1a23-note",
+      "id": "human-microbiome-4828e41f6b23988f1a23",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gut microbes ferment dietary components that the host cannot fully {{c1::digest}}.",
+      "answer": "digest"
+    },
+    {
+      "topic": "Gut functions",
+      "slide": 9,
+      "explanation": "These metabolites can benefit the host rather than being merely waste products.",
+      "images": [
+        "slide-9-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Colonic fermentation produces {{c1::short-chain fatty acids}}.",
+      "noteId": "human-microbiome-131619de8163ec614e59-note",
+      "id": "human-microbiome-131619de8163ec614e59",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Colonic fermentation produces {{c1::short-chain fatty acids}}.",
+      "answer": "short-chain fatty acids"
+    },
+    {
+      "topic": "Gut functions",
+      "slide": 9,
+      "explanation": "Microbes and immune cells continually interact.",
+      "images": [
+        "slide-9-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Commensal microbes contribute to immune-system {{c1::development and regulation}}.",
+      "noteId": "human-microbiome-6d7a88ea57702245cfba-note",
+      "id": "human-microbiome-6d7a88ea57702245cfba",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Commensal microbes contribute to immune-system {{c1::development and regulation}}.",
+      "answer": "development and regulation"
+    },
+    {
+      "topic": "Colonisation resistance",
+      "slide": 10,
+      "explanation": "Competition and inhibitory microbial products help maintain this protection.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Protection against invading microbes by resident communities is {{c1::colonisation resistance}}.",
+      "noteId": "human-microbiome-0fbd96d45e30469d6ec8-note",
+      "id": "human-microbiome-0fbd96d45e30469d6ec8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Protection against invading microbes by resident communities is {{c1::colonisation resistance}}.",
+      "answer": "colonisation resistance"
+    },
+    {
+      "topic": "Colonisation resistance",
+      "slide": 10,
+      "explanation": "Loss of residents can open an ecological niche for opportunists.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Resident microbes limit pathogen establishment by competing for nutrients and {{c1::attachment sites}}.",
+      "noteId": "human-microbiome-c89cb9566d0f398e1354-note",
+      "id": "human-microbiome-c89cb9566d0f398e1354",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resident microbes limit pathogen establishment by competing for nutrients and {{c1::attachment sites}}.",
+      "answer": "attachment sites"
+    },
+    {
+      "topic": "Colonisation resistance",
+      "slide": 10,
+      "explanation": "Competition is therefore not restricted to consumption of nutrients.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Resident microbes may inhibit invaders by producing {{c1::antimicrobial compounds}}.",
+      "noteId": "human-microbiome-feb089b5fc59fe2d57d9-note",
+      "id": "human-microbiome-feb089b5fc59fe2d57d9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Resident microbes may inhibit invaders by producing {{c1::antimicrobial compounds}}.",
+      "answer": "antimicrobial compounds"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 11,
+      "explanation": "Species and abundance vary across skin sites.",
+      "images": [
+        "slide-11-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Common skin-associated bacterial genera include Staphylococcus, Corynebacterium and {{c1::Cutibacterium}}.",
+      "noteId": "human-microbiome-194089d04a62f1488aca-note",
+      "id": "human-microbiome-194089d04a62f1488aca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Common skin-associated bacterial genera include Staphylococcus, Corynebacterium and {{c1::Cutibacterium}}.",
+      "answer": "Cutibacterium"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 12,
+      "explanation": "Colonisation does not automatically equal active infection.",
+      "images": [
+        "slide-12-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A person may carry Staphylococcus aureus in the nose without {{c1::symptoms}}.",
+      "noteId": "human-microbiome-de580950fb730993e05d-note",
+      "id": "human-microbiome-de580950fb730993e05d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A person may carry Staphylococcus aureus in the nose without {{c1::symptoms}}.",
+      "answer": "symptoms"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 13,
+      "explanation": "The external auditory canal is a wax-rich microbial habitat.",
+      "images": [
+        "slide-13-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Disruption of external ear communities may contribute to {{c1::otitis externa}}.",
+      "noteId": "human-microbiome-8af930c88dc11ffc5049-note",
+      "id": "human-microbiome-8af930c88dc11ffc5049",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Disruption of external ear communities may contribute to {{c1::otitis externa}}.",
+      "answer": "otitis externa"
+    },
+    {
+      "topic": "Eye and mouth",
+      "slide": 14,
+      "explanation": "Low biomass does not mean that a sequencing signal automatically proves a stable resident community.",
+      "images": [
+        "slide-14-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Tear flow and antimicrobial compounds keep ocular microbial biomass relatively {{c1::low}}.",
+      "noteId": "human-microbiome-c6bdf2cde8cef9e9acde-note",
+      "id": "human-microbiome-c6bdf2cde8cef9e9acde",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tear flow and antimicrobial compounds keep ocular microbial biomass relatively {{c1::low}}.",
+      "answer": "low"
+    },
+    {
+      "topic": "Eye and mouth",
+      "slide": 15,
+      "explanation": "Its organisation matters, rather than treating it as a random collection of free-floating cells.",
+      "images": [
+        "slide-15-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Dental plaque is a structured microbial {{c1::biofilm}}.",
+      "noteId": "human-microbiome-5f5bcee5d01978078827-note",
+      "id": "human-microbiome-5f5bcee5d01978078827",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dental plaque is a structured microbial {{c1::biofilm}}.",
+      "answer": "biofilm"
+    },
+    {
+      "topic": "Eye and mouth",
+      "slide": 15,
+      "explanation": "Microbial community disturbance can harm a normally colonised site.",
+      "images": [
+        "slide-15-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Oral dysbiosis contributes to caries and {{c1::periodontal disease}}.",
+      "noteId": "human-microbiome-f1130a7091346b78c570-note",
+      "id": "human-microbiome-f1130a7091346b78c570",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Oral dysbiosis contributes to caries and {{c1::periodontal disease}}.",
+      "answer": "periodontal disease"
+    },
+    {
+      "topic": "Eye and mouth",
+      "slide": 16,
+      "explanation": "The rough tongue surface supports dense biofilms.",
+      "images": [
+        "slide-16-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Tongue-community disturbance may contribute to {{c1::halitosis}}.",
+      "noteId": "human-microbiome-12414db1ecbff5b57636-note",
+      "id": "human-microbiome-12414db1ecbff5b57636",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tongue-community disturbance may contribute to {{c1::halitosis}}.",
+      "answer": "halitosis"
+    },
+    {
+      "topic": "Respiratory communities",
+      "slide": 17,
+      "explanation": "The former blanket view of healthy lungs as sterile is oversimplified.",
+      "images": [
+        "slide-17-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Healthy lungs contain {{c1::low-biomass microbial communities}}.",
+      "noteId": "human-microbiome-24557015aa1f997b8b75-note",
+      "id": "human-microbiome-24557015aa1f997b8b75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Healthy lungs contain {{c1::low-biomass microbial communities}}.",
+      "answer": "low-biomass microbial communities"
+    },
+    {
+      "topic": "Respiratory communities",
+      "slide": 17,
+      "explanation": "Their detection must be interpreted in the context of biomass and sampling.",
+      "images": [
+        "slide-17-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Microorganisms reach the lungs by inhalation and {{c1::aspiration}}.",
+      "noteId": "human-microbiome-839c90deac5fdeec0777-note",
+      "id": "human-microbiome-839c90deac5fdeec0777",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Microorganisms reach the lungs by inhalation and {{c1::aspiration}}.",
+      "answer": "aspiration"
+    },
+    {
+      "topic": "Reproductive communities",
+      "slide": 18,
+      "explanation": "There is biological variation between healthy individuals.",
+      "images": [
+        "slide-18-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Many healthy vaginal communities are dominated by {{c1::Lactobacillus}} species.",
+      "noteId": "human-microbiome-46003713f80ed576f852-note",
+      "id": "human-microbiome-46003713f80ed576f852",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Many healthy vaginal communities are dominated by {{c1::Lactobacillus}} species.",
+      "answer": "Lactobacillus"
+    },
+    {
+      "topic": "Reproductive communities",
+      "slide": 18,
+      "explanation": "The acidic environment contributes to resistance against some pathogens.",
+      "images": [
+        "slide-18-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Vaginal Lactobacillus helps maintain low pH by producing {{c1::lactic acid}}.",
+      "noteId": "human-microbiome-5b895a86348ffd81eb2c-note",
+      "id": "human-microbiome-5b895a86348ffd81eb2c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vaginal Lactobacillus helps maintain low pH by producing {{c1::lactic acid}}.",
+      "answer": "lactic acid"
+    },
+    {
+      "topic": "Sterile sites and evidence",
+      "slide": 19,
+      "explanation": "Gut–brain signalling does not require microbes living in brain tissue.",
+      "images": [
+        "slide-19-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A stable resident microbiome has not been established in the healthy {{c1::brain}}.",
+      "noteId": "human-microbiome-9b3c6d80c6063fc36847-note",
+      "id": "human-microbiome-9b3c6d80c6063fc36847",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A stable resident microbiome has not been established in the healthy {{c1::brain}}.",
+      "answer": "brain"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 20,
+      "explanation": "Odour can reflect microbial activity rather than sweat alone.",
+      "images": [
+        "slide-20-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Many axillary body odours result from bacterial metabolism of {{c1::sweat-derived compounds}}.",
+      "noteId": "human-microbiome-0cef1ded110751d0ab31-note",
+      "id": "human-microbiome-0cef1ded110751d0ab31",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Many axillary body odours result from bacterial metabolism of {{c1::sweat-derived compounds}}.",
+      "answer": "sweat-derived compounds"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 22,
+      "explanation": "Nail crevices can carry both transient and resident organisms.",
+      "images": [
+        "slide-22-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Handwashing should include the {{c1::fingernails}} because microbes can become trapped beneath them.",
+      "noteId": "human-microbiome-13527dfbda69a588fbfb-note",
+      "id": "human-microbiome-13527dfbda69a588fbfb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Handwashing should include the {{c1::fingernails}} because microbes can become trapped beneath them.",
+      "answer": "fingernails"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 23,
+      "explanation": "Footwear and moisture alter the local environment.",
+      "images": [
+        "slide-23-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The fungal group linked to toenail disease in the lecture is {{c1::dermatophytes}}.",
+      "noteId": "human-microbiome-123fc0ed4c101c8fe5f2-note",
+      "id": "human-microbiome-123fc0ed4c101c8fe5f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The fungal group linked to toenail disease in the lecture is {{c1::dermatophytes}}.",
+      "answer": "dermatophytes"
+    },
+    {
+      "topic": "Skin and appendages",
+      "slide": 24,
+      "explanation": "This is a fungal genus, illustrating that the microbiota is not exclusively bacterial.",
+      "images": [
+        "slide-24-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture includes Malassezia among {{c1::hair/scalp-associated}} microbes.",
+      "noteId": "human-microbiome-64fdfb2c10b389b365d2-note",
+      "id": "human-microbiome-64fdfb2c10b389b365d2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture includes Malassezia among {{c1::hair/scalp-associated}} microbes.",
+      "answer": "hair/scalp-associated"
+    },
+    {
+      "topic": "Gut habitats",
+      "slide": 25,
+      "explanation": "Helicobacter pylori can persist in some individuals despite this barrier.",
+      "images": [
+        "slide-25-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The stomach's {{c1::acidity}} limits its microbial biomass.",
+      "noteId": "human-microbiome-fd8a6c16649e511875e2-note",
+      "id": "human-microbiome-fd8a6c16649e511875e2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The stomach's {{c1::acidity}} limits its microbial biomass.",
+      "answer": "acidity"
+    },
+    {
+      "topic": "Gut habitats",
+      "slide": 26,
+      "explanation": "Different intestinal regions are distinct ecological niches.",
+      "images": [
+        "slide-26-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Rapid transit, bile salts and digestive enzymes help keep small-intestinal density lower than the {{c1::colon}}.",
+      "noteId": "human-microbiome-5d9d0b6d0521598952f3-note",
+      "id": "human-microbiome-5d9d0b6d0521598952f3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Rapid transit, bile salts and digestive enzymes help keep small-intestinal density lower than the {{c1::colon}}.",
+      "answer": "colon"
+    },
+    {
+      "topic": "Gut habitats",
+      "slide": 27,
+      "explanation": "Local oxygen availability helps explain community composition.",
+      "images": [
+        "slide-27-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The oxygen-poor colon favours {{c1::anaerobic bacteria}}.",
+      "noteId": "human-microbiome-a8f5454c1b6bba07f827-note",
+      "id": "human-microbiome-a8f5454c1b6bba07f827",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The oxygen-poor colon favours {{c1::anaerobic bacteria}}.",
+      "answer": "anaerobic bacteria"
+    },
+    {
+      "topic": "Urinary communities",
+      "slide": 28,
+      "explanation": "The historic assumption that every healthy urinary site is sterile is too broad.",
+      "images": [
+        "slide-28-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Healthy bladders can harbour microbial {{c1::communities}}.",
+      "noteId": "human-microbiome-c9cbd48c3bc21e19632e-note",
+      "id": "human-microbiome-c9cbd48c3bc21e19632e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Healthy bladders can harbour microbial {{c1::communities}}.",
+      "answer": "communities"
+    },
+    {
+      "topic": "Urinary communities",
+      "slide": 29,
+      "explanation": "The source notes DNA and viable organisms in urine; sampling, symptoms and clinical context matter.",
+      "images": [
+        "slide-29-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Finding microbial DNA does not by itself establish {{c1::infection}}.",
+      "noteId": "human-microbiome-aea3a89979e3fc81abd2-note",
+      "id": "human-microbiome-aea3a89979e3fc81abd2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Finding microbial DNA does not by itself establish {{c1::infection}}.",
+      "answer": "infection"
+    },
+    {
+      "topic": "Sterile sites and evidence",
+      "slide": 30,
+      "explanation": "Detection during infection does not establish a normal resident community.",
+      "images": [
+        "slide-30-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "No reliable resident microbiome has been demonstrated in healthy {{c1::kidneys}}.",
+      "noteId": "human-microbiome-8caae1f128e69038065c-note",
+      "id": "human-microbiome-8caae1f128e69038065c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "No reliable resident microbiome has been demonstrated in healthy {{c1::kidneys}}.",
+      "answer": "kidneys"
+    },
+    {
+      "topic": "Sterile sites and evidence",
+      "slide": 31,
+      "explanation": "This gut–liver interaction does not establish a healthy resident liver microbiome.",
+      "images": [
+        "slide-31-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Gut microbial products can reach the liver through the {{c1::circulation}}.",
+      "noteId": "human-microbiome-ac188a315caba551fec0-note",
+      "id": "human-microbiome-ac188a315caba551fec0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gut microbial products can reach the liver through the {{c1::circulation}}.",
+      "answer": "circulation"
+    },
+    {
+      "topic": "Sterile sites and evidence",
+      "slide": 32,
+      "explanation": "A low-biomass signal needs careful controls; microbes in blood can indicate infection.",
+      "images": [
+        "slide-32-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Claims of a normal blood microbiome are confounded by sampling {{c1::contamination}}.",
+      "noteId": "human-microbiome-84aafe8eba8402cb2311-note",
+      "id": "human-microbiome-84aafe8eba8402cb2311",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Claims of a normal blood microbiome are confounded by sampling {{c1::contamination}}.",
+      "answer": "contamination"
+    },
+    {
+      "topic": "Sterile sites and evidence",
+      "slide": 33,
+      "explanation": "The lecture supports no established normal resident placental microbiome in healthy pregnancies.",
+      "images": [
+        "slide-33-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Many reported placental microbiome signals were attributed to {{c1::contamination}}.",
+      "noteId": "human-microbiome-7e4ebd11253d2b860749-note",
+      "id": "human-microbiome-7e4ebd11253d2b860749",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Many reported placental microbiome signals were attributed to {{c1::contamination}}.",
+      "answer": "contamination"
+    },
+    {
+      "topic": "Dysbiosis",
+      "slide": 35,
+      "explanation": "This can include loss of beneficial organisms and overgrowth of others.",
+      "images": [
+        "slide-35-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Disruption of a usual microbial community is called {{c1::dysbiosis}}.",
+      "noteId": "human-microbiome-b94831676ffceaf162f2-note",
+      "id": "human-microbiome-b94831676ffceaf162f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Disruption of a usual microbial community is called {{c1::dysbiosis}}.",
+      "answer": "dysbiosis"
+    },
+    {
+      "topic": "Dysbiosis",
+      "slide": 36,
+      "explanation": "An opportunist can exploit the resulting ecological space.",
+      "images": [
+        "slide-36-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Broad-spectrum antibiotics can weaken colonisation resistance by reducing community {{c1::diversity}}.",
+      "noteId": "human-microbiome-fed166beca908cc65d75-note",
+      "id": "human-microbiome-fed166beca908cc65d75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Broad-spectrum antibiotics can weaken colonisation resistance by reducing community {{c1::diversity}}.",
+      "answer": "diversity"
+    },
+    {
+      "topic": "Dysbiosis",
+      "slide": 37,
+      "explanation": "Barrier disruption, site change or overgrowth can allow a resident organism to cause disease.",
+      "images": [
+        "slide-37-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Infection arising from an organism already carried by the host is {{c1::endogenous infection}}.",
+      "noteId": "human-microbiome-ec0b6d5c084cab0d393d-note",
+      "id": "human-microbiome-ec0b6d5c084cab0d393d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Infection arising from an organism already carried by the host is {{c1::endogenous infection}}.",
+      "answer": "endogenous infection"
+    },
+    {
+      "topic": "Evidence and intervention",
+      "slide": 38,
+      "explanation": "Disease may change the microbiome, or both may share another cause.",
+      "images": [
+        "slide-38-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "An association between dysbiosis and disease does not prove {{c1::causation}}.",
+      "noteId": "human-microbiome-843324c49f6ef5e2b197-note",
+      "id": "human-microbiome-843324c49f6ef5e2b197",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An association between dysbiosis and disease does not prove {{c1::causation}}.",
+      "answer": "causation"
+    },
+    {
+      "topic": "Evidence and intervention",
+      "slide": 39,
+      "explanation": "The lecture highlights recurrent Clostridioides difficile infection as an important application.",
+      "images": [
+        "slide-39-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "FMT transfers donor {{c1::stool microbiota}} to a recipient.",
+      "noteId": "human-microbiome-64e4180567ebf71bbfe6-note",
+      "id": "human-microbiome-64e4180567ebf71bbfe6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "FMT transfers donor {{c1::stool microbiota}} to a recipient.",
+      "answer": "stool microbiota"
+    },
+    {
+      "topic": "Evidence and intervention",
+      "slide": 39,
+      "explanation": "This supports the importance of restoring community structure; FMT requires clinical screening and supervision.",
+      "images": [
+        "slide-39-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The recurrent infection highlighted as responsive to FMT is {{c1::Clostridioides difficile infection}}.",
+      "noteId": "human-microbiome-953fa840bc728d896345-note",
+      "id": "human-microbiome-953fa840bc728d896345",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The recurrent infection highlighted as responsive to FMT is {{c1::Clostridioides difficile infection}}.",
+      "answer": "Clostridioides difficile infection"
+    },
+    {
+      "topic": "Evidence and intervention",
+      "slide": 40,
+      "explanation": "They differ from substrates supplied to support resident microbial growth.",
+      "images": [
+        "slide-40-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Probiotics aim to introduce beneficial {{c1::microorganisms}}.",
+      "noteId": "human-microbiome-63f275d358bc1a8cbab7-note",
+      "id": "human-microbiome-63f275d358bc1a8cbab7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Probiotics aim to introduce beneficial {{c1::microorganisms}}.",
+      "answer": "microorganisms"
+    },
+    {
+      "topic": "Evidence and intervention",
+      "slide": 40,
+      "explanation": "They are not themselves the live organisms supplied by probiotics.",
+      "images": [
+        "slide-40-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Prebiotics supply substrates that selectively support microbial {{c1::growth}}.",
+      "noteId": "human-microbiome-37aef167e6172d6b8054-note",
+      "id": "human-microbiome-37aef167e6172d6b8054",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Prebiotics supply substrates that selectively support microbial {{c1::growth}}.",
+      "answer": "growth"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 1",
+      "text": "LS5008/30 – \u000bThe Human Microbiome\nDr Lewis C. E. Mason\u000bBSc (Hons), MSc, PhD, AFHEA, MRSB",
+      "images": [
+        "slide-1-image-2"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 2",
+      "text": "Learning objectives\nRecall the different sites of the human body\u000bwhere microbes are found, and examples\u000bof microbes at each\n\nExplain how endogenous infection may occur\n\nCritically evaluate the advantages and\u000bdisadvantages of microbial presence \u000b\n\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 3",
+      "text": "Starter activity – Guess Who?",
+      "images": [
+        "slide-3-image-2",
+        "slide-3-image-3",
+        "slide-3-image-4",
+        "slide-3-image-5",
+        "slide-3-image-6",
+        "slide-3-image-7"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 4",
+      "text": "What is the microbiome?\nDistinction between microbiota \u000b(the organisms) and microbiome\u000b(+ their collective genes and activities)\n\nDifferent body sites harbour distinct \u000bmicrobial communities \n\nMost microorganisms associated \u000bwith humans are harmless or even beneficial",
+      "images": [
+        "slide-4-image-2"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 5",
+      "text": "How many are we carrying?\nThe human body contains approximately as many microbial cells as human cells\u000b\nMost microbial biomass is located within the large intestine (colon)\n\nThe collective genetic content of the\u000bmicrobiome greatly exceeds that of the human genome\n\n",
+      "images": [
+        "slide-5-image-2"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 6",
+      "text": "How is the microbiome researched?\nTraditional culture techniques\u000brecover only a subset of microbial\u000bdiversity\n\n16S rRNA gene sequencing permits\u000bbacterial community profiling\u000b\nMetagenomics allows identification of\u000bgenes and metabolic pathways",
+      "images": [
+        "slide-6-image-2"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 7",
+      "text": "Establishment of the Microbiome\nColonisation begins at birth(?) and changes rapidly during infancy\n\nDiet, environment, antibiotics, and \u000bage influence microbial \u000bcomposition\n\nAdult microbiomes are relatively stable but still remain dynamic\n",
+      "images": [
+        "slide-7-image-2"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 8",
+      "text": "The gastrointestinal tract\nThe GI tract contains the largest microbial\u000bpopulation in the body\n\nDominant bacterial phyla include \u000bFirmicutes and Bacteroidetes\n\nGut microorganisms contribute to\u000bnutrient metabolism\u000b\n\n",
+      "images": [
+        "slide-8-image-2"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 9",
+      "text": "Functions of the gut microbiome\nFermentation of otherwise indigestible dietary components\n\nProduction of vitamins and short-chain fatty acids\n\nContribution to immune system development and regulation",
+      "images": [
+        "slide-9-image-2"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 10",
+      "text": "Colonisation resistance\nResident microbiota compete with\u000bpathogens for nutrients and attachment sites\n\nProduction of antimicrobial compounds can inhibit invading microbes\n\nA healthy microbiome reduces susceptibility to infection",
+      "images": [
+        "slide-10-image-2"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 11",
+      "text": "The Skin Microbiome\nDifferent skin sites support\u000bdistinct microbial communities\n\nCommon genera include:\u000bStaphylococcus, Cutibacterium,\u000bCorynebacterium\n\nSkin-associated microbes contribute\u000bto barrier defence\n",
+      "images": [
+        "slide-11-image-2"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 12",
+      "text": "The Nose Microbiome\nThe nasal cavity serves as an important reservoir for respiratory microorganisms\n\nCommon inhabitants include Staphylococcus, Corynebacterium, and Moraxella spp.\n\nSome individuals are persistent carriers of Staphylococcus aureus without signs of disease",
+      "images": [
+        "slide-12-image-2"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 13",
+      "text": "The Ear Microbiome\nThe external auditory canal supports\u000bmicrobial communities adapted to a \u000bwax-rich environment\n\nCommon residents include \u000bStaphylococcus, Corynebacterium, \u000band Cutibacterium species\n\nDisruption of the normal ear microbiota \u000bmay contribute to otitis externa",
+      "images": [
+        "slide-13-image-2"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 14",
+      "text": "The Eye Microbiome\nThe ocular surface carries few\u000bmicroorganisms due to tear flow and\u000bantimicrobial compounds\n\nCommon genera include Staphylococcus,\u000bCorynebacterium, and Cutibacterium\n\nResident microorganisms contribute to \u000bocular homeostasis and pathogen exclusion",
+      "images": [
+        "slide-14-image-2"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 15",
+      "text": "The Oral Microbiome\nThe mouth contains highly\u000bdiverse microbial biofilms\n\nDental plaque represents a \u000bstructured microbial community\u000b\nDysbiosis contributes to dental\u000bcaries and periodontal disease",
+      "images": [
+        "slide-15-image-2"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 16",
+      "text": "The Tongue Microbiome\nThe tongue provides a rough surface\u000bthat supports dense, highly structured \u000bbiofilms \n\nCommon genera include Streptococcus, \u000bVeillonella, Actinomyces, Neisseria,\u000band Prevotella spp.\n\nDysbiosis may contribute to halitosis \u000b(bad breath)",
+      "images": [
+        "slide-16-image-2"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 17",
+      "text": "The Lung Microbiome\nThe lungs were once thought to be \u000bsterile, but healthy lungs contain \u000blow-biomass microbial communities\n\nMicroorganisms reach the lungs \u000bthrough inhalation and aspiration\n\nChanges in the lung microbiome \u000bare associated with asthma, \u000bCOPD, and cystic fibrosis",
+      "images": [
+        "slide-17-image-2"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 18",
+      "text": "The Vaginal Microbiome\nMany healthy communities\u000bare dominated by Lactobacillus\u000bspp.\n\nLactic acid production contributes\u000bto the low pH environment\n\nChanges in microbiome can\u000bpredispose to disease",
+      "images": [
+        "slide-18-image-2"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 19",
+      "text": "The Brain Microbiome(?)\nThe healthy brain is generally considered a sterile site\n\nNo stable resident brain microbiome has been demonstrated in healthy individuals\u000b\nThe gut microbiome may influence brain function via the gut-brain axis",
+      "images": [
+        "slide-19-image-2"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 20",
+      "text": "The Armpit Microbiome\nThe axilla is rich in sweat glands and \u000bsupports dense microbial populations\u000b\nDominant genera often include Corynebacterium and \u000bStaphylococcus\n\nMany body odours are produced \u000bby bacterial metabolism of \u000bsweat-derived compounds",
+      "images": [
+        "slide-20-image-2"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 21",
+      "text": "The Umbilical Microbiome\nThe umbilicus provides a warm, \u000bsheltered environment that supports\u000bdiverse microbial communities\u000b\nHundreds of bacterial species have been \u000bidentified from human navels\u000b\nThe composition of the umbilical microbiome varies substantially between\u000bindviduals",
+      "images": [
+        "slide-21-image-2"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 22",
+      "text": "The Fingernail Microbiome\nFingernails provide crevices that can trap microorganisms from the environment\n\nBoth transient and resident microorganisms may be present beneath the nails \n\nEffective handwashing should include scrubbing the fingernails",
+      "images": [
+        "slide-22-image-2"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 23",
+      "text": "The Toenail Microbiome\nToenails support bacterial and fungal \u000bpopulations influenced by footwear and \u000bmoisture\n\nDermatophyte fungi may colonise toenails and contribute to disease\n\nThe toenail microbiome differs substantially from that found on \u000bnearby skin sites",
+      "images": [
+        "slide-23-image-2"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 24",
+      "text": "The Hair Microbiome\nHair shafts and hair follicles support\u000bdistinct microbial communities\n\nCommon residents include Cutibacterium, Staphylococcus, \u000band Malassezia spp.\n\nFollicular microorganisms can \u000binfluence scalp health and \u000binflammatory conditions",
+      "images": [
+        "slide-24-image-2"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 25",
+      "text": "The Stomach Microbiome\nThe stomach contains relatively low \u000bmicrobial biomass due to its highly \u000bacidic environment (pH 1-3)\n\nDespite this, diverse microorganisms can be detected, including Helicobacter pylori in some individuals\n\nGastric acidity acts as a barrier preventing many microorganisms ",
+      "images": [
+        "slide-25-image-2"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 26",
+      "text": "The Small Intestine Microbiome\nMicrobial density is lower than in the colon because of the rapid transit, bile salts, and digestive enzymes \n\nCommon inhabitants include Streptococcus, Lactobacillus, and Enterococcus species\n\nSmall intestinal microorganisms contribute to nutrient metabolism and immune function",
+      "images": [
+        "slide-26-image-2"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 27",
+      "text": "The Colon Microbiome\nThe colon contains the highest microbial density in the human body \n\nAnaerobic bacteria dominate \u000bdue to the oxygen-poor \u000benvironment\n\nColonic microorganisms \u000bferment dietary fibre to \u000bproduce short-chain fatty \u000bacids that benefit the host",
+      "images": [
+        "slide-27-image-2"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 28",
+      "text": "The Bladder Microbiome\nThe bladder was historically \u000bconsidered sterile, but we now \u000bknow it harbours microbial \u000bcommunities in many individuals\n\nCommon genera include Lactobacillus, Gardnerella, Streptococcus, Corynebacterium\n\nAlterations in the bladder biome may influence susceptibility to UTIs",
+      "images": [
+        "slide-28-image-2"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 29",
+      "text": "The Urinary Microbiome (Urine)\nUrine was traditionally regarded as sterile in healthy individuals\n\nModern sequencing techniques have detected microbial DNA and viable organisms in many urine samples\n\nThe composition of urinary microbial communities varies between individuals and may influence urinary health",
+      "images": [
+        "slide-29-image-2"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 30",
+      "text": "The Kidney Microbiome(?)\nHealthy kidneys are generally \u000bconsidered to be sterile organs \n\nNo resident kidney microbiome \u000bhas been reliably demonstrated \n\nMicroorganisms may be detected during UTIs or systemic bloodstream infections",
+      "images": [
+        "slide-30-image-2"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 31",
+      "text": "The Liver Microbiome(?)\nThe liver is generally considered a sterile organ under healthy conditions. Microbial products from the gut reach the liver via circulation. Interactions between the gut microbiome and liver contribute to the gut-liver axis",
+      "images": [
+        "slide-31-image-2"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 32",
+      "text": "The Blood Microbiome(?)\nHealthy blood has traditionally been considered sterile\n\nClaims of a “blood microbiome” remain hotly controversial and are complicated by issues of contamination during sampling \n\nDetection of microbes in the blood is usually interpreted as evidence of infection",
+      "images": [
+        "slide-32-image-2"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 33",
+      "text": "The Placental Microbiome(?)\nEarlier studies suggested that the \u000bplacenta might contain a unique microbiome \n\nSubsequent studies indicated many findings were likely due to contamination\n\nCurrent evidence generally supports the placenta being sterile in healthy pregnancies",
+      "images": [
+        "slide-33-image-2"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 34",
+      "text": "Microbiome and the Immune System\nContinuous interactions occur\u000bbetween microbes and immune cells\n\nCommensal microorganisms \u000bpromote immune maturation\n\nDysregulated interactions can \u000bcontribute to inflammation",
+      "images": [
+        "slide-34-image-2"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 35",
+      "text": "What is Dysbiosis?\nDysbiosis refers to disruption \u000bof the ‘normal’ microbial \u000bcommunity\u000b\nLoss of beneficial organisms\u000bmay allow pathogen overgrowth\u000b\nDysbiosis is associated with \u000bmany diseases",
+      "images": [
+        "slide-35-image-2"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 36",
+      "text": "Antibiotics and the Microbiome\nBroad-spectrum antibiotics can\u000bsubstantially alter microbial\u000bcommunities\n\nReduction in diversity may increase\u000bsusceptibility to opportunistic pathogens\n\nRecovery of the microbiome can take months\u000b\n\n",
+      "images": [
+        "slide-36-image-2"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 37",
+      "text": "Microbiome and Infectious\u000bDisease\nDisruption of normal microbiota\u000bcan increase infection risk\n\nSome pathogens exploit ecological\u000bniches created by dysbiosis\n\nThe microbiome can influence \u000bpathogen colonisation success",
+      "images": [
+        "slide-37-image-2"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 38",
+      "text": "Links Between the Microbiome\u000band Chronic Disease\nAssociations have been reported\u000bwith obesity, inflammatory bowel \u000bdisease, and diabetes\n\nAltered microbial metabolites may \u000binfluence host physiology\n\nAssociation does not necessarily \u000bimply causation… reverse causality?\u000b\n\n",
+      "images": [
+        "slide-38-image-2"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 39",
+      "text": "Faecal Microbiota\u000bTransplantation (FMT)\nThis is the transfer of stool from \u000b‘healthy’ donors to recipients\n\nIt is highly effective for recurrent \u000bClostridioides difficile infection\n\nDemonstrates the importance of \u000bmicrobial community structure",
+      "images": [
+        "slide-39-image-2"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 40",
+      "text": "Can we manipulate the\u000bmicrobiome?\nProbiotics aim to introduce beneficial\u000bmicroorganisms\n\nPrebiotics provide substrates \u000bthat selectively support \u000bmicrobial growth\n\nDietary interventions may alter\u000bmicrobiome composition",
+      "images": [
+        "slide-40-image-2"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 41",
+      "text": "Future directions in \u000bMicrobiome Research\nPersonalised medicine based on\u000bmicrobiome profiling?\n\nDevelopment of targeted \u000bmicrobiome therapeutics?\n\nBetter understanding of host-microbe\u000binteractions (the gut-brain axis)?\u000b\n\n",
+      "images": [
+        "slide-41-image-2"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 42",
+      "text": "Plenary activity\nImagine that you are designing a\u000bprobiotic product…\n\nWhat factors do you need to consider\u000bin its development?\u000b\n\n",
+      "images": []
+    },
+    {
+      "number": 43,
+      "topic": "The Human Microbiome — Communities, Protection & Dysbiosis — source 43",
+      "text": "Summary\nHumans are ecosystems containing\u000bdiverse microbial communities\n\nMicrobiota contribute to nutrition, immunity,\u000band pathogen resistance\n\nAlteration of microbial communities can influence\u000bhealth and disease",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-2": "human-microbiome/slide-1-image-2.webp",
+    "slide-3-image-2": "human-microbiome/slide-3-image-2.webp",
+    "slide-3-image-3": "human-microbiome/slide-3-image-3.webp",
+    "slide-3-image-4": "human-microbiome/slide-3-image-4.webp",
+    "slide-3-image-5": "human-microbiome/slide-3-image-5.webp",
+    "slide-3-image-6": "human-microbiome/slide-3-image-6.webp",
+    "slide-3-image-7": "human-microbiome/slide-3-image-7.webp",
+    "slide-4-image-2": "human-microbiome/slide-4-image-2.webp",
+    "slide-5-image-2": "human-microbiome/slide-5-image-2.webp",
+    "slide-6-image-2": "human-microbiome/slide-6-image-2.webp",
+    "slide-7-image-2": "human-microbiome/slide-7-image-2.webp",
+    "slide-8-image-2": "human-microbiome/slide-8-image-2.webp",
+    "slide-9-image-2": "human-microbiome/slide-9-image-2.webp",
+    "slide-10-image-2": "human-microbiome/slide-10-image-2.webp",
+    "slide-11-image-2": "human-microbiome/slide-11-image-2.webp",
+    "slide-12-image-2": "human-microbiome/slide-12-image-2.webp",
+    "slide-13-image-2": "human-microbiome/slide-13-image-2.webp",
+    "slide-14-image-2": "human-microbiome/slide-14-image-2.webp",
+    "slide-15-image-2": "human-microbiome/slide-15-image-2.webp",
+    "slide-16-image-2": "human-microbiome/slide-16-image-2.webp",
+    "slide-17-image-2": "human-microbiome/slide-17-image-2.webp",
+    "slide-18-image-2": "human-microbiome/slide-18-image-2.webp",
+    "slide-19-image-2": "human-microbiome/slide-19-image-2.webp",
+    "slide-20-image-2": "human-microbiome/slide-20-image-2.webp",
+    "slide-21-image-2": "human-microbiome/slide-21-image-2.webp",
+    "slide-22-image-2": "human-microbiome/slide-22-image-2.webp",
+    "slide-23-image-2": "human-microbiome/slide-23-image-2.webp",
+    "slide-24-image-2": "human-microbiome/slide-24-image-2.webp",
+    "slide-25-image-2": "human-microbiome/slide-25-image-2.webp",
+    "slide-26-image-2": "human-microbiome/slide-26-image-2.webp",
+    "slide-27-image-2": "human-microbiome/slide-27-image-2.webp",
+    "slide-28-image-2": "human-microbiome/slide-28-image-2.webp",
+    "slide-29-image-2": "human-microbiome/slide-29-image-2.webp",
+    "slide-30-image-2": "human-microbiome/slide-30-image-2.webp",
+    "slide-31-image-2": "human-microbiome/slide-31-image-2.webp",
+    "slide-32-image-2": "human-microbiome/slide-32-image-2.webp",
+    "slide-33-image-2": "human-microbiome/slide-33-image-2.webp",
+    "slide-34-image-2": "human-microbiome/slide-34-image-2.webp",
+    "slide-35-image-2": "human-microbiome/slide-35-image-2.webp",
+    "slide-36-image-2": "human-microbiome/slide-36-image-2.webp",
+    "slide-37-image-2": "human-microbiome/slide-37-image-2.webp",
+    "slide-38-image-2": "human-microbiome/slide-38-image-2.webp",
+    "slide-39-image-2": "human-microbiome/slide-39-image-2.webp",
+    "slide-40-image-2": "human-microbiome/slide-40-image-2.webp",
+    "slide-41-image-2": "human-microbiome/slide-41-image-2.webp"
+  },
+  "week": 3,
+  "weekEnd": 3
+}

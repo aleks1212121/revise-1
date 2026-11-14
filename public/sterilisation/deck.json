@@ -1,0 +1,1046 @@
+{
+  "version": 2,
+  "lectureId": "sterilisation",
+  "title": "Sterilisation — Methods, Validation & Choosing a Process",
+  "moduleId": "infection-immunity",
+  "moduleName": "",
+  "moduleCode": "LS5008",
+  "source": "Sterilisation_LS5008_LS5030-1.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Defining sterility",
+      "slide": 4,
+      "explanation": "An endospore-resistant endpoint distinguishes it from routine disinfection.",
+      "images": [
+        "slide-4-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Sterilisation removes or destroys viable microorganisms including bacterial {{c1::endospores}}.",
+      "noteId": "sterilisation-3d2154f1784a307974bb-note",
+      "id": "sterilisation-3d2154f1784a307974bb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sterilisation removes or destroys viable microorganisms including bacterial {{c1::endospores}}.",
+      "answer": "endospores"
+    },
+    {
+      "topic": "Defining sterility",
+      "slide": 4,
+      "explanation": "SAL is a probabilistic process assurance target, not a direct test of every item.",
+      "images": [
+        "slide-4-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A sterility assurance level of 10⁻⁶ means an estimated non-sterile-unit probability of {{c1::one in a million}}.",
+      "noteId": "sterilisation-0538a73412cc1eef8b84-note",
+      "id": "sterilisation-0538a73412cc1eef8b84",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A sterility assurance level of 10⁻⁶ means an estimated non-sterile-unit probability of {{c1::one in a million}}.",
+      "answer": "one in a million"
+    },
+    {
+      "topic": "Defining sterility",
+      "slide": 5,
+      "explanation": "It does not mean the absence of every viable organism under every conceivable condition.",
+      "images": [
+        "slide-5-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Commercial sterility concerns microbes capable of growing under the product's normal {{c1::storage conditions}}.",
+      "noteId": "sterilisation-02dab48901b50c68af01-note",
+      "id": "sterilisation-02dab48901b50c68af01",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Commercial sterility concerns microbes capable of growing under the product's normal {{c1::storage conditions}}.",
+      "answer": "storage conditions"
+    },
+    {
+      "topic": "Defining sterility",
+      "slide": 6,
+      "explanation": "Cleaning, disinfection and validated sterilisation are different objectives.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Routine disinfection does not reliably eliminate bacterial {{c1::endospores}}.",
+      "noteId": "sterilisation-5a4f8b453637a9d91fed-note",
+      "id": "sterilisation-5a4f8b453637a9d91fed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Routine disinfection does not reliably eliminate bacterial {{c1::endospores}}.",
+      "answer": "endospores"
+    },
+    {
+      "topic": "Heat",
+      "slide": 7,
+      "explanation": "Pressure permits steam at a higher temperature; pressure alone is not the principal lethal agent.",
+      "images": [
+        "slide-7-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Steam sterilisation acts mainly through moist-heat protein {{c1::denaturation}}.",
+      "noteId": "sterilisation-bb0b66ffc62eae903ce9-note",
+      "id": "sterilisation-bb0b66ffc62eae903ce9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Steam sterilisation acts mainly through moist-heat protein {{c1::denaturation}}.",
+      "answer": "denaturation"
+    },
+    {
+      "topic": "Heat",
+      "slide": 7,
+      "explanation": "The slide pairs this with a typical exposure example. Actual cycle suitability depends on load, steam penetration and validated conditions, not one universal recipe.",
+      "images": [
+        "slide-7-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The example steam-sterilisation temperature in the lecture is {{c1::121°C}}.",
+      "noteId": "sterilisation-20397b24bad5d8ee27c6-note",
+      "id": "sterilisation-20397b24bad5d8ee27c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The example steam-sterilisation temperature in the lecture is {{c1::121°C}}.",
+      "answer": "121°C"
+    },
+    {
+      "topic": "Validation",
+      "slide": 8,
+      "explanation": "Time and pressure records provide other physical information.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An autoclave temperature record is a {{c1::physical}} process check.",
+      "noteId": "sterilisation-18c2a5a73ebe280b9587-note",
+      "id": "sterilisation-18c2a5a73ebe280b9587",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An autoclave temperature record is a {{c1::physical}} process check.",
+      "answer": "physical"
+    },
+    {
+      "topic": "Validation",
+      "slide": 8,
+      "explanation": "A colour change indicates exposure to specified conditions; it does not prove that the entire load is sterile.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Autoclave tape is a {{c1::chemical indicator}}.",
+      "noteId": "sterilisation-a1f349f9960b098e87c7-note",
+      "id": "sterilisation-a1f349f9960b098e87c7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Autoclave tape is a {{c1::chemical indicator}}.",
+      "answer": "chemical indicator"
+    },
+    {
+      "topic": "Validation",
+      "slide": 8,
+      "explanation": "Biological indicators challenge a validated process with resistant organisms.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The spores used as a biological steam-process indicator are {{c1::Geobacillus stearothermophilus}}.",
+      "noteId": "sterilisation-846fe859f2fafdc813ae-note",
+      "id": "sterilisation-846fe859f2fafdc813ae",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The spores used as a biological steam-process indicator are {{c1::Geobacillus stearothermophilus}}.",
+      "answer": "Geobacillus stearothermophilus"
+    },
+    {
+      "topic": "Validation",
+      "slide": 8,
+      "explanation": "It does not establish adequate exposure at every location within the load.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A changed tape colour alone cannot establish successful {{c1::sterilisation}}.",
+      "noteId": "sterilisation-9934dfd0745d49f3f62a-note",
+      "id": "sterilisation-9934dfd0745d49f3f62a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A changed tape colour alone cannot establish successful {{c1::sterilisation}}.",
+      "answer": "sterilisation"
+    },
+    {
+      "topic": "Heat",
+      "slide": 9,
+      "explanation": "The lecture contrasts its higher temperatures and longer exposure with steam.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Dry heat damages microbes through oxidation and protein {{c1::denaturation}}.",
+      "noteId": "sterilisation-59e6054c44727aff790e-note",
+      "id": "sterilisation-59e6054c44727aff790e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dry heat damages microbes through oxidation and protein {{c1::denaturation}}.",
+      "answer": "denaturation"
+    },
+    {
+      "topic": "Heat",
+      "slide": 9,
+      "explanation": "The choice depends on moisture compatibility and penetration, not simply whether heat kills microbes.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Heat-resistant oils and powders may be suitable for {{c1::dry heat}} rather than steam.",
+      "noteId": "sterilisation-ba6d4ce90b0c601a62b9-note",
+      "id": "sterilisation-ba6d4ce90b0c601a62b9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Heat-resistant oils and powders may be suitable for {{c1::dry heat}} rather than steam.",
+      "answer": "dry heat"
+    },
+    {
+      "topic": "Heat",
+      "slide": 10,
+      "explanation": "This destroys the material rather than preserving a reusable product.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Destruction of contaminated waste by combustion is {{c1::incineration}}.",
+      "noteId": "sterilisation-ff5aaaa6ba075d03bfc3-note",
+      "id": "sterilisation-ff5aaaa6ba075d03bfc3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Destruction of contaminated waste by combustion is {{c1::incineration}}.",
+      "answer": "incineration"
+    },
+    {
+      "topic": "Heat",
+      "slide": 11,
+      "explanation": "It is inappropriate for heat-sensitive plastic devices.",
+      "images": [
+        "slide-11-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Direct flaming is suited to a reusable metal microbiological {{c1::loop}}.",
+      "noteId": "sterilisation-9c60babaf4407a625fbe-note",
+      "id": "sterilisation-9c60babaf4407a625fbe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Direct flaming is suited to a reusable metal microbiological {{c1::loop}}.",
+      "answer": "loop"
+    },
+    {
+      "topic": "Filtration",
+      "slide": 12,
+      "explanation": "This permits processing some heat-sensitive liquids.",
+      "images": [
+        "slide-12-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Membrane filtration primarily {{c1::removes}} microorganisms rather than killing them.",
+      "noteId": "sterilisation-e63cc03acfda753c7a23-note",
+      "id": "sterilisation-e63cc03acfda753c7a23",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Membrane filtration primarily {{c1::removes}} microorganisms rather than killing them.",
+      "answer": "removes"
+    },
+    {
+      "topic": "Filtration",
+      "slide": 12,
+      "explanation": "This is not a universal virus-removal guarantee; retention depends on organism and filter validation.",
+      "images": [
+        "slide-12-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A commonly used bacterial-retention membrane has a nominal pore size of {{c1::0.22 μm}}.",
+      "noteId": "sterilisation-2465fb0bbe58eb799cbe-note",
+      "id": "sterilisation-2465fb0bbe58eb799cbe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A commonly used bacterial-retention membrane has a nominal pore size of {{c1::0.22 μm}}.",
+      "answer": "0.22 μm"
+    },
+    {
+      "topic": "Filtration",
+      "slide": 12,
+      "explanation": "Choose a method compatible with the product and its microbial risks.",
+      "images": [
+        "slide-12-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A heat-sensitive solution may be processed by validated {{c1::membrane filtration}}.",
+      "noteId": "sterilisation-1262f682c005534ba19d-note",
+      "id": "sterilisation-1262f682c005534ba19d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A heat-sensitive solution may be processed by validated {{c1::membrane filtration}}.",
+      "answer": "membrane filtration"
+    },
+    {
+      "topic": "Filtration",
+      "slide": 13,
+      "explanation": "It is not by itself proof of complete air sterility or removal of every virus.",
+      "images": [
+        "slide-13-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "HEPA filtration removes airborne {{c1::particles}}.",
+      "noteId": "sterilisation-3a8ea2de48f1a8ce24c4-note",
+      "id": "sterilisation-3a8ea2de48f1a8ce24c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HEPA filtration removes airborne {{c1::particles}}.",
+      "answer": "particles"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 14,
+      "explanation": "The source discusses wavelengths around 253 nm.",
+      "images": [
+        "slide-14-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "UV-C prevents replication by damaging microbial {{c1::nucleic acids}}.",
+      "noteId": "sterilisation-bcf78cee9b03d479f4c5-note",
+      "id": "sterilisation-bcf78cee9b03d479f4c5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "UV-C prevents replication by damaging microbial {{c1::nucleic acids}}.",
+      "answer": "nucleic acids"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 14,
+      "explanation": "Shadowing and surface geometry can leave organisms inadequately exposed.",
+      "images": [
+        "slide-14-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A major limitation of UV-C is poor {{c1::penetration}}.",
+      "noteId": "sterilisation-6e2f5048eb53ba90dcf2-note",
+      "id": "sterilisation-6e2f5048eb53ba90dcf2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A major limitation of UV-C is poor {{c1::penetration}}.",
+      "answer": "penetration"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 15,
+      "explanation": "It can sterilise compatible devices within their packaging.",
+      "images": [
+        "slide-15-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Gamma radiation causes lethal DNA damage, including {{c1::strand breaks}}.",
+      "noteId": "sterilisation-bab5bb984cdf5a916bd9-note",
+      "id": "sterilisation-bab5bb984cdf5a916bd9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gamma radiation causes lethal DNA damage, including {{c1::strand breaks}}.",
+      "answer": "strand breaks"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 15,
+      "explanation": "This differs from electrically generated electron beams.",
+      "images": [
+        "slide-15-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The gamma source highlighted in the lecture is {{c1::cobalt-60}}.",
+      "noteId": "sterilisation-94899b7896b341a53e90-note",
+      "id": "sterilisation-94899b7896b341a53e90",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The gamma source highlighted in the lecture is {{c1::cobalt-60}}.",
+      "answer": "cobalt-60"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 16,
+      "explanation": "It causes DNA damage with a relatively low thermal impact.",
+      "images": [
+        "slide-16-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Electron-beam processing uses high-energy {{c1::electrons}}.",
+      "noteId": "sterilisation-1e6563160dbeef2ac5c0-note",
+      "id": "sterilisation-1e6563160dbeef2ac5c0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Electron-beam processing uses high-energy {{c1::electrons}}.",
+      "answer": "electrons"
+    },
+    {
+      "topic": "Radiation",
+      "slide": 17,
+      "explanation": "The lecture also highlights higher energy requirements; exact ratios depend on equipment.",
+      "images": [
+        "slide-17-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Compared with electron beams, X-rays provide greater {{c1::penetration}} into suitable loads.",
+      "noteId": "sterilisation-151a2b09751626abb90b-note",
+      "id": "sterilisation-151a2b09751626abb90b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Compared with electron beams, X-rays provide greater {{c1::penetration}} into suitable loads.",
+      "answer": "penetration"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 19,
+      "explanation": "It offers low-temperature processing of compatible heat-sensitive devices.",
+      "images": [
+        "slide-19-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ethylene oxide kills by {{c1::alkylating}} proteins and nucleic acids.",
+      "noteId": "sterilisation-dff14dbb732ce1370dde-note",
+      "id": "sterilisation-dff14dbb732ce1370dde",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ethylene oxide kills by {{c1::alkylating}} proteins and nucleic acids.",
+      "answer": "alkylating"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 19,
+      "explanation": "Ethylene oxide is the lecture example; compatibility, residues and validated aeration matter.",
+      "images": [
+        "slide-19-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A heat-sensitive electronic device may require low-temperature {{c1::gas sterilisation}}.",
+      "noteId": "sterilisation-efbbf7d9f7d144d68c37-note",
+      "id": "sterilisation-efbbf7d9f7d144d68c37",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A heat-sensitive electronic device may require low-temperature {{c1::gas sterilisation}}.",
+      "answer": "gas sterilisation"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 20,
+      "explanation": "The source includes room decontamination and compatible medical devices.",
+      "images": [
+        "slide-20-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Vapourised hydrogen peroxide acts through {{c1::oxidative damage}}.",
+      "noteId": "sterilisation-cd0c6f8a58ef751a75b7-note",
+      "id": "sterilisation-cd0c6f8a58ef751a75b7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Vapourised hydrogen peroxide acts through {{c1::oxidative damage}}.",
+      "answer": "oxidative damage"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 21,
+      "explanation": "They provide a low-temperature option for compatible delicate instruments.",
+      "images": [
+        "slide-21-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Hydrogen peroxide gas-plasma systems generate damaging {{c1::free radicals}}.",
+      "noteId": "sterilisation-c14c185514044574b770-note",
+      "id": "sterilisation-c14c185514044574b770",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hydrogen peroxide gas-plasma systems generate damaging {{c1::free radicals}}.",
+      "answer": "free radicals"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 22,
+      "explanation": "Exposure toxicity is a major limitation; the slide's future regulatory prediction is not treated as established law.",
+      "images": [
+        "slide-22-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Formaldehyde can kill by cross-linking proteins and {{c1::nucleic acids}}.",
+      "noteId": "sterilisation-dfd35b99ef9acd8a7188-note",
+      "id": "sterilisation-dfd35b99ef9acd8a7188",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Formaldehyde can kill by cross-linking proteins and {{c1::nucleic acids}}.",
+      "answer": "nucleic acids"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 24,
+      "explanation": "A validated process and device compatibility remain necessary.",
+      "images": [
+        "slide-24-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The liquid oxidising sterilant highlighted for compatible flexible endoscopes is {{c1::peracetic acid}}.",
+      "noteId": "sterilisation-18e05c41a64d6a1afb2e-note",
+      "id": "sterilisation-18e05c41a64d6a1afb2e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The liquid oxidising sterilant highlighted for compatible flexible endoscopes is {{c1::peracetic acid}}.",
+      "answer": "peracetic acid"
+    },
+    {
+      "topic": "Chemical methods",
+      "slide": 25,
+      "explanation": "The mechanism is damage to cellular components.",
+      "images": [
+        "slide-25-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ozone acts as an {{c1::oxidising}} gaseous sterilant.",
+      "noteId": "sterilisation-c6fcb462b611b20af7ce-note",
+      "id": "sterilisation-c6fcb462b611b20af7ce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ozone acts as an {{c1::oxidising}} gaseous sterilant.",
+      "answer": "oxidising"
+    },
+    {
+      "topic": "Food processing",
+      "slide": 26,
+      "explanation": "It combines high temperature with short exposure in suitable food-processing systems.",
+      "images": [
+        "slide-26-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "UHT stands for {{c1::ultra-high temperature}} processing.",
+      "noteId": "sterilisation-17124fd880869da684c8-note",
+      "id": "sterilisation-17124fd880869da684c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "UHT stands for {{c1::ultra-high temperature}} processing.",
+      "answer": "ultra-high temperature"
+    },
+    {
+      "topic": "Food processing",
+      "slide": 26,
+      "explanation": "Its shelf stability also depends on the packaging and storage conditions.",
+      "images": [
+        "slide-26-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Shelf-stable UHT milk is an example of {{c1::commercial sterility}}.",
+      "noteId": "sterilisation-fae5e347ba7a5791c129-note",
+      "id": "sterilisation-fae5e347ba7a5791c129",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Shelf-stable UHT milk is an example of {{c1::commercial sterility}}.",
+      "answer": "commercial sterility"
+    },
+    {
+      "topic": "Food processing",
+      "slide": 27,
+      "explanation": "The aim is commercial sterility and shelf stability rather than a universal medical-device endpoint.",
+      "images": [
+        "slide-27-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A retort processes packaged foods using a specialised {{c1::heat treatment}}.",
+      "noteId": "sterilisation-e822f3690fd41497a59a-note",
+      "id": "sterilisation-e822f3690fd41497a59a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A retort processes packaged foods using a specialised {{c1::heat treatment}}.",
+      "answer": "heat treatment"
+    },
+    {
+      "topic": "Selecting a process",
+      "slide": 28,
+      "explanation": "Heat, pressure, chemicals and radiation have distinct occupational hazards.",
+      "images": [
+        "slide-28-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A sterilisation process must protect the operator as well as the {{c1::product}}.",
+      "noteId": "sterilisation-ccf5d8daea17f7c8fb3c-note",
+      "id": "sterilisation-ccf5d8daea17f7c8fb3c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A sterilisation process must protect the operator as well as the {{c1::product}}.",
+      "answer": "product"
+    },
+    {
+      "topic": "Selecting a process",
+      "slide": 30,
+      "explanation": "No one technique suits every product.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The appropriate sterilisation method depends on material compatibility and the required {{c1::sterility assurance}}.",
+      "noteId": "sterilisation-303b41f1c7f9cf823e86-note",
+      "id": "sterilisation-303b41f1c7f9cf823e86",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The appropriate sterilisation method depends on material compatibility and the required {{c1::sterility assurance}}.",
+      "answer": "sterility assurance"
+    },
+    {
+      "topic": "Selecting a process",
+      "slide": 30,
+      "explanation": "Successful processing depends on conditions throughout the relevant load.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A process must be {{c1::validated}} rather than assumed effective from the machine name.",
+      "noteId": "sterilisation-5064331919abe5c708f5-note",
+      "id": "sterilisation-5064331919abe5c708f5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A process must be {{c1::validated}} rather than assumed effective from the machine name.",
+      "answer": "validated"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 1",
+      "text": "LS5008 / LS5030\u000bSterilisation\nDr Lewis C. E. Mason \u000bBSc (Hons), MSc, PhD, MSRB, FIBMS, AFHEA ",
+      "images": [
+        "slide-1-image-2"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 2",
+      "text": "Learning objectives\nRecall the definition of microbial ‘sterilisation’, and describe what it does and does not represent\n\nDescribe the processes of methods of sterilisation\n\nCritically evaluate the advantages and \u000bdisadvantages of sterilisation techniques, and\u000btheir appropriateness for specific products/situations",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 3",
+      "text": "Starter Activity\nWhat do all these products have in common?",
+      "images": [
+        "slide-3-image-2",
+        "slide-3-image-3",
+        "slide-3-image-4",
+        "slide-3-image-5",
+        "slide-3-image-6",
+        "slide-3-image-7",
+        "slide-3-image-8",
+        "slide-3-image-9",
+        "slide-3-image-10"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 4",
+      "text": "What is the healthcare/scientific definition \u000bof ‘sterile’?\nThe standard definition used in healthcare and microbiology is: “free from any viable \u000bmicroorganisms or endospores”\n\nFor medical devices (catheters, syringes, \u000betc.), manufacturers must meet a Sterility \u000bAssurance Level (SAL) of 10-6\n\nThis means there is no more than a \u000b1 in 1,000,000 probability of a viable\u000borganism being on a piece of sterilised equipment",
+      "images": [
+        "slide-4-image-2"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 5",
+      "text": "What is the food industry definition of ‘sterile’?\nIn food microbiology, the term ‘commercial sterility’ is commonly used\n\nIn this case, ‘sterile’ does not mean\u000b‘free from all viable microorganisms\u000bor endospores’ \n\nIt means that: ‘microorganisms capable\u000bof growing under the normal storage conditions of the product have been \u000beliminated’",
+      "images": [
+        "slide-5-image-2"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 6",
+      "text": "Comparing sterilisation and disinfection\nFeature | Sterilisation | Disinfection\nEliminates bacteria | ✅ | Not necessarily entirely\nEliminates fungi | ✅ | Not necessarily entirely\nEliminates viruses | ✅ | Not necessarily entirely\nEliminates bacterial endospores | ✅ | ❌\nAbsolute endpoint? | ✅ | ❌\nExamples of methods | Steam sterilisation (autoclave), dry heat sterilisation, incineration, direct flaming, filtration (membrane), gamma irradiation, electron beam irradiation, X-ray sterilisation, UV light (in some cases), Ethylene oxide (EtO), Hydrogen peroxide vapour (VHP), Hydrogen peroxide gas, formaldehyde gas, peracetic acid, ozone, retort sterilisation, ultra-heat treated (UHT), High-Efficiency Particulate Air Filter (HEPA) | Alcohol, bleach, quaternary ammonium compounds\nExample outcome | Sterile catheter | Disinfected work surface",
+      "images": []
+    },
+    {
+      "number": 7,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 7",
+      "text": "Moist heat steam sterilisation (autoclaving)\nDenatures and coagulates proteins / nucleic acids\n\nHigh temperature (121°C)\n\nShort length of time  (15 minutes)\n\nHigh pressure (15 psi)\n\nEliminates all viruses,\u000bbacteria, fungi, protists,\u000bhelminths, & endospores",
+      "images": [
+        "slide-7-image-2"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 8",
+      "text": "Checking heat sterilisation conditions have\u000bbeen reached\nPhysical methods of checking:\n- Thermocouples data loggers (show temperature)\u000b- Pressure gauges and transducers (show pressure)\u000b- Autoclave printouts (time, temp., pressure history)\n\nChemical methods of checking:\n- Autoclave tape shows conditions were reached\u000b- Browne’s tubes show conditions were reached\u000b(Red  Green colour change)\n\nBiological methods of checking:\u000b- Use Geobacillus stearothermophilus spores\u000bas a control to see if autoclaving is working correctly",
+      "images": [
+        "slide-8-image-2",
+        "slide-8-image-3"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 9",
+      "text": "Dry heat sterilisation\nWorks via causing oxidative \u000bdamage and protein denaturation\n\n160-180°C for 2 to 3 hours(!)\n\nUsed extensively on glassware, \u000bmetal instruments, powders, oils\n\nThink critically – why not use\u000bsteam on those products instead?\n\n",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 10",
+      "text": "Incineration sterilisation\nExtremely high temperature (>800°C)\n\nComplete combustion of\u000bmicroorganisms and materials\n\nUsed to destroy disposable loops, \u000bL-shaped spreaders, plastics, and any clinical waste",
+      "images": [
+        "slide-10-image-2"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 11",
+      "text": "Direct flaming sterilisation\nUse of a Bunsen burner flame\u000bwith a nichrome microbiological\u000bloop (which reaches 700°C-1000°C)\n\nRapid oxidation and burning of the\u000bmaterial on the loop\n\nUsed extensively in academic,\u000bclinical, and commercial settings",
+      "images": [
+        "slide-11-image-2"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 12",
+      "text": "Filtration (membrane sterilisation)\nTypically using a 0.22μm filter\u000b(20 nm used to filter out viruses!)\n\nPhysically removes microorganisms\u000bfrom a sample\n\nPrimarily used in antibiotic solutions, vaccines, serum, \u000band heat-sensitive media",
+      "images": [
+        "slide-12-image-2"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 13",
+      "text": "High-Efficiency Particulate Air Filter (HEPA)\u000bsterilisation \n≥99.97% removal of 0.3μm particles\n\nPhysically removes airborne microorganisms…must be used alongside another step for true \u000b‘sterility’ and to clear viruses\n\nUsed in clean rooms, biological \u000bsafety cabinets\n\n\n\n\n",
+      "images": [
+        "slide-13-image-2"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 14",
+      "text": "Ultraviolet (UV) irradiation sterilisation\nUV-C radiation (around 253nm wavelength) damage nucleic acids\u000band prevent microbial replication\n\nEffective against bacteria, fungi, viruses,\u000band bacterial spores (at higher ‘doses’)\u000b\nVery poor penetrative power… only \u000bworks where the light directly reaches\u000b\nStill used on flat surfaces and where\u000bshadows can be controlled",
+      "images": [
+        "slide-14-image-2"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 15",
+      "text": "Gamma irradiation sterilisation\nSterilises by causing DNA strand breaks via ionising gamma ray radiation\n\nUsually uses the radioactive Cobalt-60 \u000bisotope as the source of the radiation\n\nCommonly used to sterilise syringes, catheters, gloves, Pasteur pipettes, L-shaped spreaders, most single-use plastics, that are already in their packages\n\nCan use Bacillus pumilus as a control\u000bto check sterilisation occurs correctly",
+      "images": [
+        "slide-15-image-2",
+        "slide-15-image-3"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 16",
+      "text": "Electron beam irradiation sterilisation\nHigh-energy electrons are used \u000bto cause fatal DNA damage in\u000bmicroorganisms \n\nUsed to sweep a curtain of\u000bhigh-energy electrons at\u000bpackaged medical devices\n\nNo radioactive waste generated,\u000bcompletes in minutes, very\u000blow thermal impact",
+      "images": [
+        "slide-16-image-2"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 17",
+      "text": "X-ray sterilisation\nHigh-energy X-rays cause extensive,\u000bfatal DNA damage in microorganisms\n\nUsed in the generation of sterile\u000bmedical devices and pharmaceuticals\n\nX-rays are disorganised and can scatter\u000bwidely\n\nProvides excellent penetration into surfaces\n\nX-ray systems use 10 times as much energy compared to electron beam systems(!)",
+      "images": [
+        "slide-17-image-2"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 18",
+      "text": "Electron Beam versus X-Ray Sterilisation",
+      "images": [
+        "slide-18-image-2"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 19",
+      "text": "Ethylene oxide (EtO) gas sterilisation\nLow-temperature gaseous process which exploits the alkylation of DNA and proteins to destroy microorganisms \n\nUsed to sterile catheters, \u000bendoscopes, electronics, and \u000bplastics\n\nModern hospitals have these\u000bmachines in-house\n\nBacillus subtilis can be used as a control\u000bto check sterilisation occurs correctly",
+      "images": [
+        "slide-19-image-2"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 20",
+      "text": "Hydrogen peroxide vapour (VHP) sterilisation\nUses vapourised hydrogen peroxide to\u000bcause oxidative damage to microbe\u000bcellular components\n\nUsed to decontaminate an entire room/ward after an outbreak,\u000band sterilise medical devices\n\nUsed by the NHS to destroy \u000bClostridioides difficile spores, \u000bnorovirus, MRSA, and other \u000bpersistent pathogens\n\n\n\n",
+      "images": [
+        "slide-20-image-2"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 21",
+      "text": "Hydrogen peroxide gas plasma sterilisation\nLow-temperature plasma process\u000bcauses free-radical mediated\u000bdamage to microorganisms \n\nUsed to treat delicate, heat-sensitive or \u000bmoisture sensitive surgical\u000binstruments (endoscopes, etc.)\n\nUsed extensively by the NHS for this\u000bpurpose",
+      "images": [
+        "slide-21-image-2"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 22",
+      "text": "Formaldehyde gas fumigation sterilisation\nA low-temperature gaseous process\n\nFormaldehyde acts as a very strong \u000balkylating agent, causing cross-links to \u000bform between DNA, proteins, nucleic acids\n\nHistorical extensive use in ‘formaldehyde \u000bbombs’ to sterilise hospital wards\n\nExtremely controversial at the moment,\u000bNHS staff may have been exposed\u000babove long-term safety limits… new regulations pending 2027\u000b",
+      "images": [
+        "slide-22-image-2"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 23",
+      "text": "Think of the reasons that this method is being\u000bphased out…\u000b",
+      "images": []
+    },
+    {
+      "number": 24,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 24",
+      "text": "Peracetic acid sterilisation\nPeracetic acid is a liquid chemical\u000bsterilant\n\nCauses extensive oxidation of proteins and membranes of microorganisms\n\nUsed to sterilise flexible \u000bendoscopes (like those used in \u000bcolonoscopies), and other\u000bheat-sensitive equipment",
+      "images": [
+        "slide-24-image-2"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 25",
+      "text": "Ozone sterilisation\nOxidative gaseous sterilant\n\nCauses the oxidation of cellular components of the microbes\n\nAlso used as a specialist\u000bmethod for the sterilisation\u000bof medical devices",
+      "images": [
+        "slide-25-image-2"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 26",
+      "text": "Ultra-High Temperature (UHT) sterilisation\n135-150°C for 2 to 5 seconds(!)\n\nCauses the thermal destruction of\u000bmicroorganisms, leading to the \u000bcommercial definition of ‘sterility’\n\nUsed on shelf-stable milk, \u000bbeverages, and ready-to-consume infant milk\n\n",
+      "images": [
+        "slide-26-image-2"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 27",
+      "text": "Food retort sterilisation\nEssentially a ‘specialised’ autoclave…\n\nDesigned to process packaged foods\u000b(canned soup, cans of veg., ready meals)\n\nAchieve ‘commercial sterility’ – meaning \u000bthat no microorganisms that are capable \u000bof growing under the intended storage \u000bconditions can survive\n\nConcerned with food safety and shelf\u000bstability rather than absolute sterility as we define it clinically\n",
+      "images": [
+        "slide-27-image-2"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 28",
+      "text": "Please keep yourself safe if you work\u000bwith sterilisation techniques in the future!\nEnsure that your employer and yourself are compliant with:\nHealth and Safety at Work etc. Act 1974\nControl of Substances Hazardous to Health Regulations (COSHH)\nPressure Systems Safety Regulations 2000 (PSSR)\nHSE Safety Requirements for Autoclaves (PM73)\nNHS England Health Technical Memorandum (HTM) 01-01\nIonising Radiations Regulations 2017 (IRR17)\nLocal Standard Operating Procedures (SOPs); Risk Assessments; COSHH Assessments\n\nThe same technologies that kill microorganisms can also very easily kill you too!\n\n",
+      "images": [
+        "slide-28-image-2"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 29",
+      "text": "Plenary Activity\nSuggest the most appropriate sterilisation technique(s) for each of the following products:",
+      "images": [
+        "slide-29-image-2",
+        "slide-29-image-3",
+        "slide-29-image-4"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 30",
+      "text": "Summary\nTrue sterilisation is: ‘the complete destruction or removal of viable microorganisms, including highly resistant forms such as bacterial endospores’. This differs to ‘disinfection’\n\nDifferent materials require different sterilisation methods; no single technique is suitable for all products or applications\n\nSuccessful sterilisation depends on validated processes\u000bthat achieve the required level of sterility assurance\u000bwhile maintaining the product’s safety and functionality",
+      "images": []
+    },
+    {
+      "number": 31,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 31",
+      "text": "Further reading \nBrock ‘Biology of Microorganisms’\u000b- Chapter 4, pages 173 onwards\n\nHugo and Russell’s ‘Pharmaceutical Microbiology’\u000b- Chapter 21 (page 404 onwards)\u000b\nMims Medical Microbiology\u000b- Chapter 36\u000b- Pages 526-530\n\nReview of Disinfection & Sterilisation – Back to Basics\u000bYoo (2018): https://pmc.ncbi.nlm.nih.gov/articles/PMC6031597/\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 32,
+      "topic": "Sterilisation — Methods, Validation & Choosing a Process — source 32",
+      "text": "Independent research & learning activity\nSterilisation method |  | Achieved by? | Conditions | Advantages? | Disadvantages?\n Heat  | Moist heat (autoclave) |  |  |   | \n | Dry heat |  |  |   | \n | Incineration |  |  |  | \n | Direct flaming |  |  |  | \n | UHT |  |  |  | \n | Food retort sterilisation |  |  |  | \n Radiation | UV |  |  |   | \n | Gamma rays |  |  |   |  \n | Electron beam |  |  |  | \n | X-ray |  |  |  | \nGaseous | Ethylene oxide (g) |  |  |  | \n | Hydrogen peroxide (g) |  |  |  | \n | Formaldehyde (g) |  |  |  | \n | Ozone (g) |  |  |  |  \n Liquid (peracetic acid) |  |  |  |  | \n Filtration |  |  |  |  |  ",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-2": "sterilisation/slide-1-image-2.webp",
+    "slide-3-image-2": "sterilisation/slide-3-image-2.webp",
+    "slide-3-image-3": "sterilisation/slide-3-image-3.webp",
+    "slide-3-image-4": "sterilisation/slide-3-image-4.webp",
+    "slide-3-image-5": "sterilisation/slide-3-image-5.webp",
+    "slide-3-image-6": "sterilisation/slide-3-image-6.webp",
+    "slide-3-image-7": "sterilisation/slide-3-image-7.webp",
+    "slide-3-image-8": "sterilisation/slide-3-image-8.webp",
+    "slide-3-image-9": "sterilisation/slide-3-image-9.webp",
+    "slide-3-image-10": "sterilisation/slide-3-image-10.webp",
+    "slide-4-image-2": "sterilisation/slide-4-image-2.webp",
+    "slide-5-image-2": "sterilisation/slide-5-image-2.webp",
+    "slide-7-image-2": "sterilisation/slide-7-image-2.webp",
+    "slide-8-image-2": "sterilisation/slide-8-image-2.webp",
+    "slide-8-image-3": "sterilisation/slide-8-image-3.webp",
+    "slide-9-image-1": "sterilisation/slide-9-image-1.webp",
+    "slide-10-image-2": "sterilisation/slide-10-image-2.webp",
+    "slide-11-image-2": "sterilisation/slide-11-image-2.webp",
+    "slide-12-image-2": "sterilisation/slide-12-image-2.webp",
+    "slide-13-image-2": "sterilisation/slide-13-image-2.webp",
+    "slide-14-image-2": "sterilisation/slide-14-image-2.webp",
+    "slide-15-image-2": "sterilisation/slide-15-image-2.webp",
+    "slide-15-image-3": "sterilisation/slide-15-image-3.webp",
+    "slide-16-image-2": "sterilisation/slide-16-image-2.webp",
+    "slide-17-image-2": "sterilisation/slide-17-image-2.webp",
+    "slide-18-image-2": "sterilisation/slide-18-image-2.webp",
+    "slide-19-image-2": "sterilisation/slide-19-image-2.webp",
+    "slide-20-image-2": "sterilisation/slide-20-image-2.webp",
+    "slide-21-image-2": "sterilisation/slide-21-image-2.webp",
+    "slide-22-image-2": "sterilisation/slide-22-image-2.webp",
+    "slide-24-image-2": "sterilisation/slide-24-image-2.webp",
+    "slide-25-image-2": "sterilisation/slide-25-image-2.webp",
+    "slide-26-image-2": "sterilisation/slide-26-image-2.webp",
+    "slide-27-image-2": "sterilisation/slide-27-image-2.webp",
+    "slide-28-image-2": "sterilisation/slide-28-image-2.webp",
+    "slide-29-image-2": "sterilisation/slide-29-image-2.webp",
+    "slide-29-image-3": "sterilisation/slide-29-image-3.webp",
+    "slide-29-image-4": "sterilisation/slide-29-image-4.webp"
+  },
+  "week": 8,
+  "weekEnd": 8
+}

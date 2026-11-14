@@ -1,0 +1,721 @@
+{
+  "version": 2,
+  "lectureId": "scientific-method-design-thinking",
+  "title": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems",
+  "moduleId": "physiology-research",
+  "moduleName": "",
+  "moduleCode": "LS5034",
+  "source": "Week 1 TB1 Scientific Method and Design Thinking Sept 2026.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Compare approaches",
+      "slide": 5,
+      "explanation": "It emphasises empirical evidence, controlled investigation and reproducibility.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The scientific method primarily tests {{c1::hypotheses}} to generate knowledge.",
+      "noteId": "scientific-method-design-thinking-16687f038878245bea10-note",
+      "id": "scientific-method-design-thinking-16687f038878245bea10",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The scientific method primarily tests {{c1::hypotheses}} to generate knowledge.",
+      "answer": "hypotheses"
+    },
+    {
+      "topic": "Compare approaches",
+      "slide": 5,
+      "explanation": "It addresses needs and practical use, often where there is more than one viable answer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Design thinking develops {{c1::user-centred solutions}}.",
+      "noteId": "scientific-method-design-thinking-1497e0c42af199474195-note",
+      "id": "scientific-method-design-thinking-1497e0c42af199474195",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Design thinking develops {{c1::user-centred solutions}}.",
+      "answer": "user-centred solutions"
+    },
+    {
+      "topic": "Compare approaches",
+      "slide": 5,
+      "explanation": "The scientific method can also be iterative; neither process is an inflexible one-pass recipe.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Repeated refinement from feedback makes design thinking {{c1::iterative}}.",
+      "noteId": "scientific-method-design-thinking-6ee875032a62450b16db-note",
+      "id": "scientific-method-design-thinking-6ee875032a62450b16db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Repeated refinement from feedback makes design thinking {{c1::iterative}}.",
+      "answer": "iterative"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 8,
+      "explanation": "Existing evidence helps formulate a useful research question.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The observation stage identifies a phenomenon or {{c1::knowledge gap}}.",
+      "noteId": "scientific-method-design-thinking-6463c79d2b58c88fa502-note",
+      "id": "scientific-method-design-thinking-6463c79d2b58c88fa502",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The observation stage identifies a phenomenon or {{c1::knowledge gap}}.",
+      "answer": "knowledge gap"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 9,
+      "explanation": "There must be possible observations that would count against it.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A scientific hypothesis should be testable and {{c1::falsifiable}}.",
+      "noteId": "scientific-method-design-thinking-505547483420f522701e-note",
+      "id": "scientific-method-design-thinking-505547483420f522701e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A scientific hypothesis should be testable and {{c1::falsifiable}}.",
+      "answer": "falsifiable"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 9,
+      "explanation": "The prediction links a proposed explanation to an observable outcome.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A hypothesis generates a specific {{c1::prediction}}.",
+      "noteId": "scientific-method-design-thinking-516ff45f6c89af8d3944-note",
+      "id": "scientific-method-design-thinking-516ff45f6c89af8d3944",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A hypothesis generates a specific {{c1::prediction}}.",
+      "answer": "prediction"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 10,
+      "explanation": "Design and measurement quality affect what conclusions the data can support.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Controlled experiments test predictions while limiting alternative {{c1::explanations}}.",
+      "noteId": "scientific-method-design-thinking-990e20a2339840e25383-note",
+      "id": "scientific-method-design-thinking-990e20a2339840e25383",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Controlled experiments test predictions while limiting alternative {{c1::explanations}}.",
+      "answer": "explanations"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 11,
+      "explanation": "Analysis connects observations to the question rather than replacing the question.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Organising and visualising collected evidence are part of data {{c1::analysis}}.",
+      "noteId": "scientific-method-design-thinking-6efd6425d0200d0d42e2-note",
+      "id": "scientific-method-design-thinking-6efd6425d0200d0d42e2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Organising and visualising collected evidence are part of data {{c1::analysis}}.",
+      "answer": "analysis"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 12,
+      "explanation": "One study does not establish a theory as permanently proved; evidence has limits.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A conclusion should assess whether results {{c1::support the hypothesis}}.",
+      "noteId": "scientific-method-design-thinking-da8b857c26aeb87bb040-note",
+      "id": "scientific-method-design-thinking-da8b857c26aeb87bb040",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A conclusion should assess whether results {{c1::support the hypothesis}}.",
+      "answer": "support the hypothesis"
+    },
+    {
+      "topic": "Scientific method",
+      "slide": 12,
+      "explanation": "An unexpected result is information rather than automatically a failed scientific process.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A result inconsistent with a prediction can motivate {{c1::hypothesis revision}}.",
+      "noteId": "scientific-method-design-thinking-782297253bad5c8e04f2-note",
+      "id": "scientific-method-design-thinking-782297253bad5c8e04f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A result inconsistent with a prediction can motivate {{c1::hypothesis revision}}.",
+      "answer": "hypothesis revision"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 14,
+      "explanation": "Interviews and observations help reveal actual needs.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Learning about users' experiences occurs in the {{c1::empathise/discover stage}}.",
+      "noteId": "scientific-method-design-thinking-eea8e41bddaf41b47a7c-note",
+      "id": "scientific-method-design-thinking-eea8e41bddaf41b47a7c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Learning about users' experiences occurs in the {{c1::empathise/discover stage}}.",
+      "answer": "empathise/discover stage"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 14,
+      "explanation": "Problem framing should be grounded in evidence about lived experience.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Understanding different stakeholder perspectives helps avoid assuming the user's {{c1::needs}}.",
+      "noteId": "scientific-method-design-thinking-b6578f11a9636058d8ec-note",
+      "id": "scientific-method-design-thinking-b6578f11a9636058d8ec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Understanding different stakeholder perspectives helps avoid assuming the user's {{c1::needs}}.",
+      "answer": "needs"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 15,
+      "explanation": "It organises insights from discovery rather than prematurely fixing one solution.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The define stage produces a clear {{c1::problem statement}}.",
+      "noteId": "scientific-method-design-thinking-e7ab839a96f0a9717f94-note",
+      "id": "scientific-method-design-thinking-e7ab839a96f0a9717f94",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The define stage produces a clear {{c1::problem statement}}.",
+      "answer": "problem statement"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 15,
+      "explanation": "Leaving solution space open supports meaningful ideation.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A problem statement should describe the core problem rather than dictate a {{c1::particular product}}.",
+      "noteId": "scientific-method-design-thinking-cfc27ab41eee7298523b-note",
+      "id": "scientific-method-design-thinking-cfc27ab41eee7298523b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A problem statement should describe the core problem rather than dictate a {{c1::particular product}}.",
+      "answer": "particular product"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 16,
+      "explanation": "The lecture emphasises quantity of ideas before early narrowing.",
+      "images": [
+        "slide-16-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Generating a broad range of possible solutions is {{c1::ideation}}.",
+      "noteId": "scientific-method-design-thinking-01d7897ab8897a2cbc81-note",
+      "id": "scientific-method-design-thinking-01d7897ab8897a2cbc81",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Generating a broad range of possible solutions is {{c1::ideation}}.",
+      "answer": "ideation"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 16,
+      "explanation": "It differs from experimentally testing one causal hypothesis.",
+      "images": [
+        "slide-16-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Brainstorming is associated with the {{c1::ideate stage}}.",
+      "noteId": "scientific-method-design-thinking-9f54641c199872ca0e2d-note",
+      "id": "scientific-method-design-thinking-9f54641c199872ca0e2d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Brainstorming is associated with the {{c1::ideate stage}}.",
+      "answer": "ideate stage"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 17,
+      "explanation": "It helps reveal limitations before committing to a full solution.",
+      "images": [
+        "slide-17-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A tangible or digital representation of an idea is a {{c1::prototype}}.",
+      "noteId": "scientific-method-design-thinking-fcb3fb1fcd549c330b72-note",
+      "id": "scientific-method-design-thinking-fcb3fb1fcd549c330b72",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A tangible or digital representation of an idea is a {{c1::prototype}}.",
+      "answer": "prototype"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 17,
+      "explanation": "It need not be a finished product to produce useful feedback.",
+      "images": [
+        "slide-17-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A prototype is used to {{c1::learn about a possible solution}}.",
+      "noteId": "scientific-method-design-thinking-c0982e2a13ec30675dd1-note",
+      "id": "scientific-method-design-thinking-c0982e2a13ec30675dd1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A prototype is used to {{c1::learn about a possible solution}}.",
+      "answer": "learn about a possible solution"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 18,
+      "explanation": "The feedback informs refinement and may require reframing the problem.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Testing a prototype gathers {{c1::user feedback}}.",
+      "noteId": "scientific-method-design-thinking-2662e3d8d3ac268e1596-note",
+      "id": "scientific-method-design-thinking-2662e3d8d3ac268e1596",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Testing a prototype gathers {{c1::user feedback}}.",
+      "answer": "user feedback"
+    },
+    {
+      "topic": "Design thinking stages",
+      "slide": 18,
+      "explanation": "Iteration can revisit earlier stages rather than defending the first idea.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "If testing exposes a mismatch with needs, the design should be {{c1::revised}}.",
+      "noteId": "scientific-method-design-thinking-8047129215920aa235a8-note",
+      "id": "scientific-method-design-thinking-8047129215920aa235a8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "If testing exposes a mismatch with needs, the design should be {{c1::revised}}.",
+      "answer": "revised"
+    },
+    {
+      "topic": "Apply the distinction",
+      "slide": 21,
+      "explanation": "It predicts a measurable effect suitable for scientific investigation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "“This drug reduces joint inflammation” is a {{c1::testable hypothesis}}.",
+      "noteId": "scientific-method-design-thinking-4a083c5eec08ab3911bb-note",
+      "id": "scientific-method-design-thinking-4a083c5eec08ab3911bb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "“This drug reduces joint inflammation” is a {{c1::testable hypothesis}}.",
+      "answer": "testable hypothesis"
+    },
+    {
+      "topic": "Apply the distinction",
+      "slide": 21,
+      "explanation": "It can guide design work without yet predicting a single biological effect.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "“Patients struggle to access affordable treatment” frames a {{c1::user-centred problem}}.",
+      "noteId": "scientific-method-design-thinking-d4ca0969c2388dd60f02-note",
+      "id": "scientific-method-design-thinking-d4ca0969c2388dd60f02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "“Patients struggle to access affordable treatment” frames a {{c1::user-centred problem}}.",
+      "answer": "user-centred problem"
+    },
+    {
+      "topic": "Apply the distinction",
+      "slide": 21,
+      "explanation": "One frames a need; the other makes a testable claim. Both can be useful within the same project.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A problem statement and a hypothesis serve {{c1::different purposes}}.",
+      "noteId": "scientific-method-design-thinking-68f069543838ee599f3f-note",
+      "id": "scientific-method-design-thinking-68f069543838ee599f3f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A problem statement and a hypothesis serve {{c1::different purposes}}.",
+      "answer": "different purposes"
+    },
+    {
+      "topic": "Integrated bioscience",
+      "slide": 23,
+      "explanation": "The source's device example separates measurement validity from usability.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Checking a glucose sensor's measurement accuracy uses the {{c1::scientific method}}.",
+      "noteId": "scientific-method-design-thinking-077ee7d8072c802c70dd-note",
+      "id": "scientific-method-design-thinking-077ee7d8072c802c70dd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Checking a glucose sensor's measurement accuracy uses the {{c1::scientific method}}.",
+      "answer": "scientific method"
+    },
+    {
+      "topic": "Integrated bioscience",
+      "slide": 23,
+      "explanation": "User needs include practical use rather than laboratory performance alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Investigating whether a wearable fits users' daily lives uses {{c1::design thinking}}.",
+      "noteId": "scientific-method-design-thinking-b6d84995a89f59056428-note",
+      "id": "scientific-method-design-thinking-b6d84995a89f59056428",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Investigating whether a wearable fits users' daily lives uses {{c1::design thinking}}.",
+      "answer": "design thinking"
+    },
+    {
+      "topic": "Integrated bioscience",
+      "slide": 23,
+      "explanation": "Scientific performance and adoption are distinct requirements.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A biologically accurate device may still fail if it has poor {{c1::usability}}.",
+      "noteId": "scientific-method-design-thinking-b9c7c07a9885b45cb769-note",
+      "id": "scientific-method-design-thinking-b9c7c07a9885b45cb769",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A biologically accurate device may still fail if it has poor {{c1::usability}}.",
+      "answer": "usability"
+    },
+    {
+      "topic": "Integrated bioscience",
+      "slide": 23,
+      "explanation": "Evidence-based measurement and iterative design can complement each other.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Combining both approaches seeks scientific rigour and {{c1::user relevance}}.",
+      "noteId": "scientific-method-design-thinking-8928d9bdf431afde7f3a-note",
+      "id": "scientific-method-design-thinking-8928d9bdf431afde7f3a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Combining both approaches seeks scientific rigour and {{c1::user relevance}}.",
+      "answer": "user relevance"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 1",
+      "text": "LS5029, LS5030 & LS5034 \u000bResearch Methods and Skills\nModule Lead for teaching block 2\nNigel Page\nn.page@kingston.ac.uk\nWelcome!",
+      "images": []
+    },
+    {
+      "number": 2,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 2",
+      "text": "Problem-solving exemplified using two distinct approaches 1) scientific method and 2) design thinking\nSession Learning Outcome\nDemonstrate the ability to apply and critically evaluate two distinct approaches to problem-solving \n\n1) the scientific method and 2) design thinking \n\nin the context of bioscience challenges, considering factors such as evidence, innovation, and ethical and societal impact.",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 3",
+      "text": "Scientific Method\nObservation/Question\nHypothesis\nExperiment\nAnalyse\nConclude\nDefine\nIdeate\nPrototype\nTest\nDesign Thinking\nEmpathy/Discover",
+      "images": [
+        "slide-3-image-1",
+        "slide-3-image-2"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 4",
+      "text": "Scientific Method vs Design Thinking\nBoth are very valid but different approaches to scientific problem-solving",
+      "images": []
+    },
+    {
+      "number": 5,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 5",
+      "text": " | Scientific Method | Design Thinking\nPurpose | To generate new knowledge and test hypotheses | To develop innovative, user-centred solutions\nApproach | Systematic, controlled, and hypothesis-driven | Iterative, user-centred, and solution-focused\nPhases/Steps | Observation, Hypothesis, Experimentation, Data Analysis, Conclusion | Empathise, Define, Ideate, Prototype, Test\nFocus | Empirical evidence and reproducibility; aims to establish cause-and-effect relationships and validate theories through controlled experiments and rigorous data analysis | Understanding user needs and creating practical solutions; Tackles interconnected & complex problems (often open-ended, ill-defined, with more than one answer)\nOutcome | Validated theories and scientific knowledge | Refined ideas, products or services that meet user needs\nTools/Methods | Controlled experiments, statistical analysis, peer review | Researching, observations, brainstorming, prototyping, user testing\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 6",
+      "text": " | Scientific Method | Design Thinking\n1. Initial Phase | Observation: Identify a phenomenon or problem based on existing knowledge and observations. | Empathise: Understand the needs, experiences, and challenges of users through interviews, observations, and research.\n2. Problem Definition | Hypothesis: Formulate a testable and falsifiable hypothesis based on observations. | Define: Clearly articulate the problem or challenge based on insights gathered during the empathise phase.\n3. Idea Generation | Experimentation: Design and conduct experiments to test the hypothesis under controlled conditions. | Ideate: Brainstorm a wide range of ideas and potential solutions to address the defined problem.\n4. Prototyping/Testing | Data Analysis: Collect and analyse data from experiments to determine whether the hypothesis is supported or refuted. | Prototype: Create tangible representations of the ideas to explore and test different solutions.\n5. Conclusion/Iteration | Conclusion: Draw conclusions based on the data analysis and determine whether the hypothesis is supported. Publish findings. | Test: Gather feedback from users on the prototypes, refine and improve the solutions through iterative testing.\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 7,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 7",
+      "text": "Scientific Method\nObservation/Question\nHypothesis\nExperiment\nAnalyse\nConclude\nDefine\nIdeate\nPrototype\nTest\nDesign Thinking\nEmpathy/Discover",
+      "images": [
+        "slide-7-image-1",
+        "slide-7-image-2"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 8",
+      "text": "\nGathering evidence/data\nto get clearer picture\n\nRecognising factors influencing issues\n\nFormulating questions\n\nLooking at what we already know\n\nAddresses knowledge gaps\nScientific Method\nObservation/Question",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 9",
+      "text": "\nDerives\npossibilities\n\nTestable & falsifiable\n\nPredictions\n\nBased on existing knowledge\nScientific Method\nObservation/Question\nHypothesis",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 10",
+      "text": "\nGather reliable data/observations\n\nPerform procedures (design & conduct experiments)\n\nTests prediction\nScientific Method\nObservation/Question\nHypothesis\nExperiment",
+      "images": [
+        "slide-10-image-1"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 11",
+      "text": "\nVisualise data\n\nData analysis\n\nOrganise data\nScientific Method\nObservation/Question\nHypothesis\nExperiment\nAnalyse",
+      "images": [
+        "slide-11-image-1"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 12",
+      "text": "\nDraw conclusions\n\nDo results align with hypothesis?\n\nSummarise results\nScientific Method\nObservation/Question\nHypothesis\nExperiment\nAnalyse\nConclude",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 13",
+      "text": "Quiz",
+      "images": []
+    },
+    {
+      "number": 14,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 14",
+      "text": "Design \nThinking\n\nUser research to gather information\n\nUnderstanding different perspectives\n\nContextual inquiry\nEmpathy/Discover\n\nProblem framing",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 15",
+      "text": "Design \nThinking\n\nGet a clearer picture of core problem\n\nSet goals and create problem statement\nDefine\n\nOrganise information & observations\nEmpathy/Discover",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 16",
+      "text": "Define\nIdeate\nDesign \nThinking\n\nBrainstorming\n\nGenerating ideas\n\nDevelop innovative solutions\nEmpathy/Discover\n\nQuantity over quality",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 17",
+      "text": "Empathy/Discover\nDefine\nIdeate\nPrototype\nDesign \nThinking\n\nUnderstand limitations & problems\n\nDelivering best possible solution\n\nCreating a representation",
+      "images": [
+        "slide-17-image-1"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 18",
+      "text": "Empathy/Discover\nDefine\nIdeate\nPrototype\nTest\nDesign \nThinking\n\nRedefine & make improvements\n\nCollate feedback\n\nShare solution",
+      "images": [
+        "slide-18-image-1"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 19",
+      "text": "Quiz",
+      "images": []
+    },
+    {
+      "number": 20,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 20",
+      "text": "Scientific Method\nObservation/Question\nHypothesis\nExperiment\nAnalyse\nConclude\nDefine\nIdeate\nPrototype\nTest\nDesign Thinking\nEmpathy/Discover",
+      "images": [
+        "slide-20-image-1",
+        "slide-20-image-2"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 21",
+      "text": "🔬 Scientific Method: Hypothesis Formation\n\nIn the scientific method, after observing a phenomenon, the researcher formulates a hypothesis - a testable prediction about the relationship between variables.\nIt’s focused, aiming to validate or refute a specific claim through experimentation.\nExample: ‘The novel anti-inflammatory drug will reduce joint inflammation in rheumatoid arthritis.’\n\n🎨 Design Thinking: Define Stage\n\nDesign thinking is about framing a problem based on insights gathered during the empathise phase.\nIt’s open-ended and human-centered, aiming to understand the broader context and needs of users and stakeholders.\nInstead of a hypothesis, it produces a problem statement that guides ideation.\nExample: ‘Patients with rheumatoid arthritis struggle to access treatments that are both effective and affordable.’",
+      "images": []
+    },
+    {
+      "number": 22,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 22",
+      "text": "Scientific Method vs Design Thinking\nScientific Method & Design Thinking processes can complement each other",
+      "images": []
+    },
+    {
+      "number": 23,
+      "topic": "Scientific Method & Design Thinking — Testing Ideas and Solving Problems — source 23",
+      "text": "Combining Scientific Method and Design Thinking in Bioscience Research\nThe scientific method identifies changes in vital biological metrics like heart rate and glucose, and experiments find the best measurement methods.\nDesign thinking tailors device development to measure biological metrics to user needs by empathising with users, like chronic condition patients, to grasp their daily issues and preferences.\nOutcome: A final product that is both scientifically robust and tailored to enhance user experience, leading to more effective and widely adopted health monitoring solutions.\n\n",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-3-image-1": "scientific-method-design-thinking/slide-3-image-1.webp",
+    "slide-3-image-2": "scientific-method-design-thinking/slide-3-image-2.webp",
+    "slide-7-image-1": "scientific-method-design-thinking/slide-7-image-1.webp",
+    "slide-7-image-2": "scientific-method-design-thinking/slide-7-image-2.webp",
+    "slide-8-image-1": "scientific-method-design-thinking/slide-8-image-1.webp",
+    "slide-9-image-1": "scientific-method-design-thinking/slide-9-image-1.webp",
+    "slide-10-image-1": "scientific-method-design-thinking/slide-10-image-1.webp",
+    "slide-11-image-1": "scientific-method-design-thinking/slide-11-image-1.webp",
+    "slide-12-image-1": "scientific-method-design-thinking/slide-12-image-1.webp",
+    "slide-14-image-1": "scientific-method-design-thinking/slide-14-image-1.webp",
+    "slide-15-image-1": "scientific-method-design-thinking/slide-15-image-1.webp",
+    "slide-16-image-1": "scientific-method-design-thinking/slide-16-image-1.webp",
+    "slide-17-image-1": "scientific-method-design-thinking/slide-17-image-1.webp",
+    "slide-18-image-1": "scientific-method-design-thinking/slide-18-image-1.webp",
+    "slide-20-image-1": "scientific-method-design-thinking/slide-20-image-1.webp",
+    "slide-20-image-2": "scientific-method-design-thinking/slide-20-image-2.webp"
+  },
+  "week": 1,
+  "weekEnd": 1
+}

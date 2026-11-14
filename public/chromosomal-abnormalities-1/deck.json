@@ -1,0 +1,1325 @@
+{
+  "version": 2,
+  "lectureId": "chromosomal-abnormalities-1",
+  "title": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "Lecture 1 - Chromosomal Abnormalities Part 1 2026 SE.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Chromosomes and division",
+      "slide": 10,
+      "explanation": "It contains two chromosome sets, each normally comprising 23 chromosomes; some specialised cells are exceptions.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A typical human somatic cell is {{c1::diploid}}.",
+      "noteId": "chromosomal-abnormalities-1-c5cc73fc469e3f2563e6-note",
+      "id": "chromosomal-abnormalities-1-c5cc73fc469e3f2563e6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A typical human somatic cell is {{c1::diploid}}.",
+      "answer": "diploid"
+    },
+    {
+      "topic": "Chromosomes and division",
+      "slide": 10,
+      "explanation": "They carry the same broad loci but need not carry identical alleles.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Corresponding maternal and paternal chromosomes are {{c1::homologues}}.",
+      "noteId": "chromosomal-abnormalities-1-398cbb80e8ac47a9f2e7-note",
+      "id": "chromosomal-abnormalities-1-398cbb80e8ac47a9f2e7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Corresponding maternal and paternal chromosomes are {{c1::homologues}}.",
+      "answer": "homologues"
+    },
+    {
+      "topic": "Chromosomes and division",
+      "slide": 11,
+      "explanation": "This contrasts with the reduction in ploidy during gamete formation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Mitosis usually preserves chromosome-set number in daughter {{c1::somatic cells}}.",
+      "noteId": "chromosomal-abnormalities-1-0de3ce45c1a098351da0-note",
+      "id": "chromosomal-abnormalities-1-0de3ce45c1a098351da0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mitosis usually preserves chromosome-set number in daughter {{c1::somatic cells}}.",
+      "answer": "somatic cells"
+    },
+    {
+      "topic": "Chromosomes and division",
+      "slide": 12,
+      "explanation": "The source's four-cell summary is the general meiotic model; oogenesis has asymmetric products.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Meiosis reduces a diploid chromosome complement to {{c1::haploid}}.",
+      "noteId": "chromosomal-abnormalities-1-3b1dfe61f788d5fed760-note",
+      "id": "chromosomal-abnormalities-1-3b1dfe61f788d5fed760",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Meiosis reduces a diploid chromosome complement to {{c1::haploid}}.",
+      "answer": "haploid"
+    },
+    {
+      "topic": "Chromosomes and division",
+      "slide": 15,
+      "explanation": "Complementary base pairing supports copying.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "During DNA replication, each original strand acts as a {{c1::template}}.",
+      "noteId": "chromosomal-abnormalities-1-b37a9e2db9ef52c8ea11-note",
+      "id": "chromosomal-abnormalities-1-b37a9e2db9ef52c8ea11",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During DNA replication, each original strand acts as a {{c1::template}}.",
+      "answer": "template"
+    },
+    {
+      "topic": "Chromosome structure",
+      "slide": 18,
+      "explanation": "It is distinct from the telomeric ends.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The region essential for chromosome segregation is the {{c1::centromere}}.",
+      "noteId": "chromosomal-abnormalities-1-716266d27cb102a62d6e-note",
+      "id": "chromosomal-abnormalities-1-716266d27cb102a62d6e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The region essential for chromosome segregation is the {{c1::centromere}}.",
+      "answer": "centromere"
+    },
+    {
+      "topic": "Chromosome structure",
+      "slide": 18,
+      "explanation": "The source associates these structures with chromosome stability.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chromosome ends are protected by {{c1::telomeres}}.",
+      "noteId": "chromosomal-abnormalities-1-9f3608e7437e1403c85b-note",
+      "id": "chromosomal-abnormalities-1-9f3608e7437e1403c85b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chromosome ends are protected by {{c1::telomeres}}.",
+      "answer": "telomeres"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 25,
+      "explanation": "It can generate gametes or cell lineages with abnormal chromosome numbers.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Failure of homologues or sister chromatids to separate properly is {{c1::nondisjunction}}.",
+      "noteId": "chromosomal-abnormalities-1-b3348974d17de5e69ffb-note",
+      "id": "chromosomal-abnormalities-1-b3348974d17de5e69ffb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Failure of homologues or sister chromatids to separate properly is {{c1::nondisjunction}}.",
+      "answer": "nondisjunction"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 25,
+      "explanation": "This differs from adding an entire chromosome set.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A change in the number of individual chromosomes is {{c1::aneuploidy}}.",
+      "noteId": "chromosomal-abnormalities-1-3c4ad8a59b5d496bd8a7-note",
+      "id": "chromosomal-abnormalities-1-3c4ad8a59b5d496bd8a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A change in the number of individual chromosomes is {{c1::aneuploidy}}.",
+      "answer": "aneuploidy"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 25,
+      "explanation": "For a typical diploid starting complement this is 2n−1.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "One missing member of a chromosome pair is {{c1::monosomy}}.",
+      "noteId": "chromosomal-abnormalities-1-6c66146f4a3d2274ba42-note",
+      "id": "chromosomal-abnormalities-1-6c66146f4a3d2274ba42",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "One missing member of a chromosome pair is {{c1::monosomy}}.",
+      "answer": "monosomy"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 25,
+      "explanation": "This is 2n+1, not three complete genome sets.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Three copies of one chromosome are a {{c1::trisomy}}.",
+      "noteId": "chromosomal-abnormalities-1-7162c2af2caccc62f8ca-note",
+      "id": "chromosomal-abnormalities-1-7162c2af2caccc62f8ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Three copies of one chromosome are a {{c1::trisomy}}.",
+      "answer": "trisomy"
+    },
+    {
+      "topic": "Chromosome structure",
+      "slide": 27,
+      "explanation": "Both arms are relatively similar in length.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A centromere near the middle defines a {{c1::metacentric}} chromosome.",
+      "noteId": "chromosomal-abnormalities-1-a5abd4496fbfefc20680-note",
+      "id": "chromosomal-abnormalities-1-a5abd4496fbfefc20680",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A centromere near the middle defines a {{c1::metacentric}} chromosome.",
+      "answer": "metacentric"
+    },
+    {
+      "topic": "Chromosome structure",
+      "slide": 27,
+      "explanation": "The lecture lists human autosomes 13, 14, 15, 21 and 22.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A chromosome with a markedly short p arm has an {{c1::acrocentric}} centromere position.",
+      "noteId": "chromosomal-abnormalities-1-44508e00c31d554c59a7-note",
+      "id": "chromosomal-abnormalities-1-44508e00c31d554c59a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A chromosome with a markedly short p arm has an {{c1::acrocentric}} centromere position.",
+      "answer": "acrocentric"
+    },
+    {
+      "topic": "Chromosome structure",
+      "slide": 27,
+      "explanation": "This is intermediate between the illustrated metacentric and acrocentric forms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "An off-centre centromere with unequal arms defines a {{c1::submetacentric}} chromosome.",
+      "noteId": "chromosomal-abnormalities-1-b2b9c9b1afc8c60ff2af-note",
+      "id": "chromosomal-abnormalities-1-b2b9c9b1afc8c60ff2af",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An off-centre centromere with unequal arms defines a {{c1::submetacentric}} chromosome.",
+      "answer": "submetacentric"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 28,
+      "explanation": "Karyotype can refer to the chromosomal constitution; both terms are sometimes used loosely for the display.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An ordered display of chromosomes is a {{c1::karyogram}}.",
+      "noteId": "chromosomal-abnormalities-1-4e93741801d4aceaac82-note",
+      "id": "chromosomal-abnormalities-1-4e93741801d4aceaac82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An ordered display of chromosomes is a {{c1::karyogram}}.",
+      "answer": "karyogram"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 28,
+      "explanation": "Their visible structure makes chromosome-level comparisons possible.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Conventional karyotyping usually examines condensed {{c1::metaphase chromosomes}}.",
+      "noteId": "chromosomal-abnormalities-1-a52a90912b8cc88b416f-note",
+      "id": "chromosomal-abnormalities-1-a52a90912b8cc88b416f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Conventional karyotyping usually examines condensed {{c1::metaphase chromosomes}}.",
+      "answer": "metaphase chromosomes"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 30,
+      "explanation": "Size alone is not sufficient for reliable identification.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chromosome size, centromere position and {{c1::banding pattern}} help identify homologues.",
+      "noteId": "chromosomal-abnormalities-1-93dee981bce1b764a6b6-note",
+      "id": "chromosomal-abnormalities-1-93dee981bce1b764a6b6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chromosome size, centromere position and {{c1::banding pattern}} help identify homologues.",
+      "answer": "banding pattern"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 31,
+      "explanation": "The short arm is p; band numbering increases away from the centromere.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The q in 14q21 denotes the chromosome's {{c1::long arm}}.",
+      "noteId": "chromosomal-abnormalities-1-ca5ef2bdce5c1b45a5d4-note",
+      "id": "chromosomal-abnormalities-1-ca5ef2bdce5c1b45a5d4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The q in 14q21 denotes the chromosome's {{c1::long arm}}.",
+      "answer": "long arm"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 31,
+      "explanation": "Read the chromosome, arm and band rather than treating it as an arbitrary gene name.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Band 14q21 lies closer to the centromere than {{c1::14q22}}.",
+      "noteId": "chromosomal-abnormalities-1-ce35d76dfd2ca92a6171-note",
+      "id": "chromosomal-abnormalities-1-ce35d76dfd2ca92a6171",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Band 14q21 lies closer to the centromere than {{c1::14q22}}.",
+      "answer": "14q22"
+    },
+    {
+      "topic": "Reading karyotypes",
+      "slide": 32,
+      "explanation": "The letters describe the sex-chromosome complement, not a complete clinical phenotype.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The first number in 46,XY gives the total {{c1::chromosome count}}.",
+      "noteId": "chromosomal-abnormalities-1-b93b524d645a138acab5-note",
+      "id": "chromosomal-abnormalities-1-b93b524d645a138acab5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The first number in 46,XY gives the total {{c1::chromosome count}}.",
+      "answer": "chromosome count"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 35,
+      "explanation": "The earlier slide's definition as more than one pair is incorrect; ordinary diploidy already has paired chromosomes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An extra complete chromosome set is {{c1::polyploidy}}.",
+      "noteId": "chromosomal-abnormalities-1-8bee52ed6ede56cdcd26-note",
+      "id": "chromosomal-abnormalities-1-8bee52ed6ede56cdcd26",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An extra complete chromosome set is {{c1::polyploidy}}.",
+      "answer": "polyploidy"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 37,
+      "explanation": "It can produce triploidy; the slide also lists a diploid gamete as a route.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Fertilisation of one egg by two sperm is {{c1::dispermy}}.",
+      "noteId": "chromosomal-abnormalities-1-cbfef6d7c0247f90c40a-note",
+      "id": "chromosomal-abnormalities-1-cbfef6d7c0247f90c40a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fertilisation of one egg by two sperm is {{c1::dispermy}}.",
+      "answer": "dispermy"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 38,
+      "explanation": "This is three complete sets of 23, not an isolated trisomy.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Human triploidy typically contains {{c1::69 chromosomes}}.",
+      "noteId": "chromosomal-abnormalities-1-530d5dbecafe2026f285-note",
+      "id": "chromosomal-abnormalities-1-530d5dbecafe2026f285",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Human triploidy typically contains {{c1::69 chromosomes}}.",
+      "answer": "69 chromosomes"
+    },
+    {
+      "topic": "Numerical changes",
+      "slide": 38,
+      "explanation": "Avoid treating the slide's exact live-birth estimate or a single survival statement as an invariant outcome.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Most triploid conceptions end in {{c1::pregnancy loss}}.",
+      "noteId": "chromosomal-abnormalities-1-bb8202805ebcf9268829-note",
+      "id": "chromosomal-abnormalities-1-bb8202805ebcf9268829",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most triploid conceptions end in {{c1::pregnancy loss}}.",
+      "answer": "pregnancy loss"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 39,
+      "explanation": "Free trisomy is common, but translocation and mosaic forms also occur.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Down syndrome is associated with extra chromosome {{c1::21}} material.",
+      "noteId": "chromosomal-abnormalities-1-d74a65c4afd43d8259d4-note",
+      "id": "chromosomal-abnormalities-1-d74a65c4afd43d8259d4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Down syndrome is associated with extra chromosome {{c1::21}} material.",
+      "answer": "21"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 39,
+      "explanation": "The lecture lists it among common live-born autosomal trisomies.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Edwards syndrome is associated with trisomy {{c1::18}}.",
+      "noteId": "chromosomal-abnormalities-1-2f93151080c9fcd19d0b-note",
+      "id": "chromosomal-abnormalities-1-2f93151080c9fcd19d0b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Edwards syndrome is associated with trisomy {{c1::18}}.",
+      "answer": "18"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 39,
+      "explanation": "This distinguishes it from trisomy 18 and 21.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Patau syndrome is associated with trisomy {{c1::13}}.",
+      "noteId": "chromosomal-abnormalities-1-17037c153987ee42de68-note",
+      "id": "chromosomal-abnormalities-1-17037c153987ee42de68",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Patau syndrome is associated with trisomy {{c1::13}}.",
+      "answer": "13"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 42,
+      "explanation": "The source also discusses respiratory disease; individual abilities and medical features vary.",
+      "images": [
+        "slide-42-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Down syndrome can include congenital {{c1::cardiac disease}}.",
+      "noteId": "chromosomal-abnormalities-1-5fb7f1eb874197b4eea6-note",
+      "id": "chromosomal-abnormalities-1-5fb7f1eb874197b4eea6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Down syndrome can include congenital {{c1::cardiac disease}}.",
+      "answer": "cardiac disease"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 43,
+      "explanation": "The slide's caption calls an XX-labelled example male; the notation itself indicates XX.",
+      "images": [
+        "slide-43-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A female karyotype with a free extra chromosome 21 is written {{c1::47,XX,+21}}.",
+      "noteId": "chromosomal-abnormalities-1-236290499e2a9de1a61c-note",
+      "id": "chromosomal-abnormalities-1-236290499e2a9de1a61c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A female karyotype with a free extra chromosome 21 is written {{c1::47,XX,+21}}.",
+      "answer": "47,XX,+21"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 44,
+      "explanation": "The source highlights a predominantly maternal origin but not an exclusively maternal cause.",
+      "images": [
+        "slide-44-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Most free trisomy 21 arises through meiotic {{c1::nondisjunction}}.",
+      "noteId": "chromosomal-abnormalities-1-e2bfb06a2000c2cbed2c-note",
+      "id": "chromosomal-abnormalities-1-e2bfb06a2000c2cbed2c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most free trisomy 21 arises through meiotic {{c1::nondisjunction}}.",
+      "answer": "nondisjunction"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 45,
+      "explanation": "Risk is not zero at younger ages, and the association is not a certainty for any pregnancy.",
+      "images": [
+        "slide-45-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The probability of trisomy 21 increases with maternal {{c1::age}}.",
+      "noteId": "chromosomal-abnormalities-1-b35f29700504bfb3f8f2-note",
+      "id": "chromosomal-abnormalities-1-b35f29700504bfb3f8f2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The probability of trisomy 21 increases with maternal {{c1::age}}.",
+      "answer": "age"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 47,
+      "explanation": "The lecture also lists heart, brain and kidney abnormalities; no one sign is diagnostic.",
+      "images": [
+        "slide-47-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cleft lip/palate and extra digits can occur in {{c1::Patau syndrome}}.",
+      "noteId": "chromosomal-abnormalities-1-99f92506bceb8e150a6f-note",
+      "id": "chromosomal-abnormalities-1-99f92506bceb8e150a6f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cleft lip/palate and extra digits can occur in {{c1::Patau syndrome}}.",
+      "answer": "Patau syndrome"
+    },
+    {
+      "topic": "Autosomal trisomies",
+      "slide": 47,
+      "explanation": "It is among the illustrated features of trisomy 13.",
+      "images": [
+        "slide-47-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The term for extra fingers or toes is {{c1::polydactyly}}.",
+      "noteId": "chromosomal-abnormalities-1-be973bf0e8f32de84fc8-note",
+      "id": "chromosomal-abnormalities-1-be973bf0e8f32de84fc8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The term for extra fingers or toes is {{c1::polydactyly}}.",
+      "answer": "polydactyly"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 51,
+      "explanation": "Mosaic and other forms exist; the extra X is not always of paternal origin.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The common sex-chromosome complement in Klinefelter syndrome is {{c1::47,XXY}}.",
+      "noteId": "chromosomal-abnormalities-1-9e19635997c394607221-note",
+      "id": "chromosomal-abnormalities-1-9e19635997c394607221",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The common sex-chromosome complement in Klinefelter syndrome is {{c1::47,XXY}}.",
+      "answer": "47,XXY"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 51,
+      "explanation": "The source's blanket claims about intellect and sterility are too absolute; presentation varies.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Small testes and impaired sperm production can occur in {{c1::Klinefelter syndrome}}.",
+      "noteId": "chromosomal-abnormalities-1-db29f1b2b206fef7eda4-note",
+      "id": "chromosomal-abnormalities-1-db29f1b2b206fef7eda4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Small testes and impaired sperm production can occur in {{c1::Klinefelter syndrome}}.",
+      "answer": "Klinefelter syndrome"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 52,
+      "explanation": "It may occur in Klinefelter syndrome but is neither universal nor unique to it.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Breast-tissue enlargement is termed {{c1::gynaecomastia}}.",
+      "noteId": "chromosomal-abnormalities-1-1e2079f37c873edc6372-note",
+      "id": "chromosomal-abnormalities-1-1e2079f37c873edc6372",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Breast-tissue enlargement is termed {{c1::gynaecomastia}}.",
+      "answer": "gynaecomastia"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 53,
+      "explanation": "The notation is not 45,XO: O is not a chromosome. Mosaic and structural variants also occur.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The classic monosomy-X karyotype in Turner syndrome is {{c1::45,X}}.",
+      "noteId": "chromosomal-abnormalities-1-e507e14cc40b382c17e7-note",
+      "id": "chromosomal-abnormalities-1-e507e14cc40b382c17e7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The classic monosomy-X karyotype in Turner syndrome is {{c1::45,X}}.",
+      "answer": "45,X"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 54,
+      "explanation": "The source's absolute developmental claims do not apply to every individual.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Short stature and impaired ovarian function can occur in {{c1::Turner syndrome}}.",
+      "noteId": "chromosomal-abnormalities-1-6ffa64d3d682e4b8d402-note",
+      "id": "chromosomal-abnormalities-1-6ffa64d3d682e4b8d402",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Short stature and impaired ovarian function can occur in {{c1::Turner syndrome}}.",
+      "answer": "Turner syndrome"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 55,
+      "explanation": "The slide's assertion of inherent aggression or universally elevated testosterone is an outdated stereotype and is not a reliable consequence of this karyotype.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The sex-chromosome complement called XYY is {{c1::47,XYY}}.",
+      "noteId": "chromosomal-abnormalities-1-509aa9e6de851b2c41b4-note",
+      "id": "chromosomal-abnormalities-1-509aa9e6de851b2c41b4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sex-chromosome complement called XYY is {{c1::47,XYY}}.",
+      "answer": "47,XYY"
+    },
+    {
+      "topic": "Sex-chromosome variation",
+      "slide": 56,
+      "explanation": "Features and learning/developmental needs vary; fertility may be retained.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Triple-X syndrome usually refers to {{c1::47,XXX}}.",
+      "noteId": "chromosomal-abnormalities-1-88c6e3c124fcb40ca04f-note",
+      "id": "chromosomal-abnormalities-1-88c6e3c124fcb40ca04f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Triple-X syndrome usually refers to {{c1::47,XXX}}.",
+      "answer": "47,XXX"
+    },
+    {
+      "topic": "X dosage",
+      "slide": 57,
+      "explanation": "Not every gene is silenced, so extra or missing X chromosomes can still have consequences.",
+      "images": [
+        "slide-57-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Largely silencing one X chromosome contributes to {{c1::dosage compensation}}.",
+      "noteId": "chromosomal-abnormalities-1-8ed72791139eb42e8f7d-note",
+      "id": "chromosomal-abnormalities-1-8ed72791139eb42e8f7d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Largely silencing one X chromosome contributes to {{c1::dosage compensation}}.",
+      "answer": "dosage compensation"
+    },
+    {
+      "topic": "X dosage",
+      "slide": 57,
+      "explanation": "Some X-linked genes escape inactivation.",
+      "images": [
+        "slide-57-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A condensed largely inactive X chromosome forms a {{c1::Barr body}}.",
+      "noteId": "chromosomal-abnormalities-1-e3a6282eb07820c890db-note",
+      "id": "chromosomal-abnormalities-1-e3a6282eb07820c890db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A condensed largely inactive X chromosome forms a {{c1::Barr body}}.",
+      "answer": "Barr body"
+    },
+    {
+      "topic": "X dosage",
+      "slide": 57,
+      "explanation": "Dosage compensation is incomplete for some genes.",
+      "images": [
+        "slide-57-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Escape from X inactivation helps explain why an extra X is not completely {{c1::phenotypically silent}}.",
+      "noteId": "chromosomal-abnormalities-1-4bc2ed37eca8ac97b449-note",
+      "id": "chromosomal-abnormalities-1-4bc2ed37eca8ac97b449",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Escape from X inactivation helps explain why an extra X is not completely {{c1::phenotypically silent}}.",
+      "answer": "phenotypically silent"
+    },
+    {
+      "topic": "X dosage",
+      "slide": 58,
+      "explanation": "Descendant cells tend to retain the same inactive X, producing clonal patches.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Early random X inactivation creates tissue {{c1::mosaicism}}.",
+      "noteId": "chromosomal-abnormalities-1-1e5cac4e8c592303dc34-note",
+      "id": "chromosomal-abnormalities-1-1e5cac4e8c592303dc34",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Early random X inactivation creates tissue {{c1::mosaicism}}.",
+      "answer": "mosaicism"
+    },
+    {
+      "topic": "X dosage",
+      "slide": 58,
+      "explanation": "Skewing and cell-type differences can alter the overall pattern.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Random initiation of X inactivation does not guarantee an exact {{c1::50:50}} balance across a tissue.",
+      "noteId": "chromosomal-abnormalities-1-ff05e17e0b12fb028eed-note",
+      "id": "chromosomal-abnormalities-1-ff05e17e0b12fb028eed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Random initiation of X inactivation does not guarantee an exact {{c1::50:50}} balance across a tissue.",
+      "answer": "50:50"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 1",
+      "text": "\n\nThe Basis of Human Disease\u000b \u000bChromosomes\u000bPart 1\nAhmed Elbediwy\nLS5023 –Medical Genetics\n\n\n\n\n\n\n1",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 2",
+      "text": "Topics to cover\nMolecular Basis of Inheritance\n\nChromosomal abnormalities\n\nNumerical chromosome disorders\n\nSex Chromosome Variation\n\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 3",
+      "text": "Learning Objectives\nTo understand the molecular basis of inheritance\n\nTo describe the different examples of Chromosomal disorders (Both structural and numerical) \n\nTo understand the importance of a karyotype in diagnosing genetic diseases\n\nTo differentiate between different types of chromosome abnormalities.\n\nTo describe the genetic causes of Downs Syndrome, Patau Syndrome, Klinefelter Syndrome, Turner Syndrome, Jacobs syndrome and triple x syndrome\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 4,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 4",
+      "text": "Resources for LS5023\nMedical Genetics\n5th Edition\nEmery’s Elements of Medical Genetics\nElsevier (2017)\nEssential Medical Genetics\n6th edition ",
+      "images": [
+        "slide-4-image-1",
+        "slide-4-image-2",
+        "slide-4-image-3"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 5",
+      "text": "\n\nCharacters Are Inherited\nOrganisms reproduce according to their species.\nOffspring inherit traits from parents.\nInheritance was scientifically investigated in the late 19th century.",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 6",
+      "text": "\n\nInheritance from Parents\nEach parent carries two copies of genetic information.\nOnly one copy is passed to each offspring.\nChildren inherit one copy from each parent.",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 7",
+      "text": "",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 8",
+      "text": "Dominant and Recessive Traits\nOnly one of two inherited traits may be expressed.\nDominant traits mask recessive traits.\nExample: Round peas dominate wrinkled peas.",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 9",
+      "text": "\n\nMendel's Legacy\n\nMendel's work formed the foundation of genetics.\nThe genome is composed of DNA.\nGenes are the functional units of chromosomes",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 10",
+      "text": "\n\nThe Human Genome\nHuman cells are diploid.\nDiploid cells contain two sets of chromosomes.\nEach set contains 23 chromosomes.\nMatching chromosome pairs are called homologous chromosomes.",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 11",
+      "text": "\n\nMitosis\nMitosis produces two genetically identical cells.\nIt is the main mechanism of cell division in the body.",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 12",
+      "text": "\n\nMeiosis\nMeiosis produces four haploid cells (gametes).\nGametes contain one chromosome set.\nEssential for sexual reproduction.",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 13",
+      "text": "\n\nMitochondrial DNA\n\nMitochondria generate ATP.\nThought to originate from ancient bacteria.\nSupport the endosymbiotic theory.",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 14",
+      "text": "\n\nDNA Structure\nDNA is made of nucleotides.\nEach nucleotide contains: \nPhosphate\nSugar\nNitrogenous base\nFour bases form genetic information.",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 15",
+      "text": "\n\nDNA Replication\nEach strand acts as a template.\nProduces identical DNA molecules",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 16",
+      "text": "\n\nDNA Polymerase\nDNA polymerase synthesises new DNA.\nAdds complementary nucleotides.\nEssential for replication. [",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 17",
+      "text": "\n\nGenome Organisation\nHuman genome consists of 23 chromosome pairs.\nEach chromosome contains millions of base pairs.",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 18",
+      "text": "\n\nChromosome Structure\nRegions\nCentromere\nTelomeres\nThese regions help chromosome stability and segregation.",
+      "images": []
+    },
+    {
+      "number": 19,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 19",
+      "text": "\n\nGene Structure\nComponents\nPromoter\nEnhancer\nExons\nIntrons",
+      "images": []
+    },
+    {
+      "number": 20,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 20",
+      "text": "Central dogma\nTranscription:\nConversion of information from DNA to mRNA\nTranslation: Conversion of information from RNA to protein\nDNA – RNA - Protein",
+      "images": [
+        "slide-20-image-1",
+        "slide-20-image-2"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 21",
+      "text": "in RNA synthesis no thymine (T) is used but uracil (U) is used instead \nOne base of DNA corresponded to one base of RNA \n1 amino acid is added to the protein strand for every 3 bases in the RNA.\n\nHow?",
+      "images": [
+        "slide-21-image-1",
+        "slide-21-image-2",
+        "slide-21-image-3",
+        "slide-21-image-4"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 22",
+      "text": "5’\n3’\nmRNA sequence\nN-terminus\nC-terminus\n Protein chains always begin with Met\nProtein sequence\nThe Genetic Code\n   AUG  AAC  AAU  GCG  CCG  GAG  GAA  GCG  GAG\n 53 orientation corresponds to \nN-term  C-term orientation\nMet---Asn---Asn---Ala---Pro---Glu---Glu---Ala---Glu",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 23",
+      "text": "Introduction to Chromosomal abnormalities",
+      "images": []
+    },
+    {
+      "number": 24,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 24",
+      "text": "Types of Genetic Diseases\nChromosome disorders - Changes in the number or structure of chromosomes.\n\nSingle-gene disorders (MONOgenic) - single genes are changed (These are mendelian conditions) \n\nMultifactorial (Complex) disorders (POLYgenic)- multiple gene combinations changed sometimes with environmental causes.\n\nMitochondrial disorders - caused by changes in the small cytoplasmic mitochondrial chromosome.\n\n24\nCytogenetics: The study of chromosomes and their abnormalities",
+      "images": [
+        "slide-24-image-1"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 25",
+      "text": "Why do Chromosomal Disorders happen?\nCauses - Ionising radiation, viral infections and chemical toxin.\n\nChromosome disorders - Changes in the number or structure of chromosomes.\nAneuploidy - Abnormal number of chromosomes in a cell.\nMonosomy - One LESS copy of a chromosome pair. Instead of the usual 46 chromosomes, monosomy results in 45 chromosomes in each cell.\nTrisomy - an EXTRA copy of a chromosome, resulting in 47 instead of 46 chromosomes.\nMeiosis failure - Most cases of simple aneuploidy usually due to meiotic non-disjunctions (Meiosis separation issues)",
+      "images": []
+    },
+    {
+      "number": 26,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 26",
+      "text": "A functional chromosome",
+      "images": [
+        "slide-26-image-1",
+        "slide-26-image-2"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 27",
+      "text": "\n(13, 14, 15, 21, 22)\nMetacentric chromosomes – (Central) the centromere lies near the center of the chromosome.\nSubmetacentric chromosomes: (Off Centre) have a centromere that is off-center, so that one chromosome arm is longer than the other.\nAcrocentric chromosomes – (End) the centromere resides very near one end. Acro comes from the Greek word peak.\nChromosome classification according to the position of the centromere",
+      "images": []
+    },
+    {
+      "number": 28,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 28",
+      "text": "Karyotype\nKaryotype or karyogram - a display or photomicrograph of an individual’s  somatic-cell metaphase chromosomes that are  arranged in a standard sequence (usually based on number, size, and type)\nKaryotype -  A complete set of chromosomes in an individual’s cells. It covers chromosome sizes, numbers, and shapes.",
+      "images": []
+    },
+    {
+      "number": 29,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 29",
+      "text": "Organize the chromosomes into a Karyotype!",
+      "images": [
+        "slide-29-image-1",
+        "slide-29-image-2"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 30",
+      "text": "How Do Scientists Identify Chromosomes?\nThree key features to identify their similarities  and differences:\n\nSize - Easiest way to tell two different  chromosomes apart.\n\nBanding pattern - The size and location of Giemsa bands (G-Bands) on chromosomes. \n\nCentromere position - Centromeres are regions in chromosomes that appear as a constriction.\n\nUsing these key features, scientists match up the  23 pairs of chromosomes.\n",
+      "images": []
+    },
+    {
+      "number": 31,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 31",
+      "text": "\n\n\n\n\n\n\n\nGene address – Combinations’s of numbers and letters provide a gene’s “address”  on a chromosome\n\nExample - 14q21 represents position  21 on the long arm of chromosome14.\n\n14q21 is closer to the  centromere than 14q22\nq12",
+      "images": []
+    },
+    {
+      "number": 32,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 32",
+      "text": "The Karyotype\nA normal male chromosome pattern would be described as:\n\n46,XY\n\n46 = total number of chromosomes  XY = sex chromosome constitution  (XY = male, XX = female).\n\nAny further description would refer to any abnormalities or  variants found",
+      "images": []
+    },
+    {
+      "number": 33,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 33",
+      "text": "Chromosomal abnormalities",
+      "images": []
+    },
+    {
+      "number": 34,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 34",
+      "text": "Classification of chromosomal anomalies\nNumber of chromosomes affected (usually due to error in meiosis)\nAneuploidy - The presence of an abnormal number of chromosomes in a cell.\n\nPolyploidy – The presence of more than one pair of (homologous) chromosomes.\n\nRearrangement of chromosomes (structural issues ; may be due to error in meiosis or inherited)\nTranslocations - Unusual rearrangement of chromosomes.   \nDeletions -  parts of chromosomes are missing, chromosome deletion syndrome\nDuplications -  Chromosome duplication disorders occur due to errors in cell division.\nInversions - An inversion is a chromosome rearrangement in which a segment of a chromosome becomes inverted within its original position.\n",
+      "images": []
+    },
+    {
+      "number": 35,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 35",
+      "text": "Chromosomal abnormalities\n1. Alterations in chromosome number. \nDiploid- a term that refers to the presence of two complete sets of chromosomes in an organism’s cells, with each parent contributing a chromosome to each pair. \nPolyploidy – extra set of the entire genome.  (3n, 4n etc)\nAneuploidy – less or more than the normal  diploid number.\n-Monosomy - one member of a chromosome  pair is missing (2n-1)\n-Trisomy - one chromosome set consists of 3  copies of a chromosome (2n+1)",
+      "images": []
+    },
+    {
+      "number": 36,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 36",
+      "text": "",
+      "images": [
+        "slide-36-image-1"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 37",
+      "text": "The presence of a complete set of extra chromosomes in a cell.\nTriploidy and tetraploidy have been observed in humans\nAdditional chromosomes encode a large amount of surplus gene products, causing multiple anomalies such as defects of the heart and central nervous system.\n\nCauses:\nDispermy: Fertilization of an egg by two spermatozoa.\nfertilization of a diploid egg.\n\n\n\nPolyploidy",
+      "images": []
+    },
+    {
+      "number": 38,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 38",
+      "text": "Triploidy - Seen in about 1 in 10,000 live births\nA complete extra set of chromosomes (69)\n15% - It accounts for an estimated 15% of the chromosome abnormalities occurring at conception.\nThe vast majority of triploid conceptions are spontaneously aborted.\nIt is one of the most common causes of fetal loss in the first two trimesters of pregnancy.\nTriploid fetuses that survive to term typically die shortly after birth.\nTriploidy: [23 X 3] 69XXX\nTriploidy",
+      "images": []
+    },
+    {
+      "number": 39,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 39",
+      "text": "Most frequent numerical anomalies  in live born\nAutosomal anomalies\nDown syndrome (trisomy: Chromosome 21: 47,XX (maternal),+21)\n\n  Edwards syndrome (trisomy: Chromosome 18: 47,XX (maternal),+18)\n\n  Patau syndrome (trisomy: Chromosome 13: 47,XX (maternal) +13)\n\n                         Sex chromosomes\n\nTurner syndrome 45,X (Maternal only. single X chromosome) \n\nKlinefelter syndrome 47,XXY (Paternal: extra X chromosome)\nautosome - any chromosome that is not a sex chromosome",
+      "images": []
+    },
+    {
+      "number": 40,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 40",
+      "text": "Numerical Chromosome disorders",
+      "images": []
+    },
+    {
+      "number": 41,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 41",
+      "text": "Down Syndrome\n(Trisomy 21) ",
+      "images": []
+    },
+    {
+      "number": 42,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 42",
+      "text": "Down Syndrome (Trisomy 21) \nClinical Characteristic:\n\nFacial patterning - upslanting eyelids, redundant skin of the inner eyelid, protruding tongue, and low nasal bridge.\n\nIntellect – Mild to Moderate intellectual disability (standardized IQ ranging from 40 to 60)\n\nHow frequent - 1 in 700 live births.\n\nRespiratory disease - Respiratory disease is the second leading cause of death in children with DS, after cardiac disease.",
+      "images": [
+        "slide-42-image-1",
+        "slide-42-image-2"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 43",
+      "text": "Down Syndrome (47, xx +21)\nA karyotype of a male with trisomy 21",
+      "images": [
+        "slide-43-image-1"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 44",
+      "text": "Down Syndrome is mostly due to meiotic nondisjunction\nMost often occurs by nondisjunction of chromosome 21 during meiosis; 95% of these trisomies have defective egg as source (maternal).",
+      "images": [
+        "slide-44-image-1"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 45",
+      "text": "Incidence of Down Syndrome Increases with Maternal Age",
+      "images": [
+        "slide-45-image-1"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 46",
+      "text": "Patau Syndrome \n(Trisomy 13)",
+      "images": []
+    },
+    {
+      "number": 47,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 47",
+      "text": "\nSigns and symptoms:\n1 in 12,000 births\nCleft lip and palate.  \nSmall eyes.\nExtra fingers & toes.\nDefects: Heart, Brain and Kidney.\nMost abort.\nLive span < 1 month.\n90% die first year of life.\nLife expectancy survivors average 10 years. \nTrisomy 13 (Patau Syndrome)",
+      "images": [
+        "slide-47-image-1",
+        "slide-47-image-2"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 48",
+      "text": "An 8-year-old girl with full trisomy 13 showing her small eyes and prominent, wide nose.\nTrisomy 13 (Patau Syndrome)",
+      "images": [
+        "slide-48-image-1"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 49",
+      "text": "\n\nTrisomy 13 (Patau Syndrome)",
+      "images": []
+    },
+    {
+      "number": 50,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 50",
+      "text": "\nSex Chromosome Variation",
+      "images": []
+    },
+    {
+      "number": 51,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 51",
+      "text": "\nKlinefelter syndrome – Has an extra X chromosome.\nStructure - Genital and internal ducts are present as in males. Their testes are underdeveloped and  fail to produce sperms.\nSymptoms - They have enlarged breast, Intellectual disability and feminine sexual development is not entirely suppressed.\nKlinefelter syndrome (XXY) ",
+      "images": []
+    },
+    {
+      "number": 52,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 52",
+      "text": "\n\n\n\n\n1 in 1,000 births\n47 chromosomes  XXY only\n23 Trisomy  Nondisjunction\n\nKlinefelter syndrome (XXY) \nSymptoms: \n\nNo facial hair\nLonger fingers and arms  Sterile\nLow mental ability\nNormal lifespan\nGynecomastia",
+      "images": []
+    },
+    {
+      "number": 53,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 53",
+      "text": "Turner syndrome (XO)\n(45,XO).\nFemale external genetelia, and internal ducts,  but ovaries are redundant.\nShort status. Under 5 feets.",
+      "images": []
+    },
+    {
+      "number": 54,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 54",
+      "text": "\n\n1 in 5,000 births.\n45 chromosomes X only (One missing).\n#23 Monosomy  Nondisjunction.\n\n96-98% of suffers do not survive to birth.\nNo menstruation.\nNo breast development. Narrow hips.\nBroad shoulders and neck.\n\nWebbed neck\nTurner syndrome ",
+      "images": []
+    },
+    {
+      "number": 55,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 55",
+      "text": "\n\n1 in 1,000 births\n\n47 chromosomes  XYY only\n23 Trisomy  Nondisjunction\n\nNormal physically.\nNormal mentally.\nIncrease in testosterone. \nMore aggressive.\nNormal lifespan.\nJacob’s Syndrome",
+      "images": []
+    },
+    {
+      "number": 56,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 56",
+      "text": "Triple X Syndrome\n\n\n\n\n\n\n\n\nNormal physically\nSometimes taller\nNormal mentally\nFertile (menstrual irregularities)",
+      "images": []
+    },
+    {
+      "number": 57,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 57",
+      "text": "Dosage Compensation\nDosage - levels of gene activity produced by a single X chromosome is the normal \"dosage\" for a human. \n\nMen - Have this dosage because they only have one X chromosome! \n\nWomen - Have the same dosage for a different reason: they shut down one of their two X chromosomes in a process called X-inactivation.\n\nX-inactivation - an X chromosome is compacted (\"crumpled up into a ball\"), to make a small, dense structure called a Barr body. Most of the genes on the Barr body are inactive, meaning that they are not transcribed. \n\nMary Lyon - The process of X-inactivation was discovered by the British geneticist Mary F. Lyon. The Lyon hypothesis, after Mary Lyon, who  first proposed in 1962.",
+      "images": [
+        "slide-57-image-1"
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 58",
+      "text": "Female Mammals Are Mosaics\nX inactivation - once occurred in a cell, it is  permanent in all the descendants of that cell.\n\nMosaic - All female mammals are mosaic for the genes on the X chromosome because of the random inactivation of one or the other X chromosome in all their somatic cells.\n\nFemale mammals are mosaics of two populations of cells; one expresses the maternal X and the  other the paternal X\n\nAlleles of both chromosomes are expressed approximately equally over the whole organism",
+      "images": []
+    },
+    {
+      "number": 59,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 59",
+      "text": "",
+      "images": [
+        "slide-59-image-1"
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 60",
+      "text": "Lecture review\n\n\n\nChromosomal abnormalities\n\nTypes including numerical and rearrangement.\nKaryotypes\n\nNumerical chromosome disorders\n\nDowns Syndrome, Patau Syndrome.\n\nSex Chromosome Variation\n\nKlinefelter Syndrome, Turner Syndrome, Jacobs syndrome and triple X syndrome.\n",
+      "images": []
+    },
+    {
+      "number": 61,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 61",
+      "text": "Please read: \nMedical Genetics\n5th Edition\nEmery’s Elements of Medical Genetics\nElsevier (2017)\nEssential Medical Genetics\n6th edition ",
+      "images": [
+        "slide-61-image-1",
+        "slide-61-image-2",
+        "slide-61-image-3"
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Chromosomal Abnormalities I — Karyotypes & Numerical Disorders — source 62",
+      "text": "Please read (Free Textbook): \nChapter 9: Changes in Chromosome Number and Structure\n\nhttps://bio.libretexts.org/Bookshelves/Genetics/Online_Open_Genetics_(Nickle_and_Barrette-Ng)\n",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "chromosomal-abnormalities-1/slide-1-image-1.webp",
+    "slide-4-image-1": "chromosomal-abnormalities-1/slide-4-image-1.webp",
+    "slide-4-image-2": "chromosomal-abnormalities-1/slide-4-image-2.webp",
+    "slide-4-image-3": "chromosomal-abnormalities-1/slide-4-image-3.webp",
+    "slide-5-image-1": "chromosomal-abnormalities-1/slide-5-image-1.webp",
+    "slide-6-image-1": "chromosomal-abnormalities-1/slide-6-image-1.webp",
+    "slide-7-image-1": "chromosomal-abnormalities-1/slide-7-image-1.webp",
+    "slide-8-image-1": "chromosomal-abnormalities-1/slide-8-image-1.webp",
+    "slide-9-image-1": "chromosomal-abnormalities-1/slide-9-image-1.webp",
+    "slide-13-image-1": "chromosomal-abnormalities-1/slide-13-image-1.webp",
+    "slide-14-image-1": "chromosomal-abnormalities-1/slide-14-image-1.webp",
+    "slide-15-image-1": "chromosomal-abnormalities-1/slide-15-image-1.webp",
+    "slide-16-image-1": "chromosomal-abnormalities-1/slide-16-image-1.webp",
+    "slide-20-image-1": "chromosomal-abnormalities-1/slide-20-image-1.webp",
+    "slide-20-image-2": "chromosomal-abnormalities-1/slide-20-image-2.webp",
+    "slide-21-image-1": "chromosomal-abnormalities-1/slide-21-image-1.webp",
+    "slide-21-image-2": "chromosomal-abnormalities-1/slide-21-image-2.webp",
+    "slide-21-image-3": "chromosomal-abnormalities-1/slide-21-image-3.webp",
+    "slide-21-image-4": "chromosomal-abnormalities-1/slide-21-image-4.webp",
+    "slide-22-image-1": "chromosomal-abnormalities-1/slide-22-image-1.webp",
+    "slide-24-image-1": "chromosomal-abnormalities-1/slide-24-image-1.webp",
+    "slide-26-image-1": "chromosomal-abnormalities-1/slide-26-image-1.webp",
+    "slide-26-image-2": "chromosomal-abnormalities-1/slide-26-image-2.webp",
+    "slide-29-image-1": "chromosomal-abnormalities-1/slide-29-image-1.webp",
+    "slide-29-image-2": "chromosomal-abnormalities-1/slide-29-image-2.webp",
+    "slide-36-image-1": "chromosomal-abnormalities-1/slide-36-image-1.webp",
+    "slide-42-image-1": "chromosomal-abnormalities-1/slide-42-image-1.webp",
+    "slide-42-image-2": "chromosomal-abnormalities-1/slide-42-image-2.webp",
+    "slide-43-image-1": "chromosomal-abnormalities-1/slide-43-image-1.webp",
+    "slide-44-image-1": "chromosomal-abnormalities-1/slide-44-image-1.webp",
+    "slide-45-image-1": "chromosomal-abnormalities-1/slide-45-image-1.webp",
+    "slide-47-image-1": "chromosomal-abnormalities-1/slide-47-image-1.webp",
+    "slide-47-image-2": "chromosomal-abnormalities-1/slide-47-image-2.webp",
+    "slide-48-image-1": "chromosomal-abnormalities-1/slide-48-image-1.webp",
+    "slide-57-image-1": "chromosomal-abnormalities-1/slide-57-image-1.webp",
+    "slide-59-image-1": "chromosomal-abnormalities-1/slide-59-image-1.webp",
+    "slide-61-image-1": "chromosomal-abnormalities-1/slide-61-image-1.webp",
+    "slide-61-image-2": "chromosomal-abnormalities-1/slide-61-image-2.webp",
+    "slide-61-image-3": "chromosomal-abnormalities-1/slide-61-image-3.webp"
+  },
+  "week": 8,
+  "weekEnd": 8
+}

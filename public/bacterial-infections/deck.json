@@ -1,0 +1,1161 @@
+{
+  "version": 2,
+  "lectureId": "bacterial-infections",
+  "title": "Medically Important Bacterial Infections",
+  "moduleId": "infection-immunity",
+  "moduleName": "",
+  "moduleCode": "LS5008",
+  "source": "Examples_of_medically_important_bacterial_infections_LS5008_LS5030_WITHOUT_IMAGES-2.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Healthcare infections",
+      "slide": 5,
+      "explanation": "It is Gram-negative and can cause severe healthcare-associated disease.",
+      "images": [
+        "slide-5-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The wet-environment, biofilm-forming opportunist highlighted in the lecture is {{c1::Pseudomonas aeruginosa}}.",
+      "noteId": "bacterial-infections-034221401fca55903108-note",
+      "id": "bacterial-infections-034221401fca55903108",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The wet-environment, biofilm-forming opportunist highlighted in the lecture is {{c1::Pseudomonas aeruginosa}}.",
+      "answer": "Pseudomonas aeruginosa"
+    },
+    {
+      "topic": "Healthcare infections",
+      "slide": 5,
+      "explanation": "This contributes to persistence in moist healthcare environments.",
+      "images": [
+        "slide-5-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Pseudomonas aeruginosa can persist as a {{c1::biofilm}}.",
+      "noteId": "bacterial-infections-9c59d54cb83617bc69a4-note",
+      "id": "bacterial-infections-9c59d54cb83617bc69a4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pseudomonas aeruginosa can persist as a {{c1::biofilm}}.",
+      "answer": "biofilm"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 6,
+      "explanation": "The lecture links many cases to contaminated poultry.",
+      "images": [
+        "slide-6-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The major Campylobacter species causing human cases is {{c1::Campylobacter jejuni}}.",
+      "noteId": "bacterial-infections-4061a1d06c5b56ab2607-note",
+      "id": "bacterial-infections-4061a1d06c5b56ab2607",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The major Campylobacter species causing human cases is {{c1::Campylobacter jejuni}}.",
+      "answer": "Campylobacter jejuni"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 6,
+      "explanation": "The percentage in the source is approximate and depends on population and surveillance.",
+      "images": [
+        "slide-6-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A key food vehicle for campylobacteriosis is undercooked {{c1::poultry}}.",
+      "noteId": "bacterial-infections-e88cc0ed5b0a95e2e1d7-note",
+      "id": "bacterial-infections-e88cc0ed5b0a95e2e1d7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A key food vehicle for campylobacteriosis is undercooked {{c1::poultry}}.",
+      "answer": "poultry"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 6,
+      "explanation": "This is a complication of infection rather than direct proof of bacteria residing in nerves.",
+      "images": [
+        "slide-6-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A post-Campylobacter neurological complication is {{c1::Guillain–Barré syndrome}}.",
+      "noteId": "bacterial-infections-8931c0d24b39c95e0646-note",
+      "id": "bacterial-infections-8931c0d24b39c95e0646",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A post-Campylobacter neurological complication is {{c1::Guillain–Barré syndrome}}.",
+      "answer": "Guillain–Barré syndrome"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 7,
+      "explanation": "Poultry, livestock, birds and reptiles are examples of reservoirs.",
+      "images": [
+        "slide-7-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Salmonella naturally inhabits the {{c1::gastrointestinal tract}} of many animals.",
+      "noteId": "bacterial-infections-a21c727d3e881b8bacce-note",
+      "id": "bacterial-infections-a21c727d3e881b8bacce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Salmonella naturally inhabits the {{c1::gastrointestinal tract}} of many animals.",
+      "answer": "gastrointestinal tract"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 7,
+      "explanation": "The lecture uses this to connect food-chain prevention with infection risk.",
+      "images": [
+        "slide-7-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The British Lion egg scheme includes vaccination of hens against {{c1::Salmonella}}.",
+      "noteId": "bacterial-infections-28a3f57a178105f4ff79-note",
+      "id": "bacterial-infections-28a3f57a178105f4ff79",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The British Lion egg scheme includes vaccination of hens against {{c1::Salmonella}}.",
+      "answer": "Salmonella"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 8,
+      "explanation": "Species identification alone does not determine the disease mechanism.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Different disease-associated forms of E. coli are called {{c1::pathotypes}}.",
+      "noteId": "bacterial-infections-36a029745d9eb0a496fd-note",
+      "id": "bacterial-infections-36a029745d9eb0a496fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Different disease-associated forms of E. coli are called {{c1::pathotypes}}.",
+      "answer": "pathotypes"
+    },
+    {
+      "topic": "Food-borne infection",
+      "slide": 8,
+      "explanation": "Food does not have to be meat to acquire an animal-associated pathogen.",
+      "images": [
+        "slide-8-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Faecal contamination of irrigation water or manure can transmit E. coli to {{c1::salad produce}}.",
+      "noteId": "bacterial-infections-ac13fa8590b216047f2e-note",
+      "id": "bacterial-infections-ac13fa8590b216047f2e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Faecal contamination of irrigation water or manure can transmit E. coli to {{c1::salad produce}}.",
+      "answer": "salad produce"
+    },
+    {
+      "topic": "Healthcare infections",
+      "slide": 9,
+      "explanation": "The source misspells the species name; this card uses the accepted spelling.",
+      "images": [
+        "slide-9-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The non-motile Gram-negative hospital-associated rod described is {{c1::Acinetobacter baumannii}}.",
+      "noteId": "bacterial-infections-e494b3dd762b3b4f2eac-note",
+      "id": "bacterial-infections-e494b3dd762b3b4f2eac",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The non-motile Gram-negative hospital-associated rod described is {{c1::Acinetobacter baumannii}}.",
+      "answer": "Acinetobacter baumannii"
+    },
+    {
+      "topic": "Healthcare infections",
+      "slide": 9,
+      "explanation": "A. baumannii is the lecture example associated with equipment and ICU outbreaks.",
+      "images": [
+        "slide-9-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An infection acquired in a healthcare setting is {{c1::nosocomial}}.",
+      "noteId": "bacterial-infections-d11a334401df6adf28f7-note",
+      "id": "bacterial-infections-d11a334401df6adf28f7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infection acquired in a healthcare setting is {{c1::nosocomial}}.",
+      "answer": "nosocomial"
+    },
+    {
+      "topic": "Tuberculosis",
+      "slide": 10,
+      "explanation": "The lungs are a major site, although disease is not restricted to pulmonary infection.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Tuberculosis is caused by {{c1::Mycobacterium tuberculosis}}.",
+      "noteId": "bacterial-infections-f0c25879def6de3f5b8c-note",
+      "id": "bacterial-infections-f0c25879def6de3f5b8c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Tuberculosis is caused by {{c1::Mycobacterium tuberculosis}}.",
+      "answer": "Mycobacterium tuberculosis"
+    },
+    {
+      "topic": "Tuberculosis",
+      "slide": 10,
+      "explanation": "This is a distinctive envelope feature rather than an ordinary Gram-negative outer membrane.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The waxy M. tuberculosis envelope is rich in {{c1::mycolic acids}}.",
+      "noteId": "bacterial-infections-8e3f07c59c191b6f3918-note",
+      "id": "bacterial-infections-8e3f07c59c191b6f3918",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The waxy M. tuberculosis envelope is rich in {{c1::mycolic acids}}.",
+      "answer": "mycolic acids"
+    },
+    {
+      "topic": "Tuberculosis",
+      "slide": 10,
+      "explanation": "Distinguish the reservoir from the material collected for diagnosis, such as sputum.",
+      "images": [
+        "slide-10-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The primary natural reservoir for M. tuberculosis is {{c1::humans}}.",
+      "noteId": "bacterial-infections-93e9e45e7cbb2e89047c-note",
+      "id": "bacterial-infections-93e9e45e7cbb2e89047c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The primary natural reservoir for M. tuberculosis is {{c1::humans}}.",
+      "answer": "humans"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 11,
+      "explanation": "It is difficult to grow by routine culture.",
+      "images": [
+        "slide-11-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Syphilis is caused by the motile spirochaete {{c1::Treponema pallidum}}.",
+      "noteId": "bacterial-infections-4f464a599efc0a414fac-note",
+      "id": "bacterial-infections-4f464a599efc0a414fac",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Syphilis is caused by the motile spirochaete {{c1::Treponema pallidum}}.",
+      "answer": "Treponema pallidum"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 12,
+      "explanation": "The classic lesion contrasts with painful chancroid, but real presentations vary.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A typical primary syphilis chancre is {{c1::painless}}.",
+      "noteId": "bacterial-infections-66d65422b9d287a4fb50-note",
+      "id": "bacterial-infections-66d65422b9d287a4fb50",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A typical primary syphilis chancre is {{c1::painless}}.",
+      "answer": "painless"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 13,
+      "explanation": "The source also describes systemic symptoms; a rash alone is not diagnostic.",
+      "images": [
+        "slide-13-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A rash involving palms and soles suggests {{c1::secondary syphilis}} in the appropriate context.",
+      "noteId": "bacterial-infections-b5027e53c31d00447a12-note",
+      "id": "bacterial-infections-b5027e53c31d00447a12",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A rash involving palms and soles suggests {{c1::secondary syphilis}} in the appropriate context.",
+      "answer": "secondary syphilis"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 14,
+      "explanation": "Absence of visible lesions does not establish eradication.",
+      "images": [
+        "slide-14-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The clinically silent period of syphilis is the {{c1::latent stage}}.",
+      "noteId": "bacterial-infections-7ead3612c90c02ee1084-note",
+      "id": "bacterial-infections-7ead3612c90c02ee1084",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The clinically silent period of syphilis is the {{c1::latent stage}}.",
+      "answer": "latent stage"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 14,
+      "explanation": "Treponemal tests such as TPPA are examples; dark-field microscopy requires suitable lesions and is not a latent-stage screening test.",
+      "images": [
+        "slide-14-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Latent syphilis is investigated using {{c1::serological testing}}.",
+      "noteId": "bacterial-infections-a257379649a127322d17-note",
+      "id": "bacterial-infections-a257379649a127322d17",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Latent syphilis is investigated using {{c1::serological testing}}.",
+      "answer": "serological testing"
+    },
+    {
+      "topic": "Syphilis",
+      "slide": 15,
+      "explanation": "The lecture highlights cardiovascular and neurological involvement. Neurosyphilis can also occur earlier; stages are not an absolute timetable.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Late syphilis can produce severe {{c1::organ damage}} years after infection.",
+      "noteId": "bacterial-infections-26a1c62c8205528fb1cc-note",
+      "id": "bacterial-infections-26a1c62c8205528fb1cc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Late syphilis can produce severe {{c1::organ damage}} years after infection.",
+      "answer": "organ damage"
+    },
+    {
+      "topic": "Genital ulcer diseases",
+      "slide": 16,
+      "explanation": "This Gram-negative organism contrasts with the typically painless primary syphilis lesion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Painful chancroid is caused by {{c1::Haemophilus ducreyi}}.",
+      "noteId": "bacterial-infections-02d4cccd2cd061c33735-note",
+      "id": "bacterial-infections-02d4cccd2cd061c33735",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Painful chancroid is caused by {{c1::Haemophilus ducreyi}}.",
+      "answer": "Haemophilus ducreyi"
+    },
+    {
+      "topic": "Genital ulcer diseases",
+      "slide": 16,
+      "explanation": "Clinical overlap exists, so pain alone is insufficient for diagnosis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The classic ulcer pain pattern helps distinguish chancroid from primary {{c1::syphilis}}.",
+      "noteId": "bacterial-infections-53b9480ed0c2a5b63110-note",
+      "id": "bacterial-infections-53b9480ed0c2a5b63110",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The classic ulcer pain pattern helps distinguish chancroid from primary {{c1::syphilis}}.",
+      "answer": "syphilis"
+    },
+    {
+      "topic": "Genital ulcer diseases",
+      "slide": 17,
+      "explanation": "The lecture describes progressive skin and deeper tissue damage.",
+      "images": [
+        "slide-17-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Donovanosis is caused by {{c1::Klebsiella granulomatis}}.",
+      "noteId": "bacterial-infections-afbe82bb35888a4ec1b4-note",
+      "id": "bacterial-infections-afbe82bb35888a4ec1b4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Donovanosis is caused by {{c1::Klebsiella granulomatis}}.",
+      "answer": "Klebsiella granulomatis"
+    },
+    {
+      "topic": "Genital ulcer diseases",
+      "slide": 17,
+      "explanation": "They are sought in appropriate tissue material.",
+      "images": [
+        "slide-17-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The characteristic microscopic inclusions in donovanosis are {{c1::Donovan bodies}}.",
+      "noteId": "bacterial-infections-845fe2f38911524b39d1-note",
+      "id": "bacterial-infections-845fe2f38911524b39d1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The characteristic microscopic inclusions in donovanosis are {{c1::Donovan bodies}}.",
+      "answer": "Donovan bodies"
+    },
+    {
+      "topic": "Wall-less bacteria",
+      "slide": 18,
+      "explanation": "This distinguishes their structure from many Gram-negative bacterial pathogens.",
+      "images": [
+        "slide-18-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ureaplasma species lack a {{c1::cell wall}}.",
+      "noteId": "bacterial-infections-f7143cf499d4ba1b054a-note",
+      "id": "bacterial-infections-f7143cf499d4ba1b054a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ureaplasma species lack a {{c1::cell wall}}.",
+      "answer": "cell wall"
+    },
+    {
+      "topic": "Wall-less bacteria",
+      "slide": 18,
+      "explanation": "The source links overgrowth with symptoms, but detection alone does not prove it caused infertility or urethritis.",
+      "images": [
+        "slide-18-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Ureaplasma carriage can occur without {{c1::disease}}.",
+      "noteId": "bacterial-infections-b48ed0bcdc96446b455b-note",
+      "id": "bacterial-infections-b48ed0bcdc96446b455b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ureaplasma carriage can occur without {{c1::disease}}.",
+      "answer": "disease"
+    },
+    {
+      "topic": "Wall-less bacteria",
+      "slide": 19,
+      "explanation": "It can cause urethritis and other genital-tract disease.",
+      "images": [
+        "slide-19-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The wall-less pathogen abbreviated Mgen is {{c1::Mycoplasma genitalium}}.",
+      "noteId": "bacterial-infections-140bba4643c1245ea143-note",
+      "id": "bacterial-infections-140bba4643c1245ea143",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The wall-less pathogen abbreviated Mgen is {{c1::Mycoplasma genitalium}}.",
+      "answer": "Mycoplasma genitalium"
+    },
+    {
+      "topic": "Wall-less bacteria",
+      "slide": 19,
+      "explanation": "The source's antibiotic examples are not a current treatment algorithm; resistance-guided local guidance matters.",
+      "images": [
+        "slide-19-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Mycoplasma genitalium can cause {{c1::urethritis}}.",
+      "noteId": "bacterial-infections-c61b5df10e7e934d0f0d-note",
+      "id": "bacterial-infections-c61b5df10e7e934d0f0d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mycoplasma genitalium can cause {{c1::urethritis}}.",
+      "answer": "urethritis"
+    },
+    {
+      "topic": "Neisseria infections",
+      "slide": 20,
+      "explanation": "The lecture emphasises that a species can cause more than one clinical syndrome.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Neisseria species usually associated with meningitis but also capable of urethritis is {{c1::N. meningitidis}}.",
+      "noteId": "bacterial-infections-fe48a854ddf800d9f240-note",
+      "id": "bacterial-infections-fe48a854ddf800d9f240",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Neisseria species usually associated with meningitis but also capable of urethritis is {{c1::N. meningitidis}}.",
+      "answer": "N. meningitidis"
+    },
+    {
+      "topic": "Neisseria infections",
+      "slide": 21,
+      "explanation": "It is a Gram-negative diplococcus.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Gonorrhoea is caused by {{c1::Neisseria gonorrhoeae}}.",
+      "noteId": "bacterial-infections-fc4e5b3b4436a5e97699-note",
+      "id": "bacterial-infections-fc4e5b3b4436a5e97699",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gonorrhoea is caused by {{c1::Neisseria gonorrhoeae}}.",
+      "answer": "Neisseria gonorrhoeae"
+    },
+    {
+      "topic": "Neisseria infections",
+      "slide": 21,
+      "explanation": "Recognise paired cocci rather than a rod or spirochaete.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Neisseria gonorrhoeae has a {{c1::diplococcal}} arrangement.",
+      "noteId": "bacterial-infections-cabc25537dcd3793fcdc-note",
+      "id": "bacterial-infections-cabc25537dcd3793fcdc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Neisseria gonorrhoeae has a {{c1::diplococcal}} arrangement.",
+      "answer": "diplococcal"
+    },
+    {
+      "topic": "Neisseria infections",
+      "slide": 21,
+      "explanation": "Asymptomatic carriage is especially common in women; exact proportions vary.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Absence of gonorrhoea symptoms does not exclude {{c1::infection}}.",
+      "noteId": "bacterial-infections-bd8573d7cc9c08b543b2-note",
+      "id": "bacterial-infections-bd8573d7cc9c08b543b2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Absence of gonorrhoea symptoms does not exclude {{c1::infection}}.",
+      "answer": "infection"
+    },
+    {
+      "topic": "Chlamydial infection",
+      "slide": 22,
+      "explanation": "The lecture links it with genital inflammation and reproductive complications.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The genital infection called chlamydia is commonly caused by {{c1::Chlamydia trachomatis}}.",
+      "noteId": "bacterial-infections-35db8ecb7f7c43831091-note",
+      "id": "bacterial-infections-35db8ecb7f7c43831091",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The genital infection called chlamydia is commonly caused by {{c1::Chlamydia trachomatis}}.",
+      "answer": "Chlamydia trachomatis"
+    },
+    {
+      "topic": "Chlamydial infection",
+      "slide": 22,
+      "explanation": "Many infections are asymptomatic, so symptoms alone underestimate infection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Untreated genital chlamydial infection may damage reproductive tissues and contribute to {{c1::infertility}}.",
+      "noteId": "bacterial-infections-db08c7196a15c0242bce-note",
+      "id": "bacterial-infections-db08c7196a15c0242bce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Untreated genital chlamydial infection may damage reproductive tissues and contribute to {{c1::infertility}}.",
+      "answer": "infertility"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 23,
+      "explanation": "They are non-motile Gram-negative rods.",
+      "images": [
+        "slide-23-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Shigellosis is caused by bacteria of the genus {{c1::Shigella}}.",
+      "noteId": "bacterial-infections-4fdc821d4573eedf9081-note",
+      "id": "bacterial-infections-4fdc821d4573eedf9081",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Shigellosis is caused by bacteria of the genus {{c1::Shigella}}.",
+      "answer": "Shigella"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 23,
+      "explanation": "Sexual exposure can also provide this route; it is not exclusively a food-borne infection.",
+      "images": [
+        "slide-23-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The transmission route for shigellosis is {{c1::faecal–oral}}.",
+      "noteId": "bacterial-infections-066c476fc7e5bd41a82b-note",
+      "id": "bacterial-infections-066c476fc7e5bd41a82b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transmission route for shigellosis is {{c1::faecal–oral}}.",
+      "answer": "faecal–oral"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 23,
+      "explanation": "The lecture gives about 10–100 CFU, helping explain efficient transmission.",
+      "images": [
+        "slide-23-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Shigella can cause infection after an unusually {{c1::low infectious dose}}.",
+      "noteId": "bacterial-infections-1edb4a1ed0dba2293758-note",
+      "id": "bacterial-infections-1edb4a1ed0dba2293758",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Shigella can cause infection after an unusually {{c1::low infectious dose}}.",
+      "answer": "low infectious dose"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 23,
+      "explanation": "A serotype is a subdivision within a species, not a separate genus.",
+      "images": [
+        "slide-23-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Shigella serotypes can differ in the LPS {{c1::O-antigen}} repeat region.",
+      "noteId": "bacterial-infections-0050acab1f061e138ecd-note",
+      "id": "bacterial-infections-0050acab1f061e138ecd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Shigella serotypes can differ in the LPS {{c1::O-antigen}} repeat region.",
+      "answer": "O-antigen"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 24,
+      "explanation": "It is associated with inflammatory diarrhoeal disease such as shigellosis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A painful persistent urge to defecate despite an empty bowel is {{c1::tenesmus}}.",
+      "noteId": "bacterial-infections-7d0d5717faea158b503f-note",
+      "id": "bacterial-infections-7d0d5717faea158b503f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A painful persistent urge to defecate despite an empty bowel is {{c1::tenesmus}}.",
+      "answer": "tenesmus"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 24,
+      "explanation": "It is a clinical syndrome, not a species identification by itself.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Bloody, mucus-containing diarrhoea is termed {{c1::dysentery}}.",
+      "noteId": "bacterial-infections-6ead5efd1323d8a16984-note",
+      "id": "bacterial-infections-6ead5efd1323d8a16984",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Bloody, mucus-containing diarrhoea is termed {{c1::dysentery}}.",
+      "answer": "dysentery"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 25,
+      "explanation": "Culture also yields an isolate; molecular approaches can provide more rapid detection.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The sample cultured for suspected shigellosis is {{c1::stool}}.",
+      "noteId": "bacterial-infections-d431a86f29181db99fd5-note",
+      "id": "bacterial-infections-d431a86f29181db99fd5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sample cultured for suspected shigellosis is {{c1::stool}}.",
+      "answer": "stool"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 25,
+      "explanation": "Some E. coli also carry it, so results require appropriate interpretation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "The ipaH PCR target is not completely specific for {{c1::Shigella}}.",
+      "noteId": "bacterial-infections-5f4500a7b2633ba0f9e9-note",
+      "id": "bacterial-infections-5f4500a7b2633ba0f9e9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The ipaH PCR target is not completely specific for {{c1::Shigella}}.",
+      "answer": "Shigella"
+    },
+    {
+      "topic": "Shigellosis",
+      "slide": 25,
+      "explanation": "Clinical syndrome and laboratory results should be considered together.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Travel and sexual-exposure history provide diagnostic {{c1::context}} for suspected shigellosis.",
+      "noteId": "bacterial-infections-2c00d0f5768b5f87a3ad-note",
+      "id": "bacterial-infections-2c00d0f5768b5f87a3ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Travel and sexual-exposure history provide diagnostic {{c1::context}} for suspected shigellosis.",
+      "answer": "context"
+    },
+    {
+      "topic": "Interpreting research",
+      "slide": 26,
+      "explanation": "Apparent geographic absence does not prove the pathogen is absent. The slide's map cannot establish true incidence everywhere.",
+      "images": [
+        "slide-26-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A map of reported shigellosis cases may reflect surveillance and sampling {{c1::bias}}.",
+      "noteId": "bacterial-infections-85f804539352fc224dc2-note",
+      "id": "bacterial-infections-85f804539352fc224dc2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A map of reported shigellosis cases may reflect surveillance and sampling {{c1::bias}}.",
+      "answer": "bias"
+    },
+    {
+      "topic": "Interpreting research",
+      "slide": 28,
+      "explanation": "Virulence factors and host context help explain why a species name is not a complete clinical prediction.",
+      "images": [
+        "slide-28-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "One bacterial species can contain strains producing different {{c1::disease phenotypes}}.",
+      "noteId": "bacterial-infections-38cd10872b43b99bf29c-note",
+      "id": "bacterial-infections-38cd10872b43b99bf29c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "One bacterial species can contain strains producing different {{c1::disease phenotypes}}.",
+      "answer": "disease phenotypes"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Medically Important Bacterial Infections — source 1",
+      "text": "LS5008 / LS5030\u000bExamples of Medically Important\u000bBacterial Infections\nDr Lewis C. E. Mason \u000bBSc (Hons), MSc, PhD, MSRB, FIBMS, AFHEA ",
+      "images": [
+        "slide-1-image-2"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Medically Important Bacterial Infections — source 2",
+      "text": "Learning objectives\nRecall specific bacterial infections and their\u000bcausative agents\n\nExplain how virulence factors influence\u000bsymptomology\n\nCritically evaluate research on medically\u000bimportant bacterial infections",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Medically Important Bacterial Infections — source 3",
+      "text": "Starter Activity\nWhat concept do all these images together represent?",
+      "images": [
+        "slide-3-image-2",
+        "slide-3-image-3",
+        "slide-3-image-4",
+        "slide-3-image-5",
+        "slide-3-image-6",
+        "slide-3-image-7"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Medically Important Bacterial Infections — source 4",
+      "text": "WHO Bacterial Priority Pathogens List 2024\nWHO (2024) https://www.who.int/publications/i/item/9789240093461\n",
+      "images": [
+        "slide-4-image-2",
+        "slide-4-image-3",
+        "slide-4-image-4",
+        "slide-4-image-5",
+        "slide-4-image-6"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Medically Important Bacterial Infections — source 5",
+      "text": "Pseudomonas aeruginosa\nA Gram-negative,\u000bbiofilm-forming, opportunistic\u000bhealthcare-associated pathogen\n\nParticularly associated with artificial \u000bnails, & moist, wet environments\n\nCan cause severe fever, respiratory\u000bdistress, and lead to sepsis in \u000bindividuals - especially newborns",
+      "images": [
+        "slide-5-image-2",
+        "slide-5-image-3"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Medically Important Bacterial Infections — source 6",
+      "text": "Campylobacter spp.\nGram-negative, comma-shaped, motile, \u000bbacterial cause of food borne illness in the UK\n\nRoughly 80% of human cases\u000boriginate from contaminated poultry,\u000bespecially undercooked chicken\n\nCampylobacter jejuni causes the\u000bvast majority of cases (around 88%)\n\nCampylobacter jejuni is also responsible for Guillain-Barré syndrome, a neurological complication of campylobacteriosis infection (see the endotoxins lecture for more info on mechanisms.)",
+      "images": [
+        "slide-6-image-2"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Medically Important Bacterial Infections — source 7",
+      "text": "Salmonella spp.\nSalmonella spp. are Gram-negative,\u000brod-shaped, motile bacteria\n\nThe primary natural reservoir of \u000bSalmonella is the GI tract of poultry,\u000bcattle, pigs, birds, rodents, and reptiles\n\n‘British Lion Mark’ eggs mean all \u000bhens have been vaccinated against\u000bSalmonella, among other requirements\n\nUndercooked, imported eggs are a known source\u000bof Salmonella spp. outbreaks in the UK\n",
+      "images": [
+        "slide-7-image-2",
+        "slide-7-image-3",
+        "slide-7-image-4"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Medically Important Bacterial Infections — source 8",
+      "text": "Escherichia coli\nEscherichia coli is a Gram-negative, rod-shaped\u000b(bacillus) bacterium\u000b\nThere are many different pathotypes of E. coli\n\nAnimal droppings on food products (like eggs) can\u000btransmit Escherichia coli\n\nCows, sheep, goats, deer, and elk carry\u000bE. coli naturally in their intestines asymptomatically\n\nE. coli can even appear in salads due to irrigation,\u000bnearby animal activity, manure, and food handlers \n",
+      "images": [
+        "slide-8-image-2",
+        "slide-8-image-3",
+        "slide-8-image-4"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Medically Important Bacterial Infections — source 9",
+      "text": "Acinetobacter baumanii\nGram-negative, rod-shaped, aerobic, non-motile\u000bbacterium\n\nPrimarily found in healthcare and hospital environments (nosocomial infection)\n\nThrives on hard surfaces, medical equipment\u000b(catheters, ventilators, intravenous lines), \u000band even sinks \n\nOutbreaks are unfortunately common in\u000bintensive care units (ICUs) and wards with\u000bimmunocompromised patients\n",
+      "images": [
+        "slide-9-image-2"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Medically Important Bacterial Infections — source 10",
+      "text": "Mycobacterium tuberculosis\nThe causative agent of tuberculosis (TB), an\u000binfection primarily of the lungs\n\nHas a very waxy cell wall, rich in \u000bmycolic acids\n\nHumans are the primary natural reservoir\u000bfor the bacteria\n\nTB is one of the leading causes of death\u000bby infectious disease globally\n\nIndia, Pakistan, Romania, Somalia, and Eritrea are the top countries of \u000borigin for non-UK-born TB cases (UKHSA, 2025)\n\nM. tuberculosis in a sputum sample",
+      "images": [
+        "slide-10-image-2"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Medically Important Bacterial Infections — source 11",
+      "text": "Treponema pallidum (syphilis)\nTreponema pallidum is a species of Gram-negative, \u000bspiral-shaped, highly motile bacterium which causes the \u000bdisease: syphilis\n\n The disease has up to four stages\n\n The bacterium is notoriously difficult\u000bto culture, and requires co-cultivation\u000bwith Sf1Ep rabbit epithelial cells\n\nSyphilis is generally easily treatable \u000bwith penicillin G",
+      "images": [
+        "slide-11-image-2"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Medically Important Bacterial Infections — source 12",
+      "text": "Syphilis – Primary Stage (1)\nUsually appears around ten days to three-months after first infection\n\nUsually characterised by a single, small, painless sore or ulcer\n\nSwollen lymph glands may also\u000baccompany this\n\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Medically Important Bacterial Infections — source 13",
+      "text": "Syphilis – Secondary Stage (2)\nA non-itchy rash may appear on the\u000bpalms of the hand and/or soles of the feet\n\nSwollen lymph glands may accompany this\n\nFlu-like symptoms may appear\n\nMay present with fatigue, fever, \u000bpatchy hair-loss, lesions, \u000bsore throat, and muscle aches \nHughes (2020) BMJ Case Reports\nWhiting (2023) American Journal\u000bof Clinical Dermatology",
+      "images": [
+        "slide-13-image-2",
+        "slide-13-image-3"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Medically Important Bacterial Infections — source 14",
+      "text": "Syphilis – Latent Stage (3)\nThe latent stage is the ‘hidden’, asymptomatic stage of syphilis \u000bfollowing the secondary stage\n\nThe latent stage can last for years and \u000beven decades\n\nThere are no visible signs or symptoms \n\nDiagnosed through serological testing, confirmed \u000bwith Fluorescent Treponemal Antibody\u000bAbsorption (FTA-ABS) or Treponema pallidum\u000bparticle agglutination assay (TPPA)\u000b\nDark-field microscopy rapid\u000bdiagnostic test for syphilis",
+      "images": [
+        "slide-14-image-2"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Medically Important Bacterial Infections — source 15",
+      "text": "Syphilis – Late Stage (4)\nOccurs around 10 – 30 years after \u000bfirst becoming infected with syphilis \n\nThis stage is extremely serious, \u000bresulting in severe damage to the\u000bbrain, heart, nerves, and other\u000borgans\n\nThe syphilis is usually \u000bnon-contagious at this stage\n\n",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "Medically Important Bacterial Infections — source 16",
+      "text": "Haemophilus ducreyi (chancroid)\nChancroid is caused by Haemophilus\u000bducreyi, a Gram-negative, non-motile,\u000brod-shaped species of bacterium\n\nUnlike syphilis, chancroid usually\u000bpresents as multiple, extremely \u000bpainful sores, and has a shorter\u000bincubation period of 1 – 14 days\n\nHaemophilus ducreyi is more common\u000bin lower-income nations, particularly\u000bin sub-Saharan Africa (e.g., Malawi)\n\n",
+      "images": []
+    },
+    {
+      "number": 17,
+      "topic": "Medically Important Bacterial Infections — source 17",
+      "text": "Klebsiella granulomatis (donovanosis)\nKlebsiella granulomatis is a species of\u000bGram-negative, non-motile, encapsulated\u000brod-shaped bacterium\n\nMay cause significant damage to the\u000bskin and deeper tissue layers\n\nTreated with azithromycin or doxycycline\n\nConfirmed by observing ‘Donovan bodies’\u000bin tissue samples under the microscope \u000b\nExample of Donovan body",
+      "images": [
+        "slide-17-image-2"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Medically Important Bacterial Infections — source 18",
+      "text": "Ureaplasma spp. (ureaplasmosis)\nBacteria of the Ureaplasma genus are also able to cause urethritis.\u000bThey have no cell wall.\n\nThey may cause painful urination, unusual discharge, pain in the \u000bpelvis, and itching\n\nIt can cause infertility in both men \u000band women\n\nCan be carried as part of the normal \u000bmicrobiome, where overgrowth is \u000bassociated with disease symptoms\n\n\n",
+      "images": [
+        "slide-18-image-2"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Medically Important Bacterial Infections — source 19",
+      "text": "Mycoplasma genitalium (Mgen)\nMycoplasma genitalium is another species of bacterium,\u000bdevoid of a cell wall, capable of causing a range of \u000bsymptoms (urethritis, proctitis, etc.)\n\nCharacterised by unusual discharge, pain \u000bduring sex, pain in the lower abdomen, \u000bbleeding after sexual intercourse, and\u000bburning when urinating\n\nUsually treated with doxycycline \u000band azithromycin\u000b\n\n\n\n\n",
+      "images": [
+        "slide-19-image-2"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Medically Important Bacterial Infections — source 20",
+      "text": "Neisseria meningitidis (urethritis & proctitis)\n\n\n\n\nNeisseria meningitidis is a Gram-negative, aerobic, \u000bnon-motile, bean-shaped, diplococcus-arranged \u000bbacterium\n\nWhile usually associated with meningitis, it is now \u000bknown to also be an emerging sexually \u000btransmissible bacterium\n\nIt can cause urethritis and/or proctitis, with a similar\u000bpurulent discharge to gonorrhoea, but tends to be \u000bfar more invasive and can lead to severe \u000bcomplications (e.g., gangrene)",
+      "images": []
+    },
+    {
+      "number": 21,
+      "topic": "Medically Important Bacterial Infections — source 21",
+      "text": "Neisseria gonorrhoeae (gonorrhoea)\n\n\n\n\nNeisseria gonorrhoeae is a Gram-negative species\u000bof diplococcus-arranged, non-motile, non-spore-forming,\u000bbacterium\n\nGonorrhoea is asymptomatic in around \u000b10% of men and >50% of women\n\nIt may cause painful/burning urination, \u000bunusual discharge (white/yellow/green) \u000bfrom the penis, vagina, rectum, anus, or throat\n\nThe incubation period is usually 2 – 8 days\n\n\n",
+      "images": []
+    },
+    {
+      "number": 22,
+      "topic": "Medically Important Bacterial Infections — source 22",
+      "text": "Chlamydia trachomatis (Chlamydia)\nChlamydia trachomatis is a species of \u000bGram-negative, non-motile, \u000bcoccus-shaped bacterium\n\nAsymptomatic carriage is possible, \u000bwith 50% and 80% of infected \u000bmen and women reporting no \u000bsymptoms, respectively\n\nThe bacterium can cause inflammation of the genital tract,\u000bsevere reproductive damage, infertility, conjunctivitis, \u000breactive arthritis, urethritis, tonsilitis, swollen lymph glands, etc.\n\n\n",
+      "images": []
+    },
+    {
+      "number": 23,
+      "topic": "Medically Important Bacterial Infections — source 23",
+      "text": "Shigella spp. (shigellosis)\nShigella is a genus of Gram-negative, non-motile, rod-shaped, \u000bfacultative-anaerobic bacteria. Known to cause the faecal-oral, sexually\u000btransmissible, bloody diarrhoeal disease: shigellosis (dysentery)\n\nThere are four species in the Shigella genus:\u000b- Shigella sonnei\u000b- Shigella flexneri\u000b- Shigella boydii\u000b- Shigella dysenteriae\n\nIts inoculum dose is extraordinarily low (10 – 100 CFU)\u000b\nWithin each species, there may be more than one\u000bserotype (e.g., Shigella flexneri 3a), defined by the\u000bO-antigen repeat region of the cell wall lipopolysaccharide (LPS)\n\n\n\n\nShigella sonnei Gram-stain",
+      "images": [
+        "slide-23-image-2"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Medically Important Bacterial Infections — source 24",
+      "text": "Shigella spp. symptoms\nSpecies of the Shigella genus cause shigellosis, a severe\u000bgastrointestinal illness characterised by bloody, potentially\u000bmucus-filled, foul-smelling diarrhoea\n\nFrequent passing of small volumes of diarrhoea is \u000balso common in shigellosis\n\nA painful feeling of needing to empty the bowels, \u000beven when there is nothing left to excrete \u000b(tenesmus) is highly indicative of shigellosis\n\nThe incubation period can be as little as 24 hours\u000bpost-inoculation\n\n\n",
+      "images": []
+    },
+    {
+      "number": 25,
+      "topic": "Medically Important Bacterial Infections — source 25",
+      "text": "Shigella spp. diagnosis\nAs shigellosis presents as bloody diarrhoea, patients may\u000battend Accident & Emergency (A&E) in a hospital\u000brather than a sexual health clinic\n\nCulturing of stool for Shigella spp. is the gold standard for \u000bshigellosis diagnosis\u000b\nMolecular testing (PCR) is more rapid by identifying the ipaH gene, \u000bbut caution is needed here as some E. coli may also carry this gene…\n\nA major aid in diagnosing a patient with shigellosis is the context,\u000bwhich is why it is important to ask the patient about their recent travel \u000bhistory and sexual activity history\n\n\n\n\n\n\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 26,
+      "topic": "Medically Important Bacterial Infections — source 26",
+      "text": "Mason et al., 2026\u000bMicrobial Genomics\nGeographical distribution of sexually transmitted shigellosis\nThink critically – do you really think this is a true / ‘real’ distribution?",
+      "images": [
+        "slide-26-image-1"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Medically Important Bacterial Infections — source 27",
+      "text": "Plenary Activity\nSuggest all the potential sources of bacterial infection associated with this image\n\nName some\u000bbacterial genera\u000band species too",
+      "images": [
+        "slide-27-image-2"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Medically Important Bacterial Infections — source 28",
+      "text": "Summary\nThere are many medically important\u000bbacterial species; we have just focused on a small subset of them\n\nEven members of the same species\u000bcan cause completely different \u000bdisease symptomologies\n\nOne Health is an increasingly \u000brecognised concept warranting further\u000binvestigation and research",
+      "images": [
+        "slide-28-image-2"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Medically Important Bacterial Infections — source 29",
+      "text": "Further reading (1)\nPseudomonas aeruginosa - https://pmc.ncbi.nlm.nih.gov/articles/PMC13064840/\n\nCampylobacter spp. - https://researchonline.lshtm.ac.uk/id/eprint/4659358/\n\nSalmonella spp. - https://journals.asm.org/doi/10.1128/mmbr.00027-19\n\nEscherichia coli - https://academic.oup.com/femsre/article/46/6/fuac031/6617594\n\nAcinetobacter baumannii - https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1070424/full\n\nMycobacterium tuberculosis - https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2823%2901379-X/fulltext\n\nTreponema pallidum (syphilis) - https://pmc.ncbi.nlm.nih.gov/articles/PMC5809176/\n\n\n\n\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 30,
+      "topic": "Medically Important Bacterial Infections — source 30",
+      "text": "Further reading (2)\nHaemophilus ducreyi (chancroid) - https://pmc.ncbi.nlm.nih.gov/articles/PMC174629/\n\nKlebsiella granulomatis (donovanosis) - https://pmc.ncbi.nlm.nih.gov/articles/PMC7672488/\n\nUreaplasma spp. - https://www.mdpi.com/2075-4418/15/17/2242\n\nMycoplasma spp. - https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000830\n\nNeisseria gonorrhoeae (gonorrhoea) - https://www.nature.com/articles/s41572-019-0128-6\n\nNeisseria meningitidis (meningitis) - https://pmc.ncbi.nlm.nih.gov/articles/PMC12748263/\n\nChlamydia trachomatis (chlamydia) - https://www.ncbi.nlm.nih.gov/books/NBK537286/\n\nShigella spp. (shigellosis) - https://www.ncbi.nlm.nih.gov/books/NBK482337/\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 31,
+      "topic": "Medically Important Bacterial Infections — source 31",
+      "text": "Further reading for ST shigellosis\nMason et al., (2026) The natural history of the emergence of\u000bsexually transmissible shigellosis. Microbial Genomics\u000bhttps://doi.org/10.1099/mgen.0.001607\n\nMason et al., (2025) Using demographics of patients to inform the treatment of shigellosis. The Lancet Microbe \u000bhttps://doi.org/10.1016/j.lanmic.2024.101026\n\nMason et al., (2024) The re-emergence of sexually transmissible multi-drug\u000bresistant Shigella flexneri 3a, England, United Kingdom\u000bhttps://doi.org/10.1038/s44259-024-00038-3\n\nMason et al., (2023) The evolution and international spread\u000bof extensively drug-resistant Shigella sonnei. Nature \u000bCommunications https://doi.org/10.1038/s41467-023-37672-w\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-2": "bacterial-infections/slide-1-image-2.webp",
+    "slide-3-image-2": "bacterial-infections/slide-3-image-2.webp",
+    "slide-3-image-3": "bacterial-infections/slide-3-image-3.webp",
+    "slide-3-image-4": "bacterial-infections/slide-3-image-4.webp",
+    "slide-3-image-5": "bacterial-infections/slide-3-image-5.webp",
+    "slide-3-image-6": "bacterial-infections/slide-3-image-6.webp",
+    "slide-3-image-7": "bacterial-infections/slide-3-image-7.webp",
+    "slide-4-image-2": "bacterial-infections/slide-4-image-2.webp",
+    "slide-4-image-3": "bacterial-infections/slide-4-image-3.webp",
+    "slide-4-image-4": "bacterial-infections/slide-4-image-4.webp",
+    "slide-4-image-5": "bacterial-infections/slide-4-image-5.webp",
+    "slide-4-image-6": "bacterial-infections/slide-4-image-6.webp",
+    "slide-5-image-2": "bacterial-infections/slide-5-image-2.webp",
+    "slide-5-image-3": "bacterial-infections/slide-5-image-3.webp",
+    "slide-6-image-2": "bacterial-infections/slide-6-image-2.webp",
+    "slide-7-image-2": "bacterial-infections/slide-7-image-2.webp",
+    "slide-7-image-3": "bacterial-infections/slide-7-image-3.webp",
+    "slide-7-image-4": "bacterial-infections/slide-7-image-4.webp",
+    "slide-8-image-2": "bacterial-infections/slide-8-image-2.webp",
+    "slide-8-image-3": "bacterial-infections/slide-8-image-3.webp",
+    "slide-8-image-4": "bacterial-infections/slide-8-image-4.webp",
+    "slide-9-image-2": "bacterial-infections/slide-9-image-2.webp",
+    "slide-10-image-2": "bacterial-infections/slide-10-image-2.webp",
+    "slide-11-image-2": "bacterial-infections/slide-11-image-2.webp",
+    "slide-13-image-2": "bacterial-infections/slide-13-image-2.webp",
+    "slide-13-image-3": "bacterial-infections/slide-13-image-3.webp",
+    "slide-14-image-2": "bacterial-infections/slide-14-image-2.webp",
+    "slide-17-image-2": "bacterial-infections/slide-17-image-2.webp",
+    "slide-18-image-2": "bacterial-infections/slide-18-image-2.webp",
+    "slide-19-image-2": "bacterial-infections/slide-19-image-2.webp",
+    "slide-23-image-2": "bacterial-infections/slide-23-image-2.webp",
+    "slide-26-image-1": "bacterial-infections/slide-26-image-1.webp",
+    "slide-27-image-2": "bacterial-infections/slide-27-image-2.webp",
+    "slide-28-image-2": "bacterial-infections/slide-28-image-2.webp"
+  },
+  "week": 5,
+  "weekEnd": 5
+}

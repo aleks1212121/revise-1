@@ -1,0 +1,191 @@
+[
+  {
+    "id": "bacterial-infections",
+    "label": "Medically Important Bacterial Infections",
+    "module": "infection-immunity",
+    "week": 5,
+    "weekEnd": 5,
+    "practical": false,
+    "cards": 45
+  },
+  {
+    "id": "breast-cancer-lecture",
+    "label": "Breast Cancer Practical Lecture \u2014 Anatomy, Screening & Recognition",
+    "module": "pathobiology",
+    "week": 2,
+    "weekEnd": 5,
+    "practical": true,
+    "cards": 31
+  },
+  {
+    "id": "cardiovascular-practical-handout",
+    "label": "Cardiovascular Practical \u2014 Current Handout & Results Analysis",
+    "module": "physiology-research",
+    "week": 7,
+    "weekEnd": 9,
+    "practical": true,
+    "cards": 15
+  },
+  {
+    "id": "chromosomal-abnormalities-1",
+    "label": "Chromosomal Abnormalities I \u2014 Karyotypes & Numerical Disorders",
+    "module": "medical-genetics",
+    "week": 8,
+    "weekEnd": 8,
+    "practical": false,
+    "cards": 45
+  },
+  {
+    "id": "genetics-practical-1",
+    "label": "Genetics Practical 1 \u2014 DNA Extraction, Quality & PCR Controls",
+    "module": "medical-genetics",
+    "week": 4,
+    "weekEnd": 7,
+    "practical": true,
+    "cards": 19
+  },
+  {
+    "id": "genetics-practical-2",
+    "label": "Genetics Practical 2 \u2014 Gel Interpretation & Sanger Setup",
+    "module": "medical-genetics",
+    "week": 8,
+    "weekEnd": 9,
+    "practical": true,
+    "cards": 12
+  },
+  {
+    "id": "genetics-practical-overview",
+    "label": "Medical Genetics Practical \u2014 From Sample to Sequence",
+    "module": "medical-genetics",
+    "week": 4,
+    "weekEnd": 8,
+    "practical": true,
+    "cards": 18
+  },
+  {
+    "id": "glucose-metabolism",
+    "label": "Whole-body Glucose Metabolism \u2014 Insulin, Glucagon & Resistance",
+    "module": "physiology-research",
+    "week": 3,
+    "weekEnd": 3,
+    "practical": false,
+    "cards": 34
+  },
+  {
+    "id": "human-genome-project",
+    "label": "The Human Genome Project \u2014 Mapping, Sequencing & Applications",
+    "module": "medical-genetics",
+    "week": 4,
+    "weekEnd": 4,
+    "practical": false,
+    "cards": 22
+  },
+  {
+    "id": "human-microbiome",
+    "label": "The Human Microbiome \u2014 Communities, Protection & Dysbiosis",
+    "module": "infection-immunity",
+    "week": 3,
+    "weekEnd": 3,
+    "practical": false,
+    "cards": 47
+  },
+  {
+    "id": "inheritance-clarification",
+    "label": "Inheritance Clarification \u2014 Mendelian Ratios & Exceptions",
+    "module": "medical-genetics",
+    "week": 3,
+    "weekEnd": 3,
+    "practical": false,
+    "cards": 25
+  },
+  {
+    "id": "lab-safety",
+    "label": "Laboratory Safety \u2014 CoSHH, Containment & Risk",
+    "module": "infection-immunity",
+    "week": 1,
+    "weekEnd": 1,
+    "practical": false,
+    "cards": 29
+  },
+  {
+    "id": "lipid-metabolism",
+    "label": "Whole-body Lipid Metabolism \u2014 Lipoproteins, Storage & Lipolysis",
+    "module": "physiology-research",
+    "week": 3,
+    "weekEnd": 3,
+    "practical": false,
+    "cards": 32
+  },
+  {
+    "id": "medical-genetics-introduction",
+    "label": "Introduction to Medical Genetics \u2014 Genes & Disease Classes",
+    "module": "medical-genetics",
+    "week": 1,
+    "weekEnd": 1,
+    "practical": false,
+    "cards": 34
+  },
+  {
+    "id": "modes-of-inheritance",
+    "label": "Modes of Inheritance \u2014 Pedigrees & Risk",
+    "module": "medical-genetics",
+    "week": 3,
+    "weekEnd": 3,
+    "practical": false,
+    "cards": 38
+  },
+  {
+    "id": "non-communicable-diseases",
+    "label": "Non-communicable Diseases \u2014 Risk, Prevention & Multimorbidity",
+    "module": "physiology-research",
+    "week": 1,
+    "weekEnd": 2,
+    "practical": false,
+    "cards": 16
+  },
+  {
+    "id": "population-genetics-1",
+    "label": "Population Genetics I \u2014 Normal Variation, Haplotypes & Ancestry",
+    "module": "medical-genetics",
+    "week": 5,
+    "weekEnd": 5,
+    "practical": false,
+    "cards": 36
+  },
+  {
+    "id": "research-methods-introduction",
+    "label": "Research Methods & Skills \u2014 Evidence, Reflection & Communication",
+    "module": "physiology-research",
+    "week": 1,
+    "weekEnd": 1,
+    "practical": false,
+    "cards": 12
+  },
+  {
+    "id": "scientific-method-design-thinking",
+    "label": "Scientific Method & Design Thinking \u2014 Testing Ideas and Solving Problems",
+    "module": "physiology-research",
+    "week": 1,
+    "weekEnd": 1,
+    "practical": false,
+    "cards": 27
+  },
+  {
+    "id": "sterilisation",
+    "label": "Sterilisation \u2014 Methods, Validation & Choosing a Process",
+    "module": "infection-immunity",
+    "week": 8,
+    "weekEnd": 8,
+    "practical": false,
+    "cards": 37
+  },
+  {
+    "id": "substrate-metabolism",
+    "label": "Whole-body Substrate Metabolism \u2014 Fuel Balance & Homeostasis",
+    "module": "physiology-research",
+    "week": 2,
+    "weekEnd": 2,
+    "practical": false,
+    "cards": 26
+  }
+]

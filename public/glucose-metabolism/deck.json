@@ -1,0 +1,882 @@
+{
+  "version": 2,
+  "lectureId": "glucose-metabolism",
+  "title": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance",
+  "moduleId": "physiology-research",
+  "moduleName": "",
+  "moduleCode": "LS5034",
+  "source": "WBGM.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Glucose destinations",
+      "slide": 2,
+      "explanation": "Other destinations include ATP production and lipid synthesis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Storage of glucose as glycogen is {{c1::glycogenesis}}.",
+      "noteId": "glucose-metabolism-03f6048b08cb711728da-note",
+      "id": "glucose-metabolism-03f6048b08cb711728da",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Storage of glucose as glycogen is {{c1::glycogenesis}}.",
+      "answer": "glycogenesis"
+    },
+    {
+      "topic": "Hormonal control",
+      "slide": 3,
+      "explanation": "They have opposing but integrated effects on circulating glucose.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The two principal hormones coordinating fed–postabsorptive glucose balance are insulin and {{c1::glucagon}}.",
+      "noteId": "glucose-metabolism-bf1f1ffc90763833ab23-note",
+      "id": "glucose-metabolism-bf1f1ffc90763833ab23",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The two principal hormones coordinating fed–postabsorptive glucose balance are insulin and {{c1::glucagon}}.",
+      "answer": "glucagon"
+    },
+    {
+      "topic": "Insulin secretion",
+      "slide": 5,
+      "explanation": "Some amino acids and neural signals also modify secretion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Rising blood glucose stimulates pancreatic {{c1::insulin secretion}}.",
+      "noteId": "glucose-metabolism-b9d15ec931903d0b6313-note",
+      "id": "glucose-metabolism-b9d15ec931903d0b6313",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Rising blood glucose stimulates pancreatic {{c1::insulin secretion}}.",
+      "answer": "insulin secretion"
+    },
+    {
+      "topic": "Insulin secretion",
+      "slide": 5,
+      "explanation": "GLP-1 and GIP are the lecture examples.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Gut-hormone enhancement of post-meal insulin secretion is the {{c1::incretin effect}}.",
+      "noteId": "glucose-metabolism-25e03255fbe08f4a3d7c-note",
+      "id": "glucose-metabolism-25e03255fbe08f4a3d7c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gut-hormone enhancement of post-meal insulin secretion is the {{c1::incretin effect}}.",
+      "answer": "incretin effect"
+    },
+    {
+      "topic": "Insulin secretion",
+      "slide": 5,
+      "explanation": "It is a gut-derived incretin signal.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "GLP-1 stands for glucagon-like {{c1::peptide-1}}.",
+      "noteId": "glucose-metabolism-a19bc05afa2880b1f6a4-note",
+      "id": "glucose-metabolism-a19bc05afa2880b1f6a4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GLP-1 stands for glucagon-like {{c1::peptide-1}}.",
+      "answer": "peptide-1"
+    },
+    {
+      "topic": "Insulin secretion",
+      "slide": 5,
+      "explanation": "The source's contribution estimates are from a particular experimental context, not fixed proportions in every person.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "GIP stands for glucose-dependent insulinotropic {{c1::polypeptide}}.",
+      "noteId": "glucose-metabolism-c025989b4ad26129f7d3-note",
+      "id": "glucose-metabolism-c025989b4ad26129f7d3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GIP stands for glucose-dependent insulinotropic {{c1::polypeptide}}.",
+      "answer": "polypeptide"
+    },
+    {
+      "topic": "Insulin secretion",
+      "slide": 5,
+      "explanation": "This helps explain anticipatory meal responses.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Autonomic signals can modify insulin secretion before substantial nutrient {{c1::absorption}}.",
+      "noteId": "glucose-metabolism-7109526c46757f3eb3f8-note",
+      "id": "glucose-metabolism-7109526c46757f3eb3f8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Autonomic signals can modify insulin secretion before substantial nutrient {{c1::absorption}}.",
+      "answer": "absorption"
+    },
+    {
+      "topic": "Glucagon",
+      "slide": 8,
+      "explanation": "A low glucose concentration triggers counter-regulation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The potent metabolic stimulus to glucagon release highlighted is {{c1::hypoglycaemia}}.",
+      "noteId": "glucose-metabolism-997071ea965eca6e3f23-note",
+      "id": "glucose-metabolism-997071ea965eca6e3f23",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The potent metabolic stimulus to glucagon release highlighted is {{c1::hypoglycaemia}}.",
+      "answer": "hypoglycaemia"
+    },
+    {
+      "topic": "Glucagon",
+      "slide": 8,
+      "explanation": "Hormone secretion is coordinated rather than operating as two isolated systems.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Insulin tends to {{c1::inhibit glucagon release}}.",
+      "noteId": "glucose-metabolism-5084ff976f06d14e5187-note",
+      "id": "glucose-metabolism-5084ff976f06d14e5187",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Insulin tends to {{c1::inhibit glucagon release}}.",
+      "answer": "inhibit glucagon release"
+    },
+    {
+      "topic": "Glucagon",
+      "slide": 8,
+      "explanation": "These pathways supply glucose to the circulation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Glucagon promotes hepatic glycogen breakdown and {{c1::gluconeogenesis}}.",
+      "noteId": "glucose-metabolism-95032c133f226e0d157a-note",
+      "id": "glucose-metabolism-95032c133f226e0d157a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Glucagon promotes hepatic glycogen breakdown and {{c1::gluconeogenesis}}.",
+      "answer": "gluconeogenesis"
+    },
+    {
+      "topic": "Glucose balance",
+      "slide": 9,
+      "explanation": "Appearance includes dietary glucose plus endogenous glucose production.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "At steady blood-glucose concentration, glucose appearance must match {{c1::clearance}}.",
+      "noteId": "glucose-metabolism-0f2fccbb1735127695c1-note",
+      "id": "glucose-metabolism-0f2fccbb1735127695c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "At steady blood-glucose concentration, glucose appearance must match {{c1::clearance}}.",
+      "answer": "clearance"
+    },
+    {
+      "topic": "Glucose balance",
+      "slide": 9,
+      "explanation": "Do not add it a second time if the hepatic-production term already includes it.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Gluconeogenesis is part of endogenous glucose {{c1::production}}.",
+      "noteId": "glucose-metabolism-70e59c0e4e3dbb3e302a-note",
+      "id": "glucose-metabolism-70e59c0e4e3dbb3e302a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Gluconeogenesis is part of endogenous glucose {{c1::production}}.",
+      "answer": "production"
+    },
+    {
+      "topic": "Liver pathways",
+      "slide": 10,
+      "explanation": "This differs from glycogenesis, which stores glucose.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Breakdown of hepatic glycogen to release glucose is {{c1::glycogenolysis}}.",
+      "noteId": "glucose-metabolism-0965af870d7974a1ef64-note",
+      "id": "glucose-metabolism-0965af870d7974a1ef64",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Breakdown of hepatic glycogen to release glucose is {{c1::glycogenolysis}}.",
+      "answer": "glycogenolysis"
+    },
+    {
+      "topic": "Liver pathways",
+      "slide": 10,
+      "explanation": "These are gluconeogenic precursors, especially as glycogen stores decline.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The liver can form glucose from amino acids and {{c1::glycerol}}.",
+      "noteId": "glucose-metabolism-9c2f81b2be5a7a9b7c63-note",
+      "id": "glucose-metabolism-9c2f81b2be5a7a9b7c63",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The liver can form glucose from amino acids and {{c1::glycerol}}.",
+      "answer": "glycerol"
+    },
+    {
+      "topic": "Liver pathways",
+      "slide": 10,
+      "explanation": "This connects carbohydrate surplus with fat storage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Excess glucose can be directed towards de novo {{c1::lipogenesis}} in the liver.",
+      "noteId": "glucose-metabolism-c0814df871031d7b87c9-note",
+      "id": "glucose-metabolism-c0814df871031d7b87c9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Excess glucose can be directed towards de novo {{c1::lipogenesis}} in the liver.",
+      "answer": "lipogenesis"
+    },
+    {
+      "topic": "Glycogen stores",
+      "slide": 11,
+      "explanation": "Muscle glycogen primarily supports muscle's own energy needs.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Liver glycogen helps maintain {{c1::blood glucose}} between meals.",
+      "noteId": "glucose-metabolism-50bded8d52cf314b5820-note",
+      "id": "glucose-metabolism-50bded8d52cf314b5820",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Liver glycogen helps maintain {{c1::blood glucose}} between meals.",
+      "answer": "blood glucose"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 12,
+      "explanation": "Insulin promotes its movement to the plasma membrane.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The insulin-responsive glucose transporter in muscle and adipose tissue is {{c1::GLUT4}}.",
+      "noteId": "glucose-metabolism-8331cd0e152e72578e7b-note",
+      "id": "glucose-metabolism-8331cd0e152e72578e7b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The insulin-responsive glucose transporter in muscle and adipose tissue is {{c1::GLUT4}}.",
+      "answer": "GLUT4"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 12,
+      "explanation": "Transporter location changes; insulin does not physically carry glucose through the membrane.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Insulin increases glucose entry by promoting GLUT4 {{c1::translocation to the cell surface}}.",
+      "noteId": "glucose-metabolism-540dbc21b835c8b77f86-note",
+      "id": "glucose-metabolism-540dbc21b835c8b77f86",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Insulin increases glucose entry by promoting GLUT4 {{c1::translocation to the cell surface}}.",
+      "answer": "translocation to the cell surface"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 13,
+      "explanation": "The table includes red cells and the blood–brain barrier among relevant sites.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "GLUT1 supports {{c1::basal glucose uptake}}.",
+      "noteId": "glucose-metabolism-0170d1ef072bf65ac3ac-note",
+      "id": "glucose-metabolism-0170d1ef072bf65ac3ac",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "GLUT1 supports {{c1::basal glucose uptake}}.",
+      "answer": "basal glucose uptake"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 13,
+      "explanation": "This differs from insulin-responsive GLUT4.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The transporter highlighted for neuronal glucose uptake is {{c1::GLUT3}}.",
+      "noteId": "glucose-metabolism-89c5c3be22a1550affda-note",
+      "id": "glucose-metabolism-89c5c3be22a1550affda",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The transporter highlighted for neuronal glucose uptake is {{c1::GLUT3}}.",
+      "answer": "GLUT3"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 13,
+      "explanation": "Transporter family members do not all have glucose as their main substrate.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The intestinal fructose transporter listed in the table is {{c1::GLUT5}}.",
+      "noteId": "glucose-metabolism-dbb6f523a9e174bde6ea-note",
+      "id": "glucose-metabolism-dbb6f523a9e174bde6ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The intestinal fructose transporter listed in the table is {{c1::GLUT5}}.",
+      "answer": "GLUT5"
+    },
+    {
+      "topic": "Glucose transport",
+      "slide": 14,
+      "explanation": "Insulin still strongly regulates hepatic metabolism; independence of entry does not mean independence of all liver responses.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Glucose transport into hepatocytes is not directly {{c1::insulin dependent}}.",
+      "noteId": "glucose-metabolism-70412ebd09007f67c9d6-note",
+      "id": "glucose-metabolism-70412ebd09007f67c9d6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Glucose transport into hepatocytes is not directly {{c1::insulin dependent}}.",
+      "answer": "insulin dependent"
+    },
+    {
+      "topic": "Liver pathways",
+      "slide": 15,
+      "explanation": "It can store glucose after a meal and supply glucose between meals.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The liver acts as a glucose {{c1::buffer}}.",
+      "noteId": "glucose-metabolism-76799181d4652502b6db-note",
+      "id": "glucose-metabolism-76799181d4652502b6db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The liver acts as a glucose {{c1::buffer}}.",
+      "answer": "buffer"
+    },
+    {
+      "topic": "Type 2 diabetes",
+      "slide": 17,
+      "explanation": "The combined supply–utilisation mismatch contributes to hyperglycaemia.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "In type 2 diabetes, muscle glucose clearance can be impaired while the liver continues {{c1::releasing glucose}}.",
+      "noteId": "glucose-metabolism-b9d9054f385c94327279-note",
+      "id": "glucose-metabolism-b9d9054f385c94327279",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In type 2 diabetes, muscle glucose clearance can be impaired while the liver continues {{c1::releasing glucose}}.",
+      "answer": "releasing glucose"
+    },
+    {
+      "topic": "Type 2 diabetes",
+      "slide": 17,
+      "explanation": "It is more than an isolated high glucose measurement.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Type 2 diabetes involves impaired coordination of fuel stores and {{c1::fuel-consuming tissues}}.",
+      "noteId": "glucose-metabolism-32eb6ae45788ecf1bc7e-note",
+      "id": "glucose-metabolism-32eb6ae45788ecf1bc7e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Type 2 diabetes involves impaired coordination of fuel stores and {{c1::fuel-consuming tissues}}.",
+      "answer": "fuel-consuming tissues"
+    },
+    {
+      "topic": "Insulin resistance",
+      "slide": 18,
+      "explanation": "The source focuses on glucose uptake and suppression of glucose production.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Reduced biological response to a given insulin concentration is {{c1::insulin resistance}}.",
+      "noteId": "glucose-metabolism-c29ed6a87fa9bd6a76c7-note",
+      "id": "glucose-metabolism-c29ed6a87fa9bd6a76c7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reduced biological response to a given insulin concentration is {{c1::insulin resistance}}.",
+      "answer": "insulin resistance"
+    },
+    {
+      "topic": "Insulin resistance",
+      "slide": 18,
+      "explanation": "Selective resistance helps explain apparently mixed metabolic responses.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Insulin resistance need not affect all tissues and pathways {{c1::equally}}.",
+      "noteId": "glucose-metabolism-323ce3a966087fe08dce-note",
+      "id": "glucose-metabolism-323ce3a966087fe08dce",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Insulin resistance need not affect all tissues and pathways {{c1::equally}}.",
+      "answer": "equally"
+    },
+    {
+      "topic": "Insulin resistance",
+      "slide": 19,
+      "explanation": "It reduces glycogen breakdown and gluconeogenesis while favouring storage.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Normal insulin action suppresses hepatic {{c1::glucose production}}.",
+      "noteId": "glucose-metabolism-383d6a3eaf4d91ab809e-note",
+      "id": "glucose-metabolism-383d6a3eaf4d91ab809e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Normal insulin action suppresses hepatic {{c1::glucose production}}.",
+      "answer": "glucose production"
+    },
+    {
+      "topic": "Insulin resistance",
+      "slide": 19,
+      "explanation": "Continued endogenous supply can persist despite circulating insulin.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Failure to suppress gluconeogenesis contributes to fasting {{c1::hyperglycaemia}}.",
+      "noteId": "glucose-metabolism-f917d77bd478c2abce4a-note",
+      "id": "glucose-metabolism-f917d77bd478c2abce4a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Failure to suppress gluconeogenesis contributes to fasting {{c1::hyperglycaemia}}.",
+      "answer": "hyperglycaemia"
+    },
+    {
+      "topic": "Interpreting curves",
+      "slide": 21,
+      "explanation": "More insulin is required for a comparable effect; maximal responsiveness is a separate property.",
+      "images": [
+        "slide-21-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A right-shifted insulin dose–response indicates reduced insulin {{c1::sensitivity}}.",
+      "noteId": "glucose-metabolism-f009b594f2f2cd4fde44-note",
+      "id": "glucose-metabolism-f009b594f2f2cd4fde44",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A right-shifted insulin dose–response indicates reduced insulin {{c1::sensitivity}}.",
+      "answer": "sensitivity"
+    },
+    {
+      "topic": "Fed and fasting",
+      "slide": 22,
+      "explanation": "This is a normal adaptation unless production and utilisation become mismatched.",
+      "images": [
+        "slide-22-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "During fasting, endogenous production helps supply glucose when dietary input is {{c1::low}}.",
+      "noteId": "glucose-metabolism-c7f6509abf6b4b3eecda-note",
+      "id": "glucose-metabolism-c7f6509abf6b4b3eecda",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During fasting, endogenous production helps supply glucose when dietary input is {{c1::low}}.",
+      "answer": "low"
+    },
+    {
+      "topic": "Fed and fasting",
+      "slide": 23,
+      "explanation": "It also reduces unnecessary endogenous glucose release.",
+      "images": [
+        "slide-23-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "After a meal, insulin normally promotes glucose {{c1::clearance and storage}}.",
+      "noteId": "glucose-metabolism-86978c2b29f5dd41a73f-note",
+      "id": "glucose-metabolism-86978c2b29f5dd41a73f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "After a meal, insulin normally promotes glucose {{c1::clearance and storage}}.",
+      "answer": "clearance and storage"
+    },
+    {
+      "topic": "Fed and fasting",
+      "slide": 25,
+      "explanation": "Interpret the whole-body diagram as simultaneous fluxes rather than a single defective step.",
+      "images": [
+        "slide-25-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Post-meal hyperglycaemia can reflect both reduced disposal and inadequately suppressed {{c1::hepatic production}}.",
+      "noteId": "glucose-metabolism-668ae26198856900f5f7-note",
+      "id": "glucose-metabolism-668ae26198856900f5f7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Post-meal hyperglycaemia can reflect both reduced disposal and inadequately suppressed {{c1::hepatic production}}.",
+      "answer": "hepatic production"
+    },
+    {
+      "topic": "Management principles",
+      "slide": 26,
+      "explanation": "Medication may also be required. The slide's claim that insulin is the only remaining alternative or inevitable for most people is too broad and not used as a treatment rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Physical activity and sustained weight management can improve insulin {{c1::sensitivity}}.",
+      "noteId": "glucose-metabolism-7df107e790785cb8e8d1-note",
+      "id": "glucose-metabolism-7df107e790785cb8e8d1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Physical activity and sustained weight management can improve insulin {{c1::sensitivity}}.",
+      "answer": "sensitivity"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 1",
+      "text": "Whole body glucose metabolism\n1) Determinants of plasma glucose concentration\n2) Partitioning of glucose between organs \n3) Effects of insulin resistance on blood glucose    concentrations, leading to diabetes.",
+      "images": [
+        "slide-1-image-1",
+        "slide-1-image-2",
+        "slide-1-image-3"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 2",
+      "text": "Carbohydrate Metabolism\nGeneral \nglucose is the body's preferred carbohydrate energy source\n80% of carbohydrates ingested contain glucose; remainder: fructose, galactose\nMostly consumed as starch (bread, pasta, rice, potatoes, cereals)\n\nFate of carbohydrates  \nATP production\nGlycogenesis \nAmino acid synthesis\nLipogenesis",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 3",
+      "text": "Control of  transition between the fed and postabsorptive states in metabolically healthy individuals\u000b\u000b\n\nPrimarily achieved by two hormones\n\nInsulin\t\nand \nGlucagon\t",
+      "images": []
+    },
+    {
+      "number": 4,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 4",
+      "text": "Counter-regulatory hormones regulate blood glucose",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 5",
+      "text": "The control of insulin secretion \nPotent metabolic stimuli to insulin secretion are glucose and some amino acids that act synergistically.   \n\nGastrointestinal hormones (incretin effect) glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP).\n\nAutonomic nerves innervate islets. May account for a small increase in insulin secretion that may occur before the entry of food into the gastrointestinal tract. \n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 6",
+      "text": "Contribution of gut-derived factors to postprandial insulin secretion, expressed in per cent of the total C-peptide secretion (area under curve, 0-240 minutes) following ingestion of 75-g glucose orally with or without incretin receptor antagonist infusions in healthy individuals. Calculations performed by Gasbjerg et al (2020). GIP, glucose-dependent insulinotropic polypeptide; GLP-1, glucagon-like peptide-1.",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 7",
+      "text": "",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 8",
+      "text": "The control of glucagon secretion \nThe most potent metabolic stimuli to glucagon secretion is hypoglycaemia\n\nInsulin inhibits the release of glucagon\n\nAutonomic nerves may account for the increase in glucagon secretion that may occur during exercise, starvation or stress.  \n\nMediates its effects via stimulation of glycogenolysis and gluconeogenesis\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 9,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 9",
+      "text": "1. Dietary intake (DI)\n2. Hepatic glucose production (HGP)\n3. Gluconeogenesis (GNG)\nWhole body glucose balance\n4. Clearance (C) – includes liver\nIn homeostasis  DI+HGP = C",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 10",
+      "text": "Key metabolic role of the liver in glucose metabolism\u000b\nCoverts galactose and fructose to glucose\nStores glucose as glycogen, when blood glucose is high\nGlycogenolysis to release glucose into blood\nGluconeogenesis: converts amino acids and glycerol to glucose when glycogen levels drop\nDe-novo lipogenesis – converts glucose to fat for storage\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 11",
+      "text": "Glycogen stores\n\nPlasma Glucose\nMuscle Glycogen\n\n\nApprox 100g\nApprox 400g",
+      "images": [
+        "slide-11-image-1",
+        "slide-11-image-2",
+        "slide-11-image-3"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 12",
+      "text": "Glucose uptake is regulated by GLUT proteins",
+      "images": [
+        "slide-12-image-1",
+        "slide-12-image-2"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 13",
+      "text": "Pujol-Giménez J et al. (2013). The facilitative glucose transporter GLUT12: what do we know and what would we like to know? J Physiol Biochem. Jun;69(2):325-33. ",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 14",
+      "text": "Glucose clearance\nNote: Intracellular glucose uptake in the liver is not insulin dependent.\n\nDay etal (2013) Placenta. Oct;34(10):953-8",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 15",
+      "text": "Liver acts as a blood glucose buffer system",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 16",
+      "text": "",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 17",
+      "text": "Type 2 diabetes\nBeta cells of the pancreas initially produce insulin but the body is unable to use it effectively because the cells of the body are resistant to the action of insulin. \nDiabetes is not simply a disease of high blood glucose, but a disease of impaired coordination between the major fuel stores and fuel-consuming tissues of the body.\n\nAccounts for 90% of all diabetic individuals\n\u000b- Complications include \natherosclerosis, neurological changes, renal failure and blindness\nIn type 2 diabetes, insulin resistance disrupts whole-body fuel partitioning, so glucose is not effectively cleared by muscle while the liver continues to release glucose, causing a mismatch between substrate supply and utilization\n\n\u000b\n",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 18",
+      "text": "What is insulin resistance?\nInsulin resistance is often defined based on measurements\nof glucose metabolism\nThe ability of insulin to reduce blood glucose is impaired (clearance) in blood\nThe ability of insulin to reduce glucose production.\n\t(production rate) in blood\nInsulin also regulates the anabolism and storage of fat, protein synthesis, and non-metabolic process such as cell growth and differentiation. \n\nIt is important to note that not all insulin-dependent processes and tissues are\nequally resistant to insulin.",
+      "images": []
+    },
+    {
+      "number": 19,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 19",
+      "text": "Hepatic glucose production\nCounter-regulatory hormones regulate blood glucose\nClearance\nNormally, insulin suppresses hepatic glucose production (HGP) by inhibiting glycogen breakdown (glycogenolysis) Inhibiting new glucose production (gluconeogenesis)\nPromoting glycogen synthesis",
+      "images": [
+        "slide-19-image-1"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 20",
+      "text": "",
+      "images": [
+        "slide-20-image-1"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 21",
+      "text": "Dose response curve for stimulation of glucose uptake and suppression of glucose production\nGroop et al 1993 Diabetologia\nT2D\nControl\nGlucose disposal = glucose clearance",
+      "images": [
+        "slide-21-image-1"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 22",
+      "text": "Stephen L. Aronoff et al. Diabetes Spectr 2004;17:183-190\n©2004 by American Diabetes Association\nPostabsorbtive",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 23",
+      "text": "",
+      "images": [
+        "slide-23-image-1"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 24",
+      "text": "Glucose homeostasis: roles of insulin and glucagon. 1A. \nStephen L. Aronoff et al. Diabetes Spectr 2004;17:183-190\n©2004 by American Diabetes Association",
+      "images": [
+        "slide-24-image-1"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 25",
+      "text": "Glucose homeostasis: roles of insulin and glucagon. 1A. \nStephen L. Aronoff et al. Diabetes Spectr 2004;17:183-190\n©2004 by American Diabetes Association",
+      "images": [
+        "slide-25-image-1"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Whole-body Glucose Metabolism — Insulin, Glucagon & Resistance — source 26",
+      "text": "Management of Type 2 diabetes \nFirst line of treatment: diet and exercise (lose weight). Improves insulin resistance and lowers blood glucose levels.\n\nUnfortunately, despite best efforts, many cannot lose weight or cannot maintain their weight loss, or their blood glucose levels are poorly controlled despite weight loss. \n\nOnly alternative is drug/insulin treatment.\n\nMajority will go onto insulin therapy",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "glucose-metabolism/slide-1-image-1.webp",
+    "slide-1-image-2": "glucose-metabolism/slide-1-image-2.webp",
+    "slide-1-image-3": "glucose-metabolism/slide-1-image-3.webp",
+    "slide-4-image-1": "glucose-metabolism/slide-4-image-1.webp",
+    "slide-6-image-1": "glucose-metabolism/slide-6-image-1.webp",
+    "slide-7-image-1": "glucose-metabolism/slide-7-image-1.webp",
+    "slide-9-image-1": "glucose-metabolism/slide-9-image-1.webp",
+    "slide-11-image-1": "glucose-metabolism/slide-11-image-1.webp",
+    "slide-11-image-2": "glucose-metabolism/slide-11-image-2.webp",
+    "slide-11-image-3": "glucose-metabolism/slide-11-image-3.webp",
+    "slide-12-image-1": "glucose-metabolism/slide-12-image-1.webp",
+    "slide-12-image-2": "glucose-metabolism/slide-12-image-2.webp",
+    "slide-13-image-1": "glucose-metabolism/slide-13-image-1.webp",
+    "slide-14-image-1": "glucose-metabolism/slide-14-image-1.webp",
+    "slide-15-image-1": "glucose-metabolism/slide-15-image-1.webp",
+    "slide-16-image-1": "glucose-metabolism/slide-16-image-1.webp",
+    "slide-19-image-1": "glucose-metabolism/slide-19-image-1.webp",
+    "slide-20-image-1": "glucose-metabolism/slide-20-image-1.webp",
+    "slide-21-image-1": "glucose-metabolism/slide-21-image-1.webp",
+    "slide-22-image-1": "glucose-metabolism/slide-22-image-1.webp",
+    "slide-23-image-1": "glucose-metabolism/slide-23-image-1.webp",
+    "slide-24-image-1": "glucose-metabolism/slide-24-image-1.webp",
+    "slide-25-image-1": "glucose-metabolism/slide-25-image-1.webp"
+  },
+  "week": 3,
+  "weekEnd": 3
+}

@@ -1,0 +1,1080 @@
+{
+  "version": 2,
+  "lectureId": "population-genetics-1",
+  "title": "Population Genetics I — Normal Variation, Haplotypes & Ancestry",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "LS5023 Population Genetics I upload.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Kinds of variation",
+      "slide": 5,
+      "explanation": "The lecture distinguishes sequence, length and structural variation; categories can overlap.",
+      "images": [
+        "slide-5-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A difference in DNA base identity is a {{c1::sequence polymorphism}}.",
+      "noteId": "population-genetics-1-d2b81ed6478d8729ec40-note",
+      "id": "population-genetics-1-d2b81ed6478d8729ec40",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A difference in DNA base identity is a {{c1::sequence polymorphism}}.",
+      "answer": "sequence polymorphism"
+    },
+    {
+      "topic": "Kinds of variation",
+      "slide": 6,
+      "explanation": "It denotes a single nucleotide polymorphism; not every variant is pathogenic.",
+      "images": [
+        "slide-6-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The most common single-base marker category is a {{c1::SNP}}.",
+      "noteId": "population-genetics-1-0c44dc02d283aade7104-note",
+      "id": "population-genetics-1-0c44dc02d283aade7104",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The most common single-base marker category is a {{c1::SNP}}.",
+      "answer": "SNP"
+    },
+    {
+      "topic": "Kinds of variation",
+      "slide": 7,
+      "explanation": "Non-coding does not automatically mean functionless or without a disease association.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Many SNPs occur in {{c1::non-coding sequence}}.",
+      "noteId": "population-genetics-1-0e3088b8135c0266a8a1-note",
+      "id": "population-genetics-1-0e3088b8135c0266a8a1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Many SNPs occur in {{c1::non-coding sequence}}.",
+      "answer": "non-coding sequence"
+    },
+    {
+      "topic": "Kinds of variation",
+      "slide": 7,
+      "explanation": "They help distinguish genomic regions and follow inheritance.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Stable inherited SNPs can act as genetic {{c1::markers}}.",
+      "noteId": "population-genetics-1-53131c428bc205cce877-note",
+      "id": "population-genetics-1-53131c428bc205cce877",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Stable inherited SNPs can act as genetic {{c1::markers}}.",
+      "answer": "markers"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 8,
+      "explanation": "Interspersed repeats occur at separated positions instead.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Adjacent copies of a repeated DNA motif form a {{c1::tandem repeat}}.",
+      "noteId": "population-genetics-1-7aaa5832142e0aaff050-note",
+      "id": "population-genetics-1-7aaa5832142e0aaff050",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Adjacent copies of a repeated DNA motif form a {{c1::tandem repeat}}.",
+      "answer": "tandem repeat"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 8,
+      "explanation": "The motif can remain the same while array length changes.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Variation in the number of tandem repeat copies creates a {{c1::length polymorphism}}.",
+      "noteId": "population-genetics-1-0d6ead8622406f34142a-note",
+      "id": "population-genetics-1-0d6ead8622406f34142a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Variation in the number of tandem repeat copies creates a {{c1::length polymorphism}}.",
+      "answer": "length polymorphism"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 9,
+      "explanation": "Misalignment during replication can add or remove repeated units.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "DNA-polymerase slippage can change the {{c1::repeat number}}.",
+      "noteId": "population-genetics-1-ad917081f8f7f2a6dd83-note",
+      "id": "population-genetics-1-ad917081f8f7f2a6dd83",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "DNA-polymerase slippage can change the {{c1::repeat number}}.",
+      "answer": "repeat number"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 10,
+      "explanation": "One product can gain material while another loses it.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Misaligned recombination between repeats can cause {{c1::unequal crossing over}}.",
+      "noteId": "population-genetics-1-406e9a2114f092e6a526-note",
+      "id": "population-genetics-1-406e9a2114f092e6a526",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Misaligned recombination between repeats can cause {{c1::unequal crossing over}}.",
+      "answer": "unequal crossing over"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 12,
+      "explanation": "AAAA is a four-copy array of a one-base motif.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A repeated tract of a single nucleotide is a {{c1::homopolymer}}.",
+      "noteId": "population-genetics-1-0f0ad06156e88d497f8a-note",
+      "id": "population-genetics-1-0f0ad06156e88d497f8a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A repeated tract of a single nucleotide is a {{c1::homopolymer}}.",
+      "answer": "homopolymer"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 13,
+      "explanation": "Distinguish number of repeats from total length, which is eight bases.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The sequence ATATATAT contains {{c1::four}} copies of the AT motif.",
+      "noteId": "population-genetics-1-981ddbad1302eec19774-note",
+      "id": "population-genetics-1-981ddbad1302eec19774",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sequence ATATATAT contains {{c1::four}} copies of the AT motif.",
+      "answer": "four"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 13,
+      "explanation": "GCG is repeated five times; total array length is fifteen bases.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The repeat-unit size of GCGGCGGCGGCGGCG is {{c1::three bases}}.",
+      "noteId": "population-genetics-1-7fc31b1b36415f34b767-note",
+      "id": "population-genetics-1-7fc31b1b36415f34b767",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The repeat-unit size of GCGGCGGCGGCGGCG is {{c1::three bases}}.",
+      "answer": "three bases"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 13,
+      "explanation": "Definitions vary among sources; this is the range used in these lecture slides.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lecture calls short 2–10-base tandem-repeat motifs {{c1::microsatellites}}.",
+      "noteId": "population-genetics-1-8de59ef4704c432d4ad8-note",
+      "id": "population-genetics-1-8de59ef4704c432d4ad8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture calls short 2–10-base tandem-repeat motifs {{c1::microsatellites}}.",
+      "answer": "microsatellites"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 14,
+      "explanation": "The unit size and array length are different measurements.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A whole DNA segment composed of repeated motifs is a repeat {{c1::array}}.",
+      "noteId": "population-genetics-1-873119c812f9f53aa082-note",
+      "id": "population-genetics-1-873119c812f9f53aa082",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A whole DNA segment composed of repeated motifs is a repeat {{c1::array}}.",
+      "answer": "array"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 14,
+      "explanation": "Repeat-category boundaries vary among references.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "In the lecture's classification, 11–100-base repeat units are {{c1::minisatellites}}.",
+      "noteId": "population-genetics-1-b3e41773711ea6b01ce1-note",
+      "id": "population-genetics-1-b3e41773711ea6b01ce1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the lecture's classification, 11–100-base repeat units are {{c1::minisatellites}}.",
+      "answer": "minisatellites"
+    },
+    {
+      "topic": "Repeat variation",
+      "slide": 15,
+      "explanation": "STR usually refers specifically to short tandem repeats; the slide's broad grouping should not make all repeat types identical.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "VNTR expands to variable number {{c1::tandem repeat}}.",
+      "noteId": "population-genetics-1-b4f550407f9429eee9bf-note",
+      "id": "population-genetics-1-b4f550407f9429eee9bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "VNTR expands to variable number {{c1::tandem repeat}}.",
+      "answer": "tandem repeat"
+    },
+    {
+      "topic": "Mobile elements",
+      "slide": 16,
+      "explanation": "The source also calls it a mobile genetic element.",
+      "images": [
+        "slide-16-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A DNA element capable of changing genomic position is a {{c1::transposon}}.",
+      "noteId": "population-genetics-1-26e5ac21e7663e98a434-note",
+      "id": "population-genetics-1-26e5ac21e7663e98a434",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A DNA element capable of changing genomic position is a {{c1::transposon}}.",
+      "answer": "transposon"
+    },
+    {
+      "topic": "Mobile elements",
+      "slide": 18,
+      "explanation": "LINE is the corresponding long interspersed nuclear-element category.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "SINE stands for short interspersed {{c1::nuclear element}}.",
+      "noteId": "population-genetics-1-a5f931f149f5a116a673-note",
+      "id": "population-genetics-1-a5f931f149f5a116a673",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "SINE stands for short interspersed {{c1::nuclear element}}.",
+      "answer": "nuclear element"
+    },
+    {
+      "topic": "Mobile elements",
+      "slide": 19,
+      "explanation": "The presence of a transposon-derived repeat does not mean it still jumps.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Most transposon-derived sequences in humans are no longer {{c1::actively mobile}}.",
+      "noteId": "population-genetics-1-456de70a34664df7b87b-note",
+      "id": "population-genetics-1-456de70a34664df7b87b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Most transposon-derived sequences in humans are no longer {{c1::actively mobile}}.",
+      "answer": "actively mobile"
+    },
+    {
+      "topic": "Structural variation",
+      "slide": 20,
+      "explanation": "An inversion alone changes orientation, not copy number; the source's list of rearrangements is broader than CNVs.",
+      "images": [
+        "slide-20-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A gain or loss that changes the number of copies of a DNA segment is {{c1::copy-number variation}}.",
+      "noteId": "population-genetics-1-8840e114bd47d4d4af48-note",
+      "id": "population-genetics-1-8840e114bd47d4d4af48",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A gain or loss that changes the number of copies of a DNA segment is {{c1::copy-number variation}}.",
+      "answer": "copy-number variation"
+    },
+    {
+      "topic": "Structural variation",
+      "slide": 20,
+      "explanation": "Do not equate every structural variant with a duplication or deletion.",
+      "images": [
+        "slide-20-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A balanced inversion can be copy-number {{c1::neutral}}.",
+      "noteId": "population-genetics-1-8a649857053e8ac65bb0-note",
+      "id": "population-genetics-1-8a649857053e8ac65bb0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A balanced inversion can be copy-number {{c1::neutral}}.",
+      "answer": "neutral"
+    },
+    {
+      "topic": "Structural variation",
+      "slide": 22,
+      "explanation": "They range in scale and can affect sequence, length and structure.",
+      "images": [
+        "slide-22-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The combined term for insertions and deletions is {{c1::indels}}.",
+      "noteId": "population-genetics-1-2607be358d661b33bd9b-note",
+      "id": "population-genetics-1-2607be358d661b33bd9b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The combined term for insertions and deletions is {{c1::indels}}.",
+      "answer": "indels"
+    },
+    {
+      "topic": "Uses of variation",
+      "slide": 24,
+      "explanation": "It also supports ancestry and disease-susceptibility research.",
+      "images": [
+        "slide-24-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Normal genetic variation enables human identification and {{c1::kinship testing}}.",
+      "noteId": "population-genetics-1-69d51caa0786f95832c9-note",
+      "id": "population-genetics-1-69d51caa0786f95832c9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Normal genetic variation enables human identification and {{c1::kinship testing}}.",
+      "answer": "kinship testing"
+    },
+    {
+      "topic": "Populations",
+      "slide": 25,
+      "explanation": "It also asks how frequencies change over time.",
+      "images": [
+        "slide-25-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Population genetics studies variation within and {{c1::between populations}}.",
+      "noteId": "population-genetics-1-ee9093102f24de547e99-note",
+      "id": "population-genetics-1-ee9093102f24de547e99",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Population genetics studies variation within and {{c1::between populations}}.",
+      "answer": "between populations"
+    },
+    {
+      "topic": "Populations",
+      "slide": 26,
+      "explanation": "Geography can help define a sampled population, but boundaries depend on the research question.",
+      "images": [
+        "slide-26-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A biological population contains members of the same species capable of {{c1::interbreeding}}.",
+      "noteId": "population-genetics-1-a67ace833dfaa954d700-note",
+      "id": "population-genetics-1-a67ace833dfaa954d700",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A biological population contains members of the same species capable of {{c1::interbreeding}}.",
+      "answer": "interbreeding"
+    },
+    {
+      "topic": "Recombination and linkage",
+      "slide": 27,
+      "explanation": "Linked regions can nevertheless remain inherited together for many generations.",
+      "images": [
+        "slide-27-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Meiotic recombination produces chromosomes containing a {{c1::mixture of parental segments}}.",
+      "noteId": "population-genetics-1-0d747579cecbdf76a458-note",
+      "id": "population-genetics-1-0d747579cecbdf76a458",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Meiotic recombination produces chromosomes containing a {{c1::mixture of parental segments}}.",
+      "answer": "mixture of parental segments"
+    },
+    {
+      "topic": "Recombination and linkage",
+      "slide": 28,
+      "explanation": "It is a population-level association, not simply the physical fact that loci lie on one chromosome.",
+      "images": [
+        "slide-28-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Non-random association of alleles at different loci is {{c1::linkage disequilibrium}}.",
+      "noteId": "population-genetics-1-79f5e55ed5d72acf12f8-note",
+      "id": "population-genetics-1-79f5e55ed5d72acf12f8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Non-random association of alleles at different loci is {{c1::linkage disequilibrium}}.",
+      "answer": "linkage disequilibrium"
+    },
+    {
+      "topic": "Recombination and linkage",
+      "slide": 29,
+      "explanation": "Informative markers can label a larger inherited DNA segment.",
+      "images": [
+        "slide-29-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A set of variants carried together on one chromosome segment is a {{c1::haplotype}}.",
+      "noteId": "population-genetics-1-725610f15cc8d91e02d0-note",
+      "id": "population-genetics-1-725610f15cc8d91e02d0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A set of variants carried together on one chromosome segment is a {{c1::haplotype}}.",
+      "answer": "haplotype"
+    },
+    {
+      "topic": "Recombination and linkage",
+      "slide": 29,
+      "explanation": "This avoids reading every base when tracking that segment.",
+      "images": [
+        "slide-29-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Markers within a haplotype can serve as a shortcut for a larger {{c1::DNA segment}}.",
+      "noteId": "population-genetics-1-061279fa89cf7e2ac39f-note",
+      "id": "population-genetics-1-061279fa89cf7e2ac39f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Markers within a haplotype can serve as a shortcut for a larger {{c1::DNA segment}}.",
+      "answer": "DNA segment"
+    },
+    {
+      "topic": "Recombination and linkage",
+      "slide": 31,
+      "explanation": "Haplogroups are useful for tracking particular lineages, not a complete summary of a person's ancestry.",
+      "images": [
+        "slide-31-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Related haplotypes can be grouped into a {{c1::haplogroup}}.",
+      "noteId": "population-genetics-1-05a5c83b09e3fda240e8-note",
+      "id": "population-genetics-1-05a5c83b09e3fda240e8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Related haplotypes can be grouped into a {{c1::haplogroup}}.",
+      "answer": "haplogroup"
+    },
+    {
+      "topic": "Uniparental lineages",
+      "slide": 32,
+      "explanation": "It reflects one inheritance route rather than all ancestors.",
+      "images": [
+        "slide-32-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Mitochondrial DNA usually tracks the {{c1::maternal lineage}}.",
+      "noteId": "population-genetics-1-b715accca1f70e285031-note",
+      "id": "population-genetics-1-b715accca1f70e285031",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mitochondrial DNA usually tracks the {{c1::maternal lineage}}.",
+      "answer": "maternal lineage"
+    },
+    {
+      "topic": "Uniparental lineages",
+      "slide": 32,
+      "explanation": "This applies where a Y lineage is inherited and excludes recombining portions.",
+      "images": [
+        "slide-32-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The non-recombining Y region tracks the {{c1::paternal lineage}}.",
+      "noteId": "population-genetics-1-92360c4dc5df60bc8545-note",
+      "id": "population-genetics-1-92360c4dc5df60bc8545",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The non-recombining Y region tracks the {{c1::paternal lineage}}.",
+      "answer": "paternal lineage"
+    },
+    {
+      "topic": "Uniparental lineages",
+      "slide": 35,
+      "explanation": "She is not necessarily the most recent genealogical ancestor of all living humans.",
+      "images": [
+        "slide-35-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Mitochondrial Eve is a most recent shared ancestor for the {{c1::mitochondrial lineage}}.",
+      "noteId": "population-genetics-1-ba761abc0eb593d97893-note",
+      "id": "population-genetics-1-ba761abc0eb593d97893",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mitochondrial Eve is a most recent shared ancestor for the {{c1::mitochondrial lineage}}.",
+      "answer": "mitochondrial lineage"
+    },
+    {
+      "topic": "Ancestry interpretation",
+      "slide": 36,
+      "explanation": "Other lineages can be lost over generations while descendants persist through other ancestry paths.",
+      "images": [
+        "slide-36-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Mitochondrial Eve was not the {{c1::only woman alive}} at her time.",
+      "noteId": "population-genetics-1-95c844f429ad4f78bbf9-note",
+      "id": "population-genetics-1-95c844f429ad4f78bbf9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mitochondrial Eve was not the {{c1::only woman alive}} at her time.",
+      "answer": "only woman alive"
+    },
+    {
+      "topic": "Ancestry interpretation",
+      "slide": 36,
+      "explanation": "They describe separate lineage-coalescence histories.",
+      "images": [
+        "slide-36-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Mitochondrial Eve and Y-chromosome Adam need not have lived {{c1::at the same time}}.",
+      "noteId": "population-genetics-1-c8ce22e494d6820f5008-note",
+      "id": "population-genetics-1-c8ce22e494d6820f5008",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mitochondrial Eve and Y-chromosome Adam need not have lived {{c1::at the same time}}.",
+      "answer": "at the same time"
+    },
+    {
+      "topic": "Ancestry interpretation",
+      "slide": 36,
+      "explanation": "It is not one fixed founding person independent of which present-day lineages remain.",
+      "images": [
+        "slide-36-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "The identity of a lineage's most recent common ancestor can change as lineages {{c1::become extinct}}.",
+      "noteId": "population-genetics-1-9f1cc4532c0f6e32d06e-note",
+      "id": "population-genetics-1-9f1cc4532c0f6e32d06e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The identity of a lineage's most recent common ancestor can change as lineages {{c1::become extinct}}.",
+      "answer": "become extinct"
+    },
+    {
+      "topic": "Ancestry interpretation",
+      "slide": 37,
+      "explanation": "They provide small pieces of a broader genomic history.",
+      "images": [
+        "slide-37-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Maternal and paternal lineage tests omit most {{c1::autosomal ancestry}}.",
+      "noteId": "population-genetics-1-4b99bdd3ca444480982f-note",
+      "id": "population-genetics-1-4b99bdd3ca444480982f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Maternal and paternal lineage tests omit most {{c1::autosomal ancestry}}.",
+      "answer": "autosomal ancestry"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 1",
+      "text": "LS5023: Population Genetics I\nDR  A NDRE W MA Y | a.may @kingston.ac.uk\n",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 2",
+      "text": "L E A R N I N G  O B J E C T I V E S\nBy the end of this lecture, you should be able to:\n• List the different types of normal variation that occur between human \ngenomes\n• Provide examples of sequence, length, and structural polymorphisms\n• Explain why normal genetic variation is a useful research tool in human \ngenetics\n• Describe the tracking of genetic fragments through linkage disequilibrium, \nhaplotypes, and haplogroups \n",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 3",
+      "text": "W H E R E  A R E  W E ? ?\n",
+      "images": [
+        "slide-3-image-1"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 4",
+      "text": "H O W  D O  H U M A N  G E N O M E S  D I F F E R ?\nSimilar but different\nWe know that any two randomly \nselected humans share ~99% of \ntheir DNA sequence and structure\nPut differently, the sequence and \nstructure of your own genome is \nabout 99% similar to the \nreference human genome\nWhat sorts of differences make \nup the remaining percentage?\n",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 5",
+      "text": "H O W  D O  H U M A N  G E N O M E S  D I F F E R ?\nPathogenic vs polymorphic\nVariation between genomes ranges \nfrom single nucleotide differences \nto gains and losses of whole \nchromosomes\nNormal, polymorphic variation is \nlimited to:\nSequence polymorphisms\nLength polymorphisms\nStructural polymorphisms\n(Epigenetic differences)\n",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 6",
+      "text": "S E Q U E N C E  P O L Y M O R P H I S M S\nSnip snip….\nThe most common type of \nsequence polymorphism is a single \nnucleotide polymorphism (SNP)\nSNPs generally arise as single \nnucleotide replication errors \npassed down for several \ngenerations\nA SNP occurs once in every 100-\n300 bases\nEach of us has about 11 million \nSNPs in our genome\n",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 7",
+      "text": "S E Q U E N C E  P O L Y M O R P H I S M S\nCataloguing SNPs\nMore than 100+ million SNPs \nare known\nMost SNPs occur in non-coding \nsequence\nSNPs are stable differences \nbetween genomes, making them \nuseful tools for examining \ndifferent genomes\n",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 8",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nHow long is a piece of DNA?\nLength polymorphisms involve changes in \nfrequency of a repeat unit\nOver 50% of the genome is repetitive \nsequence\nRepeated DNA sequences either occur in \ntandem (next door to each other) or are \ninterspersed\nLength polymorphisms refer mainly to \ntandem repeats\n",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 9",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nWhy why so so repetitive?\nReplication of DNA is error prone\nDNA polymerases can lose track of \nhow many repeats have been \nreplicated and how many await \nreplication\nWhen polymerase slips backward, \nnew repeats are added (insertion). \nWhen polymerase slips forwards, \nsome repeats are left out (deletion)\n",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 10",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nAn unfair exchange\nAligning and recombining \nDNA is also error prone\nMisaligned repeats can \neither cause unequal \nsister chromatid \nexchange (between \nstrands of replicated \nDNA) or unequal \ncrossover (between \nreplicated chromosomes\n",
+      "images": [
+        "slide-10-image-1"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 11",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nSize matters\nThe size of the repeated \nDNA sequence unit can \nrange from 1 nucleotide, to \nover 1 million nucleotides!\nSize ranges are given \ndifferent names to help \ndistinguish them\n",
+      "images": [
+        "slide-11-image-1"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 12",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nHomopolymer\nA homopolymer, or a \nhomopolymer tract, is a 1 \nnucleotide repeat unit\nAAAA\nGGGGGGG\nTTTTTTTTTTTTTTTTTTTT\nNumber of repeats: 4\nRepeat unit size: 1 base\nNumber of repeats: 7\nNumber of repeats: 20\n",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 13",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nMicrosatellites\nA microsatellite is a repeat \nunit consisting of 2-10 \nbases\nATATATAT\nGCGGCGGCGGCGGCG\nRepeat unit size: 2 bases\nRepeat unit size: 3 bases\nNumber of repeats: 4\nNumber of repeats: 5\n",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 14",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nOther satellites\nMinisatellites have a repeat \nunit of 11-100 bases\nSatellites have a repeat unit \nof  ~100-400 bases\nThe entire segment of DNA \nconsisting of a repeat motif \nis referred to as an array\n",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 15",
+      "text": "L E N G T H  P O L Y M O R P H I S M S\nMore terminology\nSome arrays are fixed in size and don’t vary \nfrom one person to the next\nHowever, most homopolymers, \nmicrosatellite, minisatellite, and  satellite \narrays vary in size and are collectively \nreferred to as variable number tandem \nrepeats (VNTRs) or short tandem repeats \n(STRs)\nVNTRs/STRs are the typical example of \nlength polymorphisms\n",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 16",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\nAn a-maize-ing discovery\nRepeat units can also be interspersed \nthroughout the genome, rather than occurring \nin tandem\nMost of these interspersed repeats are \ntransposons\nA transposon is a DNA segment that can \nchange its position in the genome (also known \nas a jumping gene or a mobile genetic element)\n",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 17",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\n",
+      "images": [
+        "slide-17-image-1"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 18",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\nSigns and lines\nThere are two main families of transposons\nShort interspersed nuclear elements (SINEs)\nLong interspersed nuclear elements (LINEs)\n",
+      "images": [
+        "slide-18-image-1"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 19",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\nLittered lines\nTransposable elements are scattered throughout your entire \ngenome, even between exons!\nMost transposons in the human genome no longer “jump”\n",
+      "images": [
+        "slide-19-image-1"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 20",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\nDo you copy?\nAny repeat unit (whether tandem or \ninterspersed) larger than 50 bases \nthat shows variation between \nindividuals is also known as a copy \nnumber variant (CNV)\nChanges in the copy number of \nCNVs occur as the result of \nstructural changes (insertion, \ndeletion, translocation, duplication, \ninversion), and can thus be referred \nto as structural polymorphisms\n",
+      "images": [
+        "slide-20-image-1"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 21",
+      "text": "S T R U C T U R A L  P O L Y M O R P H I S M S\n",
+      "images": [
+        "slide-21-image-1"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 22",
+      "text": "P O L Y M O R P H I S M S\nThe special case of indels\nInsertions and deletions (indels) of non-repeat motif DNA sequence sit at the \nintersection between sequence, length, and structural polymorphisms.\nIndels can range in size from 1 base to entire chromosome segments\nThese can affect the sequence, length, and structure of the DNA\n",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 23",
+      "text": "N O R M A L  V A R I A T I O N\n",
+      "images": [
+        "slide-23-image-1"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 24",
+      "text": "N O R M A L  V A R I A T I O N\nUnique, just like \neveryone else\nUnderstanding the ways in \nwhich genomes differ \nnormally can be used to \nour advantage\nHuman identification\nPaternity and kinship \ntesting\nHuman history and \nevolution\nDisease susceptibility\n",
+      "images": [
+        "slide-24-image-1"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 25",
+      "text": "P O P U L A T I O N  G E N E T I C S\nKeeping track of what’s normal\nPopulation genetics is the study of genetic variation within and between \npopulations, and how this variation is maintained or changed over time. \n",
+      "images": [
+        "slide-25-image-1"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 26",
+      "text": "P O P U L A T I O N  G E N E T I C S\nWhat is a population?\nA biological population is any group of members of the same species, living in the same \ngeographical region, that interbreed or can potentially interbreed\nTo study genetic variation within a population, we need to count the amount of normal \nvariation and determine how much this changes from one generation to the next\nTo do this, we first need to recall how genetic material is inherited\n",
+      "images": [
+        "slide-26-image-1"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 27",
+      "text": "T H E  P R O C E S S  O F  I N H E R I T A N C E\nTaking chunks from the gene pool\nDNA is inherited in “chunks” \nHomologous chromosomes undergo recombination, so that the offspring receives \na mixture of genetic material\n",
+      "images": [
+        "slide-27-image-1"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 28",
+      "text": "P O P U L A T I O N  G E N E T I C S\nA family affair\nThe global population is one large \nfamily\nA chunk of DNA that is inherited as a \nunit (more commonly than statistics \nwould predict) is known as a linkage \ndisequilibrium block\nLinkage – the DNA sequence is linked \ntogether to form a unit\nDisequilibrium – the chunk of DNA is \npassed on as a whole unit more often \nthan statistics would predict\n",
+      "images": [
+        "slide-28-image-1"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 29",
+      "text": "P O P U L A T I O N  G E N E T I C S\nChunk tracking\nBecause DNA is inherited in chunks that can stay intact for many generations, we can often identify \nchunks by just examining the normal variants on each chunk, instead of having to read the whole \nsequence\nSince SNPs are so common in the human genome (1 every 100-300 bases), we can take note of which \ngroups of SNPs seem to be inherited together more often than you would expect\nThis group of SNPs is called a haplotype -  a set of closely linked markers that are inherited together\n",
+      "images": [
+        "slide-29-image-1"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 30",
+      "text": "P O P U L A T I O N  G E N E T I C S\n",
+      "images": [
+        "slide-30-image-1"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 31",
+      "text": "P O P U L A T I O N  G E N E T I C S\nShort hand\nHaplotypes are a “shortcut” for \nreferring to a much larger chunk of \nDNA\nSimilar haplotypes can be grouped \ntogether into “haplogroups”\nWhen studying populations, we \ndetermine the frequency of normal \nvariants, haplotypes, and/or \nhaplogroups. This can be done in \nautosomes, sex chromosomes, or \nthe mitochondrial genome\n",
+      "images": [
+        "slide-31-image-1"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 32",
+      "text": "P O P U L A T I O N  G E N E T I C S\nUniparental inheritance\nTracking haplotypes and haplogroups in the mitochondrial genome and the non-\nrecombining portion of the Y chromosome is how ancestry testing is done for \nyour maternal and paternal heritage respectively. \n",
+      "images": [
+        "slide-32-image-1"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 33",
+      "text": "P O P U L A T I O N  G E N E T I C S\n",
+      "images": [
+        "slide-33-image-1"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 34",
+      "text": "P O P U L A T I O N  G E N E T I C S\n",
+      "images": [
+        "slide-34-image-1"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 35",
+      "text": "P O P U L A T I O N  G E N E T I C S\nAdam and Eve\nTheoretically, we could track the mitochondrial lineage of all extant humans back \nto one woman (mitochondrial Eve) and the non-recombining portion of the Y \nchromosome to one man (Y-chromosome Adam)\n",
+      "images": [
+        "slide-35-image-1"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 36",
+      "text": "P O P U L A T I O N  G E N E T I C S\nA more complicated story\nCommon misconceptions about mt-Eve \nand Y-MRCA reveal how challenging it is \nto conceptualise and track human \nhistory:\nNot the only man/woman alive at the \ntime\nNot one fixed individual\nNot alive at the same time as each other\nNot the most recent common ancestor \nshared by all humans\n",
+      "images": [
+        "slide-36-image-1"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 37",
+      "text": "P O P U L A T I O N  G E N E T I C S\nOne small piece of a much larger puzzle\nTracking only patrilineal and matrilineal heritage excludes the majority of the \nhuman genome\nPopulation genetics must also have methods for tracking autosomal variation…but \nhow?\n",
+      "images": [
+        "slide-37-image-1"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Population Genetics I — Normal Variation, Haplotypes & Ancestry — source 38",
+      "text": "S U M M A R Y\n• Normal variation in the human genome can be loosely \ncategorised into sequence, length, and structural \npolymorphisms\n• Identifying and cataloguing normal variation between \nhumans provides a useful tool for several different functions\n• Population genetics is the discipline concerned with studying \nnormal genetic variation and how it is maintained or \nchanged over time\n• It is easiest to track variation in non-recombining portions of \nthe genome, but this has limited scope\n",
+      "images": [
+        "slide-38-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "population-genetics-1/slide-1-image-1.webp",
+    "slide-2-image-1": "population-genetics-1/slide-2-image-1.webp",
+    "slide-3-image-1": "population-genetics-1/slide-3-image-1.webp",
+    "slide-4-image-1": "population-genetics-1/slide-4-image-1.webp",
+    "slide-5-image-1": "population-genetics-1/slide-5-image-1.webp",
+    "slide-6-image-1": "population-genetics-1/slide-6-image-1.webp",
+    "slide-7-image-1": "population-genetics-1/slide-7-image-1.webp",
+    "slide-8-image-1": "population-genetics-1/slide-8-image-1.webp",
+    "slide-9-image-1": "population-genetics-1/slide-9-image-1.webp",
+    "slide-10-image-1": "population-genetics-1/slide-10-image-1.webp",
+    "slide-11-image-1": "population-genetics-1/slide-11-image-1.webp",
+    "slide-12-image-1": "population-genetics-1/slide-12-image-1.webp",
+    "slide-13-image-1": "population-genetics-1/slide-13-image-1.webp",
+    "slide-14-image-1": "population-genetics-1/slide-14-image-1.webp",
+    "slide-15-image-1": "population-genetics-1/slide-15-image-1.webp",
+    "slide-16-image-1": "population-genetics-1/slide-16-image-1.webp",
+    "slide-17-image-1": "population-genetics-1/slide-17-image-1.webp",
+    "slide-18-image-1": "population-genetics-1/slide-18-image-1.webp",
+    "slide-19-image-1": "population-genetics-1/slide-19-image-1.webp",
+    "slide-20-image-1": "population-genetics-1/slide-20-image-1.webp",
+    "slide-21-image-1": "population-genetics-1/slide-21-image-1.webp",
+    "slide-22-image-1": "population-genetics-1/slide-22-image-1.webp",
+    "slide-23-image-1": "population-genetics-1/slide-23-image-1.webp",
+    "slide-24-image-1": "population-genetics-1/slide-24-image-1.webp",
+    "slide-25-image-1": "population-genetics-1/slide-25-image-1.webp",
+    "slide-26-image-1": "population-genetics-1/slide-26-image-1.webp",
+    "slide-27-image-1": "population-genetics-1/slide-27-image-1.webp",
+    "slide-28-image-1": "population-genetics-1/slide-28-image-1.webp",
+    "slide-29-image-1": "population-genetics-1/slide-29-image-1.webp",
+    "slide-30-image-1": "population-genetics-1/slide-30-image-1.webp",
+    "slide-31-image-1": "population-genetics-1/slide-31-image-1.webp",
+    "slide-32-image-1": "population-genetics-1/slide-32-image-1.webp",
+    "slide-33-image-1": "population-genetics-1/slide-33-image-1.webp",
+    "slide-34-image-1": "population-genetics-1/slide-34-image-1.webp",
+    "slide-35-image-1": "population-genetics-1/slide-35-image-1.webp",
+    "slide-36-image-1": "population-genetics-1/slide-36-image-1.webp",
+    "slide-37-image-1": "population-genetics-1/slide-37-image-1.webp",
+    "slide-38-image-1": "population-genetics-1/slide-38-image-1.webp"
+  },
+  "week": 5,
+  "weekEnd": 5
+}

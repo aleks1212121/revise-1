@@ -1,0 +1,1075 @@
+{
+  "version": 2,
+  "lectureId": "medical-genetics-introduction",
+  "title": "Introduction to Medical Genetics — Genes & Disease Classes",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "1a Introduction to Medical Genetics SE-1.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Medical genetics",
+      "slide": 7,
+      "explanation": "Its scope includes diagnosis, disease mapping, treatment and counselling.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Medical genetics applies genetic principles to {{c1::health and disease}}.",
+      "noteId": "medical-genetics-introduction-e71881c15e251592a68c-note",
+      "id": "medical-genetics-introduction-e71881c15e251592a68c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Medical genetics applies genetic principles to {{c1::health and disease}}.",
+      "answer": "health and disease"
+    },
+    {
+      "topic": "DNA organisation",
+      "slide": 14,
+      "explanation": "Chargaff's relationships concern complementary double-stranded DNA, not a universal rule for every nucleic-acid molecule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In double-stranded DNA, guanine pairs with {{c1::cytosine}}.",
+      "noteId": "medical-genetics-introduction-1ab16197aa0190415f8f-note",
+      "id": "medical-genetics-introduction-1ab16197aa0190415f8f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In double-stranded DNA, guanine pairs with {{c1::cytosine}}.",
+      "answer": "cytosine"
+    },
+    {
+      "topic": "Disease classes",
+      "slide": 19,
+      "explanation": "Down syndrome and Turner syndrome are source examples.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A disorder involving chromosome number or large-scale structure is a {{c1::chromosomal disorder}}.",
+      "noteId": "medical-genetics-introduction-7d179180dcc3e967204e-note",
+      "id": "medical-genetics-introduction-7d179180dcc3e967204e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A disorder involving chromosome number or large-scale structure is a {{c1::chromosomal disorder}}.",
+      "answer": "chromosomal disorder"
+    },
+    {
+      "topic": "Disease classes",
+      "slide": 19,
+      "explanation": "Cystic fibrosis and haemophilia are examples; this differs from changes affecting whole chromosomes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A disorder primarily caused by variants in one gene is {{c1::monogenic}}.",
+      "noteId": "medical-genetics-introduction-0892679638ddfebb7abc-note",
+      "id": "medical-genetics-introduction-0892679638ddfebb7abc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A disorder primarily caused by variants in one gene is {{c1::monogenic}}.",
+      "answer": "monogenic"
+    },
+    {
+      "topic": "Disease classes",
+      "slide": 19,
+      "explanation": "Type 2 diabetes illustrates why genetic and environmental categories are not mutually exclusive.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Disorders involving multiple genetic factors and environmental influences are {{c1::multifactorial}}.",
+      "noteId": "medical-genetics-introduction-a040ad632b38f042da6e-note",
+      "id": "medical-genetics-introduction-a040ad632b38f042da6e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Disorders involving multiple genetic factors and environmental influences are {{c1::multifactorial}}.",
+      "answer": "multifactorial"
+    },
+    {
+      "topic": "Disease classes",
+      "slide": 19,
+      "explanation": "Not every mitochondrial-function disease is caused by mtDNA; nuclear genes can also affect mitochondria.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Variants in the mitochondrial genome cause {{c1::mitochondrial disorders}}.",
+      "noteId": "medical-genetics-introduction-3460e1041626a1f92c1e-note",
+      "id": "medical-genetics-introduction-3460e1041626a1f92c1e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Variants in the mitochondrial genome cause {{c1::mitochondrial disorders}}.",
+      "answer": "mitochondrial disorders"
+    },
+    {
+      "topic": "Disease terminology",
+      "slide": 21,
+      "explanation": "Congenital does not necessarily mean genetic or inherited.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A condition present at birth is {{c1::congenital}}.",
+      "noteId": "medical-genetics-introduction-58cb9a24cec724967850-note",
+      "id": "medical-genetics-introduction-58cb9a24cec724967850",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A condition present at birth is {{c1::congenital}}.",
+      "answer": "congenital"
+    },
+    {
+      "topic": "Disease terminology",
+      "slide": 21,
+      "explanation": "A new variant can arise, so the slide's description of genetic disease as disease in families is too narrow.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A genetic disease need not have been {{c1::inherited}} from a parent.",
+      "noteId": "medical-genetics-introduction-df8058976231173bcc54-note",
+      "id": "medical-genetics-introduction-df8058976231173bcc54",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A genetic disease need not have been {{c1::inherited}} from a parent.",
+      "answer": "inherited"
+    },
+    {
+      "topic": "Genes and chromosomes",
+      "slide": 22,
+      "explanation": "Chromatin comprises DNA and associated proteins; genes are functional units within the genome.",
+      "images": [
+        "slide-22-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chromosomes contain {{c1::genes}}.",
+      "noteId": "medical-genetics-introduction-ebd3ad472896d8076970-note",
+      "id": "medical-genetics-introduction-ebd3ad472896d8076970",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chromosomes contain {{c1::genes}}.",
+      "answer": "genes"
+    },
+    {
+      "topic": "Genes and chromosomes",
+      "slide": 23,
+      "explanation": "A locus is an address, not an alternative allele.",
+      "images": [
+        "slide-23-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A gene's chromosomal location is its {{c1::locus}}.",
+      "noteId": "medical-genetics-introduction-2df067d3c5d7e3ae52e3-note",
+      "id": "medical-genetics-introduction-2df067d3c5d7e3ae52e3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A gene's chromosomal location is its {{c1::locus}}.",
+      "answer": "locus"
+    },
+    {
+      "topic": "DNA organisation",
+      "slide": 24,
+      "explanation": "Secondary structure concerns the double helix; higher-order folding enables packaging.",
+      "images": [
+        "slide-24-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The primary structure of DNA is its nucleotide {{c1::sequence}}.",
+      "noteId": "medical-genetics-introduction-43918a4f18545adf1893-note",
+      "id": "medical-genetics-introduction-43918a4f18545adf1893",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The primary structure of DNA is its nucleotide {{c1::sequence}}.",
+      "answer": "sequence"
+    },
+    {
+      "topic": "DNA organisation",
+      "slide": 24,
+      "explanation": "This differs from the order of individual nucleotides.",
+      "images": [
+        "slide-24-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The double helix is DNA's {{c1::secondary structure}}.",
+      "noteId": "medical-genetics-introduction-02b13ce5065ec43d792a-note",
+      "id": "medical-genetics-introduction-02b13ce5065ec43d792a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The double helix is DNA's {{c1::secondary structure}}.",
+      "answer": "secondary structure"
+    },
+    {
+      "topic": "DNA organisation",
+      "slide": 24,
+      "explanation": "The lecture calls this tertiary organisation.",
+      "images": [
+        "slide-24-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Higher-order DNA folding enables {{c1::packaging}} into chromosomes.",
+      "noteId": "medical-genetics-introduction-c50482b3c7cb2fee95ec-note",
+      "id": "medical-genetics-introduction-c50482b3c7cb2fee95ec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Higher-order DNA folding enables {{c1::packaging}} into chromosomes.",
+      "answer": "packaging"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 28,
+      "explanation": "For a protein-coding gene, the RNA can subsequently supply the template for translation.",
+      "images": [
+        "slide-28-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Copying information from DNA into RNA is {{c1::transcription}}.",
+      "noteId": "medical-genetics-introduction-fa17e3b633ee16d749a0-note",
+      "id": "medical-genetics-introduction-fa17e3b633ee16d749a0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Copying information from DNA into RNA is {{c1::transcription}}.",
+      "answer": "transcription"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 28,
+      "explanation": "Information is decoded rather than RNA being physically converted into amino acids.",
+      "images": [
+        "slide-28-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Using an mRNA sequence to make a polypeptide is {{c1::translation}}.",
+      "noteId": "medical-genetics-introduction-d3acbf1028a2a726c8f0-note",
+      "id": "medical-genetics-introduction-d3acbf1028a2a726c8f0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Using an mRNA sequence to make a polypeptide is {{c1::translation}}.",
+      "answer": "translation"
+    },
+    {
+      "topic": "DNA organisation",
+      "slide": 29,
+      "explanation": "The other complementary pair is guanine–cytosine.",
+      "images": [
+        "slide-29-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The DNA base paired with adenine is {{c1::thymine}}.",
+      "noteId": "medical-genetics-introduction-a8d710ae6f10ecc7947f-note",
+      "id": "medical-genetics-introduction-a8d710ae6f10ecc7947f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The DNA base paired with adenine is {{c1::thymine}}.",
+      "answer": "thymine"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 30,
+      "explanation": "This is a chemical difference between the common RNA and DNA alphabets.",
+      "images": [
+        "slide-30-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "RNA normally uses {{c1::uracil}} instead of thymine.",
+      "noteId": "medical-genetics-introduction-aa1ffd121bff5ea80954-note",
+      "id": "medical-genetics-introduction-aa1ffd121bff5ea80954",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "RNA normally uses {{c1::uracil}} instead of thymine.",
+      "answer": "uracil"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 30,
+      "explanation": "Codons specify amino acids or termination signals.",
+      "images": [
+        "slide-30-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An mRNA codon contains {{c1::three nucleotides}}.",
+      "noteId": "medical-genetics-introduction-93b9c1b2dc3327b6c1b4-note",
+      "id": "medical-genetics-introduction-93b9c1b2dc3327b6c1b4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An mRNA codon contains {{c1::three nucleotides}}.",
+      "answer": "three nucleotides"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 31,
+      "explanation": "It ordinarily initiates methionine incorporation; mature proteins may later lose their initiating methionine.",
+      "images": [
+        "slide-31-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The mRNA start codon shown in the lecture is {{c1::AUG}}.",
+      "noteId": "medical-genetics-introduction-8f4bbdb48eec89fd0158-note",
+      "id": "medical-genetics-introduction-8f4bbdb48eec89fd0158",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The mRNA start codon shown in the lecture is {{c1::AUG}}.",
+      "answer": "AUG"
+    },
+    {
+      "topic": "Gene expression",
+      "slide": 31,
+      "explanation": "The corresponding protein extends from N-terminus towards C-terminus.",
+      "images": [
+        "slide-31-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An mRNA is read in the {{c1::5′ to 3′}} direction during translation.",
+      "noteId": "medical-genetics-introduction-4b5c9be9013d8272c847-note",
+      "id": "medical-genetics-introduction-4b5c9be9013d8272c847",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An mRNA is read in the {{c1::5′ to 3′}} direction during translation.",
+      "answer": "5′ to 3′"
+    },
+    {
+      "topic": "Chromosome analysis",
+      "slide": 35,
+      "explanation": "It concerns chromosome-level organisation rather than only single-base sequencing.",
+      "images": [
+        "slide-35-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The study of chromosomes and their abnormalities is {{c1::cytogenetics}}.",
+      "noteId": "medical-genetics-introduction-208e2f3ab2b70ebd5c37-note",
+      "id": "medical-genetics-introduction-208e2f3ab2b70ebd5c37",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The study of chromosomes and their abnormalities is {{c1::cytogenetics}}.",
+      "answer": "cytogenetics"
+    },
+    {
+      "topic": "Chromosome changes",
+      "slide": 37,
+      "explanation": "This differs from an entire extra chromosome.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Loss of a chromosome segment is a {{c1::deletion}}.",
+      "noteId": "medical-genetics-introduction-3a5287ec8dc01d48208e-note",
+      "id": "medical-genetics-introduction-3a5287ec8dc01d48208e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Loss of a chromosome segment is a {{c1::deletion}}.",
+      "answer": "deletion"
+    },
+    {
+      "topic": "Chromosome changes",
+      "slide": 37,
+      "explanation": "Orientation changes without necessarily changing total copy number.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Reversal of a chromosome segment within the chromosome is an {{c1::inversion}}.",
+      "noteId": "medical-genetics-introduction-f1027ae99a18b43565db-note",
+      "id": "medical-genetics-introduction-f1027ae99a18b43565db",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reversal of a chromosome segment within the chromosome is an {{c1::inversion}}.",
+      "answer": "inversion"
+    },
+    {
+      "topic": "Chromosome changes",
+      "slide": 37,
+      "explanation": "The functional effect depends on the material involved.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A chromosome segment present in an additional copy is a {{c1::duplication}}.",
+      "noteId": "medical-genetics-introduction-7100e46a8d06f72929fc-note",
+      "id": "medical-genetics-introduction-7100e46a8d06f72929fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A chromosome segment present in an additional copy is a {{c1::duplication}}.",
+      "answer": "duplication"
+    },
+    {
+      "topic": "Single-gene examples",
+      "slide": 39,
+      "explanation": "The source links variants to abnormal mucus affecting respiratory and digestive systems.",
+      "images": [
+        "slide-39-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The gene implicated in cystic fibrosis is {{c1::CFTR}}.",
+      "noteId": "medical-genetics-introduction-715ab149743a12e16c14-note",
+      "id": "medical-genetics-introduction-715ab149743a12e16c14",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The gene implicated in cystic fibrosis is {{c1::CFTR}}.",
+      "answer": "CFTR"
+    },
+    {
+      "topic": "Single-gene examples",
+      "slide": 40,
+      "explanation": "Sickling can impair oxygen delivery and increase red-cell breakdown.",
+      "images": [
+        "slide-40-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The red-cell disorder illustrated by sickling is {{c1::sickle cell disease}}.",
+      "noteId": "medical-genetics-introduction-631a6ece88496a9f8fa8-note",
+      "id": "medical-genetics-introduction-631a6ece88496a9f8fa8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The red-cell disorder illustrated by sickling is {{c1::sickle cell disease}}.",
+      "answer": "sickle cell disease"
+    },
+    {
+      "topic": "Single-gene examples",
+      "slide": 41,
+      "explanation": "This is an example of single-gene disease rather than a chromosome-count disorder.",
+      "images": [
+        "slide-41-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The inherited progressive neurodegenerative example in the lecture is {{c1::Huntington disease}}.",
+      "noteId": "medical-genetics-introduction-89304c710c3655a1414b-note",
+      "id": "medical-genetics-introduction-89304c710c3655a1414b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The inherited progressive neurodegenerative example in the lecture is {{c1::Huntington disease}}.",
+      "answer": "Huntington disease"
+    },
+    {
+      "topic": "Single-gene examples",
+      "slide": 42,
+      "explanation": "Reduced factor activity impairs normal clot formation.",
+      "images": [
+        "slide-42-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Haemophilia A involves deficient clotting factor {{c1::VIII}}.",
+      "noteId": "medical-genetics-introduction-ea319d77a1ded644682c-note",
+      "id": "medical-genetics-introduction-ea319d77a1ded644682c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Haemophilia A involves deficient clotting factor {{c1::VIII}}.",
+      "answer": "VIII"
+    },
+    {
+      "topic": "Single-gene examples",
+      "slide": 43,
+      "explanation": "The slide does not supply a complete biochemical pathway or screening protocol.",
+      "images": [
+        "slide-43-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture links Tay–Sachs disease with neuronal {{c1::lipid accumulation}}.",
+      "noteId": "medical-genetics-introduction-5d0bf0ad9785369b51b1-note",
+      "id": "medical-genetics-introduction-5d0bf0ad9785369b51b1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture links Tay–Sachs disease with neuronal {{c1::lipid accumulation}}.",
+      "answer": "lipid accumulation"
+    },
+    {
+      "topic": "Diabetes comparison",
+      "slide": 45,
+      "explanation": "The comparison table contrasts low insulin production with the insulin resistance central to type 2.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Type 1 diabetes primarily involves autoimmune destruction of {{c1::insulin-producing cells}}.",
+      "noteId": "medical-genetics-introduction-8646cd9713cae958517a-note",
+      "id": "medical-genetics-introduction-8646cd9713cae958517a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Type 1 diabetes primarily involves autoimmune destruction of {{c1::insulin-producing cells}}.",
+      "answer": "insulin-producing cells"
+    },
+    {
+      "topic": "Diabetes comparison",
+      "slide": 45,
+      "explanation": "Insulin production can also become insufficient as disease progresses.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The primary mechanism emphasised for type 2 diabetes is {{c1::insulin resistance}}.",
+      "noteId": "medical-genetics-introduction-525b6f4edef700f57d2a-note",
+      "id": "medical-genetics-introduction-525b6f4edef700f57d2a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The primary mechanism emphasised for type 2 diabetes is {{c1::insulin resistance}}.",
+      "answer": "insulin resistance"
+    },
+    {
+      "topic": "Diabetes comparison",
+      "slide": 45,
+      "explanation": "This is an exception to treating every diabetes subtype as multifactorial.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "MODY is a {{c1::monogenic}} form of diabetes.",
+      "noteId": "medical-genetics-introduction-258a0b4927e177f31b82-note",
+      "id": "medical-genetics-introduction-258a0b4927e177f31b82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "MODY is a {{c1::monogenic}} form of diabetes.",
+      "answer": "monogenic"
+    },
+    {
+      "topic": "Mitochondrial examples",
+      "slide": 46,
+      "explanation": "The source uses it to connect mitochondrial genes with visual dysfunction; its age description is not a diagnostic rule.",
+      "images": [
+        "slide-46-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Leber hereditary optic neuropathy is linked to mtDNA variants affecting {{c1::electron transport}}.",
+      "noteId": "medical-genetics-introduction-e266082f0e0f00d1d649-note",
+      "id": "medical-genetics-introduction-e266082f0e0f00d1d649",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Leber hereditary optic neuropathy is linked to mtDNA variants affecting {{c1::electron transport}}.",
+      "answer": "electron transport"
+    },
+    {
+      "topic": "Mitochondrial examples",
+      "slide": 46,
+      "explanation": "The acronym also includes neurogenic weakness and ataxia; symptoms can vary.",
+      "images": [
+        "slide-46-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The R and P in NARP stand for {{c1::retinitis pigmentosa}}.",
+      "noteId": "medical-genetics-introduction-a3aece21b7a6885bbf1f-note",
+      "id": "medical-genetics-introduction-a3aece21b7a6885bbf1f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The R and P in NARP stand for {{c1::retinitis pigmentosa}}.",
+      "answer": "retinitis pigmentosa"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 1",
+      "text": "\nIntroduction to Medical Genetics\nAhmed Elbediwy\nLS5023 –Medical Genetics\n\n\n\n",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 2",
+      "text": "Topics to cover\nGenetic Diseases\n\nStructure and function of the components of Heredity\n\n\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 3",
+      "text": "\nLearning Objectives\n",
+      "images": []
+    },
+    {
+      "number": 4,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 4",
+      "text": "Resources for LS5023\nMedical Genetics\n5th Edition\nEmery’s Elements of Medical Genetics\nElsevier (2017)\nEssential Medical Genetics\n6th edition ",
+      "images": [
+        "slide-4-image-1",
+        "slide-4-image-2",
+        "slide-4-image-3"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 5",
+      "text": "\n\nIntroduction\n\nWhat is Medical Genetics?\n",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 6",
+      "text": "\nA Conceptual History of Medical Genetics\n\n1985 – PCR\n1986 – Duchenne muscular dystrophy gene\n1986 – Cystic Fibrosis gene\n1987 – Predictive genetic testing for Huntington Disease\n1990 – Decision to sequence entire human genome\n1991 – Medical genetics became an ABMS specialty\n1991 – Draft sequence for the human genome\n2001 – Human genome sequence completed",
+      "images": []
+    },
+    {
+      "number": 7,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 7",
+      "text": "\nWhat is Medical Genetics?\n\nStudy of biological variation as it pertains to health and disease\nApplication of genetic principles to medical practice\nStudy of genes and their effects\nIncludes inheritance, disease mapping, diagnosis, treatment and genetic counselling",
+      "images": []
+    },
+    {
+      "number": 8,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 8",
+      "text": "A brief history of Medical Genetics\n - Mendel, the father of genetics  principles of heredity\n\n - Landsteiner discovered the ABO blood group system.\n\n - Johannsen coined the term gene to denote the basic mendelian unit of heredity\n\n - Oswald Avery showed genes are composed of deoxyribonucleic acid (DNA).\n\t\t\t\t\n - Watson and Crick discovered the physical structure of DNA.\n\n - Correct number of chromosomes, 46, finally determined.\n\n - Down syndrome is caused by an extra copy of chromosome 21.\n\n - The Human Genome Project.",
+      "images": []
+    },
+    {
+      "number": 9,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 9",
+      "text": "\n\n\n",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 10",
+      "text": "\n1866 – Gregor Mendel\nPublished pea plant inheritance experiments and established the basic principles of genetics.\n",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 11",
+      "text": "\n\n",
+      "images": [
+        "slide-11-image-1"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 12",
+      "text": "\n1869 – Friedrich Miescher\nIdentified “nuclein”, later recognised as DNA.\n",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 13",
+      "text": "\n1944 – Avery, MacLeod & McCarty\nDemonstrated that DNA is the genetic material.\n",
+      "images": []
+    },
+    {
+      "number": 14,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 14",
+      "text": "\n1950 – Erwin Chargaff\nDNA composition is species-specific; A=T and G=C.\n",
+      "images": []
+    },
+    {
+      "number": 15,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 15",
+      "text": "\n1952 – Rosalind Franklin\nCaptured X-ray diffraction images of DNA (Photo 51).\n",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 16",
+      "text": "\n1953 – Watson & Crick\nProposed the double helix structure of DNA.\n",
+      "images": []
+    },
+    {
+      "number": 17,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 17",
+      "text": "\n1962 – Marshall Nirenberg\nHelped decipher the genetic code and codons.\n",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 18",
+      "text": "Why do you need to know about Medical Genetics?\nGenetic diseases - make up a large percentage of the total disease burden in pediatric and adult populations.\n\nUnderstanding – If we understand the disease process, it can lead to prevention of the disorder and more effective disease treatment.\n",
+      "images": []
+    },
+    {
+      "number": 19,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 19",
+      "text": "Types of Genetic Diseases\nChromosome disorders - entire chromosomes (or large segments of them) are missing, duplicated, or otherwise altered ; E.g.: Down syndrome and Turner syndrome.\n\nSingle-gene disorders (mendelian conditions) - single genes are altered; E.g.: cystic fibrosis, sickle cell disease, and hemophilia.\n\nMultifactorial disorders: result from a combination of multiple genetic and environmental causes ; E.g.: birth defects (cleft lip and cleft palate), adult disorders (diabetes)\n\nMitochondrial disorders: caused by alterations in the small mitochondrial chromosome.\n",
+      "images": []
+    },
+    {
+      "number": 20,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 20",
+      "text": "THE CLINICAL IMPACT OF GENETIC DISEASE\nIncreasing death amongst children - During the last century, an increase in the percentage of deaths among children due to genetic diseases.\n\n\nE.g., Deaths due to genetic causes in the United Kingdom:\n1914: 16.5%\n1976: 50%",
+      "images": []
+    },
+    {
+      "number": 21,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 21",
+      "text": "Genetic (diseases that happen in families)\nResults from an abnormality of the base sequence in the DNA\nCause of disease\nMultifactorial\nClassified into three Major groups\n\nGenetic factors affect acquired diseases and environment has profound effect on genetic diseases.\nAcquired (develops after birth)\nEnvironmental factor or external factors\nCongenital (present from birth)\nThey develop during foetal life and are present at birth. Although they often have a genetic basis that can be acquired.  ",
+      "images": []
+    },
+    {
+      "number": 22,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 22",
+      "text": "Structure and Function of Genes and Chromosomes\nNucleus: contains the important mechanisms of inheritance.\n\nChromatin: the substance that gives the nucleus a granular appearance.\n\nChromosomes: microscopically observable threadlike structures\n\nChromosomes contain genes.",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 23",
+      "text": "The Gene\nGenes - transmitted from parent to offspring and are considered the basic unit of inheritance\nGene location - located on chromosome on a locus.\nNumber - Humans are estimated to have 20,000 to 25,000 genes\nComposition - Genes are composed of deoxyribonucleic acid (DNA).\n\n\n\n\n\nSource: National Human Genome Research Institute.   ",
+      "images": [
+        "slide-23-image-1"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 24",
+      "text": "Composition and Structure of DNA\nDNA structure can be considered at three hierarchical levels: \nPrimary structure - nucleotide sequence \nSecondary structure - double-stranded helix \nTertiary structure - higher-order folding that allows DNA to be packed ",
+      "images": [
+        "slide-24-image-1",
+        "slide-24-image-2"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 25",
+      "text": "The DNA double helix",
+      "images": [
+        "slide-25-image-1",
+        "slide-25-image-2"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 26",
+      "text": "Structure of DNA\nGenetic Material\n\nWatson and Crick\n\nRace with Linus Pauling to predict structure\n",
+      "images": [
+        "slide-26-image-1"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 27",
+      "text": "The one-page paper of Watson and Crick\nWatson (left) and Crick (right) provided a three dimensional model of the structure of DNA.",
+      "images": [
+        "slide-27-image-1"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 28",
+      "text": "Central dogma\nTranscription:\nConversion of information from DNA to mRNA\nTranslation: Conversion of information from RNA to protein\nDNA – RNA - Protein",
+      "images": [
+        "slide-28-image-1",
+        "slide-28-image-2"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 29",
+      "text": "There are four types of bases in DNA. They are called:\n Adenine (A)\u000b Cytosine (C)\u000b Guanine (G)\u000bThymine (T)\nDouble strand\nBases of DNA",
+      "images": [
+        "slide-29-image-1",
+        "slide-29-image-2",
+        "slide-29-image-3"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 30",
+      "text": "in RNA synthesis no thymine (T) is used but uracil (U) is used instead \nOne base of DNA corresponded to one base of RNA \n1 amino acid is added to the protein strand for every 3 bases in the RNA.\n\nHow?",
+      "images": [
+        "slide-30-image-1",
+        "slide-30-image-2",
+        "slide-30-image-3",
+        "slide-30-image-4"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 31",
+      "text": "5’\n3’\nmRNA sequence\nN-terminus\nC-terminus\n Protein chains always begin with Met\nProtein sequence\nThe Genetic Code\n   AUG  AAC  AAU  GCG  CCG  GAG  GAA  GCG  GAG\n 53 orientation corresponds to \nN-term  C-term orientation\nMet---Asn---Asn---Ala---Pro---Glu---Glu---Ala---Glu",
+      "images": [
+        "slide-31-image-1"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 32",
+      "text": "Proteins - essential in all living organisms, proteins are involved in the immune response, cell structure and many other things!",
+      "images": [
+        "slide-32-image-1",
+        "slide-32-image-2"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 33",
+      "text": "Mutation(s) in the DNA sequences can cause disease  \nGenetic mutation\n",
+      "images": [
+        "slide-33-image-1",
+        "slide-33-image-2",
+        "slide-33-image-3",
+        "slide-33-image-4"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 34",
+      "text": "Diseases related to the Genetic disorders",
+      "images": [
+        "slide-34-image-1",
+        "slide-34-image-2",
+        "slide-34-image-3"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 35",
+      "text": "Types of Genetic Diseases\nChromosome disorders - Changes in the number or structure of chromosomes.\n\nSingle-gene disorders (MONOgenic) - single genes are changed (These are mendelian conditions) \n\nMultifactorial (Complex) disorders (POLYgenic)- multiple gene combinations changed sometimes with environmental causes.\n\nMitochondrial disorders - caused by changes in the small cytoplasmic mitochondrial chromosome.\n\nCytogenetics: The study of chromosomes and their abnormalities",
+      "images": [
+        "slide-35-image-1"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 36",
+      "text": "",
+      "images": [
+        "slide-36-image-1"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 37",
+      "text": "Classification of chromosomal anomalies\nNumber of chromosomes affected (usually due to error in meiosis)\nAneuploidy - The presence of an abnormal number of chromosomes in a cell.\n\nPolyploidy – The presence of more than one pair of (homologous) chromosomes.\n\nRearrangement of chromosomes (structural issues ; may be due to error in meiosis or inherited)\nTranslocations - Unusual rearrangement of chromosomes.   \nDeletions -  parts of chromosomes are missing, chromosome deletion syndrome\nDuplications -  Chromosome duplication disorders occur due to errors in cell division.\nInversions - An inversion is a chromosome rearrangement in which a segment of a chromosome becomes inverted within its original position.\n",
+      "images": []
+    },
+    {
+      "number": 38,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 38",
+      "text": "Single-gene disorders (MONOgenic)\nAhmed Elbediwy\nLS5023 –Medical Genetics\n\n\n\n\nCystic Fibrosis - Affects the lungs and digestive system. \nSickle Cell Anemia - Causes red blood cells to become misshapen and break down. \nHuntington’s Disease - Leads to the progressive breakdown of nerve cells in the brain. \nHemophilia A - A disorder that impairs the blood’s ability to clot. \nTay-Sachs Disease - Affects the nerve cells in the brain and spinal cord. \n",
+      "images": []
+    },
+    {
+      "number": 39,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 39",
+      "text": "\n\nCystic Fibrosis\n\nAffects the lungs and digestive system. Caused by mutations in the CFTR gene, leading to thick mucus production.",
+      "images": [
+        "slide-39-image-1"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 40",
+      "text": "\n\nSickle Cell Anemia\nCauses red blood cells to become sickle-shaped, reducing oxygen delivery and increasing breakdown of cells.",
+      "images": [
+        "slide-40-image-1"
+      ]
+    },
+    {
+      "number": 41,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 41",
+      "text": "\n\nHuntington’s Disease\nAn inherited neurodegenerative disorder that leads to progressive breakdown of nerve cells in the brain.",
+      "images": [
+        "slide-41-image-1"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 42",
+      "text": "\n\nHemophilia A\nA blood-clotting disorder caused by deficiency of clotting factor VIII, resulting in prolonged bleeding.",
+      "images": [
+        "slide-42-image-1"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 43",
+      "text": "\n\nTay-Sachs Disease\nA rare inherited disorder affecting nerve cells in the brain and spinal cord due to lipid accumulation.",
+      "images": [
+        "slide-43-image-1"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 44",
+      "text": "\nMultifactorial (Complex) disorders (POLYgenic) ",
+      "images": [
+        "slide-44-image-1"
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 45",
+      "text": "Type | Common Age | Insulin Production | Primary Cause\nType 1 DM | Childhood/Young Adult | Absent or very low | Autoimmune destruction\nType 2 DM | Adult | Reduced/ineffective | Insulin resistance\nGestational DM | Pregnancy | Variable | Pregnancy hormones\nLADA | Adult | Progressively reduced | Autoimmune\nMODY | <25 years | Variable | Single-gene mutation\nSecondary DM | Any age | Variable | Underlying disease/drugs",
+      "images": []
+    },
+    {
+      "number": 46,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 46",
+      "text": "Genetic Diseases - Mitochondria\n \n\nLeber hereditary optic neuropathy (LHON) \n\nSymptoms: Sudden loss of vision in middle age, \n\nCause: mutations in the mtDNA genes that encode electron-transport proteins.\n\nNeurogenic muscle weakness, ataxia, and retinitis pigmentosa (NARP) \n\nSymptoms: seizures, dementia, and developmental delay.",
+      "images": [
+        "slide-46-image-1"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 47",
+      "text": "Lecture review\n\n\n\nStructure and function of the components of Heredity\nGenes.\nStructure of DNA.\nCentral Dogma.\n\nGenetic Diseases\nChromosome disorders.\nSingle-gene disorders.\nMultifactorial disorders.\nMitochondrial disorders.\n\n",
+      "images": []
+    },
+    {
+      "number": 48,
+      "topic": "Introduction to Medical Genetics — Genes & Disease Classes — source 48",
+      "text": "Please read: \nMedical Genetics\n5th Edition\nEmery’s Elements of Medical Genetics\nElsevier (2017)\nEssential Medical Genetics\n6th edition ",
+      "images": [
+        "slide-48-image-1",
+        "slide-48-image-2",
+        "slide-48-image-3"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "medical-genetics-introduction/slide-1-image-1.webp",
+    "slide-4-image-1": "medical-genetics-introduction/slide-4-image-1.webp",
+    "slide-4-image-2": "medical-genetics-introduction/slide-4-image-2.webp",
+    "slide-4-image-3": "medical-genetics-introduction/slide-4-image-3.webp",
+    "slide-9-image-1": "medical-genetics-introduction/slide-9-image-1.webp",
+    "slide-11-image-1": "medical-genetics-introduction/slide-11-image-1.webp",
+    "slide-22-image-1": "medical-genetics-introduction/slide-22-image-1.webp",
+    "slide-23-image-1": "medical-genetics-introduction/slide-23-image-1.webp",
+    "slide-24-image-1": "medical-genetics-introduction/slide-24-image-1.webp",
+    "slide-24-image-2": "medical-genetics-introduction/slide-24-image-2.webp",
+    "slide-25-image-1": "medical-genetics-introduction/slide-25-image-1.webp",
+    "slide-25-image-2": "medical-genetics-introduction/slide-25-image-2.webp",
+    "slide-26-image-1": "medical-genetics-introduction/slide-26-image-1.webp",
+    "slide-27-image-1": "medical-genetics-introduction/slide-27-image-1.webp",
+    "slide-28-image-1": "medical-genetics-introduction/slide-28-image-1.webp",
+    "slide-28-image-2": "medical-genetics-introduction/slide-28-image-2.webp",
+    "slide-29-image-1": "medical-genetics-introduction/slide-29-image-1.webp",
+    "slide-29-image-2": "medical-genetics-introduction/slide-29-image-2.webp",
+    "slide-29-image-3": "medical-genetics-introduction/slide-29-image-3.webp",
+    "slide-30-image-1": "medical-genetics-introduction/slide-30-image-1.webp",
+    "slide-30-image-2": "medical-genetics-introduction/slide-30-image-2.webp",
+    "slide-30-image-3": "medical-genetics-introduction/slide-30-image-3.webp",
+    "slide-30-image-4": "medical-genetics-introduction/slide-30-image-4.webp",
+    "slide-31-image-1": "medical-genetics-introduction/slide-31-image-1.webp",
+    "slide-32-image-1": "medical-genetics-introduction/slide-32-image-1.webp",
+    "slide-32-image-2": "medical-genetics-introduction/slide-32-image-2.webp",
+    "slide-33-image-1": "medical-genetics-introduction/slide-33-image-1.webp",
+    "slide-33-image-2": "medical-genetics-introduction/slide-33-image-2.webp",
+    "slide-33-image-3": "medical-genetics-introduction/slide-33-image-3.webp",
+    "slide-33-image-4": "medical-genetics-introduction/slide-33-image-4.webp",
+    "slide-34-image-1": "medical-genetics-introduction/slide-34-image-1.webp",
+    "slide-34-image-2": "medical-genetics-introduction/slide-34-image-2.webp",
+    "slide-34-image-3": "medical-genetics-introduction/slide-34-image-3.webp",
+    "slide-35-image-1": "medical-genetics-introduction/slide-35-image-1.webp",
+    "slide-36-image-1": "medical-genetics-introduction/slide-36-image-1.webp",
+    "slide-39-image-1": "medical-genetics-introduction/slide-39-image-1.webp",
+    "slide-40-image-1": "medical-genetics-introduction/slide-40-image-1.webp",
+    "slide-41-image-1": "medical-genetics-introduction/slide-41-image-1.webp",
+    "slide-42-image-1": "medical-genetics-introduction/slide-42-image-1.webp",
+    "slide-43-image-1": "medical-genetics-introduction/slide-43-image-1.webp",
+    "slide-44-image-1": "medical-genetics-introduction/slide-44-image-1.webp",
+    "slide-46-image-1": "medical-genetics-introduction/slide-46-image-1.webp",
+    "slide-48-image-1": "medical-genetics-introduction/slide-48-image-1.webp",
+    "slide-48-image-2": "medical-genetics-introduction/slide-48-image-2.webp",
+    "slide-48-image-3": "medical-genetics-introduction/slide-48-image-3.webp"
+  },
+  "week": 1,
+  "weekEnd": 1
+}

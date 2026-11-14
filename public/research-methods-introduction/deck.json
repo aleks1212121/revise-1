@@ -1,0 +1,387 @@
+{
+  "version": 2,
+  "lectureId": "research-methods-introduction",
+  "title": "Research Methods & Skills — Evidence, Reflection & Communication",
+  "moduleId": "physiology-research",
+  "moduleName": "",
+  "moduleCode": "LS5034",
+  "source": "Week 1 LS5029 LS5030 LS5034 Research Methods and Skills Introduction Sept 26.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Research skills",
+      "slide": 3,
+      "explanation": "The lecture connects data assimilation and synthesis with decision-making.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Combining information across sources to develop a reasoned account is evidence {{c1::synthesis}}.",
+      "noteId": "research-methods-introduction-b4237f3c62f8ff651274-note",
+      "id": "research-methods-introduction-b4237f3c62f8ff651274",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Combining information across sources to develop a reasoned account is evidence {{c1::synthesis}}.",
+      "answer": "synthesis"
+    },
+    {
+      "topic": "Research skills",
+      "slide": 3,
+      "explanation": "It goes beyond describing a result or collecting references.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Judging the quality and implications of evidence is {{c1::critical evaluation}}.",
+      "noteId": "research-methods-introduction-5703dcda9ab69490d36c-note",
+      "id": "research-methods-introduction-5703dcda9ab69490d36c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Judging the quality and implications of evidence is {{c1::critical evaluation}}.",
+      "answer": "critical evaluation"
+    },
+    {
+      "topic": "Research skills",
+      "slide": 3,
+      "explanation": "Different expertise and perspectives support solutions beyond one discipline.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Complex bioscience problems can require {{c1::multidisciplinary collaboration}}.",
+      "noteId": "research-methods-introduction-822c54a5671ea95f8588-note",
+      "id": "research-methods-introduction-822c54a5671ea95f8588",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Complex bioscience problems can require {{c1::multidisciplinary collaboration}}.",
+      "answer": "multidisciplinary collaboration"
+    },
+    {
+      "topic": "Reflection",
+      "slide": 4,
+      "explanation": "A useful reflection analyses learning and next actions rather than simply narrating events.",
+      "images": [
+        "slide-4-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Reflection should critically evaluate progress against {{c1::goals}}.",
+      "noteId": "research-methods-introduction-5c14a7f2bb78a9c2f44d-note",
+      "id": "research-methods-introduction-5c14a7f2bb78a9c2f44d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Reflection should critically evaluate progress against {{c1::goals}}.",
+      "answer": "goals"
+    },
+    {
+      "topic": "Research skills",
+      "slide": 4,
+      "explanation": "Choosing a test only after seeing a preferred result is not the intended approach.",
+      "images": [
+        "slide-4-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Statistical analysis should be selected in relation to the hypothesis and {{c1::experimental design}}.",
+      "noteId": "research-methods-introduction-8ae22b3a6c0a82cc81a9-note",
+      "id": "research-methods-introduction-8ae22b3a6c0a82cc81a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Statistical analysis should be selected in relation to the hypothesis and {{c1::experimental design}}.",
+      "answer": "experimental design"
+    },
+    {
+      "topic": "Communication",
+      "slide": 6,
+      "explanation": "Written, visual and spoken forms serve different purposes.",
+      "images": [
+        "slide-6-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Scientific findings need communication appropriate to the {{c1::audience}}.",
+      "noteId": "research-methods-introduction-badb2c1162d5496d74a7-note",
+      "id": "research-methods-introduction-badb2c1162d5496d74a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Scientific findings need communication appropriate to the {{c1::audience}}.",
+      "answer": "audience"
+    },
+    {
+      "topic": "Evidence quality",
+      "slide": 6,
+      "explanation": "The companion transcript emphasises scientific integrity rather than accepting every source equally.",
+      "images": [
+        "slide-6-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Information from multiple sources should be gathered and {{c1::validated}}.",
+      "noteId": "research-methods-introduction-47c2555abaa3e150ac40-note",
+      "id": "research-methods-introduction-47c2555abaa3e150ac40",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Information from multiple sources should be gathered and {{c1::validated}}.",
+      "answer": "validated"
+    },
+    {
+      "topic": "Data analysis",
+      "slide": 8,
+      "explanation": "RStudio provides a working environment; the tools are not identical.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The programming language used for applied statistics in this strand is {{c1::R}}.",
+      "noteId": "research-methods-introduction-928fab04a8af8e8141af-note",
+      "id": "research-methods-introduction-928fab04a8af8e8141af",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The programming language used for applied statistics in this strand is {{c1::R}}.",
+      "answer": "R"
+    },
+    {
+      "topic": "Problem formulation",
+      "slide": 11,
+      "explanation": "The task develops from an insight statement and requires synthesis rather than an unconnected reading list.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A literature review supports formulation of a research {{c1::problem statement}}.",
+      "noteId": "research-methods-introduction-f997933262c8c94bedab-note",
+      "id": "research-methods-introduction-f997933262c8c94bedab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A literature review supports formulation of a research {{c1::problem statement}}.",
+      "answer": "problem statement"
+    },
+    {
+      "topic": "Communication",
+      "slide": 11,
+      "explanation": "It complements detailed written scientific analysis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "An infographic communicates a solution using a concise {{c1::visual summary}}.",
+      "noteId": "research-methods-introduction-22ce47d411afad350e10-note",
+      "id": "research-methods-introduction-22ce47d411afad350e10",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An infographic communicates a solution using a concise {{c1::visual summary}}.",
+      "answer": "visual summary"
+    },
+    {
+      "topic": "Reflection",
+      "slide": 11,
+      "explanation": "Specific evidence of change is more useful than merely listing completed activities.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The individual reflection examines the learner's {{c1::development}} through experience.",
+      "noteId": "research-methods-introduction-3fa7973ed1a13240a8df-note",
+      "id": "research-methods-introduction-3fa7973ed1a13240a8df",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The individual reflection examines the learner's {{c1::development}} through experience.",
+      "answer": "development"
+    },
+    {
+      "topic": "Research skills",
+      "slide": 14,
+      "explanation": "The companion transcript connects creativity with scientific rigour; administrative dates are intentionally kept out of the revision cards.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A creative research process needs both ideas and {{c1::evidence-based evaluation}}.",
+      "noteId": "research-methods-introduction-84f8b419b86559f21c46-note",
+      "id": "research-methods-introduction-84f8b419b86559f21c46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A creative research process needs both ideas and {{c1::evidence-based evaluation}}.",
+      "answer": "evidence-based evaluation"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 1",
+      "text": "LS5029 LS5030 LS5034 \u000bResearch Methods and Skills\nModule Lead for Research Method and Skills (TB2)\nNigel Page\nn.page@kingston.ac.uk\nWelcome!",
+      "images": []
+    },
+    {
+      "number": 2,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 2",
+      "text": "Microbiology\nLS5029\nLS5030\nLS5034",
+      "images": [
+        "slide-2-image-1",
+        "slide-2-image-2",
+        "slide-2-image-3"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 3",
+      "text": "\n\nAims\nTo develop your research, graduate attributes, problem-solving and decision-making skills supported through different forms of data assimilation/synthesis, communication, critical evaluation, and statistical analysis of data.\nTo develop individual and group creativity to address problems that require a collaborative and multi-disciplinary approach. \nTo increase awareness and understanding of employment opportunities and the skills and attributes required by employers.\n",
+      "images": [
+        "slide-3-image-1",
+        "slide-3-image-2"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 4",
+      "text": "Learning Outcomes\nResearch Methods and Skills\n\nDemonstrate the ability to critically evaluate your own personal development through reflection on your progress and goals;\nDemonstrate use of the Kingston Graduate Attributes to explore problems beyond your discipline;\nAppropriately apply statistical data analysis in hypothesis testing and experimental design",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 5",
+      "text": "Learning outcomes: \nDemonstrate ability to plan personal development through reflection on a skills diagnostic. \nDemonstrate use of the graduate attributes to explore problems within the context of your discipline. \n\nLevel 4 Navigate\nLearning outcomes: \nDemonstrate the ability to critically evaluate own personal development through reflection on progress and goals. \nDemonstrate use of the Kingston University attributes to explore problems beyond your discipline. \nLevel 5 Explore\nExplore experience\nExplore development day\n\nLearning outcomes\nDemonstrate ability to take responsibility for your own learning and development, using reflection and critical analysis to plan and implement actions. \nArticulate, to an identified audience, the development of key Kingston University graduate attributes appropriate for your future success beyond the University. \nLevel 6 Apply\n\nYour Future Skills Journey",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 6",
+      "text": "Topics\nCommunicating Scientific Findings\n\nProblem-Solving – Design Thinking & Scientific Method\nGathering and Validating Information from Multiple Sources",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 7",
+      "text": "Topics\n\nDevelopment Day\nPersonal Development\nOpportunities",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 8",
+      "text": "Topics\n\nR & RStudio\nApplied Statistics",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 9",
+      "text": "Submit Explore Part A \nTB2, Week 7 \n(22 Feb 2027)\nTB1, Week 1\nModule introduction & expectations. Overview of Explore and Future Skills. Scientific problem-solving through both scientific method and design thinking. \nTB2, Week 2\nResearch Methods: Identifying and utilising relevant information sources\nTB2, Week 1\nA comprehensive introduction to your individual problem-solving task assignment (Part A), including working with insight statements, drafting your literature review, formulating a problem statement, and applying design thinking.\nExplore Experience/Assignment Timeline (TB1/TB2)\nAssignment deadline\nAllocation of ‘Insight Statements’, TB1 week 11\n\nTB2, Week 4 & 5\nCollaborative Support Workshop to support you with your assignment (wk 4) and a development day preparatory workshop (wk 5)\nTB2, Week 3\nTo support your problem-solving a Critical Thinking and Data Analysis Workshop",
+      "images": []
+    },
+    {
+      "number": 10,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 10",
+      "text": "Team allocation (TB2, week 7)\n\nExplore Experience/Assignment Timeline (TB2)\nSubmit Explore Part B \nTB2, Week 12\n(15 Apr 2027)\nAssignment deadline\nCurriculum\nTB2, Week 7\nA comprehensive introduction to your individual/team problem-solving assignment (Part B), covering how to effectively synthesise ideas, brainstorm, collaborate as a team member, and develop and present a solution.\nTB2, week 9\nDevelopment Day Experience Event\nTB2, Week 11\nCollaborative Support Workshop to support you with your assignment, seek advice and feedback\nPitch your team idea and individual interview\n",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 11",
+      "text": "Assessment\nLiterature Review: Developed from an insight statement, this task aims to enhance your problem-solving research abilities.\n1000-word literature review and problem statement. Hand in by 22 Feb 2027\nTeamwork and Presentation: You will collaborate to present your solutions effectively.\nInfographic/electronic summary poster Hand in by 15 Apr 2027\nPersonal Reflection: A short reflection on your development throughout the module.\n500-word reflection Hand in by 15 Apr 2027\nBiostatistical test: Involves a test in applying statistics to solve data problems\n3 hrs test period Test date 14 Apr 2027",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 12",
+      "text": "Module Assessment Deadlines and Support\nLiterature Review & Problem Statement\nTB2, Week 7\nTB1\nTB2\nBiostatistics Test, Infographic & Reflection\nTB2, Week 12\nDevelopment Day\nTB2, Week 9\nInsight Statements released TB1, Week 11\n\n\nCollaborative Support Workshops\n\n\n\n\n\nTutor meetings",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 13",
+      "text": "Assessment\n20%\n5%\n10%\n15%",
+      "images": [
+        "slide-13-image-1",
+        "slide-13-image-2"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 14",
+      "text": "The Creative Research Process: Thinking like a Bioscientist!",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 15",
+      "text": "Navigating the LS5022 Canvas site",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "Research Methods & Skills — Evidence, Reflection & Communication — source 16",
+      "text": "\n\n\n\n\nQuestions",
+      "images": [
+        "slide-16-image-1",
+        "slide-16-image-2",
+        "slide-16-image-3"
+      ]
+    }
+  ],
+  "media": {
+    "slide-2-image-1": "research-methods-introduction/slide-2-image-1.webp",
+    "slide-2-image-2": "research-methods-introduction/slide-2-image-2.webp",
+    "slide-2-image-3": "research-methods-introduction/slide-2-image-3.webp",
+    "slide-3-image-1": "research-methods-introduction/slide-3-image-1.webp",
+    "slide-3-image-2": "research-methods-introduction/slide-3-image-2.webp",
+    "slide-4-image-1": "research-methods-introduction/slide-4-image-1.webp",
+    "slide-6-image-1": "research-methods-introduction/slide-6-image-1.webp",
+    "slide-7-image-1": "research-methods-introduction/slide-7-image-1.webp",
+    "slide-8-image-1": "research-methods-introduction/slide-8-image-1.webp",
+    "slide-13-image-1": "research-methods-introduction/slide-13-image-1.webp",
+    "slide-13-image-2": "research-methods-introduction/slide-13-image-2.webp",
+    "slide-14-image-1": "research-methods-introduction/slide-14-image-1.webp",
+    "slide-16-image-1": "research-methods-introduction/slide-16-image-1.webp",
+    "slide-16-image-2": "research-methods-introduction/slide-16-image-2.webp",
+    "slide-16-image-3": "research-methods-introduction/slide-16-image-3.webp"
+  },
+  "week": 1,
+  "weekEnd": 1
+}

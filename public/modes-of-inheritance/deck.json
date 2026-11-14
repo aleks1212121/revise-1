@@ -1,0 +1,1110 @@
+{
+  "version": 2,
+  "lectureId": "modes-of-inheritance",
+  "title": "Modes of Inheritance — Pedigrees & Risk",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "Lecture 3- Modes of heredity NW upload-2.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Mendelian principles",
+      "slide": 3,
+      "explanation": "Dominance describes the relationship between alleles for a phenotype, not which allele is more common.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Under complete dominance, the heterozygote expresses the {{c1::dominant phenotype}}.",
+      "noteId": "modes-of-inheritance-43b184bbd33b5a172dfe-note",
+      "id": "modes-of-inheritance-43b184bbd33b5a172dfe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Under complete dominance, the heterozygote expresses the {{c1::dominant phenotype}}.",
+      "answer": "dominant phenotype"
+    },
+    {
+      "topic": "Mendelian principles",
+      "slide": 5,
+      "explanation": "Each gamete normally carries one allele at a diploid locus.",
+      "images": [
+        "slide-5-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Separation of the two alleles into different gametes is Mendel's law of {{c1::segregation}}.",
+      "noteId": "modes-of-inheritance-cde5871388ae8e4fbe93-note",
+      "id": "modes-of-inheritance-cde5871388ae8e4fbe93",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Separation of the two alleles into different gametes is Mendel's law of {{c1::segregation}}.",
+      "answer": "segregation"
+    },
+    {
+      "topic": "Mendelian principles",
+      "slide": 6,
+      "explanation": "Closely linked loci can be inherited together more frequently than independent assortment predicts.",
+      "images": [
+        "slide-6-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Independent assortment applies most directly to {{c1::unlinked loci}}.",
+      "noteId": "modes-of-inheritance-37d1e310ad6dbd8a6e43-note",
+      "id": "modes-of-inheritance-37d1e310ad6dbd8a6e43",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Independent assortment applies most directly to {{c1::unlinked loci}}.",
+      "answer": "unlinked loci"
+    },
+    {
+      "topic": "Beyond complete dominance",
+      "slide": 10,
+      "explanation": "The flower example contrasts an intermediate phenotype with expression of both phenotypes.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A heterozygote intermediate between both homozygotes shows {{c1::incomplete dominance}}.",
+      "noteId": "modes-of-inheritance-349f51375fee537fe9ad-note",
+      "id": "modes-of-inheritance-349f51375fee537fe9ad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A heterozygote intermediate between both homozygotes shows {{c1::incomplete dominance}}.",
+      "answer": "incomplete dominance"
+    },
+    {
+      "topic": "Beyond complete dominance",
+      "slide": 10,
+      "explanation": "It is different from an intermediate blended phenotype.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Expression of both alleles' distinguishable products in a heterozygote is {{c1::codominance}}.",
+      "noteId": "modes-of-inheritance-69e9f96e53325dc51b0a-note",
+      "id": "modes-of-inheritance-69e9f96e53325dc51b0a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Expression of both alleles' distinguishable products in a heterozygote is {{c1::codominance}}.",
+      "answer": "codominance"
+    },
+    {
+      "topic": "Beyond complete dominance",
+      "slide": 10,
+      "explanation": "This concerns interactions between loci rather than dominance within one locus.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An interaction in which one gene modifies or masks another locus is {{c1::epistasis}}.",
+      "noteId": "modes-of-inheritance-5f2c7f6cfe0505b9aaa5-note",
+      "id": "modes-of-inheritance-5f2c7f6cfe0505b9aaa5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An interaction in which one gene modifies or masks another locus is {{c1::epistasis}}.",
+      "answer": "epistasis"
+    },
+    {
+      "topic": "Beyond complete dominance",
+      "slide": 10,
+      "explanation": "Multifactorial inheritance additionally emphasises environmental contributions.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A trait influenced by many loci is {{c1::polygenic}}.",
+      "noteId": "modes-of-inheritance-df07208aff77de9bbd9a-note",
+      "id": "modes-of-inheritance-df07208aff77de9bbd9a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A trait influenced by many loci is {{c1::polygenic}}.",
+      "answer": "polygenic"
+    },
+    {
+      "topic": "Pedigree symbols",
+      "slide": 12,
+      "explanation": "These are conventional chart symbols, not a full account of gender or chromosomal biology.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The conventional pedigree symbol for a male is a {{c1::square}}.",
+      "noteId": "modes-of-inheritance-e8ff519732c63c7a8d0d-note",
+      "id": "modes-of-inheritance-e8ff519732c63c7a8d0d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The conventional pedigree symbol for a male is a {{c1::square}}.",
+      "answer": "square"
+    },
+    {
+      "topic": "Pedigree symbols",
+      "slide": 12,
+      "explanation": "Interpret the legend because particular pedigrees may use additional shading conventions.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An affected individual is conventionally shown using a {{c1::filled symbol}}.",
+      "noteId": "modes-of-inheritance-b1735ad9db0caf67bfd3-note",
+      "id": "modes-of-inheritance-b1735ad9db0caf67bfd3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An affected individual is conventionally shown using a {{c1::filled symbol}}.",
+      "answer": "filled symbol"
+    },
+    {
+      "topic": "Pedigree symbols",
+      "slide": 13,
+      "explanation": "It does not by itself identify cause of death.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "A diagonal slash across a pedigree symbol indicates a {{c1::deceased individual}}.",
+      "noteId": "modes-of-inheritance-568ee330d8f5d947b5c1-note",
+      "id": "modes-of-inheritance-568ee330d8f5d947b5c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A diagonal slash across a pedigree symbol indicates a {{c1::deceased individual}}.",
+      "answer": "deceased individual"
+    },
+    {
+      "topic": "Pedigree symbols",
+      "slide": 13,
+      "explanation": "The parents share ancestry, increasing the chance of sharing a rare recessive allele.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A double partner line conventionally indicates {{c1::consanguinity}}.",
+      "noteId": "modes-of-inheritance-2b31d59013ca553cc1eb-note",
+      "id": "modes-of-inheritance-2b31d59013ca553cc1eb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A double partner line conventionally indicates {{c1::consanguinity}}.",
+      "answer": "consanguinity"
+    },
+    {
+      "topic": "Punnett squares",
+      "slide": 14,
+      "explanation": "It does not prescribe an exact sequence or number of affected children.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A Punnett square predicts offspring {{c1::genotype probabilities}}.",
+      "noteId": "modes-of-inheritance-b4db20a611d2bf50173c-note",
+      "id": "modes-of-inheritance-b4db20a611d2bf50173c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A Punnett square predicts offspring {{c1::genotype probabilities}}.",
+      "answer": "genotype probabilities"
+    },
+    {
+      "topic": "Punnett squares",
+      "slide": 15,
+      "explanation": "Combining one gamete from each parent fills each offspring-genotype cell.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The outside of a Punnett square lists parental {{c1::gametes}}.",
+      "noteId": "modes-of-inheritance-d14b4c830084b245da82-note",
+      "id": "modes-of-inheritance-d14b4c830084b245da82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The outside of a Punnett square lists parental {{c1::gametes}}.",
+      "answer": "gametes"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 17,
+      "explanation": "The variants need not be identical; compound heterozygosity is possible.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "An autosomal-recessive phenotype generally requires disease-associated variants in {{c1::both copies of the gene}}.",
+      "noteId": "modes-of-inheritance-c9cf17e6416a8b11363e-note",
+      "id": "modes-of-inheritance-c9cf17e6416a8b11363e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An autosomal-recessive phenotype generally requires disease-associated variants in {{c1::both copies of the gene}}.",
+      "answer": "both copies of the gene"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 19,
+      "explanation": "The four equally probable combinations are AA, Aa, aA and aa.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For Aa × Aa, the probability of an affected aa child is {{c1::1/4}} per pregnancy.",
+      "noteId": "modes-of-inheritance-e9f5507633cf402a0940-note",
+      "id": "modes-of-inheritance-e9f5507633cf402a0940",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For Aa × Aa, the probability of an affected aa child is {{c1::1/4}} per pregnancy.",
+      "answer": "1/4"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 19,
+      "explanation": "This is an unconditional probability among all children.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For Aa × Aa, the probability of a heterozygous carrier child is {{c1::1/2}}.",
+      "noteId": "modes-of-inheritance-4acf38c613711a6348ab-note",
+      "id": "modes-of-inheritance-4acf38c613711a6348ab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For Aa × Aa, the probability of a heterozygous carrier child is {{c1::1/2}}.",
+      "answer": "1/2"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 19,
+      "explanation": "Exclude aa; two of the three remaining equally likely outcomes are carriers.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Among unaffected children of Aa × Aa, the carrier probability is {{c1::2/3}}.",
+      "noteId": "modes-of-inheritance-396f5f195ec4818a0e6a-note",
+      "id": "modes-of-inheritance-396f5f195ec4818a0e6a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Among unaffected children of Aa × Aa, the carrier probability is {{c1::2/3}}.",
+      "answer": "2/3"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 19,
+      "explanation": "One affected child does not use up the affected outcome in a Punnett square.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Each pregnancy's Mendelian risk is {{c1::independent of previous outcomes}}.",
+      "noteId": "modes-of-inheritance-1c4f2ee9e64f95c9bdfc-note",
+      "id": "modes-of-inheritance-1c4f2ee9e64f95c9bdfc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Each pregnancy's Mendelian risk is {{c1::independent of previous outcomes}}.",
+      "answer": "independent of previous outcomes"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 20,
+      "explanation": "This pattern is suggestive, not proof; small pedigrees and other mechanisms can resemble it.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Unaffected parents with affected children can suggest {{c1::autosomal-recessive inheritance}}.",
+      "noteId": "modes-of-inheritance-8a397a9a831b7eb7ba33-note",
+      "id": "modes-of-inheritance-8a397a9a831b7eb7ba33",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Unaffected parents with affected children can suggest {{c1::autosomal-recessive inheritance}}.",
+      "answer": "autosomal-recessive inheritance"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 20,
+      "explanation": "Related individuals are more likely to share alleles inherited from an ancestor.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Consanguinity can increase the chance that parents carry the same {{c1::rare recessive allele}}.",
+      "noteId": "modes-of-inheritance-dbe6e217d9f3e15e1fee-note",
+      "id": "modes-of-inheritance-dbe6e217d9f3e15e1fee",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Consanguinity can increase the chance that parents carry the same {{c1::rare recessive allele}}.",
+      "answer": "rare recessive allele"
+    },
+    {
+      "topic": "Autosomal recessive",
+      "slide": 22,
+      "explanation": "The lecture also lists sickle cell disease and phenylketonuria.",
+      "images": [
+        "slide-22-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cystic fibrosis is a standard example of {{c1::autosomal-recessive inheritance}}.",
+      "noteId": "modes-of-inheritance-0e34fd7379966e997647-note",
+      "id": "modes-of-inheritance-0e34fd7379966e997647",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cystic fibrosis is a standard example of {{c1::autosomal-recessive inheritance}}.",
+      "answer": "autosomal-recessive inheritance"
+    },
+    {
+      "topic": "Autosomal dominant",
+      "slide": 24,
+      "explanation": "Penetrance and expressivity can alter whether and how the phenotype appears.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "One disease-associated allele can be sufficient for an {{c1::autosomal-dominant phenotype}}.",
+      "noteId": "modes-of-inheritance-6ead58bf3b16268cbb46-note",
+      "id": "modes-of-inheritance-6ead58bf3b16268cbb46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "One disease-associated allele can be sufficient for an {{c1::autosomal-dominant phenotype}}.",
+      "answer": "autosomal-dominant phenotype"
+    },
+    {
+      "topic": "Autosomal dominant",
+      "slide": 25,
+      "explanation": "This is the simple fully penetrant dominant model illustrated in the lecture.",
+      "images": [
+        "slide-25-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For an affected Aa parent and unaffected aa parent, each child has a {{c1::1/2}} chance of inheriting A.",
+      "noteId": "modes-of-inheritance-24005b10f3c4568cc7e5-note",
+      "id": "modes-of-inheritance-24005b10f3c4568cc7e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For an affected Aa parent and unaffected aa parent, each child has a {{c1::1/2}} chance of inheriting A.",
+      "answer": "1/2"
+    },
+    {
+      "topic": "Autosomal dominant",
+      "slide": 26,
+      "explanation": "This is typical of dominant inheritance, but new variants or reduced penetrance can alter the pattern.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Affected individuals in successive generations suggest {{c1::vertical transmission}}.",
+      "noteId": "modes-of-inheritance-e496122f2ee09851e089-note",
+      "id": "modes-of-inheritance-e496122f2ee09851e089",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Affected individuals in successive generations suggest {{c1::vertical transmission}}.",
+      "answer": "vertical transmission"
+    },
+    {
+      "topic": "Autosomal dominant",
+      "slide": 26,
+      "explanation": "A father passes his Y, rather than his X, to a typical XY son.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Father-to-son transmission can support {{c1::autosomal}} rather than X-linked inheritance.",
+      "noteId": "modes-of-inheritance-f0d5c3f3d235e0976016-note",
+      "id": "modes-of-inheritance-f0d5c3f3d235e0976016",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Father-to-son transmission can support {{c1::autosomal}} rather than X-linked inheritance.",
+      "answer": "autosomal"
+    },
+    {
+      "topic": "Autosomal dominant",
+      "slide": 28,
+      "explanation": "Familial hypercholesterolaemia and achondroplasia are other lecture examples.",
+      "images": [
+        "slide-28-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Huntington disease illustrates {{c1::autosomal-dominant inheritance}}.",
+      "noteId": "modes-of-inheritance-f3be62a8d1f33c4b641a-note",
+      "id": "modes-of-inheritance-f3be62a8d1f33c4b641a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Huntington disease illustrates {{c1::autosomal-dominant inheritance}}.",
+      "answer": "autosomal-dominant inheritance"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 30,
+      "explanation": "One disease-associated allele may therefore be sufficient.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "X-linked recessive disease is often expressed in XY individuals because they are {{c1::hemizygous}} for most X-linked loci.",
+      "noteId": "modes-of-inheritance-2bc9b684a42e71d65a85-note",
+      "id": "modes-of-inheritance-2bc9b684a42e71d65a85",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "X-linked recessive disease is often expressed in XY individuals because they are {{c1::hemizygous}} for most X-linked loci.",
+      "answer": "hemizygous"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 30,
+      "explanation": "This explains the absence of ordinary father-to-son X-linked transmission.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A father does not transmit his X chromosome to his {{c1::sons}} in the usual XX/XY model.",
+      "noteId": "modes-of-inheritance-be98f528ef3397da0899-note",
+      "id": "modes-of-inheritance-be98f528ef3397da0899",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A father does not transmit his X chromosome to his {{c1::sons}} in the usual XX/XY model.",
+      "answer": "sons"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 31,
+      "explanation": "This is different from homozygosity, which describes two matching alleles.",
+      "images": [
+        "slide-31-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Possessing only one copy of a locus is termed {{c1::hemizygosity}}.",
+      "noteId": "modes-of-inheritance-59c91fb2934f4b24b941-note",
+      "id": "modes-of-inheritance-59c91fb2934f4b24b941",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Possessing only one copy of a locus is termed {{c1::hemizygosity}}.",
+      "answer": "hemizygosity"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 33,
+      "explanation": "Haemophilia A and common red–green colour-vision deficiency are additional examples.",
+      "images": [
+        "slide-33-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Duchenne muscular dystrophy is an example of {{c1::X-linked recessive inheritance}}.",
+      "noteId": "modes-of-inheritance-2bbf94dffa3fb3533708-note",
+      "id": "modes-of-inheritance-2bbf94dffa3fb3533708",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Duchenne muscular dystrophy is an example of {{c1::X-linked recessive inheritance}}.",
+      "answer": "X-linked recessive inheritance"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 34,
+      "explanation": "Condition on the child being a son; the chance among all births differs if sex probabilities are included.",
+      "images": [
+        "slide-34-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For a carrier mother and unaffected father, each son has a {{c1::1/2}} chance of an X-linked recessive disorder.",
+      "noteId": "modes-of-inheritance-a545cc36e927f2fc2f54-note",
+      "id": "modes-of-inheritance-a545cc36e927f2fc2f54",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For a carrier mother and unaffected father, each son has a {{c1::1/2}} chance of an X-linked recessive disorder.",
+      "answer": "1/2"
+    },
+    {
+      "topic": "X-linked recessive",
+      "slide": 34,
+      "explanation": "The father supplies a normal X in this simplified model.",
+      "images": [
+        "slide-34-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "For a carrier mother and unaffected father, each daughter has a {{c1::1/2}} chance of being a carrier.",
+      "noteId": "modes-of-inheritance-db23fcaa947fb1334b2d-note",
+      "id": "modes-of-inheritance-db23fcaa947fb1334b2d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For a carrier mother and unaffected father, each daughter has a {{c1::1/2}} chance of being a carrier.",
+      "answer": "1/2"
+    },
+    {
+      "topic": "X-linked dominant",
+      "slide": 37,
+      "explanation": "This assumes typical XX/XY inheritance and that he carries the allele on his X.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An affected father transmits his X-linked dominant allele to {{c1::all daughters}}.",
+      "noteId": "modes-of-inheritance-3c1f2852830a7c240d9f-note",
+      "id": "modes-of-inheritance-3c1f2852830a7c240d9f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An affected father transmits his X-linked dominant allele to {{c1::all daughters}}.",
+      "answer": "all daughters"
+    },
+    {
+      "topic": "X-linked dominant",
+      "slide": 37,
+      "explanation": "Both sons and daughters can inherit it.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A heterozygous mother transmits an X-linked dominant allele to {{c1::half of children on average}}.",
+      "noteId": "modes-of-inheritance-8293e1e9147eb07c2b63-note",
+      "id": "modes-of-inheritance-8293e1e9147eb07c2b63",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A heterozygous mother transmits an X-linked dominant allele to {{c1::half of children on average}}.",
+      "answer": "half of children on average"
+    },
+    {
+      "topic": "X-linked dominant",
+      "slide": 41,
+      "explanation": "The source uses fragile X as an example with complex expression; it is not a simple fully penetrant Punnett-square phenotype.",
+      "images": [
+        "slide-41-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Variable severity among people with the same inherited disorder is {{c1::variable expressivity}}.",
+      "noteId": "modes-of-inheritance-86968c916eecfccb2882-note",
+      "id": "modes-of-inheritance-86968c916eecfccb2882",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Variable severity among people with the same inherited disorder is {{c1::variable expressivity}}.",
+      "answer": "variable expressivity"
+    },
+    {
+      "topic": "X-linked dominant",
+      "slide": 41,
+      "explanation": "This can make an apparently unaffected person part of a dominant transmission chain.",
+      "images": [
+        "slide-41-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Failure of some allele carriers to show the phenotype is {{c1::reduced penetrance}}.",
+      "noteId": "modes-of-inheritance-750712148e40c4285740-note",
+      "id": "modes-of-inheritance-750712148e40c4285740",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Failure of some allele carriers to show the phenotype is {{c1::reduced penetrance}}.",
+      "answer": "reduced penetrance"
+    },
+    {
+      "topic": "Y-linked inheritance",
+      "slide": 42,
+      "explanation": "In the usual inheritance model, daughters do not inherit the paternal Y.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A Y-linked allele follows the {{c1::father-to-son}} lineage.",
+      "noteId": "modes-of-inheritance-d74a8e23ab299afac499-note",
+      "id": "modes-of-inheritance-d74a8e23ab299afac499",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A Y-linked allele follows the {{c1::father-to-son}} lineage.",
+      "answer": "father-to-son"
+    },
+    {
+      "topic": "Pedigree reasoning",
+      "slide": 43,
+      "explanation": "The final unkeyed exercise pedigrees are practice material. No unverified answer or carrier probability has been guessed from small diagrams.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "An inheritance pattern should be inferred from the {{c1::whole pedigree}} rather than one affected person.",
+      "noteId": "modes-of-inheritance-52f49303dfc3eb0c0a44-note",
+      "id": "modes-of-inheritance-52f49303dfc3eb0c0a44",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An inheritance pattern should be inferred from the {{c1::whole pedigree}} rather than one affected person.",
+      "answer": "whole pedigree"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 1",
+      "text": "\nModes of Inheritance\n\nNadine Wehida\nSenior Lecturer in Genetics & Molecular Biology\n\n\n\n\n\nAdapted from http://www.genome.gov/10000208",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 2",
+      "text": "\nIntended learning outcomes:\n\n\n\nUnderstand Mendel’s Laws of inheritance\nUnderstand Mendelian patterns of inheritance\nIdentify non-Mendelian inheritance patterns\nUnderstand pedigree symbols and analyses\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 3",
+      "text": "\nWhat is Mendelian?\n\n\nComplete Dominance & Recessiveness\nThe effect of one allele in a heterozygous genotype completely masks the effect of the other. The allele that masks are considered dominant to the other allele, and the masked allele is considered recessive.\n\n\n",
+      "images": [
+        "slide-3-image-1"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 4",
+      "text": "\nMendel’s laws of Inheritance\n\n\n\nPea plant experiments led to the formation of Mendel’s Laws widely known as the Laws of Inheritance, which are:\n\nLaw of Segregation\nLaw of Independent Assortment\nLaw of Dominance\n\n",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 5",
+      "text": "\nLaw of Segregation\n\n\nEvery organism has two alleles for each trait, and these alleles separate during meiosis, resulting in each gamete carrying only one of the alleles. Consequently, an offspring inherits a pair of alleles for a trait by receiving one allele from each parent.\n",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 6",
+      "text": "\nLaw of independent assortment\n\n\nUnlinked or distantly linked segregating gene pairs operate independently. Alleles for different traits are transmitted independently of each other. The selection of an allele for one trait does not influence the selection of an allele for another trait.\n",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 7",
+      "text": "",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 8",
+      "text": "\nLaw of Dominance\n\n\nWhen the two alleles of an inherited pair are different, this is known as a heterozygous condition. One allele, which defines the organism's appearance, is referred to as the dominant allele, while the other allele, which does not have a visible impact on the organism's appearance, is termed the recessive allele.\n",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 9",
+      "text": "\nMendelian Inheritance Patterns\n\n\n\nAutosomal recessive\nAutosomal dominant \nX-linked inheritance; recessive & dominant (very rare)\nY-linked inheritance\n",
+      "images": []
+    },
+    {
+      "number": 10,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 10",
+      "text": "\nExtension of Mendelian and non-Mendelian Inheritance Patterns\n\n\nIncomplete dominance\nCodominance\nEpistasis\nPolygenic inheritance\nMultifactorial inheritance\nMitochondrial inheritance \n",
+      "images": [
+        "slide-10-image-1"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 11",
+      "text": "\nGoals of Pedigree Analysis",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 12",
+      "text": "\nStandard pedigree symbols\n\n",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 13",
+      "text": "\nStandard pedigree symbols\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMale,  affected\n\n\n\n\nFemale,  unaffected\n\n\n\n\nMale,  deceased\n\n\nMating\n\n\n\n\nConsanguineous\nmating\n\n\n\nPregnancy\n\n\n\n\n\n\n\n\nMale, heterozygous for  autosomal recessive trait\n\n\n\n\n\n\n\n\n\n\n\nFemale, heterozygous for  Autosomal or X-linked\nrecessive trait\n\n\n\n\n\n\n\n\n\n\n\n\nDizygotic\n(non-identical)\ntwins\n\n\n\n\n\n\n\n\n\n\n\nMonozygotic  (identical)\ntwins\n\n\n\n\n\nSpontaneous abortion\nor still birth\n",
+      "images": []
+    },
+    {
+      "number": 14,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 14",
+      "text": "Developed by  Reginald Punnett.\nA diagram used to show the probability  or chances of a certain trait being passed from one generation to another.\nPrediction the outcomes of Genetic crosses: Punnett Square\n",
+      "images": []
+    },
+    {
+      "number": 15,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 15",
+      "text": "\nReading Punnett squares\n\n\n\nGametes are placed above and to the left of  the square\nOffspring are placed in the square.\nBig letters (Y) represent dominant alleles.\nSmall letters (y) represent recessive alleles.",
+      "images": []
+    },
+    {
+      "number": 16,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 16",
+      "text": "\n\n\nPunnett square examples",
+      "images": [
+        "slide-16-image-1",
+        "slide-16-image-2"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 17",
+      "text": "\nAutosomal recessive\n\n\n\n\nAffected persons must have two mutated alleles in the gene responsible for the disease\n\nThus, the usual mating is:\n Aa  x Aa",
+      "images": []
+    },
+    {
+      "number": 18,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 18",
+      "text": "\nAutosomal recessive disorders, in which a person needs to inherit two copies of a mutant gene to be affected by the disorder.",
+      "images": []
+    },
+    {
+      "number": 19,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 19",
+      "text": "\nPunnett square for autosomal recessive conditions\n\n\n\nOne fourth of the offspring of two heterozygotes will be unaffected homozygotes\n\nHalf will be phenotypically unaffected heterozygous carriers.\n\nOne fourth will be homozygotes affected with the disease (on average).\n\n\n",
+      "images": [
+        "slide-19-image-1"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 20",
+      "text": "\nFeatures of recessive pedigrees\n\n\n\nUsually\tsee “skipped” generations.\nBoth males and females are affected.\nDiseased offspring from normal parents\nExpect increased in consanguinity between the parents.\n",
+      "images": []
+    },
+    {
+      "number": 21,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 21",
+      "text": "\n1/4 of their children  are expected to\nhave the recessive trait.\n\nFeatures of recessive pedigrees",
+      "images": []
+    },
+    {
+      "number": 22,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 22",
+      "text": "\n\n\n\nExamples of autosomal recessive diseases\n\n\nSickle-cell anemia\nCystic fibrosis\nPhenylketonuria (PKU)\nAlbinism\nThalassemia\nFamilial Mediterranean fever (FMF)",
+      "images": [
+        "slide-22-image-1",
+        "slide-22-image-2",
+        "slide-22-image-3"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 23",
+      "text": "\nAutosomal Dominant\n\n\n\n\nThe autosomal dominant allele is rare!\nAffected individuals more likely to be heterozygous.\nHomozygous most likely fail to survive.",
+      "images": []
+    },
+    {
+      "number": 24,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 24",
+      "text": "\nIn order to have an autosomal dominant disorder, only one copy of the gene (inherited from either parent) needs to contain a disease-causing mutation",
+      "images": []
+    },
+    {
+      "number": 25,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 25",
+      "text": "\nPunnett square for autosomal dominant conditions\n\n\n\nThe affected parent can pass either a disease allele or a normal allele to his/her children.\n\nHalf of the children will be heterozygotes and will express the disease.\n\nHalf will be unaffected homozygotes (On average).\n\n\n\n\n",
+      "images": [
+        "slide-25-image-1"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 26",
+      "text": "\nFeatures of dominant pedigrees\n\n\n\nMales and females are equally affected.\nPhenotype tend to appear in every generation. \nAffected offspring have at least one affected parent.",
+      "images": []
+    },
+    {
+      "number": 27,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 27",
+      "text": "\n1/2 of the offspring will be affected.\n\nDominant Inheritance Pedigree",
+      "images": []
+    },
+    {
+      "number": 28,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 28",
+      "text": "\nAutosomal dominant disorders\n\n\n\nHuntington disease\nFamilial hypercholesterolemia\nAchondroplasia",
+      "images": [
+        "slide-28-image-1",
+        "slide-28-image-2",
+        "slide-28-image-3"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 29",
+      "text": "\n\n\nX-linked traits:\nX-linked recessive \u000b X-linked dominant",
+      "images": [
+        "slide-29-image-1",
+        "slide-29-image-2"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 30",
+      "text": "\nX-linked recessive\n\n\n\nMore frequently in males than in females,  WHY?\nMales have only one X chromosome. A single recessive gene on that X chromosome will cause the disease\n\nAffected males are usually born to unaffected  mothers who are carriers, the trait skips generations.\n\nNot passed from father to son, WHY?\nMales take only Y chromosome from their father",
+      "images": []
+    },
+    {
+      "number": 31,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 31",
+      "text": "X-linked recessive inheritance\nFathers can never be heterozygous or  homozygous\nHemizygous",
+      "images": [
+        "slide-31-image-1"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 32",
+      "text": "",
+      "images": []
+    },
+    {
+      "number": 33,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 33",
+      "text": "\n\n\n\n\nExamples of X-linked recessive diseases\nHemophilia A\nDuchenne muscular dystrophy\nColor blindness\n",
+      "images": [
+        "slide-33-image-1",
+        "slide-33-image-2",
+        "slide-33-image-3"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 34",
+      "text": "",
+      "images": [
+        "slide-34-image-1"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 35",
+      "text": "‘’Knight’s move’’ in X-linked recessive transmission\nEmery’s Elements of Medical Genetics textbook",
+      "images": [
+        "slide-35-image-1"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 36",
+      "text": "",
+      "images": []
+    },
+    {
+      "number": 37,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 37",
+      "text": "X-linked dominant\nIf male is transmitting the disease then all of  his daughter show the disease.\nIf female is transmitting the disease then half of  her progeny (males and females show the disease.  (if she is heterozygous)\nOR all of her progeny show the disease if she is  homozygous.",
+      "images": []
+    },
+    {
+      "number": 38,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 38",
+      "text": "\nX-linked dominant",
+      "images": []
+    },
+    {
+      "number": 39,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 39",
+      "text": "\nit is less common than the X-linked recessive type.",
+      "images": []
+    },
+    {
+      "number": 40,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 40",
+      "text": "",
+      "images": []
+    },
+    {
+      "number": 41,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 41",
+      "text": "Example of X linked dominant disease\nFragile X syndrome\nWith variable expressivity, and possibly reduced penetrance\n",
+      "images": [
+        "slide-41-image-1"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 42",
+      "text": "\nY-linked traits",
+      "images": []
+    },
+    {
+      "number": 43,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 43",
+      "text": "What is the inheritance pattern?\n",
+      "images": []
+    },
+    {
+      "number": 44,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 44",
+      "text": "\n\n\n\n\n\n\n\n1\n2\n3\n\n\n\n\n\n\n\n\n\n\n\n\n4\n5\n6\n7\n\n\n\n\n\n\n\n\n\n\n8\n9\t10\n\n\n\n\n1\n2\nI\n\n\n\n\n\n\n\n\n1\n2\n\n\n\n\n3\n4\n\n\n\n\n\n5\n6\nII\nIII\nWhat is the inheritance pattern?",
+      "images": []
+    },
+    {
+      "number": 45,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 45",
+      "text": "What is the inheritance pattern?\n",
+      "images": []
+    },
+    {
+      "number": 46,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 46",
+      "text": "Assignment\nWhat is the pattern of inheritance?  What is IV-2’s chance of being a carrier?\n",
+      "images": []
+    },
+    {
+      "number": 47,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 47",
+      "text": "What is the inheritance pattern?\nWhat is the genotype of III-1, III-2, and II-3?\n\nAssignment",
+      "images": []
+    },
+    {
+      "number": 48,
+      "topic": "Modes of Inheritance — Pedigrees & Risk — source 48",
+      "text": "\n\n\nTHANK YOU!",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "modes-of-inheritance/slide-1-image-1.webp",
+    "slide-3-image-1": "modes-of-inheritance/slide-3-image-1.webp",
+    "slide-4-image-1": "modes-of-inheritance/slide-4-image-1.webp",
+    "slide-5-image-1": "modes-of-inheritance/slide-5-image-1.webp",
+    "slide-6-image-1": "modes-of-inheritance/slide-6-image-1.webp",
+    "slide-7-image-1": "modes-of-inheritance/slide-7-image-1.webp",
+    "slide-8-image-1": "modes-of-inheritance/slide-8-image-1.webp",
+    "slide-10-image-1": "modes-of-inheritance/slide-10-image-1.webp",
+    "slide-12-image-1": "modes-of-inheritance/slide-12-image-1.webp",
+    "slide-16-image-1": "modes-of-inheritance/slide-16-image-1.webp",
+    "slide-16-image-2": "modes-of-inheritance/slide-16-image-2.webp",
+    "slide-19-image-1": "modes-of-inheritance/slide-19-image-1.webp",
+    "slide-22-image-1": "modes-of-inheritance/slide-22-image-1.webp",
+    "slide-22-image-2": "modes-of-inheritance/slide-22-image-2.webp",
+    "slide-22-image-3": "modes-of-inheritance/slide-22-image-3.webp",
+    "slide-25-image-1": "modes-of-inheritance/slide-25-image-1.webp",
+    "slide-28-image-1": "modes-of-inheritance/slide-28-image-1.webp",
+    "slide-28-image-2": "modes-of-inheritance/slide-28-image-2.webp",
+    "slide-28-image-3": "modes-of-inheritance/slide-28-image-3.webp",
+    "slide-29-image-1": "modes-of-inheritance/slide-29-image-1.webp",
+    "slide-29-image-2": "modes-of-inheritance/slide-29-image-2.webp",
+    "slide-31-image-1": "modes-of-inheritance/slide-31-image-1.webp",
+    "slide-33-image-1": "modes-of-inheritance/slide-33-image-1.webp",
+    "slide-33-image-2": "modes-of-inheritance/slide-33-image-2.webp",
+    "slide-33-image-3": "modes-of-inheritance/slide-33-image-3.webp",
+    "slide-34-image-1": "modes-of-inheritance/slide-34-image-1.webp",
+    "slide-35-image-1": "modes-of-inheritance/slide-35-image-1.webp",
+    "slide-41-image-1": "modes-of-inheritance/slide-41-image-1.webp"
+  },
+  "week": 3,
+  "weekEnd": 3
+}

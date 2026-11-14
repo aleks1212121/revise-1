@@ -1,0 +1,278 @@
+{
+  "version": 2,
+  "lectureId": "genetics-practical-2",
+  "title": "Genetics Practical 2 — Gel Interpretation & Sanger Setup",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "LS5023 Practical 2.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Gel purpose",
+      "slide": 1,
+      "explanation": "It does not directly establish the nucleotide sequence. Supporting diagram: practical overview, slide 14.",
+      "images": [
+        "overview-14"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The practical gel tests the success of PCR {{c1::amplification}}.",
+      "noteId": "genetics-practical-2-8c1c455a77ebfa03b9d0-note",
+      "id": "genetics-practical-2-8c1c455a77ebfa03b9d0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The practical gel tests the success of PCR {{c1::amplification}}.",
+      "answer": "amplification"
+    },
+    {
+      "topic": "Gel purpose",
+      "slide": 1,
+      "explanation": "Use it to estimate the length of the sample amplicon. Supporting diagram: practical overview, slide 14.",
+      "images": [
+        "overview-14"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A DNA ladder supplies fragments of known {{c1::size}}.",
+      "noteId": "genetics-practical-2-c08e7ce1576843ff2ead-note",
+      "id": "genetics-practical-2-c08e7ce1576843ff2ead",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A DNA ladder supplies fragments of known {{c1::size}}.",
+      "answer": "size"
+    },
+    {
+      "topic": "Gel controls",
+      "slide": 1,
+      "explanation": "A sample band is less convincing if a similar band also appears in the NTC. Supporting diagram: practical overview, slide 14.",
+      "images": [
+        "overview-14"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "The sample and no-template control should be interpreted {{c1::together}}.",
+      "noteId": "genetics-practical-2-7c12bdbcdd7dface6573-note",
+      "id": "genetics-practical-2-7c12bdbcdd7dface6573",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sample and no-template control should be interpreted {{c1::together}}.",
+      "answer": "together"
+    },
+    {
+      "topic": "Gel controls",
+      "slide": 1,
+      "explanation": "This does not alone show that the sample reaction worked. Supporting diagram: practical overview, slide 14.",
+      "images": [
+        "overview-14"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "No band in an NTC is the expected result when contamination is {{c1::absent}}.",
+      "noteId": "genetics-practical-2-7105821791dcd52d9f3e-note",
+      "id": "genetics-practical-2-7105821791dcd52d9f3e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "No band in an NTC is the expected result when contamination is {{c1::absent}}.",
+      "answer": "absent"
+    },
+    {
+      "topic": "Gel controls",
+      "slide": 1,
+      "explanation": "It remains a product check rather than proof of a particular genotype. Supporting diagram: practical overview, slide 14.",
+      "images": [
+        "overview-14"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A clean NTC plus an appropriately sized sample band supports successful {{c1::target amplification}}.",
+      "noteId": "genetics-practical-2-8e9f3145e83817933b9b-note",
+      "id": "genetics-practical-2-8e9f3145e83817933b9b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A clean NTC plus an appropriately sized sample band supports successful {{c1::target amplification}}.",
+      "answer": "target amplification"
+    },
+    {
+      "topic": "Loading and records",
+      "slide": 1,
+      "explanation": "The protocol also notes density components that help keep the sample in its well.",
+      "images": [
+        "slide-1-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The Green PCR Master Mix already contains {{c1::loading dye}}.",
+      "noteId": "genetics-practical-2-d5525eadab66768ff5ec-note",
+      "id": "genetics-practical-2-d5525eadab66768ff5ec",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Green PCR Master Mix already contains {{c1::loading dye}}.",
+      "answer": "loading dye"
+    },
+    {
+      "topic": "Loading and records",
+      "slide": 1,
+      "explanation": "The handout's tube-number labels conflict with Practical 1, so identify the NTC by its contents rather than memorising the inconsistent numbering.",
+      "images": [
+        "slide-1-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A lane map records which {{c1::sample}} belongs to each band pattern.",
+      "noteId": "genetics-practical-2-790b580e5cdce4ec40c6-note",
+      "id": "genetics-practical-2-790b580e5cdce4ec40c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A lane map records which {{c1::sample}} belongs to each band pattern.",
+      "answer": "sample"
+    },
+    {
+      "topic": "Loading and records",
+      "slide": 1,
+      "explanation": "Include lane identities and a size reference, not an unexplained photograph.",
+      "images": [
+        "slide-1-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A labelled gel image provides evidence for the practical {{c1::report}}.",
+      "noteId": "genetics-practical-2-0caf08f2f61288935f62-note",
+      "id": "genetics-practical-2-0caf08f2f61288935f62",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A labelled gel image provides evidence for the practical {{c1::report}}.",
+      "answer": "report"
+    },
+    {
+      "topic": "Loading and records",
+      "slide": 1,
+      "explanation": "Use the supervised gel-documentation system rather than exposing yourself directly to a UV source.",
+      "images": [
+        "slide-1-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "UV imaging requires appropriate {{c1::eye and skin protection}}.",
+      "noteId": "genetics-practical-2-e17a4859ad7a2b5ad9c2-note",
+      "id": "genetics-practical-2-e17a4859ad7a2b5ad9c2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "UV imaging requires appropriate {{c1::eye and skin protection}}.",
+      "answer": "eye and skin protection"
+    },
+    {
+      "topic": "Sequencing comparison",
+      "slide": 1,
+      "explanation": "Forward and reverse reactions are prepared separately; amplification PCR uses both primers in one tube. Supporting diagram: practical overview, slide 15.",
+      "images": [
+        "overview-15"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Each Sanger reaction in this practical contains {{c1::one sequencing primer}}.",
+      "noteId": "genetics-practical-2-cefe2e7eb1fee785acb6-note",
+      "id": "genetics-practical-2-cefe2e7eb1fee785acb6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Each Sanger reaction in this practical contains {{c1::one sequencing primer}}.",
+      "answer": "one sequencing primer"
+    },
+    {
+      "topic": "Sequencing comparison",
+      "slide": 1,
+      "explanation": "The choice of primer determines the reading direction. Supporting diagram: practical overview, slide 15.",
+      "images": [
+        "overview-15"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The forward and reverse sequencing tubes use the same PCR {{c1::amplicon}} as template.",
+      "noteId": "genetics-practical-2-d35150daae0bde248af6-note",
+      "id": "genetics-practical-2-d35150daae0bde248af6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The forward and reverse sequencing tubes use the same PCR {{c1::amplicon}} as template.",
+      "answer": "amplicon"
+    },
+    {
+      "topic": "Sequencing comparison",
+      "slide": 2,
+      "explanation": "A gel band and a sequence read provide different levels of information about the same product. Supporting diagram: practical overview, slide 15.",
+      "images": [
+        "overview-15"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The next data output is a DNA {{c1::sequence read}}.",
+      "noteId": "genetics-practical-2-926775bf7dbd5eaddc15-note",
+      "id": "genetics-practical-2-926775bf7dbd5eaddc15",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The next data output is a DNA {{c1::sequence read}}.",
+      "answer": "sequence read"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Genetics Practical 2 — Gel Interpretation & Sanger Setup — source 1",
+      "text": "Nadine Wehida 2024/25 \n1 \n \nSession 2: Determining the success of the PCR amplification & setting up a \nsequencing reaction \n \nSTUDENTS SHOULD WORK IN PAIRS FOR THIS PART OF THE PROTOCOL. \n \nPart 1 Visualising your PCR products using agarose gel electrophoresis:  \n \n1. \nWhile wearing gloves, load 20 µl from each of your PCR reaction tubes in order into the \nwells in the gel as shown below. NOTE: The DreamTaq Green PCR Master Mix contains \nloading dye and material to increase the density so that it remains in the well. The gel has 8 \nwells and will be shared between two pairs of students: \n \nWell \n1 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \nSample \nDNA \nladder* \nTube1 \n(pair 1: \nControl) \nTube2 \n(pair 1: \nSample) \nTube1 (pair \n2: Control) \nTube2 \n(pair 2: \nSample) \nTube1 (pair \n3: Control) \nTube1 (pair \n3: Sample) \nDNA \nladder \n \n*6µl PCR ladder will be loaded onto the gel for you \n \n2. \nPut the lid on the gel tank and make sure the leads are plugged in to the power pack. \n \n3. \nRun the gel at 90 volts until the dye bands have migrated almost to the end of the gel. \n(Approximately 1 hour) \n \n4. \nTurn off the power supply, remove the casting tray from the electrophoresis box, and \ntransfer to a shallow tray for transportation. \n \n5. \nView the gel under an ultraviolet transilluminator and obtain a photograph of your results. \nA demonstrator will assist you with this.  \n \n6. \nYou will be emailed an electronic version of your gel image for your report. \n \nPart 2: Setting up the Sanger Sequencing Reaction:  \n \nSTUDENTS SHOULD WORK IN PAIRS FOR THIS PART OF THE PROTOCOL. \n \n1. \nLabel one of the 2 tubes containing the Cycle Sequencing Master Mix with the letter F, and \none with the letter R. Label BOTH with your initials, and. \n \n2. \nTo the tube labeled F, add to the Cycle Sequencing Master Mix: \n2 μl of oligonucleotide primer (5 μM) – labeled F \n1 μl of your PCR product  \n \n3. \nTo the tube labeled R, add to the Cycle Sequencing Master Mix: \n2 μl of oligonucleotide primer (5 μM) – labeled R \n1 μl of your PCR product  \n",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Genetics Practical 2 — Gel Interpretation & Sanger Setup — source 2",
+      "text": "Nadine Wehida 2024/25 \n2 \n \n \n4. \nSeal both the tubes and place in the thermal cycler. Your reactions will be run on the \nSequencer for you & your sequence data will be emailed to you. \n \n \n",
+      "images": [
+        "slide-2-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "genetics-practical-2/slide-1-image-1.webp",
+    "slide-2-image-1": "genetics-practical-2/slide-2-image-1.webp",
+    "overview-14": "genetics-practical-2/overview-slide-14-image-1.webp",
+    "overview-15": "genetics-practical-2/overview-slide-15-image-1.webp"
+  },
+  "week": 8,
+  "weekEnd": 9
+}

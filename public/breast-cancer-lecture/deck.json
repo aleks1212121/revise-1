@@ -1,0 +1,1234 @@
+{
+  "version": 2,
+  "lectureId": "breast-cancer-lecture",
+  "title": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition",
+  "moduleId": "pathobiology",
+  "moduleName": "",
+  "moduleCode": "LS5009",
+  "source": "Practical 1 breast cancer lecture Student copy updated.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Normal breast",
+      "slide": 3,
+      "explanation": "Identify the level of organisation rather than calling every small circular profile a whole lobe.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The terminal duct and associated lobules form a {{c1::terminal ductal lobular unit}}.",
+      "noteId": "breast-cancer-lecture-2ce98bfbe732e1cb192d-note",
+      "id": "breast-cancer-lecture-2ce98bfbe732e1cb192d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The terminal duct and associated lobules form a {{c1::terminal ductal lobular unit}}.",
+      "answer": "terminal ductal lobular unit"
+    },
+    {
+      "topic": "Normal breast",
+      "slide": 3,
+      "explanation": "Many acini form a lobule; many lobules occur within a lobe.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The small secretory unit within a breast lobule is an {{c1::acinus}}.",
+      "noteId": "breast-cancer-lecture-0e1500628ddd72797cbe-note",
+      "id": "breast-cancer-lecture-0e1500628ddd72797cbe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The small secretory unit within a breast lobule is an {{c1::acinus}}.",
+      "answer": "acinus"
+    },
+    {
+      "topic": "Normal breast",
+      "slide": 3,
+      "explanation": "The myoepithelial layer lies outside it, within the basement-membrane boundary.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The epithelial cell layer facing an acinar lumen is the {{c1::luminal layer}}.",
+      "noteId": "breast-cancer-lecture-f245fcb428f04d2e651e-note",
+      "id": "breast-cancer-lecture-f245fcb428f04d2e651e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The epithelial cell layer facing an acinar lumen is the {{c1::luminal layer}}.",
+      "answer": "luminal layer"
+    },
+    {
+      "topic": "Normal breast",
+      "slide": 3,
+      "explanation": "Recognising these layers is important when assessing whether a lesion is in situ.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Myoepithelial cells lie between luminal cells and the {{c1::basement membrane}}.",
+      "noteId": "breast-cancer-lecture-39356f151a2ae7c007c3-note",
+      "id": "breast-cancer-lecture-39356f151a2ae7c007c3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Myoepithelial cells lie between luminal cells and the {{c1::basement membrane}}.",
+      "answer": "basement membrane"
+    },
+    {
+      "topic": "Histology reasoning",
+      "slide": 4,
+      "explanation": "A diagnosis depends on organisation as well as individual-cell appearance.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Histology evaluates cellular relationships and tissue {{c1::architecture}}.",
+      "noteId": "breast-cancer-lecture-5302a68756373d32e327-note",
+      "id": "breast-cancer-lecture-5302a68756373d32e327",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Histology evaluates cellular relationships and tissue {{c1::architecture}}.",
+      "answer": "architecture"
+    },
+    {
+      "topic": "Histology reasoning",
+      "slide": 5,
+      "explanation": "Immunohistochemistry is required to evaluate these protein markers.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "H&E alone cannot determine ER, PR or {{c1::HER2 status}}.",
+      "noteId": "breast-cancer-lecture-fcc6ae170c76b8b81a46-note",
+      "id": "breast-cancer-lecture-fcc6ae170c76b8b81a46",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "H&E alone cannot determine ER, PR or {{c1::HER2 status}}.",
+      "answer": "HER2 status"
+    },
+    {
+      "topic": "Histology reasoning",
+      "slide": 6,
+      "explanation": "A two-dimensional section must be interpreted within three-dimensional tissue anatomy.",
+      "images": [
+        "slide-6-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Different cutting angles can make the same duct appear to have different {{c1::shapes}}.",
+      "noteId": "breast-cancer-lecture-609cdb4462abca358a21-note",
+      "id": "breast-cancer-lecture-609cdb4462abca358a21",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Different cutting angles can make the same duct appear to have different {{c1::shapes}}.",
+      "answer": "shapes"
+    },
+    {
+      "topic": "Normal breast",
+      "slide": 7,
+      "explanation": "Lipid is removed during routine processing, leaving characteristic clear profiles.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Large clear spaces corresponding to fat cells identify {{c1::adipose tissue}} in routine breast sections.",
+      "noteId": "breast-cancer-lecture-ed31411d54c8d7088f4e-note",
+      "id": "breast-cancer-lecture-ed31411d54c8d7088f4e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Large clear spaces corresponding to fat cells identify {{c1::adipose tissue}} in routine breast sections.",
+      "answer": "adipose tissue"
+    },
+    {
+      "topic": "Progression and uncertainty",
+      "slide": 8,
+      "explanation": "Historical estimates in the slide do not predict the outcome of an individual untreated lesion.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "DCIS is a precursor lesion but progression to invasion is {{c1::not inevitable}}.",
+      "noteId": "breast-cancer-lecture-2284e15fb7ae1aa562f0-note",
+      "id": "breast-cancer-lecture-2284e15fb7ae1aa562f0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "DCIS is a precursor lesion but progression to invasion is {{c1::not inevitable}}.",
+      "answer": "not inevitable"
+    },
+    {
+      "topic": "Inherited risk",
+      "slide": 10,
+      "explanation": "Shared environment and multiple inherited factors can also contribute.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Familial clustering of breast cancer does not always establish a single {{c1::hereditary pathogenic variant}}.",
+      "noteId": "breast-cancer-lecture-77d6bb556a35091f1a58-note",
+      "id": "breast-cancer-lecture-77d6bb556a35091f1a58",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Familial clustering of breast cancer does not always establish a single {{c1::hereditary pathogenic variant}}.",
+      "answer": "hereditary pathogenic variant"
+    },
+    {
+      "topic": "Risk interpretation",
+      "slide": 11,
+      "explanation": "This is one explanation for their association with breast-cancer risk; it is not a deterministic outcome.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Earlier menarche and later menopause increase the duration of {{c1::ovarian hormone exposure}}.",
+      "noteId": "breast-cancer-lecture-6e1efc995b192b3cb702-note",
+      "id": "breast-cancer-lecture-6e1efc995b192b3cb702",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Earlier menarche and later menopause increase the duration of {{c1::ovarian hormone exposure}}.",
+      "answer": "ovarian hormone exposure"
+    },
+    {
+      "topic": "Risk interpretation",
+      "slide": 11,
+      "explanation": "Distinguish it from menopause, the permanent cessation of cycles.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The onset of menstrual periods is {{c1::menarche}}.",
+      "noteId": "breast-cancer-lecture-e37502df9a9e4963a8a9-note",
+      "id": "breast-cancer-lecture-e37502df9a9e4963a8a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The onset of menstrual periods is {{c1::menarche}}.",
+      "answer": "menarche"
+    },
+    {
+      "topic": "Risk interpretation",
+      "slide": 11,
+      "explanation": "Most cases are not explained by a single recognised inherited syndrome.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Absence of an obvious family history does not exclude {{c1::breast cancer}}.",
+      "noteId": "breast-cancer-lecture-ee1be18e5b595405ca81-note",
+      "id": "breast-cancer-lecture-ee1be18e5b595405ca81",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Absence of an obvious family history does not exclude {{c1::breast cancer}}.",
+      "answer": "breast cancer"
+    },
+    {
+      "topic": "Imaging",
+      "slide": 14,
+      "explanation": "The lecture also illustrates ultrasound and MRI for different clinical roles.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The breast-screening modality based on X-rays is {{c1::mammography}}.",
+      "noteId": "breast-cancer-lecture-a7ad4b7399fd8e64c4f7-note",
+      "id": "breast-cancer-lecture-a7ad4b7399fd8e64c4f7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The breast-screening modality based on X-rays is {{c1::mammography}}.",
+      "answer": "mammography"
+    },
+    {
+      "topic": "Benign versus malignant",
+      "slide": 15,
+      "explanation": "The slide's statement that benign lesions cannot grow is incorrect; the key distinction is malignant behaviour.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A benign breast lump can {{c1::grow}} without invading or metastasising.",
+      "noteId": "breast-cancer-lecture-93986e4585fcbdb4bfa2-note",
+      "id": "breast-cancer-lecture-93986e4585fcbdb4bfa2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A benign breast lump can {{c1::grow}} without invading or metastasising.",
+      "answer": "grow"
+    },
+    {
+      "topic": "Benign versus malignant",
+      "slide": 15,
+      "explanation": "A palpable lump is not automatically a malignant tumour.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A fluid-filled breast lesion is a {{c1::cyst}}.",
+      "noteId": "breast-cancer-lecture-2a4a8789e0fd9385454c-note",
+      "id": "breast-cancer-lecture-2a4a8789e0fd9385454c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A fluid-filled breast lesion is a {{c1::cyst}}.",
+      "answer": "cyst"
+    },
+    {
+      "topic": "Benign versus malignant",
+      "slide": 15,
+      "explanation": "Distinguish a benign solid tumour from a fluid-filled cyst.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The benign breast tumour example named in the lecture is a {{c1::fibroadenoma}}.",
+      "noteId": "breast-cancer-lecture-5ce76616a1a2ecc5e66b-note",
+      "id": "breast-cancer-lecture-5ce76616a1a2ecc5e66b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The benign breast tumour example named in the lecture is a {{c1::fibroadenoma}}.",
+      "answer": "fibroadenoma"
+    },
+    {
+      "topic": "Benign versus malignant",
+      "slide": 15,
+      "explanation": "The slide explicitly cautions that the term does not imply benign behaviour in every case.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Phyllodes tumours can be benign, borderline or {{c1::malignant}}.",
+      "noteId": "breast-cancer-lecture-70c112d9d6b665adda2d-note",
+      "id": "breast-cancer-lecture-70c112d9d6b665adda2d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Phyllodes tumours can be benign, borderline or {{c1::malignant}}.",
+      "answer": "malignant"
+    },
+    {
+      "topic": "Markers and classification",
+      "slide": 18,
+      "explanation": "Their expression can guide endocrine treatment rather than defining invasion by itself.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "ER and PR are {{c1::hormone receptors}}.",
+      "noteId": "breast-cancer-lecture-dfef4033c26f8e0f5251-note",
+      "id": "breast-cancer-lecture-dfef4033c26f8e0f5251",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ER and PR are {{c1::hormone receptors}}.",
+      "answer": "hormone receptors"
+    },
+    {
+      "topic": "Markers and classification",
+      "slide": 18,
+      "explanation": "The slide's BRCA expansion is misleading; inherited pathogenic variants can confer susceptibility.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "BRCA1/BRCA2 are gene names, not a {{c1::breast carcinoma antigen}} test.",
+      "noteId": "breast-cancer-lecture-4b29191a007cf0eeb200-note",
+      "id": "breast-cancer-lecture-4b29191a007cf0eeb200",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "BRCA1/BRCA2 are gene names, not a {{c1::breast carcinoma antigen}} test.",
+      "answer": "breast carcinoma antigen"
+    },
+    {
+      "topic": "Markers and classification",
+      "slide": 20,
+      "explanation": "It does not by itself decide whether a lobular lesion is invasive.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Loss of E-cadherin supports {{c1::lobular differentiation}}.",
+      "noteId": "breast-cancer-lecture-9b0cdf97f8c37fef081c-note",
+      "id": "breast-cancer-lecture-9b0cdf97f8c37fef081c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Loss of E-cadherin supports {{c1::lobular differentiation}}.",
+      "answer": "lobular differentiation"
+    },
+    {
+      "topic": "Markers and classification",
+      "slide": 20,
+      "explanation": "A preserved surrounding layer supports an in situ interpretation in the appropriate architecture.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "p63, SMA and calponin help identify the {{c1::myoepithelial layer}}.",
+      "noteId": "breast-cancer-lecture-d3f4b4edab4ec8664aed-note",
+      "id": "breast-cancer-lecture-d3f4b4edab4ec8664aed",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "p63, SMA and calponin help identify the {{c1::myoepithelial layer}}.",
+      "answer": "myoepithelial layer"
+    },
+    {
+      "topic": "Markers and classification",
+      "slide": 21,
+      "explanation": "Treatment and prognosis require more context than the slide's broad description of this group.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Negative ER, PR and HER2 results define a {{c1::triple-negative receptor profile}}.",
+      "noteId": "breast-cancer-lecture-0c2ea9761e254c0d93ef-note",
+      "id": "breast-cancer-lecture-0c2ea9761e254c0d93ef",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Negative ER, PR and HER2 results define a {{c1::triple-negative receptor profile}}.",
+      "answer": "triple-negative receptor profile"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 25,
+      "explanation": "The source contrasts this with a solid cellular fill.",
+      "images": [
+        "slide-25-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Punched-out luminal spaces within a DCIS cell sheet form a {{c1::cribriform pattern}}.",
+      "noteId": "breast-cancer-lecture-5709d0f7926f425b074f-note",
+      "id": "breast-cancer-lecture-5709d0f7926f425b074f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Punched-out luminal spaces within a DCIS cell sheet form a {{c1::cribriform pattern}}.",
+      "answer": "cribriform pattern"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 25,
+      "explanation": "Calcification may accompany necrosis; it does not itself establish invasion.",
+      "images": [
+        "slide-25-image-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Central necrotic material in a DCIS duct suggests the {{c1::comedo pattern}}.",
+      "noteId": "breast-cancer-lecture-8a1ee05ed57e96a82712-note",
+      "id": "breast-cancer-lecture-8a1ee05ed57e96a82712",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Central necrotic material in a DCIS duct suggests the {{c1::comedo pattern}}.",
+      "answer": "comedo pattern"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 26,
+      "explanation": "Assess the boundary and surrounding stroma rather than relying on cellular crowding alone.",
+      "images": [
+        "slide-24-image-2"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "An expanded duct containing atypical cells but no basement-membrane breach is consistent with {{c1::DCIS}}.",
+      "noteId": "breast-cancer-lecture-5db799e53423c84acaa4-note",
+      "id": "breast-cancer-lecture-5db799e53423c84acaa4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An expanded duct containing atypical cells but no basement-membrane breach is consistent with {{c1::DCIS}}.",
+      "answer": "DCIS"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 29,
+      "explanation": "In situ versus invasive depends on the boundary, not E-cadherin alone.",
+      "images": [
+        "slide-28-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Dyscohesive cells filling acini without stromal invasion support {{c1::LCIS}}.",
+      "noteId": "breast-cancer-lecture-d00a096a05bcf00f9e66-note",
+      "id": "breast-cancer-lecture-d00a096a05bcf00f9e66",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dyscohesive cells filling acini without stromal invasion support {{c1::LCIS}}.",
+      "answer": "LCIS"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 34,
+      "explanation": "This is a tissue-pattern comparison rather than a definitive diagnosis from one tiny image.",
+      "images": [
+        "slide-31-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Irregular cohesive nests within desmoplastic stroma favour {{c1::invasive ductal carcinoma}}.",
+      "noteId": "breast-cancer-lecture-b455f848aca6a870b403-note",
+      "id": "breast-cancer-lecture-b455f848aca6a870b403",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Irregular cohesive nests within desmoplastic stroma favour {{c1::invasive ductal carcinoma}}.",
+      "answer": "invasive ductal carcinoma"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 37,
+      "explanation": "The source also illustrates targetoid growth around ducts and lobules.",
+      "images": [
+        "slide-36-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Single-file dyscohesive cells infiltrating stroma favour {{c1::invasive lobular carcinoma}}.",
+      "noteId": "breast-cancer-lecture-297e56d8148414663d79-note",
+      "id": "breast-cancer-lecture-297e56d8148414663d79",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Single-file dyscohesive cells infiltrating stroma favour {{c1::invasive lobular carcinoma}}.",
+      "answer": "invasive lobular carcinoma"
+    },
+    {
+      "topic": "Pattern recognition",
+      "slide": 38,
+      "explanation": "This differs from an in situ lesion contained within breast ducts.",
+      "images": [
+        "slide-38-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Breast carcinoma growing in an axillary lymph node represents {{c1::metastasis}}.",
+      "noteId": "breast-cancer-lecture-2a8a1932d956aee98b24-note",
+      "id": "breast-cancer-lecture-2a8a1932d956aee98b24",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Breast carcinoma growing in an axillary lymph node represents {{c1::metastasis}}.",
+      "answer": "metastasis"
+    },
+    {
+      "topic": "Practical reasoning",
+      "slide": 44,
+      "explanation": "The practice micrographs have no reliable answer key in the slides. No exact slide-by-slide diagnosis has been invented.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Before naming an unkeyed breast micrograph, determine whether atypical cells are confined or {{c1::invading stroma}}.",
+      "noteId": "breast-cancer-lecture-503881752c67a04a72ab-note",
+      "id": "breast-cancer-lecture-503881752c67a04a72ab",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Before naming an unkeyed breast micrograph, determine whether atypical cells are confined or {{c1::invading stroma}}.",
+      "answer": "invading stroma"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 1",
+      "text": "Practical 1:\u000bOverview of breast cancer\nLS5009\nDr Athina-Myrto Chioni",
+      "images": []
+    },
+    {
+      "number": 2,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 2",
+      "text": "The breast sit on the chest muscles that cover the ribs.\nEach breast has around 10-15 lobes\nEach lobes contain smaller lobules\nThe milk flows from the lobules through a tube called ducts to the nipple (which is located in the centre of the dark area of skin called areola)\nThe space between the lobules and the ducts is filled with fat\nBreast anatomy\n\nWhy do you think this is highlighted ?",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 3",
+      "text": "Cross section of the breast\nMuscle\nRib\nTerminal Ductal Lobular unit\nLobule\nDuct\nNipple\nAreola\nFat\nLobule\nTerminal Ductal Lobular unit\nAcinus\nMyoepithelial cells\nLuminal Cells\nLuminal Cells\nMyoepithelial cells\nAcinus\nBasement membrane\nCross section of the breast and its contents\nTerminal ductal lobular unit and its relationship to the lobule. The circular projections of the terminal ductal lobular unit are representations of the acini that also comprise the lobule\nDetails of a single acinus\n\nWhy these two images look different even though they represent the same area of the breast?\nd",
+      "images": [
+        "slide-3-image-1",
+        "slide-3-image-2"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 4",
+      "text": "HISTOLOGY:\n“The study of tissues and organs using microscopes to look at their architecture and the relationship between the different types of cells within it. It is essential for the understanding and advancement of biology, medicine, veterinary medicine and many sub-disciplines within those scientific subjects.”\n\nBreast histology\nwhat should we remember?\n\nLOBE: 10-15 in whole breast\nLOBULE: many per lobe\nACINUS/I (aka Alveolus/i): many per lobule\nDUCT(S): Intra- or Inter-Lob(ul)ar, leading to the lactiferous ducts in the nipple\n\nLet's look at them one by one….",
+      "images": []
+    },
+    {
+      "number": 5,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 5",
+      "text": "H&E Staining – Diagnostic Use\n\nAssesses architecture, cytological features, and stromal invasion\nHelps evaluate tumour grade, necrosis, and inflammation\nCannot determine ER, PR, or HER2 status – IHC required",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 6",
+      "text": "Lobule\nLobe\nAcinus\n\n\nFor source, please look at notes\nDuct\n\n\nWhy the shape of these two ducts look different on this section?",
+      "images": [
+        "slide-6-image-1",
+        "slide-6-image-2",
+        "slide-6-image-3",
+        "slide-6-image-4",
+        "slide-6-image-5"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 7",
+      "text": "Normal Breast-histology\nA\nDense stroma\nLoose stroma\nAcinus\nD\nB\nAcinus/Acini/Aveoli\nDuct\nAdipocytes\nC\nGlandular/epithelial cells\nFor source, please look at notes",
+      "images": [
+        "slide-7-image-1",
+        "slide-7-image-2",
+        "slide-7-image-3",
+        "slide-7-image-4"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 8",
+      "text": "Breast Cancer\nBreast cancer is the most common cancer in the UK, despite the fact that it is rare in men. \n\nBreast cancer is by far the commonest cancer in women in the UK accounting for 31% of all cases in women and accounts for around 16% of female death (Cancer Research UK)\n\n\n\n\n\n\n\n\n\nWith the advent of the screening programme approximately 20% of  detected breast cancers are Ductal Carcinoma In Situ (DCIS). \n\nEvidence suggests that DCIS is the precursor to invasive breast cancer in most cases.  (JL Jones, 2006, Br Ca Res)\n\n\nOther studies have suggested that left untreated as many as 50% of DCIS cases will not progress in the life-time of the patient (L. Collins et al. 2005, Cancer; M Saunders et al, 2005, Cancer).\n\n4th most common cause of cancer death in the UK",
+      "images": [
+        "slide-8-image-1",
+        "slide-8-image-2"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 9",
+      "text": "What causes breast cancer\nGenetic abnormality : mistake in the genetic material\nLet's look at some examples below:\nWhat is a SNP?",
+      "images": [
+        "slide-9-image-1",
+        "slide-9-image-2",
+        "slide-9-image-3",
+        "slide-9-image-4"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 10",
+      "text": "What is the difference between “familial” and “hereditary” breast cancer? \nhttps://www.ambrygen.com/patients/understand-more/breast-cancer\nTypes of breast cancer",
+      "images": [
+        "slide-10-image-1",
+        "slide-10-image-2"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 11",
+      "text": "Gender: female (1%  male)\nRace: more common in Caucasians\nAge: Increases with age\nHistory of cancer (Breast, uterus, cervix, ovary)\nGenetics/ Relative (mother/sister)\nMenstrual history: early on set (menarche)  late menopause\nHormones: oestrogens in hormone replacement therapy/ birth control pills\nChildbirth: first child after 30 or having no children. [pregnancy and breastfeeding are protective against cancer] \nObesity\nDiet: Fat, Alcohol.\nLack of Physical Activity\nStress\nRadiation Exposure\n70% have no risk factors\n\nRisk Factors\nUnchangeable risk factors: Gender, Age, Genetics, family history, race, dense breast tissues, younger age at onset of menstrual periods/later age at on set of menopause\nChangeable risk factors:\nNo breast feeding, no children or later age at first live birth, hormone replacement treatment, birth control pills, geography, alcohol, post-menopausal obesity, lack of exercise.\nWhy gender is a risk factor?\nWhy age is a risk factor?\nWhat is “menarche”? ",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 12",
+      "text": "Why this area can be significant?",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 13",
+      "text": "Breast Cancer Screening",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 14",
+      "text": "\n\n\nMammography\nUltrasound\nMRI",
+      "images": [
+        "slide-14-image-1",
+        "slide-14-image-2",
+        "slide-14-image-3",
+        "slide-14-image-4",
+        "slide-14-image-5",
+        "slide-14-image-6"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 15",
+      "text": "Benign – A lump of cells that can NOT grow or spread.\nMalignant – Tumour cells that can grow and spread. \nFibroadenomas-benign\nBreast Cysts-fluid filled sacs in the breast they can feel soft or hard and can be painful. Many cysts go away by themselves, if they are large and sore they can be drained using a needle. \nBenign phyllodes tumor-A phyllodes tumour can be benign (non-cancerous) or malignant (cancerous). They are rare and in older women. These tumours are usually removed by a small operation (surgery). \nA breast lump does not always mean cancer!",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 16",
+      "text": "\n",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 17",
+      "text": "Types of breast cancer-histological classification\nNon-invasive (in situ)\nInvasive (infiltrating)\nOthers\nMen breast cancer\nInflammatory\nPaget’s disease of nipple/areola\nRare types\n\nLobular\nDuctal\nLobular\nDuctal\nFor further classification and treatment: \nOestrogen and progesterone receptor status is very important!",
+      "images": [
+        "slide-17-image-1",
+        "slide-17-image-2",
+        "slide-17-image-3",
+        "slide-17-image-4",
+        "slide-17-image-5",
+        "slide-17-image-6",
+        "slide-17-image-7",
+        "slide-17-image-8",
+        "slide-17-image-9",
+        "slide-17-image-10"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 18",
+      "text": "ER: Oestrogen Receptor\nPR: Progesterone Receptors\nHER2: Human Epidermal growth factor Receptor 2\nE-Cadherin: Cell adhesion protein\nBRCA: Breast Carcinoma Antigen\nWhy is it important to know the subtype of breast cancer?\nWhat is immunohistochemistry? What do we detect with this technique?\nTypes of breast cancer-molecular classification",
+      "images": [
+        "slide-18-image-1",
+        "slide-18-image-2"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 19",
+      "text": "Targeted therapy available\n\nHormonal therapy (e.g. Tamoxifen)\nHER2 directed therapy (e.g. Trastuzumab)\nNo\n\nBreast cancer intrinsic /tumour molecular subtypes",
+      "images": [
+        "slide-19-image-1",
+        "slide-19-image-2"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 20",
+      "text": "Immunohistochemistry (IHC) Markers\n\nE-cadherin: present in IDC, lost in ILC/LCIS\nER/PR: hormone receptor status\nHER2: target for trastuzumab\nKi-67: proliferation index\nMyoepithelial markers (p63, SMA, calponin): confirm in situ lesions",
+      "images": []
+    },
+    {
+      "number": 21,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 21",
+      "text": "Molecular Subtypes\n\nLuminal A: ER+, PR+, HER2–, low Ki-67 → hormonal therapy\nLuminal B: ER+, PR±, HER2±, high Ki-67 → more aggressive\nHER2-enriched: ER–, PR–, HER2+ → targeted therapy\nTriple-negative: ER–, PR–, HER2– → chemo-sensitive, poor prognosis",
+      "images": []
+    },
+    {
+      "number": 22,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 22",
+      "text": "A. \u000ba. In situ ductal carcinoma\n1. Precursor Lesions and non-invasive cancer",
+      "images": [
+        "slide-22-image-1"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 23",
+      "text": "Ductal carcinoma in situ-DCIS\nAdapted from Adriance et al (2005) Br Can Res 7(5) p190",
+      "images": [
+        "slide-23-image-1",
+        "slide-23-image-2",
+        "slide-23-image-3"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 24",
+      "text": "DCIS-examples",
+      "images": [
+        "slide-24-image-1",
+        "slide-24-image-2",
+        "slide-24-image-3"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 25",
+      "text": "Subtypes of DCIS\nSolid\nCribriform\nPappilary\nComido",
+      "images": [
+        "slide-25-image-1",
+        "slide-25-image-2",
+        "slide-25-image-3",
+        "slide-25-image-4",
+        "slide-25-image-5",
+        "slide-25-image-6",
+        "slide-25-image-7",
+        "slide-25-image-8",
+        "slide-25-image-9",
+        "slide-25-image-10"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 26",
+      "text": "Ductal Carcinoma In Situ (DCIS)\n\nNon-invasive; confined within ducts, no basement membrane invasion\nArchitectural patterns: comedo, cribriform, papillary, micropapillary, solid\nComedo: central necrosis, high grade, calcifications\nMyoepithelial layer preserved; seen on H&E and confirmed by IHC\nDetected via mammographic microcalcifications",
+      "images": []
+    },
+    {
+      "number": 27,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 27",
+      "text": "In situ lobular carcinoma",
+      "images": [
+        "slide-27-image-1",
+        "slide-27-image-2"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 28",
+      "text": "Precursor Lesions and non-invasive cancers",
+      "images": [
+        "slide-28-image-1",
+        "slide-28-image-2"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 29",
+      "text": "Lobular Carcinoma In Situ (LCIS)\nNon-invasive; confined to lobules/acini, no basement membrane invasion\nUsually incidental finding, often not associated with calcifications\nArchitectural pattern: filling and distension of acini by small, uniform, dyshesive cells\nCells: round nuclei, scant cytoplasm; loss of E-cadherin expression (IHC confirmation)\nMyoepithelial layer preserved\nOften multifocal and bilateral\n\n",
+      "images": []
+    },
+    {
+      "number": 30,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 30",
+      "text": "2. INVASIVE BREAST CANCER\u000b\u000b\u000b Infiltrating ductal carcinoma",
+      "images": [
+        "slide-30-image-1"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 31",
+      "text": "Invasive/Infiltrating Ductal Carcinoma\nFeatures of invasive ductal carcinoma",
+      "images": [
+        "slide-31-image-1",
+        "slide-31-image-2",
+        "slide-31-image-3",
+        "slide-31-image-4"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 32",
+      "text": "D",
+      "images": [
+        "slide-32-image-1",
+        "slide-32-image-2"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 33",
+      "text": "Infiltrating ductal “Tubular” pattern/type",
+      "images": [
+        "slide-33-image-1",
+        "slide-33-image-2"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 34",
+      "text": "Invasive Ductal Carcinoma (IDC)\n\nMost common invasive type (~70–80%)\nIrregular nests or cords in desmoplastic stroma\nRetains E-cadherin\nMay be associated with DCIS\nGland formation, necrosis, pleomorphism common",
+      "images": []
+    },
+    {
+      "number": 35,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 35",
+      "text": "Infiltrating lobular carcinoma",
+      "images": []
+    },
+    {
+      "number": 36,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 36",
+      "text": "Invasive/Infiltrating lobular carcinoma\nx10\nx10",
+      "images": [
+        "slide-36-image-1",
+        "slide-36-image-2",
+        "slide-36-image-3",
+        "slide-36-image-4"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 37",
+      "text": "Invasive Lobular Carcinoma (ILC)\n\nSecond most common invasive type\nDyscohesive cells, single-file (Indian file) pattern\nLoss of E-cadherin\nTargetoid growth pattern around ducts/lobules\nOften bilateral and multifocal",
+      "images": []
+    },
+    {
+      "number": 38,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 38",
+      "text": "Lymph node breast cancer metastasis\nMetastatic breast cancer\nNormal Axillary Lymph Node Tissues",
+      "images": [
+        "slide-38-image-1"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 39",
+      "text": "Treatment and survival rates of Breast Cancer\nSurgery\nLumpectomy\nMastectomy\nRadiation Therapy\nChemotherapy\nHormonal Therapy\nTreatment",
+      "images": [
+        "slide-39-image-1"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 40",
+      "text": "Summary\u000bLet's remember how (1) normal breast, (2) in situ carcinoma and (3) infiltrating cancer looks like under the microscope",
+      "images": []
+    },
+    {
+      "number": 41,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 41",
+      "text": "Normal breast tissue",
+      "images": [
+        "slide-41-image-1"
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 42",
+      "text": "Normal breast tissue",
+      "images": [
+        "slide-42-image-1"
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 43",
+      "text": "DCIS\nInfiltrating ductal carcinoma\nLCIS\nInfiltrating lobular carcinoma\n\nSummary-\nLets remember how each type of carcinoma looks like under the microscope again",
+      "images": [
+        "slide-43-image-1",
+        "slide-43-image-2",
+        "slide-43-image-3",
+        "slide-43-image-4"
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 44",
+      "text": "PRACTICE\nLet's go over some images from the sections you will have to observe under the microscope during this practical.\nCan you identify which one in DCIS, LCIS, infiltrating tumour, normal breast and lymph node metastasis?",
+      "images": []
+    },
+    {
+      "number": 45,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 45",
+      "text": "100um",
+      "images": [
+        "slide-45-image-1",
+        "slide-45-image-2",
+        "slide-45-image-3"
+      ]
+    },
+    {
+      "number": 46,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 46",
+      "text": "",
+      "images": [
+        "slide-46-image-1",
+        "slide-46-image-2"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 47",
+      "text": "",
+      "images": [
+        "slide-47-image-1",
+        "slide-47-image-2"
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 48",
+      "text": "",
+      "images": [
+        "slide-48-image-1"
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 49",
+      "text": "",
+      "images": [
+        "slide-49-image-1",
+        "slide-49-image-2",
+        "slide-49-image-3"
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 50",
+      "text": "X10 \nX10 ",
+      "images": [
+        "slide-50-image-1",
+        "slide-50-image-2"
+      ]
+    },
+    {
+      "number": 51,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 51",
+      "text": "X10 \nX10 ",
+      "images": [
+        "slide-51-image-1",
+        "slide-51-image-2"
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 52",
+      "text": "X10 ",
+      "images": [
+        "slide-52-image-1",
+        "slide-52-image-2",
+        "slide-52-image-3",
+        "slide-52-image-4"
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 53",
+      "text": "",
+      "images": [
+        "slide-53-image-1",
+        "slide-53-image-2",
+        "slide-53-image-3"
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 54",
+      "text": "",
+      "images": [
+        "slide-54-image-1",
+        "slide-54-image-2"
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 55",
+      "text": "",
+      "images": [
+        "slide-55-image-1",
+        "slide-55-image-2"
+      ]
+    },
+    {
+      "number": 56,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 56",
+      "text": "\u000b\u000bThe online test on CANVAS will be available for 24 hours only, from 00:00 to 23:59, on the first Wednesday after your practical.\u000bYou will have 45 minutes to complete the test once you start it, and you will have only ONE attempt.\u000b\u000bYou MUST download from “Apps anywhere” the Respondus Lockdown Browser app before you attempt the test! \u000b",
+      "images": []
+    },
+    {
+      "number": 57,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 57",
+      "text": "About the test\nThe practical test has three sections:\n\n2 Labelling diagrams \n15 MCQ questions \n5 True/False\n\nThere is NO negative marking!\n\nEach week, the practical test will be slightly modified for each student, but the format and marking criteria will remain the same across all groups.\u000bQuestions and answers will be randomly selected from a question bank and shuffled to ensure variation while maintaining consistency.",
+      "images": []
+    },
+    {
+      "number": 58,
+      "topic": "Breast Cancer Practical Lecture — Anatomy, Screening & Recognition — source 58",
+      "text": "References (most recent edition)\nBreast Cancer and its Precursor Lesions \u000bThomas, Patricia A. (2011)\nUnderwood’s Pathology a clinical approach 6th Ed, Simon Cross. Chapter 18\nMore….Check canvas for the practical 1 and reading list",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-2-image-1": "breast-cancer-lecture/slide-2-image-1.webp",
+    "slide-3-image-1": "breast-cancer-lecture/slide-3-image-1.webp",
+    "slide-3-image-2": "breast-cancer-lecture/slide-3-image-2.webp",
+    "slide-6-image-1": "breast-cancer-lecture/slide-6-image-1.webp",
+    "slide-6-image-2": "breast-cancer-lecture/slide-6-image-2.webp",
+    "slide-6-image-3": "breast-cancer-lecture/slide-6-image-3.webp",
+    "slide-6-image-4": "breast-cancer-lecture/slide-6-image-4.webp",
+    "slide-6-image-5": "breast-cancer-lecture/slide-6-image-5.webp",
+    "slide-7-image-1": "breast-cancer-lecture/slide-7-image-1.webp",
+    "slide-7-image-2": "breast-cancer-lecture/slide-7-image-2.webp",
+    "slide-7-image-3": "breast-cancer-lecture/slide-7-image-3.webp",
+    "slide-7-image-4": "breast-cancer-lecture/slide-7-image-4.webp",
+    "slide-8-image-1": "breast-cancer-lecture/slide-8-image-1.webp",
+    "slide-8-image-2": "breast-cancer-lecture/slide-8-image-2.webp",
+    "slide-9-image-1": "breast-cancer-lecture/slide-9-image-1.webp",
+    "slide-9-image-2": "breast-cancer-lecture/slide-9-image-2.webp",
+    "slide-9-image-3": "breast-cancer-lecture/slide-9-image-3.webp",
+    "slide-9-image-4": "breast-cancer-lecture/slide-9-image-4.webp",
+    "slide-10-image-1": "breast-cancer-lecture/slide-10-image-1.webp",
+    "slide-10-image-2": "breast-cancer-lecture/slide-10-image-2.webp",
+    "slide-12-image-1": "breast-cancer-lecture/slide-12-image-1.webp",
+    "slide-13-image-1": "breast-cancer-lecture/slide-13-image-1.webp",
+    "slide-14-image-1": "breast-cancer-lecture/slide-14-image-1.webp",
+    "slide-14-image-2": "breast-cancer-lecture/slide-14-image-2.webp",
+    "slide-14-image-3": "breast-cancer-lecture/slide-14-image-3.webp",
+    "slide-14-image-4": "breast-cancer-lecture/slide-14-image-4.webp",
+    "slide-14-image-5": "breast-cancer-lecture/slide-14-image-5.webp",
+    "slide-14-image-6": "breast-cancer-lecture/slide-14-image-6.webp",
+    "slide-15-image-1": "breast-cancer-lecture/slide-15-image-1.webp",
+    "slide-16-image-1": "breast-cancer-lecture/slide-16-image-1.webp",
+    "slide-17-image-1": "breast-cancer-lecture/slide-17-image-1.webp",
+    "slide-17-image-2": "breast-cancer-lecture/slide-17-image-2.webp",
+    "slide-17-image-3": "breast-cancer-lecture/slide-17-image-3.webp",
+    "slide-17-image-4": "breast-cancer-lecture/slide-17-image-4.webp",
+    "slide-17-image-5": "breast-cancer-lecture/slide-17-image-5.webp",
+    "slide-17-image-6": "breast-cancer-lecture/slide-17-image-6.webp",
+    "slide-17-image-7": "breast-cancer-lecture/slide-17-image-7.webp",
+    "slide-17-image-8": "breast-cancer-lecture/slide-17-image-8.webp",
+    "slide-17-image-9": "breast-cancer-lecture/slide-17-image-9.webp",
+    "slide-17-image-10": "breast-cancer-lecture/slide-17-image-10.webp",
+    "slide-18-image-1": "breast-cancer-lecture/slide-18-image-1.webp",
+    "slide-18-image-2": "breast-cancer-lecture/slide-18-image-2.webp",
+    "slide-19-image-1": "breast-cancer-lecture/slide-19-image-1.webp",
+    "slide-19-image-2": "breast-cancer-lecture/slide-19-image-2.webp",
+    "slide-22-image-1": "breast-cancer-lecture/slide-22-image-1.webp",
+    "slide-23-image-1": "breast-cancer-lecture/slide-23-image-1.webp",
+    "slide-23-image-2": "breast-cancer-lecture/slide-23-image-2.webp",
+    "slide-23-image-3": "breast-cancer-lecture/slide-23-image-3.webp",
+    "slide-24-image-1": "breast-cancer-lecture/slide-24-image-1.webp",
+    "slide-24-image-2": "breast-cancer-lecture/slide-24-image-2.webp",
+    "slide-24-image-3": "breast-cancer-lecture/slide-24-image-3.webp",
+    "slide-25-image-1": "breast-cancer-lecture/slide-25-image-1.webp",
+    "slide-25-image-2": "breast-cancer-lecture/slide-25-image-2.webp",
+    "slide-25-image-3": "breast-cancer-lecture/slide-25-image-3.webp",
+    "slide-25-image-4": "breast-cancer-lecture/slide-25-image-4.webp",
+    "slide-25-image-5": "breast-cancer-lecture/slide-25-image-5.webp",
+    "slide-25-image-6": "breast-cancer-lecture/slide-25-image-6.webp",
+    "slide-25-image-7": "breast-cancer-lecture/slide-25-image-7.webp",
+    "slide-25-image-8": "breast-cancer-lecture/slide-25-image-8.webp",
+    "slide-25-image-9": "breast-cancer-lecture/slide-25-image-9.webp",
+    "slide-25-image-10": "breast-cancer-lecture/slide-25-image-10.webp",
+    "slide-27-image-1": "breast-cancer-lecture/slide-27-image-1.webp",
+    "slide-27-image-2": "breast-cancer-lecture/slide-27-image-2.webp",
+    "slide-28-image-1": "breast-cancer-lecture/slide-28-image-1.webp",
+    "slide-28-image-2": "breast-cancer-lecture/slide-28-image-2.webp",
+    "slide-30-image-1": "breast-cancer-lecture/slide-30-image-1.webp",
+    "slide-31-image-1": "breast-cancer-lecture/slide-31-image-1.webp",
+    "slide-31-image-2": "breast-cancer-lecture/slide-31-image-2.webp",
+    "slide-31-image-3": "breast-cancer-lecture/slide-31-image-3.webp",
+    "slide-31-image-4": "breast-cancer-lecture/slide-31-image-4.webp",
+    "slide-32-image-1": "breast-cancer-lecture/slide-32-image-1.webp",
+    "slide-32-image-2": "breast-cancer-lecture/slide-32-image-2.webp",
+    "slide-33-image-1": "breast-cancer-lecture/slide-33-image-1.webp",
+    "slide-33-image-2": "breast-cancer-lecture/slide-33-image-2.webp",
+    "slide-36-image-1": "breast-cancer-lecture/slide-36-image-1.webp",
+    "slide-36-image-2": "breast-cancer-lecture/slide-36-image-2.webp",
+    "slide-36-image-3": "breast-cancer-lecture/slide-36-image-3.webp",
+    "slide-36-image-4": "breast-cancer-lecture/slide-36-image-4.webp",
+    "slide-38-image-1": "breast-cancer-lecture/slide-38-image-1.webp",
+    "slide-39-image-1": "breast-cancer-lecture/slide-39-image-1.webp",
+    "slide-41-image-1": "breast-cancer-lecture/slide-41-image-1.webp",
+    "slide-42-image-1": "breast-cancer-lecture/slide-42-image-1.webp",
+    "slide-43-image-1": "breast-cancer-lecture/slide-43-image-1.webp",
+    "slide-43-image-2": "breast-cancer-lecture/slide-43-image-2.webp",
+    "slide-43-image-3": "breast-cancer-lecture/slide-43-image-3.webp",
+    "slide-43-image-4": "breast-cancer-lecture/slide-43-image-4.webp",
+    "slide-45-image-1": "breast-cancer-lecture/slide-45-image-1.webp",
+    "slide-45-image-2": "breast-cancer-lecture/slide-45-image-2.webp",
+    "slide-45-image-3": "breast-cancer-lecture/slide-45-image-3.webp",
+    "slide-46-image-1": "breast-cancer-lecture/slide-46-image-1.webp",
+    "slide-46-image-2": "breast-cancer-lecture/slide-46-image-2.webp",
+    "slide-47-image-1": "breast-cancer-lecture/slide-47-image-1.webp",
+    "slide-47-image-2": "breast-cancer-lecture/slide-47-image-2.webp",
+    "slide-48-image-1": "breast-cancer-lecture/slide-48-image-1.webp",
+    "slide-49-image-1": "breast-cancer-lecture/slide-49-image-1.webp",
+    "slide-49-image-2": "breast-cancer-lecture/slide-49-image-2.webp",
+    "slide-49-image-3": "breast-cancer-lecture/slide-49-image-3.webp",
+    "slide-50-image-1": "breast-cancer-lecture/slide-50-image-1.webp",
+    "slide-50-image-2": "breast-cancer-lecture/slide-50-image-2.webp",
+    "slide-51-image-1": "breast-cancer-lecture/slide-51-image-1.webp",
+    "slide-51-image-2": "breast-cancer-lecture/slide-51-image-2.webp",
+    "slide-52-image-1": "breast-cancer-lecture/slide-52-image-1.webp",
+    "slide-52-image-2": "breast-cancer-lecture/slide-52-image-2.webp",
+    "slide-52-image-3": "breast-cancer-lecture/slide-52-image-3.webp",
+    "slide-52-image-4": "breast-cancer-lecture/slide-52-image-4.webp",
+    "slide-53-image-1": "breast-cancer-lecture/slide-53-image-1.webp",
+    "slide-53-image-2": "breast-cancer-lecture/slide-53-image-2.webp",
+    "slide-53-image-3": "breast-cancer-lecture/slide-53-image-3.webp",
+    "slide-54-image-1": "breast-cancer-lecture/slide-54-image-1.webp",
+    "slide-54-image-2": "breast-cancer-lecture/slide-54-image-2.webp",
+    "slide-55-image-1": "breast-cancer-lecture/slide-55-image-1.webp",
+    "slide-55-image-2": "breast-cancer-lecture/slide-55-image-2.webp"
+  },
+  "week": 2,
+  "weekEnd": 5
+}

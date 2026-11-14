@@ -227,20 +227,21 @@
     {
       "topic": "Safety",
       "slide": 6,
-      "explanation": "This is an experiment eligibility threshold, not a clinical diagnosis threshold.",
+      "explanation": "This is a practical eligibility instruction, not a clinical diagnosis threshold. This current handout instruction replaces the older cold-test exclusion wording. The original theory-slide image is an older source; consult the Current Handout & Results Analysis deck.",
       "images": [],
       "showImagesFront": false,
       "draft": false,
       "status": "new",
       "importance": "standard",
       "difficulty": "easy",
-      "text": "A resting systolic BP above {{c1::130 mmHg}} excludes the student from the cold-water test in this protocol.",
+      "text": "The 2026–27 handout asks volunteers with resting SBP above {{c1::130 mmHg}} to speak to the academic before the occlusion experiment.",
       "noteId": "cardiovascular-practical-ccecf470572562fc0112-note",
       "id": "cardiovascular-practical-ccecf470572562fc0112",
       "type": "cloze",
       "clozeNumber": 1,
-      "question": "A resting systolic BP above {{c1::130 mmHg}} excludes the student from the cold-water test in this protocol.",
-      "answer": "130 mmHg"
+      "question": "The 2026–27 handout asks volunteers with resting SBP above {{c1::130 mmHg}} to speak to the academic before the occlusion experiment.",
+      "answer": "130 mmHg",
+      "sourceLabel": "2026–27 practical handout"
     },
     {
       "topic": "Recording method",
@@ -263,20 +264,21 @@
     {
       "topic": "Supervised protocol",
       "slide": 8,
-      "explanation": "The supervised target is 45–46°C. This is a study reference, not advice to perform the experiment independently.",
+      "explanation": "The stated target is 45–46°C, with an upper limit of 47°C in the current handout. The older supplied theory slides used different wording. This is a supervised teaching protocol, not a home experiment.",
       "images": [],
       "showImagesFront": false,
       "draft": false,
       "status": "new",
       "importance": "standard",
       "difficulty": "easy",
-      "text": "The hot-water protocol states that temperature must not exceed {{c1::46°C}}.",
+      "text": "The 2026–27 handout states that hot water must not exceed {{c1::47°C}}.",
       "noteId": "cardiovascular-practical-33909ac6f73d7e9b3f84-note",
       "id": "cardiovascular-practical-33909ac6f73d7e9b3f84",
       "type": "cloze",
       "clozeNumber": 1,
-      "question": "The hot-water protocol states that temperature must not exceed {{c1::46°C}}.",
-      "answer": "46°C"
+      "question": "The 2026–27 handout states that hot water must not exceed {{c1::47°C}}.",
+      "answer": "47°C",
+      "sourceLabel": "2026–27 practical handout"
     },
     {
       "topic": "Safety",
@@ -627,38 +629,40 @@
     {
       "topic": "Occlusion protocol",
       "slide": 20,
-      "explanation": "It otherwise specifies 20 mmHg above the measured systolic pressure. Do not exceed the cap to obtain occlusion; seek staff guidance.",
+      "explanation": "The current handout supersedes the 160 mmHg limit in the older theory slides. Follow the current supervised protocol and demonstrator instructions.",
       "images": [],
       "showImagesFront": false,
       "draft": false,
       "status": "new",
       "importance": "standard",
       "difficulty": "easy",
-      "text": "The protocol sets a maximum occlusion-cuff pressure of {{c1::160 mmHg}}.",
+      "text": "The 2026–27 handout sets a maximum occlusion-cuff pressure of {{c1::150 mmHg}}.",
       "noteId": "cardiovascular-practical-5d1caac2af6edb7821e4-note",
       "id": "cardiovascular-practical-5d1caac2af6edb7821e4",
       "type": "cloze",
       "clozeNumber": 1,
-      "question": "The protocol sets a maximum occlusion-cuff pressure of {{c1::160 mmHg}}.",
-      "answer": "160 mmHg"
+      "question": "The 2026–27 handout sets a maximum occlusion-cuff pressure of {{c1::150 mmHg}}.",
+      "answer": "150 mmHg",
+      "sourceLabel": "2026–27 practical handout"
     },
     {
       "topic": "Occlusion protocol",
       "slide": 20,
-      "explanation": "Pain, discomfort, numbness or tingling requires immediate release; this remains a supervised lab procedure.",
+      "explanation": "The current handout supersedes the one-minute period in the older supplied theory slides. Stop immediately for pain, discomfort, numbness or tingling.",
       "images": [],
       "showImagesFront": false,
       "draft": false,
       "status": "new",
       "importance": "standard",
       "difficulty": "easy",
-      "text": "The maximum stated cuff-occlusion period is {{c1::one minute}}.",
+      "text": "The 2026–27 handout limits the cuff-occlusion period to {{c1::30 seconds}}.",
       "noteId": "cardiovascular-practical-f6836195257b6894beb9-note",
       "id": "cardiovascular-practical-f6836195257b6894beb9",
       "type": "cloze",
       "clozeNumber": 1,
-      "question": "The maximum stated cuff-occlusion period is {{c1::one minute}}.",
-      "answer": "one minute"
+      "question": "The 2026–27 handout limits the cuff-occlusion period to {{c1::30 seconds}}.",
+      "answer": "30 seconds",
+      "sourceLabel": "2026–27 practical handout"
     },
     {
       "topic": "Occlusion protocol",
@@ -1055,5 +1059,6 @@
     "hyperaemia": "cardiovascular-practical/hyperaemia.jpg",
     "apparatus": "cardiovascular-practical/apparatus.jpg"
   },
-  "collection": "practical"
+  "collection": "practical",
+  "protocolRevision": 1
 }

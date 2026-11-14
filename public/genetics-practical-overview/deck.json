@@ -1,0 +1,556 @@
+{
+  "version": 2,
+  "lectureId": "genetics-practical-overview",
+  "title": "Medical Genetics Practical — From Sample to Sequence",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "LS5023 practicals upload.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Testing workflow",
+      "slide": 4,
+      "explanation": "The practical sequence includes extraction, amplification, checking products and sequencing.",
+      "images": [
+        "slide-4-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Molecular genetic testing connects a patient sample to a clinically interpreted {{c1::result}}.",
+      "noteId": "genetics-practical-overview-0cc51427b998becd0ce9-note",
+      "id": "genetics-practical-overview-0cc51427b998becd0ce9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Molecular genetic testing connects a patient sample to a clinically interpreted {{c1::result}}.",
+      "answer": "result"
+    },
+    {
+      "topic": "DNA access",
+      "slide": 7,
+      "explanation": "DNA must then be separated from proteins, RNA and other cellular components.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "To access nuclear DNA, extraction must disrupt cell and {{c1::nuclear membranes}}.",
+      "noteId": "genetics-practical-overview-51b690b6e3f254545c07-note",
+      "id": "genetics-practical-overview-51b690b6e3f254545c07",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "To access nuclear DNA, extraction must disrupt cell and {{c1::nuclear membranes}}.",
+      "answer": "nuclear membranes"
+    },
+    {
+      "topic": "DNA access",
+      "slide": 8,
+      "explanation": "This releases cellular contents rather than selectively sequencing a gene.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Detergent in lysis buffer disrupts {{c1::membranes}}.",
+      "noteId": "genetics-practical-overview-03aa43a624fd96ccf711-note",
+      "id": "genetics-practical-overview-03aa43a624fd96ccf711",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Detergent in lysis buffer disrupts {{c1::membranes}}.",
+      "answer": "membranes"
+    },
+    {
+      "topic": "DNA cleanup",
+      "slide": 8,
+      "explanation": "This is distinct from RNase, which targets RNA.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Proteinase K helps remove contaminating {{c1::proteins}}.",
+      "noteId": "genetics-practical-overview-062c8f8a8bd2c2e18931-note",
+      "id": "genetics-practical-overview-062c8f8a8bd2c2e18931",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Proteinase K helps remove contaminating {{c1::proteins}}.",
+      "answer": "proteins"
+    },
+    {
+      "topic": "DNA cleanup",
+      "slide": 8,
+      "explanation": "Without cleanup, other nucleic acids can confound a DNA yield estimate.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "RNase removes {{c1::RNA}} during DNA preparation.",
+      "noteId": "genetics-practical-overview-82662f1723a84ae39d3b-note",
+      "id": "genetics-practical-overview-82662f1723a84ae39d3b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "RNase removes {{c1::RNA}} during DNA preparation.",
+      "answer": "RNA"
+    },
+    {
+      "topic": "Silica purification",
+      "slide": 9,
+      "explanation": "DNA location changes across the extraction steps, so identify the relevant fraction.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "High-salt binding conditions retain DNA on a {{c1::silica membrane}}.",
+      "noteId": "genetics-practical-overview-5147bbc6cef41bfdde37-note",
+      "id": "genetics-practical-overview-5147bbc6cef41bfdde37",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "High-salt binding conditions retain DNA on a {{c1::silica membrane}}.",
+      "answer": "silica membrane"
+    },
+    {
+      "topic": "Silica purification",
+      "slide": 9,
+      "explanation": "The source contrasts binding and elution conditions; DNA is no longer trapped on the membrane.",
+      "images": [
+        "slide-9-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Elution releases DNA from silica into {{c1::solution}}.",
+      "noteId": "genetics-practical-overview-3631588784c4c757dfdb-note",
+      "id": "genetics-practical-overview-3631588784c4c757dfdb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Elution releases DNA from silica into {{c1::solution}}.",
+      "answer": "solution"
+    },
+    {
+      "topic": "Quality control",
+      "slide": 10,
+      "explanation": "A high concentration alone does not establish suitability for downstream reactions.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "DNA preparation should be assessed for quantity and {{c1::purity}}.",
+      "noteId": "genetics-practical-overview-a22a482d7ad917008e0e-note",
+      "id": "genetics-practical-overview-a22a482d7ad917008e0e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "DNA preparation should be assessed for quantity and {{c1::purity}}.",
+      "answer": "purity"
+    },
+    {
+      "topic": "Amplification",
+      "slide": 11,
+      "explanation": "Two primers are used together for amplification.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "PCR uses forward and reverse {{c1::primers}} to define its target region.",
+      "noteId": "genetics-practical-overview-2ef108ce985136fedc40-note",
+      "id": "genetics-practical-overview-2ef108ce985136fedc40",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "PCR uses forward and reverse {{c1::primers}} to define its target region.",
+      "answer": "primers"
+    },
+    {
+      "topic": "Amplification",
+      "slide": 11,
+      "explanation": "Its heat stability supports thermal cycling.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Taq polymerase is derived from Thermus {{c1::aquaticus}}.",
+      "noteId": "genetics-practical-overview-d4fce4df32591f14963e-note",
+      "id": "genetics-practical-overview-d4fce4df32591f14963e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Taq polymerase is derived from Thermus {{c1::aquaticus}}.",
+      "answer": "aquaticus"
+    },
+    {
+      "topic": "Amplification",
+      "slide": 11,
+      "explanation": "It retains the other reaction components to reveal contamination.",
+      "images": [
+        "slide-11-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A no-template control replaces template DNA with {{c1::water}}.",
+      "noteId": "genetics-practical-overview-cdc76f322cece1e2f5c6-note",
+      "id": "genetics-practical-overview-cdc76f322cece1e2f5c6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A no-template control replaces template DNA with {{c1::water}}.",
+      "answer": "water"
+    },
+    {
+      "topic": "Product checking",
+      "slide": 13,
+      "explanation": "The no-template control is checked alongside the sample.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Agarose gel electrophoresis checks whether PCR produced an {{c1::amplicon}}.",
+      "noteId": "genetics-practical-overview-8863fd8c13852d9d71e5-note",
+      "id": "genetics-practical-overview-8863fd8c13852d9d71e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Agarose gel electrophoresis checks whether PCR produced an {{c1::amplicon}}.",
+      "answer": "amplicon"
+    },
+    {
+      "topic": "Product checking",
+      "slide": 14,
+      "explanation": "Band position should be interpreted relative to a size standard.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A DNA ladder provides known fragment sizes for estimating {{c1::amplicon length}}.",
+      "noteId": "genetics-practical-overview-fb8536f2fa91a52dc927-note",
+      "id": "genetics-practical-overview-fb8536f2fa91a52dc927",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A DNA ladder provides known fragment sizes for estimating {{c1::amplicon length}}.",
+      "answer": "amplicon length"
+    },
+    {
+      "topic": "Product checking",
+      "slide": 14,
+      "explanation": "In this practical the system uses UV excitation; DNA itself is not intrinsically visible as a bright band.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A gel documentation system makes DNA visible through fluorescent {{c1::dyes}}.",
+      "noteId": "genetics-practical-overview-c22712bf58a755ff2c0e-note",
+      "id": "genetics-practical-overview-c22712bf58a755ff2c0e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A gel documentation system makes DNA visible through fluorescent {{c1::dyes}}.",
+      "answer": "dyes"
+    },
+    {
+      "topic": "Product checking",
+      "slide": 14,
+      "explanation": "A photograph without lane identities or interpretation cannot adequately support the result.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A report's gel image should have clear {{c1::labels}}.",
+      "noteId": "genetics-practical-overview-568b2c82c420745e620d-note",
+      "id": "genetics-practical-overview-568b2c82c420745e620d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A report's gel image should have clear {{c1::labels}}.",
+      "answer": "labels"
+    },
+    {
+      "topic": "Sequencing",
+      "slide": 15,
+      "explanation": "This differs from the two primers combined in the amplification PCR.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The practical uses separate forward and reverse {{c1::sequencing reactions}}.",
+      "noteId": "genetics-practical-overview-148a6dc5c63663886120-note",
+      "id": "genetics-practical-overview-148a6dc5c63663886120",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The practical uses separate forward and reverse {{c1::sequencing reactions}}.",
+      "answer": "sequencing reactions"
+    },
+    {
+      "topic": "Sequencing",
+      "slide": 15,
+      "explanation": "Extraction, amplification and sequencing answer different experimental needs.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The template for the sequencing reaction is the PCR {{c1::product}}.",
+      "noteId": "genetics-practical-overview-3a28b096776175f82f02-note",
+      "id": "genetics-practical-overview-3a28b096776175f82f02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The template for the sequencing reaction is the PCR {{c1::product}}.",
+      "answer": "product"
+    },
+    {
+      "topic": "Reporting",
+      "slide": 19,
+      "explanation": "Product checking establishes an amplification outcome; sequence analysis is required for a sequence-level conclusion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A visible gel band does not by itself identify the pathogenic {{c1::variant}}.",
+      "noteId": "genetics-practical-overview-14f2e76cf809eb079681-note",
+      "id": "genetics-practical-overview-14f2e76cf809eb079681",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A visible gel band does not by itself identify the pathogenic {{c1::variant}}.",
+      "answer": "variant"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 1",
+      "text": "\nLS5023: Practicals\nDR ANDREW MAY | a.may@kingston.ac.uk",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 2",
+      "text": "Provide a complete overview of the three practicals in the module\nUnderstand the purpose and procedure of both the ‘wet’ and ‘dry’ laboratory work\nAppreciate the importance of the clinical report assessment\nLECTURE OBJECTIVES",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 3",
+      "text": "GENETIC TESTING\nTesting, 1, 2, 3\nGenetic testing has applications at every stage of the human lifespan, many of which are for medical purposes",
+      "images": [
+        "slide-3-image-1",
+        "slide-3-image-2"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 4",
+      "text": "GENETIC TESTING\nHow it’s done\nWhile there are many different applications of genetic testing, the general process per test is roughly the same \n\nIn your practical, you will conduct genetic testing for a single gene disorder and report back to the patient\n(steps 2-6)",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 5",
+      "text": "GENETIC TESTING\nCystic fibrosis\nTay-Sachs\nBeta thalassaemia\nPhenylketonuria\nLab Groups\n\n\n\n\nPatients\nPatient 1\nPatient 2\nPatient 3\nPatient 4\nIndications\nA\nB\nC\nD\nE\nF\nG\nH\nI",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 6",
+      "text": "1. SAMPLE COLLECTION\nObtaining DNA\nSamples for DNA extraction are acquired from the patient using one of several methods\n\nThe method depends on various factors, especially the age of the patient",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 7",
+      "text": "2. DNA EXTRACTION\nBreaking and entering\nDNA is safely stored behind two membranes, the cellular and the nuclear\n\nThe cell houses many other components as well, including organelles, RNA, proteins etc.\n\nHow do we gain access to the DNA while getting rid of all the other cellular components?",
+      "images": [
+        "slide-7-image-1",
+        "slide-7-image-2"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 8",
+      "text": "2. DNA EXTRACTION\nTime for cleaning\nIn a chemical approach to DNA extraction, we use a detergent to rupture the cell membranes\n\nWe then wash the DNA repeatedly to get rid of excess protein and cellular debris. The enzyme Proteinase K is often used\n\nAn RNase enzyme is used to degrade RNA so that we only extract one type of nucleic acid (DNA) ",
+      "images": [
+        "slide-8-image-1",
+        "slide-8-image-2"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 9",
+      "text": "2. DNA EXTRACTION\nCaught in a net\nYou will extract DNA using a specialised silica membrane. It is very important you keep track of where your DNA is throughout the process!\nThe lysis buffer contains the detergent\n\nThe binding buffer has a high salt concentration, causing the DNA to stick to the silica membrane\n\nThe elution buffer lowers the salt concentration, releasing the DNA from the membrane\n\nDNA in supernatant\n\nDNA in pellet\n\nDNA trapped in silica membrane\n\nDNA in solution\n",
+      "images": [
+        "slide-9-image-1",
+        "slide-9-image-2",
+        "slide-9-image-3"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 10",
+      "text": "2. DNA EXTRACTION\nA quick check-up\nAfter DNA extraction, it is important to check the purity of the yield and quantify the amount obtained\n\nTogether, these checks are usually referred to as DNA quantification, and can be performed by machines like the Biodrop",
+      "images": [
+        "slide-10-image-1",
+        "slide-10-image-2"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 11",
+      "text": "2. DNA AMPLIFICATION\nReady to multiply\nAs the last step of Practical 1, you will use some of your extracted DNA to set up a polymerase chain reaction\n\nA left and right primer are needed to amplify the target region\nThe polymerase used comes from the heat-resistant bacterium Thermus aquaticus\n\nYou will also setup a no-template control (NTC) which contains all the PCR components but no template DNA (water instead)",
+      "images": [
+        "slide-11-image-1"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 12",
+      "text": "2. DNA AMPLIFICATION",
+      "images": [
+        "slide-12-image-1",
+        "slide-12-image-2"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 13",
+      "text": "2. DNA AMPLIFICATION\nRunning up that gel\nIn practical 2, you will check whether your PCR reaction worked, and if you managed to keep your NTC free of contamination\n\nYou will receive an agarose gel that has solidified and is ready for use (part C in the diagram)\n\nAfter loading your sample and your NTC, you’ll leave the gel to run for ~50 mins before returning to check.",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 14",
+      "text": "2. DNA AMPLIFICATION\nSnapping a pic\nOnce the gel has run for long enough, you will view the gel using a gel documentation system (gel doc)\n\nThe gel doc uses UV radiation to excite the dyes in the PCR reaction mixtures, allowing you to see how far the amplicons have moved. A molecular weight marker (ladder) is used to determine the size of the amplicons\n\nThe fully-labelled image of your gel must be included in your practical report ",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 15",
+      "text": "3. DNA SEQUENCING\nAlphabet time\nAt the end of practical 2, you will set up a reaction to sequence your PCR amplicons\n\nThe set up is similar to PCR, but instead of setting up a template and no-template control, you’ll prepare forward and reverse reactions",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 16",
+      "text": "4. DATA COMPARISON\nCompare and despair\nFor practical 3, you will receive the sequence read from your amplified DNA fragment\n\nThe results will be in FASTA format (FAST Alignment) – a simple text file with one continuous sequence ‘wrapped’ into rows.\n\nYour job will be to use bioinformatic tools to find where this sequence aligns against the human reference sequence, and what differences exist",
+      "images": [
+        "slide-16-image-1",
+        "slide-16-image-2"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 17",
+      "text": "4. DATA COMPARISON\nCause and effect\nOnce you have figured out the location of your PCR amplicon, and any differences to the reference genome, you will need to annotate these differences using standard mutation nomenclature",
+      "images": [
+        "slide-17-image-1",
+        "slide-17-image-2"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 18",
+      "text": "5. TEST RESULTS/CONCLUSION\nReporting back\nOnce the consequences of any identified variants are known, it’s time to report back to the patient\n\nIn clear language suitable for both the GP and the patient, you need to explain how the test was conducted (methods), what the results were (results), what the results mean (interpretation), and what the patient/GP should do moving forward (recommendation) ",
+      "images": [
+        "slide-18-image-1"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Medical Genetics Practical — From Sample to Sequence — source 19",
+      "text": "1. What if one of my experiments ’fails’?\n2.  What if I miss a practical?\n3. What did other students get ‘wrong’?\n - Diagnosing a different disease\nNo gel picture\nGel picture with no labels or description\n\nFREQUENTLY ASKED QUESTIONS\nReminder: Names of abbreviated human genes are always italicised\nHuman gene | Human protein | Mouse gene | Mouse protein\nCFTR | CFTR | Cftr | Cftr",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "genetics-practical-overview/slide-1-image-1.webp",
+    "slide-3-image-1": "genetics-practical-overview/slide-3-image-1.webp",
+    "slide-3-image-2": "genetics-practical-overview/slide-3-image-2.webp",
+    "slide-4-image-1": "genetics-practical-overview/slide-4-image-1.webp",
+    "slide-6-image-1": "genetics-practical-overview/slide-6-image-1.webp",
+    "slide-7-image-1": "genetics-practical-overview/slide-7-image-1.webp",
+    "slide-7-image-2": "genetics-practical-overview/slide-7-image-2.webp",
+    "slide-8-image-1": "genetics-practical-overview/slide-8-image-1.webp",
+    "slide-8-image-2": "genetics-practical-overview/slide-8-image-2.webp",
+    "slide-9-image-1": "genetics-practical-overview/slide-9-image-1.webp",
+    "slide-9-image-2": "genetics-practical-overview/slide-9-image-2.webp",
+    "slide-9-image-3": "genetics-practical-overview/slide-9-image-3.webp",
+    "slide-10-image-1": "genetics-practical-overview/slide-10-image-1.webp",
+    "slide-10-image-2": "genetics-practical-overview/slide-10-image-2.webp",
+    "slide-11-image-1": "genetics-practical-overview/slide-11-image-1.webp",
+    "slide-12-image-1": "genetics-practical-overview/slide-12-image-1.webp",
+    "slide-12-image-2": "genetics-practical-overview/slide-12-image-2.webp",
+    "slide-13-image-1": "genetics-practical-overview/slide-13-image-1.webp",
+    "slide-14-image-1": "genetics-practical-overview/slide-14-image-1.webp",
+    "slide-15-image-1": "genetics-practical-overview/slide-15-image-1.webp",
+    "slide-16-image-1": "genetics-practical-overview/slide-16-image-1.webp",
+    "slide-16-image-2": "genetics-practical-overview/slide-16-image-2.webp",
+    "slide-17-image-1": "genetics-practical-overview/slide-17-image-1.webp",
+    "slide-17-image-2": "genetics-practical-overview/slide-17-image-2.webp",
+    "slide-18-image-1": "genetics-practical-overview/slide-18-image-1.webp"
+  },
+  "week": 4,
+  "weekEnd": 8
+}

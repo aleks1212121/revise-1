@@ -1,0 +1,641 @@
+{
+  "version": 2,
+  "lectureId": "substrate-metabolism",
+  "title": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis",
+  "moduleId": "physiology-research",
+  "moduleName": "",
+  "moduleCode": "LS5034",
+  "source": "WBSM.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Energy pathways",
+      "slide": 1,
+      "explanation": "This contrasts with the energy requirements of biosynthesis.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Breakdown of complex molecules with energy release is {{c1::catabolism}}.",
+      "noteId": "substrate-metabolism-9a832853ddacf6a19c7c-note",
+      "id": "substrate-metabolism-9a832853ddacf6a19c7c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Breakdown of complex molecules with energy release is {{c1::catabolism}}.",
+      "answer": "catabolism"
+    },
+    {
+      "topic": "Energy pathways",
+      "slide": 1,
+      "explanation": "Both anabolic and catabolic pathways contribute to metabolism.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Building complex compounds using energy is {{c1::anabolism}}.",
+      "noteId": "substrate-metabolism-d8a3eea142cf6af4d207-note",
+      "id": "substrate-metabolism-d8a3eea142cf6af4d207",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Building complex compounds using energy is {{c1::anabolism}}.",
+      "answer": "anabolism"
+    },
+    {
+      "topic": "Energy pathways",
+      "slide": 1,
+      "explanation": "Nutrients must be converted into forms that support ATP regeneration.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The principal immediately usable cellular energy currency is {{c1::ATP}}.",
+      "noteId": "substrate-metabolism-352c43f6e161a32f1f5b-note",
+      "id": "substrate-metabolism-352c43f6e161a32f1f5b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The principal immediately usable cellular energy currency is {{c1::ATP}}.",
+      "answer": "ATP"
+    },
+    {
+      "topic": "Energy pathways",
+      "slide": 1,
+      "explanation": "The lecture uses substrate interconversion to connect different nutrient pools.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Making glucose from non-carbohydrate precursors is {{c1::gluconeogenesis}}.",
+      "noteId": "substrate-metabolism-b8bee01efa8b88d3f535-note",
+      "id": "substrate-metabolism-b8bee01efa8b88d3f535",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Making glucose from non-carbohydrate precursors is {{c1::gluconeogenesis}}.",
+      "answer": "gluconeogenesis"
+    },
+    {
+      "topic": "Energy pathways",
+      "slide": 1,
+      "explanation": "Energy substrate categories can be interconverted rather than stored independently.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Conversion of excess carbohydrate-derived carbon into fat is {{c1::lipogenesis}}.",
+      "noteId": "substrate-metabolism-d7d0ca0244a9c4b8dbf2-note",
+      "id": "substrate-metabolism-d7d0ca0244a9c4b8dbf2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Conversion of excess carbohydrate-derived carbon into fat is {{c1::lipogenesis}}.",
+      "answer": "lipogenesis"
+    },
+    {
+      "topic": "Whole-body perspective",
+      "slide": 4,
+      "explanation": "It asks where fuel comes from and where it goes, beyond one intracellular pathway.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Whole-body substrate metabolism tracks fuel movement between {{c1::organs and stores}}.",
+      "noteId": "substrate-metabolism-813cd216ab7db881c36b-note",
+      "id": "substrate-metabolism-813cd216ab7db881c36b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Whole-body substrate metabolism tracks fuel movement between {{c1::organs and stores}}.",
+      "answer": "organs and stores"
+    },
+    {
+      "topic": "Whole-body perspective",
+      "slide": 4,
+      "explanation": "Glucose, fatty acids and amino acids also participate in whole-body fuel handling.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "During prolonged fasting, an important additional fuel class is {{c1::ketone bodies}}.",
+      "noteId": "substrate-metabolism-9b3530109e063d06034a-note",
+      "id": "substrate-metabolism-9b3530109e063d06034a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During prolonged fasting, an important additional fuel class is {{c1::ketone bodies}}.",
+      "answer": "ketone bodies"
+    },
+    {
+      "topic": "Whole-body perspective",
+      "slide": 4,
+      "explanation": "This complements nutrient storage during surplus.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Releasing stored fuel when intake is insufficient is substrate {{c1::mobilisation}}.",
+      "noteId": "substrate-metabolism-47af40a9a3c22bbf4ff2-note",
+      "id": "substrate-metabolism-47af40a9a3c22bbf4ff2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Releasing stored fuel when intake is insufficient is substrate {{c1::mobilisation}}.",
+      "answer": "mobilisation"
+    },
+    {
+      "topic": "Homeostasis",
+      "slide": 5,
+      "explanation": "The destination and use of fuel change with physiological state.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Hormones and nutritional status regulate substrate {{c1::partitioning}}.",
+      "noteId": "substrate-metabolism-2bb44429bb12a2a33c8c-note",
+      "id": "substrate-metabolism-2bb44429bb12a2a33c8c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Hormones and nutritional status regulate substrate {{c1::partitioning}}.",
+      "answer": "partitioning"
+    },
+    {
+      "topic": "Prandial cycle",
+      "slide": 6,
+      "explanation": "The lecture gives an approximate duration of four hours; actual timing varies with the meal.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The period of nutrient absorption after a meal is the {{c1::absorptive state}}.",
+      "noteId": "substrate-metabolism-d7ae62d1190c43f3baa7-note",
+      "id": "substrate-metabolism-d7ae62d1190c43f3baa7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The period of nutrient absorption after a meal is the {{c1::absorptive state}}.",
+      "answer": "absorptive state"
+    },
+    {
+      "topic": "Prandial cycle",
+      "slide": 6,
+      "explanation": "Endogenous stores increasingly supply circulating fuel.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Between meals after absorption, the body enters the {{c1::postabsorptive state}}.",
+      "noteId": "substrate-metabolism-2cf290619cd56e19716a-note",
+      "id": "substrate-metabolism-2cf290619cd56e19716a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Between meals after absorption, the body enters the {{c1::postabsorptive state}}.",
+      "answer": "postabsorptive state"
+    },
+    {
+      "topic": "Prandial cycle",
+      "slide": 6,
+      "explanation": "This is a teaching boundary rather than an instantaneous physiological switch.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The lecture uses over {{c1::24 hours without food}} as its prolonged-fasting category.",
+      "noteId": "substrate-metabolism-0d42846d2641f3488f9b-note",
+      "id": "substrate-metabolism-0d42846d2641f3488f9b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lecture uses over {{c1::24 hours without food}} as its prolonged-fasting category.",
+      "answer": "24 hours without food"
+    },
+    {
+      "topic": "Homeostasis",
+      "slide": 7,
+      "explanation": "It is dynamic regulation, not an absence of biochemical change.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Homeostasis actively maintains a relatively stable {{c1::internal state}}.",
+      "noteId": "substrate-metabolism-8c02f8634805eba82aa8-note",
+      "id": "substrate-metabolism-8c02f8634805eba82aa8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Homeostasis actively maintains a relatively stable {{c1::internal state}}.",
+      "answer": "internal state"
+    },
+    {
+      "topic": "Homeostasis",
+      "slide": 7,
+      "explanation": "Liver, muscle, adipose tissue and endocrine signals are linked.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Control of circulating nutrients requires coordinated responses across {{c1::multiple organs}}.",
+      "noteId": "substrate-metabolism-82f0a6750c7718b03c50-note",
+      "id": "substrate-metabolism-82f0a6750c7718b03c50",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Control of circulating nutrients requires coordinated responses across {{c1::multiple organs}}.",
+      "answer": "multiple organs"
+    },
+    {
+      "topic": "Circulating fuels",
+      "slide": 8,
+      "explanation": "The source contrasts low fed-state concentrations with much higher prolonged-fasting values.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Ketone concentrations generally rise during prolonged {{c1::fasting}}.",
+      "noteId": "substrate-metabolism-69c383df39d6a567b31c-note",
+      "id": "substrate-metabolism-69c383df39d6a567b31c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ketone concentrations generally rise during prolonged {{c1::fasting}}.",
+      "answer": "fasting"
+    },
+    {
+      "topic": "Fuel stores",
+      "slide": 8,
+      "explanation": "The source gives kilogram-scale fat versus hundreds of grams of glycogen; exact amounts vary.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The body's fat store is much larger by mass than its {{c1::glycogen stores}}.",
+      "noteId": "substrate-metabolism-2ec830153c1565fa3e16-note",
+      "id": "substrate-metabolism-2ec830153c1565fa3e16",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The body's fat store is much larger by mass than its {{c1::glycogen stores}}.",
+      "answer": "glycogen stores"
+    },
+    {
+      "topic": "Energy balance",
+      "slide": 9,
+      "explanation": "Excess energy must be stored; long-term regulation is influenced by biological and environmental factors.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Sustained intake above expenditure produces {{c1::positive energy balance}}.",
+      "noteId": "substrate-metabolism-ef30549935f85b4d6c8a-note",
+      "id": "substrate-metabolism-ef30549935f85b4d6c8a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sustained intake above expenditure produces {{c1::positive energy balance}}.",
+      "answer": "positive energy balance"
+    },
+    {
+      "topic": "Metabolic dysregulation",
+      "slide": 9,
+      "explanation": "The problem is coordinated fuel handling, not simply a single abnormal metabolite.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Obesity and insulin resistance can reflect chronic disturbance of {{c1::substrate homeostasis}}.",
+      "noteId": "substrate-metabolism-a0ef38463fcddf6b7ac3-note",
+      "id": "substrate-metabolism-a0ef38463fcddf6b7ac3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Obesity and insulin resistance can reflect chronic disturbance of {{c1::substrate homeostasis}}.",
+      "answer": "substrate homeostasis"
+    },
+    {
+      "topic": "Metabolic dysregulation",
+      "slide": 9,
+      "explanation": "The lecture also notes reduced mitochondrial function.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Ageing can reduce muscle mass and insulin {{c1::sensitivity}}.",
+      "noteId": "substrate-metabolism-d0d94f885ea7c46ce312-note",
+      "id": "substrate-metabolism-d0d94f885ea7c46ce312",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Ageing can reduce muscle mass and insulin {{c1::sensitivity}}.",
+      "answer": "sensitivity"
+    },
+    {
+      "topic": "Metabolic dysregulation",
+      "slide": 10,
+      "explanation": "This is one reason short interventions may not yield lasting control; it does not mean all treatment responses are identical.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Weight regain after treatment withdrawal supports obesity's {{c1::chronic relapsing}} character.",
+      "noteId": "substrate-metabolism-f1ea733e7bced06282f8-note",
+      "id": "substrate-metabolism-f1ea733e7bced06282f8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Weight regain after treatment withdrawal supports obesity's {{c1::chronic relapsing}} character.",
+      "answer": "chronic relapsing"
+    },
+    {
+      "topic": "Energy conservation",
+      "slide": 13,
+      "explanation": "The slide's simple intake=output equation applies to stable stores; weight gain requires including the storage term.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Energy intake minus energy expenditure changes body energy {{c1::stores}}.",
+      "noteId": "substrate-metabolism-231732a6d43774d979c2-note",
+      "id": "substrate-metabolism-231732a6d43774d979c2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Energy intake minus energy expenditure changes body energy {{c1::stores}}.",
+      "answer": "stores"
+    },
+    {
+      "topic": "Energy conservation",
+      "slide": 13,
+      "explanation": "Energy is transformed, not created or destroyed.",
+      "images": [
+        "slide-13-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Energy released by metabolism can appear as work and {{c1::heat}}.",
+      "noteId": "substrate-metabolism-60fc06b8511c104344c8-note",
+      "id": "substrate-metabolism-60fc06b8511c104344c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Energy released by metabolism can appear as work and {{c1::heat}}.",
+      "answer": "heat"
+    },
+    {
+      "topic": "Appetite control",
+      "slide": 17,
+      "explanation": "The diagram contrasts homeostatic signals with higher-level drivers; personal choice alone is not a full mechanism.",
+      "images": [
+        "slide-17-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Appetite integrates physiological signals with environmental and {{c1::reward-related influences}}.",
+      "noteId": "substrate-metabolism-ec0458509ca028535169-note",
+      "id": "substrate-metabolism-ec0458509ca028535169",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Appetite integrates physiological signals with environmental and {{c1::reward-related influences}}.",
+      "answer": "reward-related influences"
+    },
+    {
+      "topic": "Metabolic risk",
+      "slide": 19,
+      "explanation": "It is one of the lecture's four central metabolic risk changes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Persistently raised blood glucose is {{c1::hyperglycaemia}}.",
+      "noteId": "substrate-metabolism-6bb0268b7953cf71469a-note",
+      "id": "substrate-metabolism-6bb0268b7953cf71469a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Persistently raised blood glucose is {{c1::hyperglycaemia}}.",
+      "answer": "hyperglycaemia"
+    },
+    {
+      "topic": "Metabolic risk",
+      "slide": 19,
+      "explanation": "The risk cluster also includes central obesity and raised blood pressure.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Raised circulating lipids are termed {{c1::hyperlipidaemia}}.",
+      "noteId": "substrate-metabolism-097771da249fdf5f6e6f-note",
+      "id": "substrate-metabolism-097771da249fdf5f6e6f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Raised circulating lipids are termed {{c1::hyperlipidaemia}}.",
+      "answer": "hyperlipidaemia"
+    },
+    {
+      "topic": "Metabolic risk",
+      "slide": 19,
+      "explanation": "The final slide ties nutrient handling to NCD risk.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Metabolic disease can be viewed as loss of control of {{c1::substrate homeostasis}}.",
+      "noteId": "substrate-metabolism-5a1ef6014ae7c4cfb7f4-note",
+      "id": "substrate-metabolism-5a1ef6014ae7c4cfb7f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Metabolic disease can be viewed as loss of control of {{c1::substrate homeostasis}}.",
+      "answer": "substrate homeostasis"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 1",
+      "text": "Energy Metabolism in the Human Body \nRefers to the sum of all biochemical processes involved in the breakdown, utilization, and synthesis of energy-providing substrates throughout the entire body. These substrates primarily include carbohydrates, fats and proteins.\nThe process encompasses:\nCatabolism: The breakdown of complex molecules into simpler forms, releasing energy.\nAnabolism: The building up of compounds, which requires energy.\nEnergy production: The conversion of nutrients into usable cellular energy, primarily in the form of ATP.\nSubstrate interconversion: The transformation of one type of substrate into another, such as gluconeogenesis (eg protein to glucose) or lipogenesis (eg carbohydrate to fat).\n",
+      "images": []
+    },
+    {
+      "number": 2,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 2",
+      "text": "Overview of Whole-body substrate metabolism\nWhole body control\n\n\n",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 3",
+      "text": "Approximately how long could the ATP in the human body sustain energy demands\nA. About 6 hours\nB. About 1 hour\nC. About 5 minutes \nD. About 30 seconds \nE. About 2-3 seconds  ",
+      "images": []
+    },
+    {
+      "number": 4,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 4",
+      "text": "Whole-body substrate metabolism \nRefers to the way the entire body takes up, utilises, stores, and switches between different energy sources (substrates) to meet its metabolic demands.\nStorage and mobilization and partitioning:  The storage of excess nutrients and their mobilization when needed.\nWhat are the metabolic consequences of dysregulated nutrient handling.\nThe main substrates : Carbohydrates (primarily glucose and glycogen) Lipids (fats) (fatty acids and triglycerides) Proteins (amino acids) and Ketone bodies (during fasting or carbohydrate restriction)\n“Normal metabolism focuses on what is happening inside a single cell, whereas whole-body substrate metabolism focuses on where the fuel for the entire body is coming from and where it is going and how this happens.”\n\n",
+      "images": []
+    },
+    {
+      "number": 5,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 5",
+      "text": "Whole-body substrate metabolism in health\nRegulated by various factors, including hormones, nutritional status, and overall health.\n\nPlays a crucial role in maintaining energy homeostasis, supporting physical activity, and adapting to different physiological and pathological states.",
+      "images": []
+    },
+    {
+      "number": 6,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 6",
+      "text": "A challenge to homeostasis:  The Prandial Cycle  \nThe body shifts back and forth physiologically between the absorptive and the postabsorptive state.\n\nAbsorptive state:\n- Absorption of energy.\n- Lasts for approximately 4 hours after eating.\n\nPostabsorptive state:\n- At least 4 hours after the meal.\n\nFasting state: >24 hours with no food\n      \nOther States\n\n",
+      "images": []
+    },
+    {
+      "number": 7,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 7",
+      "text": "Control and Integration of metabolic homeostasis\nHomeostasis: refers to any process that living things use to actively maintain stable conditions necessary for survival, A steady state or homeostasis may be maintained by many systems operating together. \nTAG\n\nWhole-body substrate metabolism is closely linked to the maintenance of nutrient concentrations in the blood\nEndogenous Glucose Production",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 8",
+      "text": " | \nSubstrate | Typical fasting concentration\nGlucose | 4-6 mmol/L\nFree fatty acids | ~0.2-0.8 mmol/L\nTriglycerides | ~0.5-1.2 mmol/L\nKetone bodies | <0.1 mmol/L in the fed state; can rise to 5-7 mmol/L during prolonged fasting\nAmino acids (total plasma) | ~2-3 mmol/L\nMajor Energy Substrates in Blood\nGlucose: Blood constant, liver 80-120g, muscle 300-500g\nFat 10-20kg ",
+      "images": []
+    },
+    {
+      "number": 9,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 9",
+      "text": "Need to maintain energy balance and \u000bmetabolic homeostasis\nThe most common chronic challenge to metabolic homeostasis is a prolonged mismatch between energy intake and energy expenditure, resulting in obesity and insulin resistance.\n\nObesity can be viewed as a state in which these regulatory systems are chronically challenged\n\nSustained positive energy balance cause alterations in whole-body substrate utilisation\n\nNote: Aging - progressive loss of muscle mass, reduced mitochondrial function, and decreased insulin sensitivity.",
+      "images": []
+    },
+    {
+      "number": 10,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 10",
+      "text": "Is obesity a chronic disease?\u000b\nChronic = lifelong treatment required (similar to hypertension, diabetes, asthma)\n\nTreatment does not cure disease\n\nRecurs after treatment is withdrawn\n\nNo short-term solutions\n\nCan be associated with multiple organ-specific pathology\n\n",
+      "images": []
+    },
+    {
+      "number": 11,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 11",
+      "text": "Multi-organ specific pathology\u000b",
+      "images": [
+        "slide-11-image-1",
+        "slide-11-image-2"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 12",
+      "text": "If body weight is determined by energy balance, is obesity simply the result of personal choice?\u000b\u000bIs it simply a matter of personal responsibility?\u000b\u000bWho is responsible for what you eat?\u000b\u000b",
+      "images": []
+    },
+    {
+      "number": 13,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 13",
+      "text": "First law of thermodynamics\nEnergy can neither be created or destroyed, but can be converted from one form to another. The energy liberated by our bodies appears as external work, energy storage and heat.\n\nTotal energy intake = Energy output\n\n",
+      "images": [
+        "slide-13-image-1"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 14",
+      "text": "Regulation of Food Intake and activity\u000b",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 15",
+      "text": "Olympic champion Michael Phelps ",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 16",
+      "text": "Breakfast\n• 3 fried egg sandwiches\n• 5-egg omelette\n• 3 chocolate-chip pancakes\n• bowl of grits with 3 slices French toast, \nsugar coated, cheese, tomatoes, lettuce, \nfried onions and mayonnaise\n•2 cups of coffee\n\nLunch\n• 500 g (1 lb) pasta with carbonara sauce\n• 1 large pizza\n• energy drinks\n\nDinner\n• 500 g (1 lb) pasta\n• 2 large sandwiches of ham and cheese \nwith mayonnaise on white bread\n• energy drinks\n \nTypical food intake on one day as reported by press during training",
+      "images": [
+        "slide-16-image-1"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 17",
+      "text": "Major factors determining control of appetite and regulation of energy balance\nZheng H, Berthoud HR (2008) Neural systems controlling the drive to eat: mind versus metabolism. Physiology (Bethesda). 23:75-83.\n",
+      "images": [
+        "slide-17-image-1"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 18",
+      "text": "\n\n\n\n",
+      "images": [
+        "slide-18-image-1",
+        "slide-18-image-2"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Whole-body Substrate Metabolism — Fuel Balance & Homeostasis — source 19",
+      "text": "Our Focus will be on metabolic dysregulation Metabolic disease is essentially a loss of control of substrate homeostasis.\n\n\n\nFour key metabolic changes that increase risk of NCDs\n\nCentral obesity\nHyperglycaemia\nHyperlipidaemia\nRaised blood pressure\n\nIn the context of the major nutrients consumed",
+      "images": []
+    }
+  ],
+  "media": {
+    "slide-2-image-1": "substrate-metabolism/slide-2-image-1.webp",
+    "slide-7-image-1": "substrate-metabolism/slide-7-image-1.webp",
+    "slide-11-image-1": "substrate-metabolism/slide-11-image-1.webp",
+    "slide-11-image-2": "substrate-metabolism/slide-11-image-2.webp",
+    "slide-13-image-1": "substrate-metabolism/slide-13-image-1.webp",
+    "slide-14-image-1": "substrate-metabolism/slide-14-image-1.webp",
+    "slide-15-image-1": "substrate-metabolism/slide-15-image-1.webp",
+    "slide-16-image-1": "substrate-metabolism/slide-16-image-1.webp",
+    "slide-17-image-1": "substrate-metabolism/slide-17-image-1.webp",
+    "slide-18-image-1": "substrate-metabolism/slide-18-image-1.webp",
+    "slide-18-image-2": "substrate-metabolism/slide-18-image-2.webp"
+  },
+  "week": 2,
+  "weekEnd": 2
+}

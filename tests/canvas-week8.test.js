@@ -1,0 +1,14 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync,existsSync} from 'node:fs';import {deletions} from '../src/cloze.js';import {moduleFor} from '../src/modules.js';import {lectureSummary} from '../src/summary-notes.js';import {teachingWeek} from '../src/teaching-weeks.js';import {lectureGroups} from '../src/practical-lectures.js';
+const manifest=JSON.parse(readFileSync(new URL('../docs/canvas-week8-decks.json',import.meta.url)));
+test('all Canvas week 1–8 decks have valid focused cloze notes, original references and local pictures',()=>{
+ assert.equal(manifest.length,21);assert.equal(manifest.reduce((n,d)=>n+d.cards,0),600);const texts=new Set();
+ for(const item of manifest){const d=JSON.parse(readFileSync(new URL(`../public/${item.id}/deck.json`,import.meta.url)));assert.equal(d.cards.length,item.cards);assert.equal(moduleFor(d),item.module);assert.equal(teachingWeek(d).start,item.week);assert.equal(lectureSummary(d).reviewed,true);assert.equal(lectureGroups([d]).practical.length,item.practical?1:0);assert.equal(d.generation,'reviewed');assert.ok(d.slides.length>0);
+  assert.equal(new Set(d.cards.map(c=>c.id)).size,d.cards.length);assert.equal(new Set(d.cards.map(c=>c.text)).size,d.cards.length);
+  for(const c of d.cards){assert.equal(c.type,'cloze');assert.equal(deletions(c.text).length,1);assert.equal(c.showImagesFront,false);assert.ok(d.slides.some(s=>s.number===c.slide));assert.ok(c.explanation.length>15);assert.equal(c.status,'new');assert.equal(c.reviews,undefined);assert.equal(c.dueAt,undefined);assert.ok(['important','standard'].includes(c.importance));assert.ok(['easy','medium','hard'].includes(c.difficulty));for(const key of c.images)assert.ok(d.media[key]);assert.ok(!texts.has(c.text),`Duplicate fact text: ${c.text}`);texts.add(c.text)}
+  for(const path of Object.values(d.media)){assert.ok(path.startsWith(item.id+'/'));assert.ok(existsSync(new URL('../public/'+path,import.meta.url)));}
+ }
+});
+test('source qualifications prevent common mechanism and protocol misconceptions',()=>{
+ const text=id=>JSON.parse(readFileSync(new URL(`../public/${id}/deck.json`,import.meta.url))).cards.map(c=>c.text+' '+c.explanation).join('\n');
+ assert.match(text('sterilisation'),/does not prove that the entire load is sterile/);assert.match(text('human-microbiome'),/does not prove.*causation/s);assert.match(text('population-genetics-1'),/inversion alone changes orientation/);assert.match(text('chromosomal-abnormalities-1'),/outdated stereotype/);assert.match(text('genetics-practical-2'),/tube-number labels conflict/);assert.match(text('breast-cancer-lecture'),/cannot grow is incorrect/);assert.match(text('cardiovascular-practical-handout'),/150 mmHg/);assert.match(text('cardiovascular-practical-handout'),/30 seconds/);
+});

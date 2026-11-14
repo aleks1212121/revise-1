@@ -1,0 +1,561 @@
+{
+  "version": 2,
+  "lectureId": "inheritance-clarification",
+  "title": "Inheritance Clarification — Mendelian Ratios & Exceptions",
+  "moduleId": "medical-genetics",
+  "moduleName": "",
+  "moduleCode": "LS5023",
+  "source": "Clarifying Mendelian vs non-Mendelian inheritance.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Transmission versus phenotype",
+      "slide": 1,
+      "explanation": "The assigned Strome et al. perspective explains why an unusual phenotype ratio does not automatically violate allele segregation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Mendelian transmission should be distinguished using {{c1::genotypic ratios}}, not only visible phenotypic ratios.",
+      "noteId": "inheritance-clarification-f9b0b3c60dd142d88612-note",
+      "id": "inheritance-clarification-f9b0b3c60dd142d88612",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Mendelian transmission should be distinguished using {{c1::genotypic ratios}}, not only visible phenotypic ratios.",
+      "answer": "genotypic ratios"
+    },
+    {
+      "topic": "Transmission versus phenotype",
+      "slide": 2,
+      "explanation": "The relationship between the allele products determines how those three genotypes map onto phenotypes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "In Aa × Aa, Mendelian segregation gives a genotype ratio of {{c1::1:2:1}}.",
+      "noteId": "inheritance-clarification-4c70107be794b6391ef6-note",
+      "id": "inheritance-clarification-4c70107be794b6391ef6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In Aa × Aa, Mendelian segregation gives a genotype ratio of {{c1::1:2:1}}.",
+      "answer": "1:2:1"
+    },
+    {
+      "topic": "Transmission versus phenotype",
+      "slide": 3,
+      "explanation": "An intermediate heterozygote phenotype changes phenotype ratios without changing how its alleles enter gametes.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Incomplete dominance can preserve ordinary Mendelian {{c1::segregation}}.",
+      "noteId": "inheritance-clarification-bb162f0d9a0e3b75718e-note",
+      "id": "inheritance-clarification-bb162f0d9a0e3b75718e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Incomplete dominance can preserve ordinary Mendelian {{c1::segregation}}.",
+      "answer": "segregation"
+    },
+    {
+      "topic": "Transmission versus phenotype",
+      "slide": 3,
+      "explanation": "The model assumes the two specified alleles and equal viability.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Crossing two pink heterozygous snapdragons gives a red:pink:white ratio of {{c1::1:2:1}}.",
+      "noteId": "inheritance-clarification-73ceac1a43018e7a680f-note",
+      "id": "inheritance-clarification-73ceac1a43018e7a680f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Crossing two pink heterozygous snapdragons gives a red:pink:white ratio of {{c1::1:2:1}}.",
+      "answer": "1:2:1"
+    },
+    {
+      "topic": "Transmission versus phenotype",
+      "slide": 3,
+      "explanation": "This is codominance; the alleles still segregate normally.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "AB blood type expresses both {{c1::A and B antigens}}.",
+      "noteId": "inheritance-clarification-a84de48607e14dfa5b3a-note",
+      "id": "inheritance-clarification-a84de48607e14dfa5b3a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "AB blood type expresses both {{c1::A and B antigens}}.",
+      "answer": "A and B antigens"
+    },
+    {
+      "topic": "Multiple alleles",
+      "slide": 3,
+      "explanation": "Multiple population alleles do not abolish Mendelian segregation.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A population can have many alleles while a typical diploid individual carries {{c1::two}} at one locus.",
+      "noteId": "inheritance-clarification-a7af2e619663a1ce86a5-note",
+      "id": "inheritance-clarification-a7af2e619663a1ce86a5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A population can have many alleles while a typical diploid individual carries {{c1::two}} at one locus.",
+      "answer": "two"
+    },
+    {
+      "topic": "Dominance and viability",
+      "slide": 4,
+      "explanation": "The agouti example is dominant for yellow coat colour but recessive for embryonic lethality.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "An allele can be dominant for one phenotype and recessive for {{c1::another}}.",
+      "noteId": "inheritance-clarification-c831cd28a462b9feac86-note",
+      "id": "inheritance-clarification-c831cd28a462b9feac86",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "An allele can be dominant for one phenotype and recessive for {{c1::another}}.",
+      "answer": "another"
+    },
+    {
+      "topic": "Dominance and viability",
+      "slide": 4,
+      "explanation": "For the stated agouti cross, embryonic lethality removes the homozygous-lethal class; segregation itself was not distorted.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Loss of one homozygous genotype can change surviving offspring from a 1:2:1 ratio to {{c1::2:1}}.",
+      "noteId": "inheritance-clarification-3308c2b86da090660e3d-note",
+      "id": "inheritance-clarification-3308c2b86da090660e3d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Loss of one homozygous genotype can change surviving offspring from a 1:2:1 ratio to {{c1::2:1}}.",
+      "answer": "2:1"
+    },
+    {
+      "topic": "Dominance and viability",
+      "slide": 4,
+      "explanation": "Count the life stage being measured before inferring a transmission mechanism.",
+      "images": [
+        "figure-3"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A skewed ratio among survivors can reflect differential {{c1::viability}} rather than unusual gamete segregation.",
+      "noteId": "inheritance-clarification-258dcf8e294f9e495f33-note",
+      "id": "inheritance-clarification-258dcf8e294f9e495f33",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A skewed ratio among survivors can reflect differential {{c1::viability}} rather than unusual gamete segregation.",
+      "answer": "viability"
+    },
+    {
+      "topic": "Sex-linked transmission",
+      "slide": 4,
+      "explanation": "Different sex-chromosome complements change visible risks without making all X-linked inheritance non-Mendelian.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Sex-linked inheritance can still obey Mendelian {{c1::segregation}}.",
+      "noteId": "inheritance-clarification-df1f9554ffaf5a74f3b3-note",
+      "id": "inheritance-clarification-df1f9554ffaf5a74f3b3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Sex-linked inheritance can still obey Mendelian {{c1::segregation}}.",
+      "answer": "segregation"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 4,
+      "explanation": "Gene-product interactions affect the phenotype after transmission.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Unlinked genes can assort independently even when they act in the same {{c1::biochemical pathway}}.",
+      "noteId": "inheritance-clarification-69a69cda07ef4d130350-note",
+      "id": "inheritance-clarification-69a69cda07ef4d130350",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Unlinked genes can assort independently even when they act in the same {{c1::biochemical pathway}}.",
+      "answer": "biochemical pathway"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 4,
+      "explanation": "Both functional pathway steps are needed for purple pigment.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "In the two-step pigment example, a recessive defect in either step produces {{c1::white flowers}}.",
+      "noteId": "inheritance-clarification-6522a193e7c33c9727a7-note",
+      "id": "inheritance-clarification-6522a193e7c33c9727a7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the two-step pigment example, a recessive defect in either step produces {{c1::white flowers}}.",
+      "answer": "white flowers"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 5,
+      "explanation": "Only the nine-sixteenths with at least one functional allele at both loci are purple.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "hard",
+      "text": "For the stated double-heterozygote complementary pathway cross, purple:white is {{c1::9:7}}.",
+      "noteId": "inheritance-clarification-5fd06bd05231ca4d5191-note",
+      "id": "inheritance-clarification-5fd06bd05231ca4d5191",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "For the stated double-heterozygote complementary pathway cross, purple:white is {{c1::9:7}}.",
+      "answer": "9:7"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 5,
+      "explanation": "Failure to produce the relevant pigment prevents the deposition difference becoming visible.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "The Labrador example's recessive ee genotype masks the {{c1::B-locus phenotype}}.",
+      "noteId": "inheritance-clarification-29654df708ed7c5d62fd-note",
+      "id": "inheritance-clarification-29654df708ed7c5d62fd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Labrador example's recessive ee genotype masks the {{c1::B-locus phenotype}}.",
+      "answer": "B-locus phenotype"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 5,
+      "explanation": "This is why epistasis alone is not proof of a segregation exception.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Epistasis changes phenotypic ratios without necessarily changing {{c1::allele transmission}}.",
+      "noteId": "inheritance-clarification-a80c96d960b9379262fc-note",
+      "id": "inheritance-clarification-a80c96d960b9379262fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Epistasis changes phenotypic ratios without necessarily changing {{c1::allele transmission}}.",
+      "answer": "allele transmission"
+    },
+    {
+      "topic": "Gene interactions",
+      "slide": 5,
+      "explanation": "Many nuclear alleles are still transmitted normally despite a hard-to-predict combined phenotype.",
+      "images": [
+        "figure-4"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A complex polygenic phenotype does not imply that every underlying gene violates {{c1::Mendel's laws}}.",
+      "noteId": "inheritance-clarification-a3f35a712915846ed7c4-note",
+      "id": "inheritance-clarification-a3f35a712915846ed7c4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A complex polygenic phenotype does not imply that every underlying gene violates {{c1::Mendel's laws}}.",
+      "answer": "Mendel's laws"
+    },
+    {
+      "topic": "Linkage",
+      "slide": 5,
+      "explanation": "Recombination frequencies can still be used to predict inheritance; the paper treats this within the wider Mendelian framework.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Physical linkage can prevent two loci from assorting {{c1::independently}}.",
+      "noteId": "inheritance-clarification-fa13e4c90e244a84efad-note",
+      "id": "inheritance-clarification-fa13e4c90e244a84efad",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Physical linkage can prevent two loci from assorting {{c1::independently}}.",
+      "answer": "independently"
+    },
+    {
+      "topic": "Organelle inheritance",
+      "slide": 5,
+      "explanation": "Organelle transmission differs from ordinary biparental nuclear-locus segregation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Animal mitochondrial genomes are inherited predominantly from the {{c1::female parent}}.",
+      "noteId": "inheritance-clarification-700d993b62e17ba41697-note",
+      "id": "inheritance-clarification-700d993b62e17ba41697",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Animal mitochondrial genomes are inherited predominantly from the {{c1::female parent}}.",
+      "answer": "female parent"
+    },
+    {
+      "topic": "Epigenetic inheritance",
+      "slide": 5,
+      "explanation": "The paper highlights DNA methylation, histone modification and small RNAs.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Epigenetic regulation changes gene expression through factors beyond the DNA {{c1::sequence}}.",
+      "noteId": "inheritance-clarification-97ca7876bc7a5f860f75-note",
+      "id": "inheritance-clarification-97ca7876bc7a5f860f75",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Epigenetic regulation changes gene expression through factors beyond the DNA {{c1::sequence}}.",
+      "answer": "sequence"
+    },
+    {
+      "topic": "Epigenetic inheritance",
+      "slide": 5,
+      "explanation": "Unlike an unaltered DNA allele, a regulatory mark is not necessarily transmitted unchanged.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "DNA methylation and histone marks can be removed and reset between {{c1::generations}}.",
+      "noteId": "inheritance-clarification-19ec519400621b303a3f-note",
+      "id": "inheritance-clarification-19ec519400621b303a3f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "DNA methylation and histone marks can be removed and reset between {{c1::generations}}.",
+      "answer": "generations"
+    },
+    {
+      "topic": "Maternal effects",
+      "slide": 5,
+      "explanation": "This differs from simply receiving mitochondrial DNA from the mother.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A maternal-effect phenotype depends on the mother's {{c1::genotype}}.",
+      "noteId": "inheritance-clarification-b197d438db937b0cdd1d-note",
+      "id": "inheritance-clarification-b197d438db937b0cdd1d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A maternal-effect phenotype depends on the mother's {{c1::genotype}}.",
+      "answer": "genotype"
+    },
+    {
+      "topic": "Maternal effects",
+      "slide": 5,
+      "explanation": "Before zygotic transcription, the embryo can depend on products made under maternal genetic control.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Maternal gene products deposited in the {{c1::oocyte}} can direct early development.",
+      "noteId": "inheritance-clarification-e894cf258ee4a58be06f-note",
+      "id": "inheritance-clarification-e894cf258ee4a58be06f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Maternal gene products deposited in the {{c1::oocyte}} can direct early development.",
+      "answer": "oocyte"
+    },
+    {
+      "topic": "Transmission distortion",
+      "slide": 5,
+      "explanation": "This changes allele frequencies among successful gametes or offspring rather than only changing phenotype expression.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Preferential transmission of an allele is called {{c1::meiotic drive}}.",
+      "noteId": "inheritance-clarification-525653aa7d9ed3ef1297-note",
+      "id": "inheritance-clarification-525653aa7d9ed3ef1297",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Preferential transmission of an allele is called {{c1::meiotic drive}}.",
+      "answer": "meiotic drive"
+    },
+    {
+      "topic": "Transmission distortion",
+      "slide": 6,
+      "explanation": "The paper includes sperm-development examples, so distortion need not occur only at chromosome separation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A drive-associated allele can be overrepresented because competing gametes fail to {{c1::function}}.",
+      "noteId": "inheritance-clarification-5058e8d091b043280b02-note",
+      "id": "inheritance-clarification-5058e8d091b043280b02",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A drive-associated allele can be overrepresented because competing gametes fail to {{c1::function}}.",
+      "answer": "function"
+    },
+    {
+      "topic": "Evaluate an exception",
+      "slide": 6,
+      "explanation": "Dominance, epistasis, survival and organelle inheritance are distinct explanations for unusual family or cross ratios.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Before declaring non-Mendelian inheritance, separate allele transmission from gene-product {{c1::effects}}.",
+      "noteId": "inheritance-clarification-12124492e2b15b1bf2a0-note",
+      "id": "inheritance-clarification-12124492e2b15b1bf2a0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Before declaring non-Mendelian inheritance, separate allele transmission from gene-product {{c1::effects}}.",
+      "answer": "effects"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 1",
+      "text": "Clarifying Mendelian vs non-Mendelian inheritance\nSusan Strome,* Needhi Bhalla  \n, Rohinton Kamakaka, Upasna Sharma, William Sullivan  \nDepartment of Molecular, Cell, and Developmental Biology, University of California Santa Cruz, Santa Cruz, CA 95064, USA\n*Corresponding author: Susan Strome, Department of Molecular, Cell, and Developmental Biology, University of California Santa Cruz, Santa Cruz, CA 95064, USA. Email: \nsstrome@ucsc.edu\nGregor Mendel developed the principles of segregation and independent assortment in the mid-1800s based on his detailed analysis of \nseveral traits in pea plants. Those principles, now called Mendel’s laws, in fact, explain the behavior of genes and alleles during meiosis \nand are now understood to underlie “Mendelian inheritance” of a wide range of traits and diseases across organisms. When asked to \ngive examples of inheritance that do NOT follow Mendel’s laws, in other words, examples of non-Mendelian inheritance, students some­\ntimes list incomplete dominance, codominance, multiple alleles, sex-linked traits, and multigene traits and cite as their sources the Khan \nAcademy, Wikipedia, and other online sites. Against this background, the goals of this Perspective are to (1) explain to students, health­\ncare workers, and other stakeholders why the examples above, in fact, display Mendelian inheritance, as they obey Mendel’s laws of \nsegregation and independent assortment, even though they do not produce classic Mendelian phenotypic ratios and (2) urge individuals \nwith an intimate knowledge of genetic principles to monitor the accuracy of learning resources and work with us and those resources to \ncorrect information that is misleading.\nKeywords: genetics; Mendel’s laws; Mendelian inheritance; genotypic and phenotypic ratios\nReceived on 09 November 2023; accepted on 30 April 2024\n© The Author(s) 2024. Published by Oxford University Press on behalf of The Genetics Society of America. \nThis is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which \npermits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.\nThe motivation for this Perspective\nWe were motivated to develop this Perspective by an anecdotal \nreport that students were confused about the basis for cat­\negorizing inheritance as Mendelian vs non-Mendelian. That re­\nport prompted us to survey students in undergraduate classes \nat several institutions on the categorization of various genetic \nphenomena (including complete dominance, incomplete \ndominance, codominance, multiple alleles, sex-linked traits, \nmultigene traits, mitochondrial genes, and epigenetics) as dis­\nplaying Mendelian or non-Mendelian inheritance. Students \nwere also asked to cite their source(s) of information. An over­\nwhelming majority (92%) of the 461 students surveyed correct­\nly classified completely dominant and recessive traits as \nfollowing the rules of Mendelian inheritance. Disturbingly, a \nmuch smaller percentage of students across the 3 institutions \n(25–52% depending on the genetic example) correctly classified \nincomplete dominance, codominance, multiple alleles, sex- \nlinked traits, and multigene traits as Mendelian, and some stu­\ndents who misclassified those as non-Mendelian cited the \nKhan Academy, Wikipedia, and other online sites as their \nsources of information. Indeed, both the Khan Academy and \nWikipedia list incomplete dominance, codominance, multiple \nalleles, and multigene traits as non-Mendelian. Why this con­\nfusion? As developed below, we propose that the confusion \nstems from whether inheritance is categorized based on geno­\ntypic ratios or phenotypic ratios. We argue that inheritance \nshould be classified as Mendelian or non-Mendelian based on \ngenotypic, not phenotypic, ratios, since phenotypic ratios \nreflect the relationship between alleles rather than the mode \nof inheritance.\nIntroduction: what we learned from \nMendel’s work\nMendel developed the principles of segregation, independent as­\nsortment, and dominance based on his studies of 7 traits in \npeas, including flower color, pea color, and pea shape (Mendel \n1865-1866; Bateson 1909; Sturtevant 1965). The pea traits that \nMendel focused on were determined by single genes, each of \nwhich had 2 alternativ alleles, 1 fully dominant and 1 fully reces­\nsive. We now know that most traits in organisms are determined \nby multiple genes, that individual genes often have multiple al­\nleles, and that some alleles display variations in dominance, in­\ncluding \nincomplete \ndominance \nand \ncodominance. \nThe \ninvolvement of multiple genes, the possibility of multiple alleles, \nand unusual dominance relationships between different alleles \ndo not influence how the 2 parental alleles of each gene are sorted \ninto haploid gametes that fuse to form diploid offspring. Thus, the \nresulting offspring traits, whether in peas or other organisms, re­\nsult from parental alleles that follow Mendel’s laws of segregation \nand independent assortment. Because of this, the inheritance pat­\nterns of such traits are often discussed in Genetics textbooks as \nvariations or extensions of Mendelian inheritance (e.g. Russell \n2010; Snustad and Simmons 2016; Pierce 2020; Brooker 2021; \nGoldberg et al. 2021). Because Mendel’s law of dominance does \nnot impact how alleles are inherited but instead how they \nGENETICS, 2024, 227(3), iyae078 \nhttps://doi.org/10.1093/genetics/iyae078\nAdvance Access Publication Date: 28 May 2024 \nPerspectives\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 2",
+      "text": "contribute to phenotypes in offspring, this Perspective focuses on \nMendel’s laws of segregation and independent assortment to clas­\nsify inheritance as Mendelian or non-Mendelian. For a recent and \nhelpful discussion of dominance and recessiveness, see Zschocke \net al. (2023).\nThe molecular basis of segregation and independent assort­\nment of alleles lies in the behavior of chromosomes during mei­\nosis. Mendel did not know about chromosomes and meiosis, but \nthe traits he studied and the principles he formulated beautifully \nand presciently predicted chromosome behavior in meiosis. In \ndiploid organisms, like peas, the 2 versions of each chromosome, \n1 from each parent, segregate into the haploid gametes during \nmeiosis. The union of 2 gametes at fertilization restores diploidy, \nwith offspring inheriting 1 version of each chromosome from each \nparent. The pea traits or “phenotypes” that Mendel studied are \ndictated by genes that reside on chromosomes. The alleles of \nthose genes segregate from each other into gametes during mei­\nosis in the parents and are united at random in the offspring \n(Fig. 1a). This forms the basis for Mendel’s law of segregation. \nWhen different genes are on different chromosomes, as most of \nthe pea genes studied by Mendel are, they behave independently \nof one another (Fig. 1b). This forms the basis for Mendel’s law of \nindependent assortment. The power of our now-deep under­\nstanding of meiosis is the ability to predict offspring genotypes \nand phenotypes and their ratios that parents will produce. \nIndeed, in Mendel’s experiments, he observed that crossing \ntrue-breeding plants with purple flowers (P/P) and true-breeding \nplants with white flowers (p/p) generated all plants with purple \nflowers (P/p); crossing those P/p plants with one another gener­\nated 1/4 P/P purple-flower plants, 2/4 P/p purple-flower plants, \nand 1/4 p/p white-flower plants (Fig. 2a).\nMendel’s published studies (Mendel 1865-1866) focused on 2 \nversions of each of the pea plant traits he studied. For example, \nfor flower color, the dominant P allele led to purple flowers, and \nthe recessive p allele led to white flowers. We now understand \nthe molecular biology for some of those traits and the basis for \nsome of them, such as flower color, to display variations beyond \nthose studied by Mendel (Ellis et al. 2011). Notably, Mendel’s focus \non single-gene, 2-allele traits derived from clear dominant and re­\ncessive relationships enabled him to develop the laws of segrega­\ntion and independent assortment. It is a tribute to Mendel that he \naccurately deduced the transmission of genes and alleles from \nparents to offspring based on analyzing the phenotypes of parents \nand offspring. That has led to some confusion about whether \ngenotypic ratios or phenotypic ratios should dictate whether in­\nheritance is described as Mendelian or non-Mendelian. In this \nPerspective, we discuss the reasoning behind our opinion that \nMendelian inheritance should always be distinguished based on \ngenotypic ratios that derive from segregation and independent as­\nsortment during meiosis.\nIn addition to Mendel’s laws of segregation and independent \nassortment, Mendel’s work led to the recognition of 2 additional \nfeatures of inheritance: that alleles are passed unaltered through \nmultiple generations (even through generations in which a reces­\nsive allele does not display its phenotype due to the presence of a \ndominant allele), and that the phenotypes of individuals are dic­\ntated by their genotypes. We discuss how some examples of \nnon-Mendelian inheritance violate these inheritance features.\nExtensions of Mendel’s laws and variations \nin phenotypic ratios\nIn Mendel’s studies of pea traits, from crosses between heterozy­\ngous parents (e.g. P/p crossed with P/p), the offspring showed a \n1:2:1 genotypic ratio (1 P/P : 2 P/p : 1 p/p) and a 3:1 phenotypic ratio \n(3 purple:1 white; Fig. 2a). The relationships between alleles that \nunderlie variations in dominance, the existence of more than 2 al­\nleles of a gene, sex-linked traits, and multigene traits result in \na\nb\nFig. 1. Punnett squares illustrating Mendel’s laws of segregation and independent assortment. These Punnett squares show the genotypes of gametes \nproduced by each heterozygous parent during meiosis (on the sides of the squares) and the genotypes and phenotypes of the offspring that result from the \nvarious unions of gametes (in the center of the squares). a, b) According to Mendel’s law of segregation, the 2 alleles of a gene are segregated to different \ngametes during meiosis and then united at random, 1 from each parent, at fertilization. b) According to Mendel’s law of independent assortment, when 2 \ngenes are on different chromosomes (i.e. unlinked), they segregate independently. Only offspring phenotypes are shown. In these examples, T is the \ndominant allele that causes pea plants to be tall and G is the dominant allele that causes pea pods to be green.\n2 | S. Strome et al.\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-2-image-1"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 3",
+      "text": "altered phenotypic ratios (as shown in Figs. 2 and 3); nevertheless, \nthe 2 alleles of each gene in an individual still follow the law of \nsegregation during meiosis and still produce Mendelian genotypic \nratios in offspring, thus displaying Mendelian inheritance. This \ncan be seen in Punnett squares (Fig. 1), branch diagrams, and ped­\nigrees (Fig. 3a) showing the passage of alleles from parents to off­\nspring. Below are examples of each, taken from and developed \nmore fully in the textbook “Genetics: From Genes to Genomes” \n7th edition by Goldberg et al. (2021).\nIncomplete dominance\nIn cases of incomplete dominance, the phenotype of a heterozy­\ngote with 2 different alleles of a gene is intermediate between \nthe phenotypes of the homozygotes. An example is flower color \nin snap dragons (Fig. 2b). Homozygotes for an allele that causes \nthe production of red pigment have red flowers. Homozygotes \nfor an allele that does not produce pigment have white flowers. \nHeterozygotes with a red-producing allele and a white allele are \npink, which is intermediate in color between red and white. This \nis because in heterozygotes, only 1 allele produces pigment, which \nis enough to make flowers pink but not enough to make them red. \n(In the case of pea flower color where the P allele shows complete \ndominance, in heterozygous P/p plants, 1 P allele is sufficient to \nmake the flowers purple.) When plants with pink flowers are \ncrossed together, the next generation of plants display all 3 flower \ncolors in the ratio of 1 red : 2 pink : 1 white. Thus, from crossing \nheterozygous snapdragons, both the genotypic and the phenotyp­\nic ratios are 1:2:1. The alleles that control snapdragon flower color \nsegregate properly to gametes during meiosis and thus follow \nMendel’s law of segregation. The phenotypic ratio is different \nfrom what Mendel saw for pea flower color, because the down­\nstream relationship between the 2 alleles of the flower-color \ngene in heterozygotes and the pigment produced differ between \npeas and snap dragons.\nCodominance\nIn cases of codominance, the phenotypes caused by 2 different al­\nleles of the same gene are both expressed. An example is the hu­\nman AB blood type (Fig. 2c). The human blood type is \ndetermined by the I gene. The A allele of the gene (called IA) causes \nred blood cells to have the A sugar on their cell surface. The B al­\nlele (IB) causes red blood cells to have the B sugar on their surface. \nThe IA and IB alleles are codominant: IA/IB individuals have both \nthe A and the B sugars on their red blood cells and therefore \nhave an AB blood type. Thus, from a cross of IA/IB heterozygotes, \nboth the genotypic ratio and the phenotypic ratio observed in off­\nspring are 1:2:1. Once again, although the phenotypic ratio is not \nthe 3:1 of Mendel’s pea flowers, the 2 alleles of the I gene in an in­\ndividual segregate according to Mendel’s law. It is the relationship \nbetween the gene products from the alleles that produces varia­\ntions in phenotypes, particularly in heterozygotes.\nMultiple alleles\nMany genes have more than 2 alleles in a population of indivi­\nduals. An example is the agouti gene in mice, which has at least \n19 alleles (Bultman et al. 1992). Importantly, individual mice \nhave only 2 alleles, and those 2 alleles (whatever those 2 alleles \nmay be) are transmitted in a Mendelian fashion. The alleles dis­\nplay a dominance series; for example, the A allele is dominant \nto the at allele and the a allele, and the at allele is dominant to \nthe a allele. The agouti locus regulates the distribution of yellow \nand black pigment in mouse fur on the back and belly. The various \ncombinations of alleles cause mice to have coat colors that range \nfrom black to gray to yellow, sometimes with different coloration \non the back and belly. The 2 alleles from each parent are \na\nb\nc\nd\nFig. 2. Examples of complete dominance, incomplete dominance, codominance, and variable dominance. From crosses of heterozygous parents, all \ndisplay a Mendelian genotypic ratio of 1:2:1 among offspring and show Mendelian inheritance. a) Complete dominance results in a 3:1 phenotypic ratio, \nas illustrated in Fig. 1a. b) Incomplete dominance, c) codominance, and d) variable dominance cause altered phenotypic ratios as a result of the action of \nthe gene products in offspring.\nMendelian vs non-Mendelian inheritance | 3\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-3-image-1"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 4",
+      "text": "transmitted to offspring exactly as Mendel’s law predicts. The dif­\nference in coat color among offspring is simply the consequence \nof the particular dominance relationship between the molecular \nproducts of the 2 alleles present in an individual mouse.\nThe AY allele of the mouse agouti gene illustrates an additional \nlesson about genes and alleles. The AY allele in heterozygotes, in \ncombination with any of the other agouti alleles (e.g. AY/A), causes \nmice to have yellow fur, while the AY allele in homozygotes \n(AY/AY) causes mice to die during gestation (Fig. 2d). Thus, the \nAY allele has a dominant effect on coat color and a recessive effect \non viability. This underscores that the dominant–recessive rela­\ntionship of 2 alleles of a gene depends on the phenotype being \nanalyzed. Importantly, from a cross of AY/A parents, the genotyp­\nic ratio in embryos is 1:2:1 due to Mendelian segregation, but the \nlethality of AY/AY embryos during in utero development skews \nthe coat-color phenotypic ratio observed in viable offspring to 2:1.\nAn appreciation of the diversity of allele types and interactions \nis emerging from the isolation of many alleles of heavily studied \ngenes (e.g. the mouse agouti gene; Bultman et al. 1992) and the \nnow-common use of high-throughput genome sequencing in de­\nvelopmental and medical genetics (Zschocke et al. 2023). These \nand a number of earlier studies make clear that allele assign­\nments may be more complicated than simply dominant or reces­\nsive, and that phenotypes are dictated by often-complex \ncontributions of multiple allele pairs. These unusual relationships \nhighlight the need for an unambiguous and clear understanding \nof the underlying Mendelian inheritance principles by scientists \nand especially health professionals.\nSex-linked traits\nSex-linked traits in organisms commonly discussed in genetics \ncourses, namely humans and fruit flies, deal with genes on the \nX chromosome and, less frequently, genes on the Y chromosome. \nTwo examples are red-green color blindness and some forms of \nhemophilia in humans. The genes for these 2 traits reside on \nthe X chromosome. The phenotypes caused by mutant alleles \nof the genes are more commonly observed in males with a \nsingle X chromosome than in females with 2 X chromosomes. \nConsidering hemophilia (Fig. 3a), if H is the dominant normal allele \nand h is a recessive mutant allele that causes hemophilia, females \nthat are XH/XH or XH/Xh will not have hemophilia, while females \nthat are Xh/Xh and males that are Xh/Y will have hemophilia. This \nresults in interesting phenotypic ratios of affected offspring in ped­\nigrees. For example, an unaffected father (XH/Y) and an unaffected \nheterozygous mother (XH/Xh) can have some affected sons (Xh/Y) \nand some unaffected sons (XH/Y), but none of their daughters \n(XH/Xh and XH/XH) will be affected. Since the X and Y chromosomes \nand their resident genes segregate from each other during meiosis, \nX- and Y-linked traits display Mendelian inheritance.\nTwo-gene traits\nWhen 2 unlinked genes regulate different traits, from doubly het­\nerozygous parents, offspring display a 9:3:3:1 phenotypic ratio, \nas shown by Mendel in his dihybrid crosses (Fig. 1b). Deviations \nfrom this 9:3:3:1 ratio are observed when 2 unlinked genes regu­\nlate the same trait. Examples are genes that function in a pathway, \na\nb\nc\nFig. 3. Examples of sex-linked traits and 2-gene traits. Both display Mendelian genotypic ratios and show Mendelian inheritance patterns. a) The sample \npedigree shows the inheritance of hemophilia in humans (filled symbols). Because the mutant hemophilia allele h is recessive and resides on the X \nchromosome, the disease phenotype shows a sex bias. From the parents shown, sons (with only 1 X chromosome) have a 50:50 chance of being affected, \nwhile daughters (with 2 X chromosomes) will not be affected. b) Purple flower color in peas requires the synthesis of anthocyanin. In this example, the \nunlinked P gene and C gene function at different steps in the anthocyanin biosynthetic pathway. From crosses of heterozygous parents, the absence of \neither gene product (in p/p or c/c plants) results in white flowers in offspring and the unusual phenotypic ratio of 9 purple-flower : 7 white-flower plants. \nc) Labrador dog coat color is controlled by 2 unlinked genes: the E gene for the production of black pigment and the B gene for dense deposition of black \npigment in dog hairs. From crosses of heterozygous parents, each gene displays a Mendelian genotypic ratio of 1:2:1 among offspring. However, the \noffspring display an unusual phenotypic ratio of 9 black : 3 chocolate : 4 yellow dogs as a result of the action of the E and B gene products and epistasis; \namong offspring, e/e is epistatic and masks the phenotype of the B gene.\n4 | S. Strome et al.\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-4-image-1"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 5",
+      "text": "such as a biosynthetic pathway, to produce a compound. We now \nunderstand that purple pea flowers require synthesis of the pig­\nment anthocyanin via a biosynthetic pathway. Mutations that im­\npair any step of that pathway, when homozygous, cause pea \nplants to have white flowers. Let us consider 2 steps in the path­\nway controlled by genes on different chromosomes (i.e. unlinked \ngenes); 1 step is catalyzed by products of the P gene and the other \nby products of the C gene (see Miko 2008). In plants homozygous \nfor a mutant allele of either gene (e.g. p/p or c/c), the resulting \nflowers are white. From a cross between pea plants heterozygous \nfor both genes (i.e. P/p; C/c), the offspring plants would display a \nratio of 9 purple-flower : 7 white-flower plants. The alleles for \neach gene segregate according to Mendel’s law, giving a 1:2:1 \ngenotypic ratio and a 3:1 purple:white phenotypic ratio, as ob­\nserved by Mendel for the P gene alone. The 9:7 phenotypic ratio \nfrom crossing P/p; C/c plants arises because offspring homozy­\ngous for a mutant allele of either gene (e.g. p/p or c/c) produce \nwhite flowers (Fig. 3b). This example demonstrates that when 2 \nunlinked genes influence a single trait, Mendel’s laws of segrega­\ntion and independent assortment commonly result in phenotypic \nratios that diverge from the classic 9:3:3:1.\nAnother example of genes acting in a pathway is coat color in \nLabrador retrievers, which relies on the E gene for the production \nof the black pigment eumelanin and the B gene for dense depos­\nition of eumelanin in dog hairs (Fig. 3c). Labradors that produce \neumelanin and deposit it densely are black. Labradors that pro­\nduce eumelanin but cannot deposit it densely are brown or choc­\nolate in color. Labradors that cannot produce eumelanin are \nyellow. The E and B genes are unlinked, and the alleles of both \ngenes are transmitted in Mendelian fashion; when considered as \nsingle genes, offspring from heterozygous parents display a 1:2:1 \ngenotypic ratio. It is the different combinations of alleles of the \n2 genes that determine the 3 different coat-color phenotypes. \nThis example illustrates a phenomenon termed “epistasis,” in \nwhich mutations in 1 gene mask the effects of a second gene \n(Miko 2008). In Labradors, the inability to produce eumelanin \nmasks our seeing whether eumelanin can be deposited; this shifts \nthe phenotypic ratio from 9:3:3:1 to 9:3:4 (Fig. 3c). Epistasis is \nsometimes mistakenly considered to be an example of non- \nMendelian inheritance, but the individual alleles involved follow \nthe laws of segregation and independent assortment perfectly \nand thus display Mendelian inheritance.\nMany human traits such as height and skin color and conditions \nsuch as schizophrenia and autism are determined by numerous \ngenes and are often classified as quantitative or continuous traits. \nParticularly when the number and identity of the genes involved \nare not known, inheritance patterns of these polygenic traits \nand conditions are difficult to predict. Furthermore, the pheno­\ntypes associated with many of these traits and conditions may \nbe influenced by external factors including the environment. \nNevertheless, the inheritance of alleles of these genes follow \nMendel’s laws of segregation and independent assortment.\nLinkage\nThe above examples illustrate the behavior of alleles of genes that \nreside on different chromosomes. Genes that are on the same \nchromosome (i.e. linked) violate Mendel’s law of independent as­\nsortment due to physical linkage. Nevertheless, they display pat­\nterns of inheritance that can be predicted once the genes have \nbeen genetically mapped with relation to one another and the fre­\nquency of recombination between them has been quantified. \nThus, even linked genes display Mendelian inheritance.\nSome examples of non-Mendelian \ninheritance\nGenes that reside in the genomes of mitochondria and chloro­\nplasts display non-Mendelian inheritance. The segregation of \nsuch non-nuclear organelles and the alleles in their genomes is \nthought to be largely random during the meiotic divisions. In \nmany organisms and in most animals, these organelles and their \nresident genes are inherited by offspring mainly from the female \nparent (e.g. Giles et al. 1980; Sato and Sato 2013). Because organelle \ntransmission does not follow Mendel’s laws, the genes in orga­\nnelles do not display Mendelian inheritance.\nEpigenetic inheritance provides another example of non- \nMendelian inheritance. Epigenetics refers to the regulation of \ngene expression and development by factors beyond the DNA \nsequence. The most heavily studied epigenetic regulators are DNA \nmethylation, histone modifications, and small RNAs (reviewed in \nAllis et al. 2015). These regulators participate in such phenomena \nas genomic imprinting, paramutation, creation of epialleles, and \nRNA interference (Heard and Martienssen 2014; Fitz-James and \nCavalli 2022; Yoosefzadeh Najafabadi et al. 2023 ). Epigenetic mark­\ning of genes by DNA methylation and histone modifications is \nsubject to removal and addition in each generation in response to \ndevelopmental cues and environmental influences, unlike the \nunderlying DNA sequence. Because epigenetic marking is not \npassed unaltered through multiple generations, inheritance of the \nmarks is considered non-Mendelian.\nMaternal-effect genetics describes situations in which the phe­\nnotypes of individuals are dictated not by their genotypes but by \nthe genotype of their mother. This is exemplified by the inherit­\nance of snail coiling patterns (Sturtevant 1923) and by maternal \ncontrol of early embryonic development in fruit flies (e.g. \nNüsslein-Volhard et al. 1987). The logic behind this is that the ma­\nternal genotype dictates which gene products are packaged into \noocytes, and those gene products dictate events in early embryos \nuntil embryos start generating gene products from their own gen­\nome (when zygotic transcription turns on). Because offspring de­\nvelopment depends on the maternal genotype instead of the \noffspring’s genotype, maternal-effect inheritance is considered \nnon-Mendelian.\nInterestingly, there are biological phenomena in which Mendelian \ninheritance of nuclear genes is distorted such that some alleles are \npreferentially transmitted to offspring. These phenomena, called \n“meiotic drive,” can act at different stages of gamete production \nand function to deliberately skew allele inheritance (Srinivasa \nand Zanders 2020). For example, in some maize plants, there \nare loci of repetitive DNA that cause heterochromatic “knobs,” \nso named because of their cytological appearance (McClintock \n1930). Chromosomes with knobs can be homozygous, heterozy­\ngous, or absent in plants. When knob-bearing chromosomes are \nheterozygous in plants that also have a chromosome called “abnor­\nmal chromosome 10” (Ab10), knob chromosomes are preferentially \nsegregated to the ovule, the sole gamete produced by female mei­\nosis, with the other products of meiosis being discarded as polar \nbodies (Dawe 2022). Thus, more than 70% rather than the expected \n50% of ovules carry knob chromosomes and their linked alleles, a \nclear distortion of Mendel’s law of segregation (Rhoades 1942).\nSome other versions of meiotic drive act after meiotic chromo­\nsome segregation; these include the Segregation Distorter locus in \nfruit flies (Larracuente and Presgraves 2012) and the t-haplotype \nin mice (Herrmann et al. 1999). In both of these examples, sperm \nthat do not carry the locus associated with drive fail to develop \nproperly, preventing their ability to participate in fertilization. \nMendelian vs non-Mendelian inheritance | 5\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 6",
+      "text": "Thus, sperm with the drive locus fertilize more eggs and produce \nmore offspring than sperm without the drive locus. Meiotic drive \nphenomena provide fascinating molecular and evolutionary in­\nsights into how specific loci use “selfish” mechanisms to produce \nbiased allele inheritance, in clear violation of Mendel’s laws.\nThe importance of understanding \nMendelian inheritance\nThe main message of this Perspective is that categorizing patterns \nof inheritance as Mendelian or non-Mendelian should be based on \ngenotypic ratios, not phenotypic ratios, in offspring. Genotypic ra­\ntios reflect the segregation and independent assortment of alleles \nduring meiosis in parents, which are the underpinnings of \nMendel’s laws, while phenotypic ratios reflect the modes of action \nof the gene products and the relationships between alleles in off­\nspring. Categorizing patterns of inheritance as Mendelian or \nnon-Mendelian is not strictly an issue of semantics, but instead \nis based on an understanding of the various genetic situations \nthat follow Mendel’s laws but may produce unusual phenotypes \nin offspring. Textbooks describe these situations as extensions \nor variations of Mendelian inheritance (e.g. Russell 2010; \nSnustad and Simmons 2016; Pierce 2020; Brooker 2021; Goldberg \net al. 2021). This Perspective makes clear why they are not viola­\ntions of Mendelian inheritance.\nSocial media and online sites such as the Khan Academy and \nWikipedia are valued and appreciated for providing accessible in­\nformation quickly and efficiently and being receptive to input \nfrom the community. However, given their reliance on volunteers \nand crowdsourcing, they may provide incorrect or biased informa­\ntion. Therefore, community input should include experts moni­\ntoring \nthe \naccuracy \nof \nthe \ninformation \nand \nclarifying \ninformation that is misleading. Health care is 1 arena in which \nhaving access to accurate and easy-to-understand information \nis crucial. Primary-care providers must understand and be able \nto explain to patients and their families basic genetic concepts \nthat underlie conditions and diseases, to help them make \ninformed decisions (Houwink et al. 2011). Other stakeholders \nwho need accurate online genetic information include anthropol­\nogists, ecologists, forensic pathologists, conservation biologists, \ncommercial plant and animal breeders, and individuals \ninvolved in captive breeding programs for endangered species. \nFurthermore, to avoid confusion, students need accurate online \ninformation on basic Mendelian concepts that reinforces textbook \nand classroom information. Understanding the fundamental dif­\nference between genotypic and phenotypic ratios is essential to \nfully appreciate the extent to which specific traits are genetically \ndetermined and for informed discussions of more complex, socio­\npolitically constructed phenomena, such as race and gender, that \nmove away from genetic determinism (Donovan, Weindling, et al. \n2024; Donovan, Syed, et al. 2024; Duncan et al. 2024).\nThe authors of this Perspective plan to work with the Khan \nAcademy, Wikipedia, and other online sites to clarify Mendelian \nvs non-Mendelian inheritance. We urge informed community \nmembers to join this effort and invite them to contact us with \nstrategy and coordination ideas.\nAcknowledgments\nThe authors appreciate the participation of instructors and stu­\ndents in our survey on Mendelian vs non-Mendelian inheritance. \nThe authors thank Michael Goldberg, Carol Greider, Robert \nPollie, Bill Saxton, and the journal reviewers for their valuable \nfeedback on this Perspective. Illustrations were created with \nBioRender.com.\nFunding\nNational Institutes of Health R35GM141835 to NB National \nInstitutes \nof \nHealth \ngrant \n1DP2AG066622-01 \nand \nJohn \nTempleton Foundation award 61748 to US National Institutes of \nHealth R35GM139595 to WS.\nConflicts of interest\nThe author(s) declare no conflicts of interest.\nLiterature cited\nAllis CD, Caparros M-L, Jenuwein T, Reinberg D. 2015. Epigenetics. 2nd \ned. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.\nBateson W. 1909. Mendel’s Principles of Heredity. Cambridge, UK: \nCambridge University Press.\nBrooker RJ. 2021. Genetics: Analysis and Principles. 7th ed. New York, \nNY: McGraw-Hill.\nBultman SJ, Michaud EJ, Woychik RP. 1992. Molecular characteriza­\ntion of the mouse agouti locus. Cell. 71(7):1195–1204. doi:10. \n1016/s0092-8674(05)80067-4.\nDawe RK. 2022. The maize abnormal chromosome 10 meiotic drive \nhaplotype: a review. Chromosome Res. 30(2–3):205–216. doi:10. \n1007/s10577-022-09693-6.\nDonovan BM, Syed A, Arnold SH, Lee D, Weindling M, Stuhlsatz \nMAM, Riegle-Crumb C, Cimpian A. 2024. Sex and gender essen­\ntialism in textbooks. Science. 383(6685):822–825. doi:10.1126/ \nscience.adi1188.\nDonovan BM, Weindling M, Amemiya J, Salazar B, Lee D, Syed A, \nStuhlsatz M, Snowden J. 2024. Humane genomics education can \nreduce racism. Science. 383(6685):818–822. doi:10.1126/science. \nadi7895.\nDuncan RG, Krishnamoorthy R, Harms U, Haskel-Ittah M, \nKampourakis K, Gericke N, Hammann M, Jimenez-Aleixandre \nM, Nehm RH, Reiss MJ, et al. 2024. The sociopolitical in human \ngenetics education. Science. 383(6685):826–828. doi:10.1126/ \nscience.adi8227.\nEllis THN, Hofer JM, Timmerman-Vaughan GM, Coyne CJ, Hellens RP. \n2011. Mendel, 150 years on. Trends Plant Sci. 16(11):590–596. doi:\n10.1016/j.tplants.2011.06.006.\nFitz-James MH, Cavalli G. 2022. Molecular mechanisms of transge­\nnerational epigenetic inheritance. Nat Rev Genet. 23(6):325–341. \ndoi:10.1038/s41576-021-00438-5.\nGiles RE, Blanc H, Cann HM, Wallace DC. 1980. Maternal inheritance \nof human mitochondrial DNA. Proc Natl Acad Sci U S A. 77(11): \n6715–6719. doi:10.1073/pnas.77.11.6715.\nGoldberg ML, Fischer J, Hood L, Hartwell L. 2021. Genetics: From \nGenes to Genomes. 7th ed. New York, NY: McGraw-Hill.\nHeard E, Martienssen RA. 2014. Transgenerational epigenetic inher­\nitance: myths and mechanisms. Cell. 157(1):95–109. doi:10.1016/j. \ncell.2014.02.045.\nHerrmann BG, Koschorz B, Wertz K, McLaughlin KJ, Kispert A. 1999. A \nprotein kinase encoded by the t complex responder gene causes \nnon-Mendelian inheritance. Nature. 402(6758):141–146. doi:10. \n1038/45970.\nHouwink EJF, van Luijk SJ, Henneman L, van der Vleuten C, DinantGJ, \nCornel MC. 2011. Genetic educational needs and the role of gen­\netics in primary care: a focus group study with multiple perspec­\ntives. BMC Fam Pract. 12(1):5. doi:10.1186/1471-2296-12-5.\n6 | S. Strome et al.\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-6-image-1"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Inheritance Clarification — Mendelian Ratios & Exceptions — source 7",
+      "text": "Larracuente AM, Presgraves DC. 2012. The selfish Segregation \nDistorter gene complex of Drosophila melanogaster. Genetics. \n192(1):33–53. doi:10.1534/genetics.112.141390.\nMcClintock B. 1930. A cytological demonstration of the location of an \ninterchange between two non-homologous chromosomes of Zea \nmays. Proc Natl Acad Sci U S A. 16(12):791–796. doi:10.1073/pnas. \n16.12.791.\nMendel GJ. 1865-1866. Versuche ü ber Pflanzen-Hybriden. Verhan­\ndlungen des Naturforschenden Vereines in Brü nn, Bd. IV fü r \ndas Jahr 1865. Brno, Czechia Abhandlungen 4:3–47. English \nTranslation: Experiments on Plant Hybridization.\nMiko I. 2008. Epistasis: gene interaction and phenotype effects. Nat \nEduc. 1(1):197.\nNüsslein-Volhard C, Frohnhöfer HG, Lehmann R. 1987. Determin­\nation of anteroposterior polarity in Drosophila. Science. 238(4834): \n1675–1681. doi:10.1126/science.3686007.\nPierce BA. 2020. Genetics: A Conceptual Approach. 7th ed. New York, \nNY: Macmillan Learning.\nRhoades MM. 1942. Preferential segregation in maize. Genetics. 27(4): \n395–407. doi:10.1093/genetics/27.4.395.\nRussell PJ. 2010. iGenetics: A Molecular Approach. 3rd ed. London, \nUK: Pearson.\nSato M, Sato K. 2013. Maternal inheritance of mitochondrial DNA by \ndiverse mechanisms to eliminate paternal mitochondrial DNA. \nBiochim Biophys Acta. 1833(8):1979–1984. doi:10.1016/j.bbamcr. \n2013.03.010.\nSnustad DP, Simmons MJ. 2016. Principles of Genetics. 7th ed. \nHoboken, NJ: Wiley.\nSrinivasa AN, Zanders SE. 2020. Meiotic drive. Curr Biol. 30(11): \nR627–R629. doi:10.1016/j.cub.2020.04.023.\nSturtevant AH. 1923. Inheritance of direction of coiling in Lim­\nnaea. Science. 58(1501):269–270. doi:10.1126/science.58.1501. \n269.\nSturtevant AH. 1965. A History of Genetics. Cold Spring Harbor, NY: \nCold Spring Harbor Laboratory Press.\nYoosefzadeh Najafabadi M, Hesami M, Rajcan I. 2023. Unveiling the \nmysteries of non-Mendelian heredity in plant breeding. Plants \n(Basel). 12(10):1956. doi:10.3390/plants12101956.\nZschocke J, Byers PH, Wilkie AOM. 2023. Mendelian inheritance re­\nvisited: dominance and recessiveness in medical genetics. Nat \nRev Genet. 24(7):442–463. doi:10.1038/s41576-023-00574-0.\nEditor: D. Greenstein\nMendelian vs non-Mendelian inheritance | 7\nDownloaded from https://academic.oup.com/genetics/article/227/3/iyae078/7684194 by guest on 08 October 2024\n",
+      "images": [
+        "slide-7-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "inheritance-clarification/slide-1-image-1.webp",
+    "slide-2-image-1": "inheritance-clarification/slide-2-image-1.webp",
+    "slide-3-image-1": "inheritance-clarification/slide-3-image-1.webp",
+    "slide-4-image-1": "inheritance-clarification/slide-4-image-1.webp",
+    "slide-5-image-1": "inheritance-clarification/slide-5-image-1.webp",
+    "slide-6-image-1": "inheritance-clarification/slide-6-image-1.webp",
+    "slide-7-image-1": "inheritance-clarification/slide-7-image-1.webp",
+    "figure-3": "inheritance-clarification/figure-3.webp",
+    "figure-4": "inheritance-clarification/figure-4.webp"
+  },
+  "week": 3,
+  "weekEnd": 3
+}

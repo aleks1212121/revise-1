@@ -1,0 +1,803 @@
+{
+  "version": 2,
+  "lectureId": "lipid-metabolism",
+  "title": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis",
+  "moduleId": "physiology-research",
+  "moduleName": "",
+  "moduleCode": "LS5034",
+  "source": "LS5034lipids.pptx",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Lipid basics",
+      "slide": 2,
+      "explanation": "Diet also supplies phospholipids and sterols.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The major form of dietary fat is {{c1::triacylglycerol (triglyceride)}}.",
+      "noteId": "lipid-metabolism-9afc4b9a6d0d2b983a1b-note",
+      "id": "lipid-metabolism-9afc4b9a6d0d2b983a1b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The major form of dietary fat is {{c1::triacylglycerol (triglyceride)}}.",
+      "answer": "triacylglycerol (triglyceride)"
+    },
+    {
+      "topic": "Lipid basics",
+      "slide": 3,
+      "explanation": "This structure underlies both storage and lipolytic release.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A triglyceride contains glycerol esterified to {{c1::three fatty acids}}.",
+      "noteId": "lipid-metabolism-340de976c38717322f98-note",
+      "id": "lipid-metabolism-340de976c38717322f98",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A triglyceride contains glycerol esterified to {{c1::three fatty acids}}.",
+      "answer": "three fatty acids"
+    },
+    {
+      "topic": "Lipid basics",
+      "slide": 3,
+      "explanation": "This contrasts with mono- and polyunsaturated chains.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A saturated fatty acid has {{c1::no carbon–carbon double bonds}}.",
+      "noteId": "lipid-metabolism-ae9159199af8c2f439b6-note",
+      "id": "lipid-metabolism-ae9159199af8c2f439b6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A saturated fatty acid has {{c1::no carbon–carbon double bonds}}.",
+      "answer": "no carbon–carbon double bonds"
+    },
+    {
+      "topic": "Lipid basics",
+      "slide": 3,
+      "explanation": "Olive oil is a source example.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A monounsaturated fatty acid has {{c1::one double bond}}.",
+      "noteId": "lipid-metabolism-c784b0344710c1ec4c05-note",
+      "id": "lipid-metabolism-c784b0344710c1ec4c05",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A monounsaturated fatty acid has {{c1::one double bond}}.",
+      "answer": "one double bond"
+    },
+    {
+      "topic": "Lipid basics",
+      "slide": 3,
+      "explanation": "The lecture gives nuts, seeds and fish oils as examples.",
+      "images": [
+        "slide-3-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A polyunsaturated fatty acid has {{c1::two or more double bonds}}.",
+      "noteId": "lipid-metabolism-b72fc9b4f29fbd5dd783-note",
+      "id": "lipid-metabolism-b72fc9b4f29fbd5dd783",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A polyunsaturated fatty acid has {{c1::two or more double bonds}}.",
+      "answer": "two or more double bonds"
+    },
+    {
+      "topic": "Lipid functions",
+      "slide": 4,
+      "explanation": "It is an energy-dense fuel; this is a general nutritional conversion.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Fat supplies approximately {{c1::9 kcal per gram}}.",
+      "noteId": "lipid-metabolism-6a5efd74709fed1c007f-note",
+      "id": "lipid-metabolism-6a5efd74709fed1c007f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fat supplies approximately {{c1::9 kcal per gram}}.",
+      "answer": "9 kcal per gram"
+    },
+    {
+      "topic": "Lipid functions",
+      "slide": 4,
+      "explanation": "Their roles extend beyond energy storage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Lipids contribute to membranes and act as precursors of {{c1::bioactive molecules}}.",
+      "noteId": "lipid-metabolism-dbcaea66eeda093210b5-note",
+      "id": "lipid-metabolism-dbcaea66eeda093210b5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Lipids contribute to membranes and act as precursors of {{c1::bioactive molecules}}.",
+      "answer": "bioactive molecules"
+    },
+    {
+      "topic": "Adipose tissue",
+      "slide": 5,
+      "explanation": "Adipose tissue also contains other cell types.",
+      "images": [
+        "slide-5-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The principal fat-storing cells are {{c1::adipocytes}}.",
+      "noteId": "lipid-metabolism-0f3a4859c95516deb808-note",
+      "id": "lipid-metabolism-0f3a4859c95516deb808",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The principal fat-storing cells are {{c1::adipocytes}}.",
+      "answer": "adipocytes"
+    },
+    {
+      "topic": "Adipose tissue",
+      "slide": 6,
+      "explanation": "Signals link its nutrient status with other tissues; it is not a passive depot.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Adipose tissue functions as an {{c1::endocrine organ}}.",
+      "noteId": "lipid-metabolism-1c94756533c7a56dc30b-note",
+      "id": "lipid-metabolism-1c94756533c7a56dc30b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Adipose tissue functions as an {{c1::endocrine organ}}.",
+      "answer": "endocrine organ"
+    },
+    {
+      "topic": "Adipose tissue",
+      "slide": 6,
+      "explanation": "This accompanies enlarged adipocytes, inflammation and impaired insulin signalling.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Obesity-associated adipose dysfunction can include macrophage {{c1::infiltration}}.",
+      "noteId": "lipid-metabolism-8b41bd0a98cb1ccabb6d-note",
+      "id": "lipid-metabolism-8b41bd0a98cb1ccabb6d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Obesity-associated adipose dysfunction can include macrophage {{c1::infiltration}}.",
+      "answer": "infiltration"
+    },
+    {
+      "topic": "Adipose tissue",
+      "slide": 6,
+      "explanation": "This ectopic deposition can contribute to lipotoxicity in liver, muscle and pancreatic cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Excess fatty-acid delivery can promote lipid deposition in {{c1::non-adipose tissues}}.",
+      "noteId": "lipid-metabolism-7dbef7a04484461ed202-note",
+      "id": "lipid-metabolism-7dbef7a04484461ed202",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Excess fatty-acid delivery can promote lipid deposition in {{c1::non-adipose tissues}}.",
+      "answer": "non-adipose tissues"
+    },
+    {
+      "topic": "Circulating transport",
+      "slide": 7,
+      "explanation": "They are not simply freely dissolved because they are hydrophobic.",
+      "images": [
+        "slide-7-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Non-esterified fatty acids circulate mainly bound to {{c1::albumin}}.",
+      "noteId": "lipid-metabolism-d445a80f748c5f423882-note",
+      "id": "lipid-metabolism-d445a80f748c5f423882",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Non-esterified fatty acids circulate mainly bound to {{c1::albumin}}.",
+      "answer": "albumin"
+    },
+    {
+      "topic": "Circulating transport",
+      "slide": 8,
+      "explanation": "These enable hydrophobic lipids to travel through aqueous plasma.",
+      "images": [
+        "slide-8-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Triglycerides and cholesterol are transported in particles called {{c1::lipoproteins}}.",
+      "noteId": "lipid-metabolism-3e579cc019ae0b9d0eb5-note",
+      "id": "lipid-metabolism-3e579cc019ae0b9d0eb5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Triglycerides and cholesterol are transported in particles called {{c1::lipoproteins}}.",
+      "answer": "lipoproteins"
+    },
+    {
+      "topic": "Lipoprotein structure",
+      "slide": 10,
+      "explanation": "Triacylglycerols and cholesteryl esters lie within the hydrophobic core.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lipoprotein core contains mainly {{c1::non-polar lipids}}.",
+      "noteId": "lipid-metabolism-901b0f4c396918b595e5-note",
+      "id": "lipid-metabolism-901b0f4c396918b595e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lipoprotein core contains mainly {{c1::non-polar lipids}}.",
+      "answer": "non-polar lipids"
+    },
+    {
+      "topic": "Lipoprotein structure",
+      "slide": 10,
+      "explanation": "This is not the same arrangement as a cell-membrane bilayer.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The lipoprotein surface contains a phospholipid {{c1::monolayer}}.",
+      "noteId": "lipid-metabolism-9aee4de1090b5566351e-note",
+      "id": "lipid-metabolism-9aee4de1090b5566351e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lipoprotein surface contains a phospholipid {{c1::monolayer}}.",
+      "answer": "monolayer"
+    },
+    {
+      "topic": "Lipoprotein structure",
+      "slide": 10,
+      "explanation": "Some are structural and others can transfer between particles.",
+      "images": [
+        "slide-10-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Proteins associated with lipoprotein particles are {{c1::apolipoproteins}}.",
+      "noteId": "lipid-metabolism-37513ed4f1eddbf3702a-note",
+      "id": "lipid-metabolism-37513ed4f1eddbf3702a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Proteins associated with lipoprotein particles are {{c1::apolipoproteins}}.",
+      "answer": "apolipoproteins"
+    },
+    {
+      "topic": "Chylomicrons and VLDL",
+      "slide": 11,
+      "explanation": "They carry absorbed dietary lipids.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chylomicrons are produced in the {{c1::intestine}}.",
+      "noteId": "lipid-metabolism-93ed6d20e20ce11a5eb5-note",
+      "id": "lipid-metabolism-93ed6d20e20ce11a5eb5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chylomicrons are produced in the {{c1::intestine}}.",
+      "answer": "intestine"
+    },
+    {
+      "topic": "Chylomicrons and VLDL",
+      "slide": 11,
+      "explanation": "This contrasts with apoB-100 in VLDL.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The characteristic structural apolipoprotein of chylomicrons is {{c1::apoB-48}}.",
+      "noteId": "lipid-metabolism-f2cec1360c9b49aee60d-note",
+      "id": "lipid-metabolism-f2cec1360c9b49aee60d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The characteristic structural apolipoprotein of chylomicrons is {{c1::apoB-48}}.",
+      "answer": "apoB-48"
+    },
+    {
+      "topic": "Chylomicrons and VLDL",
+      "slide": 11,
+      "explanation": "It transports endogenous rather than newly absorbed intestinal lipids.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "VLDL is produced in the {{c1::liver}}.",
+      "noteId": "lipid-metabolism-89c2731b08e8711b1508-note",
+      "id": "lipid-metabolism-89c2731b08e8711b1508",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "VLDL is produced in the {{c1::liver}}.",
+      "answer": "liver"
+    },
+    {
+      "topic": "Chylomicrons and VLDL",
+      "slide": 11,
+      "explanation": "The source uses this to distinguish it from chylomicrons.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The structural apolipoprotein highlighted for VLDL is {{c1::apoB-100}}.",
+      "noteId": "lipid-metabolism-8e615e597b51cf2321fc-note",
+      "id": "lipid-metabolism-8e615e597b51cf2321fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The structural apolipoprotein highlighted for VLDL is {{c1::apoB-100}}.",
+      "answer": "apoB-100"
+    },
+    {
+      "topic": "Chylomicrons and VLDL",
+      "slide": 12,
+      "explanation": "They subsequently deliver dietary lipid to tissues.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Chylomicrons initially enter circulation via the {{c1::lymph}}.",
+      "noteId": "lipid-metabolism-cc88fe81e7284cbeb377-note",
+      "id": "lipid-metabolism-cc88fe81e7284cbeb377",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Chylomicrons initially enter circulation via the {{c1::lymph}}.",
+      "answer": "lymph"
+    },
+    {
+      "topic": "Cardiovascular relevance",
+      "slide": 12,
+      "explanation": "A high HDL association with lower risk does not imply that every intervention raising HDL prevents events.",
+      "images": [
+        "slide-12-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Increased LDL cholesterol is linked to increased {{c1::cardiovascular risk}}.",
+      "noteId": "lipid-metabolism-e857e58b26163cc94178-note",
+      "id": "lipid-metabolism-e857e58b26163cc94178",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Increased LDL cholesterol is linked to increased {{c1::cardiovascular risk}}.",
+      "answer": "cardiovascular risk"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 14,
+      "explanation": "This releases fatty acids for extrahepatic tissues.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The enzyme hydrolysing triglycerides in circulating chylomicrons and VLDL is {{c1::lipoprotein lipase}}.",
+      "noteId": "lipid-metabolism-3662bb5293c90a54d413-note",
+      "id": "lipid-metabolism-3662bb5293c90a54d413",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The enzyme hydrolysing triglycerides in circulating chylomicrons and VLDL is {{c1::lipoprotein lipase}}.",
+      "answer": "lipoprotein lipase"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 14,
+      "explanation": "It acts on circulating particles rather than primarily breaking stored fat inside adipocytes.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Lipoprotein lipase converts triglyceride-rich particles into smaller {{c1::remnants}}.",
+      "noteId": "lipid-metabolism-04a6e086402c2e57a50b-note",
+      "id": "lipid-metabolism-04a6e086402c2e57a50b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Lipoprotein lipase converts triglyceride-rich particles into smaller {{c1::remnants}}.",
+      "answer": "remnants"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 14,
+      "explanation": "This links the fed-state hormone with fatty-acid delivery to storage tissue.",
+      "images": [
+        "slide-14-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Insulin promotes adipose lipid storage partly by supporting {{c1::lipoprotein lipase activity}}.",
+      "noteId": "lipid-metabolism-fee54e648e97e88846e5-note",
+      "id": "lipid-metabolism-fee54e648e97e88846e5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Insulin promotes adipose lipid storage partly by supporting {{c1::lipoprotein lipase activity}}.",
+      "answer": "lipoprotein lipase activity"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 15,
+      "explanation": "They mobilise stored lipid, contrasting with LPL acting on circulating lipoproteins.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "ATGL and hormone-sensitive lipase participate in adipocyte {{c1::lipolysis}}.",
+      "noteId": "lipid-metabolism-608c6f629b4fb6f29233-note",
+      "id": "lipid-metabolism-608c6f629b4fb6f29233",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ATGL and hormone-sensitive lipase participate in adipocyte {{c1::lipolysis}}.",
+      "answer": "lipolysis"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 15,
+      "explanation": "The slide places it in adipose fatty-acid storage/mobilisation pathways.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "HSL stands for hormone-sensitive {{c1::lipase}}.",
+      "noteId": "lipid-metabolism-b9040327a1cf8c1d46f0-note",
+      "id": "lipid-metabolism-b9040327a1cf8c1d46f0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "HSL stands for hormone-sensitive {{c1::lipase}}.",
+      "answer": "lipase"
+    },
+    {
+      "topic": "Lipase functions",
+      "slide": 15,
+      "explanation": "It contributes to breakdown of intracellular triglyceride stores.",
+      "images": [
+        "slide-15-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "ATGL stands for adipose triglyceride {{c1::lipase}}.",
+      "noteId": "lipid-metabolism-18bbdca728abf7cd1d0e-note",
+      "id": "lipid-metabolism-18bbdca728abf7cd1d0e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "ATGL stands for adipose triglyceride {{c1::lipase}}.",
+      "answer": "lipase"
+    },
+    {
+      "topic": "Interpreting samples",
+      "slide": 16,
+      "explanation": "The illustrated appearance reflects lipid-rich particles, but does not diagnose a unique cause by itself.",
+      "images": [
+        "slide-16-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Marked lipaemia can make plasma appear {{c1::milky or turbid}}.",
+      "noteId": "lipid-metabolism-0fe7865eba963629ddd6-note",
+      "id": "lipid-metabolism-0fe7865eba963629ddd6",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Marked lipaemia can make plasma appear {{c1::milky or turbid}}.",
+      "answer": "milky or turbid"
+    },
+    {
+      "topic": "Postprandial lipid",
+      "slide": 18,
+      "explanation": "Repeated and prolonged postprandial exposure is a key lecture concern.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Circulating triglyceride-rich lipoproteins rise after {{c1::meals}}.",
+      "noteId": "lipid-metabolism-9fdaafd3eca57cebb8f4-note",
+      "id": "lipid-metabolism-9fdaafd3eca57cebb8f4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Circulating triglyceride-rich lipoproteins rise after {{c1::meals}}.",
+      "answer": "meals"
+    },
+    {
+      "topic": "Postprandial lipid",
+      "slide": 18,
+      "explanation": "Timing relative to food matters when interpreting metabolic exposure.",
+      "images": [
+        "slide-18-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "A fasting lipid value may miss prolonged {{c1::postprandial lipaemia}}.",
+      "noteId": "lipid-metabolism-fdbf6df0a278f24fc01f-note",
+      "id": "lipid-metabolism-fdbf6df0a278f24fc01f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A fasting lipid value may miss prolonged {{c1::postprandial lipaemia}}.",
+      "answer": "postprandial lipaemia"
+    },
+    {
+      "topic": "Cardiovascular relevance",
+      "slide": 19,
+      "explanation": "The final figure places lipid changes alongside smoking, pressure and other contributors.",
+      "images": [
+        "slide-19-image-1"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Atherosclerosis reflects multiple risk factors rather than one isolated {{c1::lipid measurement}}.",
+      "noteId": "lipid-metabolism-566dd0da6190e2eae816-note",
+      "id": "lipid-metabolism-566dd0da6190e2eae816",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Atherosclerosis reflects multiple risk factors rather than one isolated {{c1::lipid measurement}}.",
+      "answer": "lipid measurement"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 1",
+      "text": "",
+      "images": [
+        "slide-1-image-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 2",
+      "text": "Whole body lipid metabolism\u000b\nTriglycerides are the primary form of lipids in the diet and make up nearly 90% of all lipid calories ingested.\n\nDietary lipids include triglycerides, phospholipids and sterols \n\nRecommendations for total lipid intake in adults - between 20 and 35% of calories for men and women aged over 30.\n\nTransported around the body as triglycerides, cholesterol or free fatty acids\n\nNote: Cholesterol intake has very little effect on blood cholesterol levels\n\n\n\n\n\n",
+      "images": []
+    },
+    {
+      "number": 3,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 3",
+      "text": "Composition of triglycerides\nGlycerol backbone and three fatty acids \n\nFatty acids can be saturated or unsaturated \nSaturated fatty acid – no double bonds, \ncommon in animal fats, butter, palm oil.\n\nMonounsaturated fatty acids (MUFA), found \nin high amounts in olive oil, \nhave only one double bond.\n \nPolyunsaturated fatty acids (PUFA), \nfound in nuts, seeds and fish oils have two or more double bonds ",
+      "images": [
+        "slide-3-image-1",
+        "slide-3-image-2"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 4",
+      "text": "Metabolism of lipids\nRoles: \n\tSupply energy and can be stored  (1g fat = 9 kcal)\n\tComponents of cellular & subcellular membranes \n\tPrecursors of bioactive molecules (e.g. hormones) \n\t\nPartitioning:\n\n\tFree fatty acids, triglycerides, cholesterol\n\tAdipose tissue, liver and small intestine ",
+      "images": []
+    },
+    {
+      "number": 5,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 5",
+      "text": "\nAdipose tissue \u000b\nLoose connective tissue composed of fat cells known as adipocytes.",
+      "images": [
+        "slide-5-image-1"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 6",
+      "text": "Adipose tissue\n\nCushions internal organs and insulates the body. Swell as they store fat and shrink when the fat is used for energy.\n\nNot a passive energy depot but a dynamic “endocrine organ” that tightly regulates nutritional balance by means of a complex crosstalk of adipocytes with their microenvironment and other tissues by various hormonal/chemical signals. \n\n\nDysfunctional adipose tissue, particularly as observed in obesity, is characterized by adipocyte hypertrophy, macrophage infiltration, impaired insulin signalling, and insulin resistance. \n\nResults in the release of inflammatory adipokines and excessive amounts of free fatty acids that promote ectopic fat deposition and lipotoxicity in muscle, liver, and pancreatic β cells. \n",
+      "images": []
+    },
+    {
+      "number": 7,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 7",
+      "text": "Structure of albumin showing sites containing free fatty acids\nTravel in circulation bound to albumin\nCarried to tissues such as muscle and liver, taken up by specific receptors \nand used for energy production or making other lipids",
+      "images": [
+        "slide-7-image-1"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 8",
+      "text": "Nichols et al. (1969) PNAS 64:1128-1137\nElectron micrographs of major lipoprotein classes, marker represents 0.1 um\nTriglycerides and cholesterol carried in specialised structures \ncalled lipoproteins",
+      "images": [
+        "slide-8-image-1"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 9",
+      "text": "Approximate sizes and densities of lipoproteins",
+      "images": [
+        "slide-9-image-1"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 10",
+      "text": "General structure of lipoproteins",
+      "images": [
+        "slide-10-image-1"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 11",
+      "text": "Very Low Density Lipoprotein\n(VLDL)\nChylomicron\nProduced in the liver\nTransports endogenous lipids \nCharacterised by its structural \nprotein apoB-100\n\nProduced in the intestine\nTransports dietary (exogenous) lipids\nCharacterised by apoB-48 protein\n\nTriglyceride rich lipoproteins",
+      "images": []
+    },
+    {
+      "number": 12,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 12",
+      "text": "Lipid composition of lipoprotein classes\n\nChylomicrons carry absorbed lipid from the meal to adipose tissue via lymph\n\nVLDL carry lipids from the liver to body tissues\n\nIncreased total cholesterol and increased LDL are linked to CVD\nHigh HDL is linked to lower risk of atherosclerosis",
+      "images": [
+        "slide-12-image-1"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 13",
+      "text": "Lipoprotein metabolism pathways",
+      "images": [
+        "slide-13-image-1",
+        "slide-13-image-2"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 14",
+      "text": "Lipoprotein lipase\n\nRate limiting enzyme for hydrolysis and removal of circulating triglyceride-rich lipoproteins (TRL)\n\nConverts chylomicrons (CM) and VLDL to smaller remnant particles (remnants), delivering FA to extrahepatic cells\n\nVery important role in energy homeostasis\n\nActivated by insulin",
+      "images": [
+        "slide-14-image-1"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 15",
+      "text": "Adipose tissue FA storage and lipolysis\nKarastergiou K, Smith SR, Greenberg AS, Fried SK. Sex differences in human adipose tissues - the biology of pear shape. Biol Sex Differ. 2012 May 31;3(1):13.\nHormone sensitive lipase - HSL\nAdipose tissue triglyceride lipase – ATGL",
+      "images": [
+        "slide-15-image-1"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 16",
+      "text": "Blood sample from a patient with Type 1 Hyperlipidaemia\n\n\nNormal plasma sample\n\nPostabsorbtive sample from a patient with Type1 hyperlipidaemia",
+      "images": [
+        "slide-16-image-1",
+        "slide-16-image-2"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 17",
+      "text": "Lipoprotein metabolism pathways\n",
+      "images": [
+        "slide-17-image-1"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 18",
+      "text": "How is this relevant to us\n\nTime of day (hours)\nPlasma TG (\nmmol\n/l)\n\n\n\n\n\n1\n2\n3\n4\n03.00\n22.00\n17.00\n12.00\n07.00\n\n\n\n\n\n\n07.00\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nS\nD\nL\nB\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Long term effect of repeated, prolonged and exaggerated bouts of lipaemia?\nMost of our lives are spent in the postprandial state during which we are exposed to triglyceride rich lipoproteins\n",
+      "images": [
+        "slide-18-image-1"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Whole-body Lipid Metabolism — Lipoproteins, Storage & Lipolysis — source 19",
+      "text": "\n.Postprandial lipoproteins",
+      "images": [
+        "slide-19-image-1"
+      ]
+    }
+  ],
+  "media": {
+    "slide-1-image-1": "lipid-metabolism/slide-1-image-1.webp",
+    "slide-3-image-1": "lipid-metabolism/slide-3-image-1.webp",
+    "slide-3-image-2": "lipid-metabolism/slide-3-image-2.webp",
+    "slide-5-image-1": "lipid-metabolism/slide-5-image-1.webp",
+    "slide-7-image-1": "lipid-metabolism/slide-7-image-1.webp",
+    "slide-8-image-1": "lipid-metabolism/slide-8-image-1.webp",
+    "slide-9-image-1": "lipid-metabolism/slide-9-image-1.webp",
+    "slide-10-image-1": "lipid-metabolism/slide-10-image-1.webp",
+    "slide-12-image-1": "lipid-metabolism/slide-12-image-1.webp",
+    "slide-13-image-1": "lipid-metabolism/slide-13-image-1.webp",
+    "slide-13-image-2": "lipid-metabolism/slide-13-image-2.webp",
+    "slide-14-image-1": "lipid-metabolism/slide-14-image-1.webp",
+    "slide-15-image-1": "lipid-metabolism/slide-15-image-1.webp",
+    "slide-16-image-1": "lipid-metabolism/slide-16-image-1.webp",
+    "slide-16-image-2": "lipid-metabolism/slide-16-image-2.webp",
+    "slide-17-image-1": "lipid-metabolism/slide-17-image-1.webp",
+    "slide-18-image-1": "lipid-metabolism/slide-18-image-1.webp",
+    "slide-19-image-1": "lipid-metabolism/slide-19-image-1.webp"
+  },
+  "week": 3,
+  "weekEnd": 3
+}
