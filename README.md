@@ -297,3 +297,9 @@ Adds one Infection and Immunity lecture with 82 focused cloze cards, all 28 orig
 ## Embryonic Development (LS5034)
 
 Adds a regular Medical Physiology lecture with 82 cloze cards, all 40 original pages, 17 focused source diagrams and a reviewed quick summary. The older source filename retains LS5024, following the same placement as Female Reproductive Physiology. Covers fertilisation, cleavage/blastocyst/implantation, gastrulation and germ-layer derivatives, neurulation/somites/folding, organogenesis, X inactivation and reproductive determination/differentiation. Explanations clarify embryonic versus gestational timing, pluripotency versus totipotency, Blaschko lines and the limits of chromosome-only phenotype predictions. [Source notes](public/embryonic-development/README.md) document these qualifications. No backend change is required; prior progress is preserved.
+
+### Roadmap
+
+The Roadmap navigation item presents the signed-in account's (or current guest's) available decks in Teaching Block 1 week order. It supports a module filter, collapsible weekly plans, direct study links and progress totals. Multi-week decks appear once under their first week. Unscheduled personal decks remain under “Week not set”; empty weeks do not imply that teaching is absent. Suggestions prioritise due reviews of previously studied cards, then unfinished lectures in week order. “First pass complete” describes coverage and does not retire future spaced reviews.
+
+Run `CHROMIUM_PATH=/usr/bin/chromium npm run test:roadmap:browser` against the production preview on port 4189 to check desktop and phone navigation, filtering, study links and progress persistence. These browser checks use fixture accounts.

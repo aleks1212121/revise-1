@@ -1,6 +1,6 @@
 import {INJURY_SOURCE,injuryId,partNumber,injuryPart,projectInjury,combineInjury} from './injury-parts.js';
 import {moduleFor,correctLectureModule} from './modules.js';
-import {lectureProgress} from './lecture-progress.js';
+import {lectureProgress,reviewDueCount} from './lecture-progress.js';
 import {stampChanges,mergeDecks,equivalent,cloudPayload} from './sync-model.js';
 import {WORKSPACE_ID,emptyWorkspace,lectureTrashed} from './workspace-state.js';
 const LEGACY='micro-deck-v1';let activeScope='';
@@ -45,7 +45,7 @@ export async function updateWorkspace(change){
 }
 export async function allLectures(scope=activeScope){const raw=await rawLectures(scope),state=raw.find(d=>d.lectureId===WORKSPACE_ID)?._workspace;return projectInjury(raw.filter(d=>d.lectureId!==WORKSPACE_ID)).filter(d=>!lectureTrashed(state,d.lectureId))}
 export async function trashedLectures(scope=activeScope){const raw=await rawLectures(scope),state=raw.find(d=>d.lectureId===WORKSPACE_ID)?._workspace;return projectInjury(raw.filter(d=>d.lectureId!==WORKSPACE_ID)).filter(d=>lectureTrashed(state,d.lectureId))}
-export async function listLectures(){return (await allLectures()).map(d=>({lectureId:d.lectureId,title:d.title||'Untitled lecture',moduleId:moduleFor(d),...(Object.hasOwn(d,'week')?{week:d.week,weekEnd:d.weekEnd}:{}),count:d.cards.length,...lectureProgress(d.cards),updatedAt:d.updatedAt||0,curated:!!d.curated,generation:d.generation||'imported'})).sort((a,b)=>b.updatedAt-a.updatedAt)}
+export async function listLectures(){return (await allLectures()).map(d=>({lectureId:d.lectureId,title:d.title||'Untitled lecture',moduleId:moduleFor(d),...(Object.hasOwn(d,'week')?{week:d.week,weekEnd:d.weekEnd}:{}),count:d.cards.length,...lectureProgress(d.cards),reviewDue:reviewDueCount(d.cards),updatedAt:d.updatedAt||0,curated:!!d.curated,generation:d.generation||'imported'})).sort((a,b)=>b.updatedAt-a.updatedAt)}
 export async function getLecture(id){const saved=await read(`lecture:${injuryId(id)?INJURY_SOURCE:id}`);return saved&&injuryId(id)?injuryPart(saved,partNumber(id)):saved}
 // Apply a remote revision atomically. Local edits made during the request stay dirty.
 export async function applyCloud(remote,revision,scope){

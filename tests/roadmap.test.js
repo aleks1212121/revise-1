@@ -1,0 +1,13 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {roadmapModel,roadmapStatus,roadmapWorkspace} from '../src/roadmap.js';import {reviewDueCount} from '../src/lecture-progress.js';import {escapeHTML} from '../src/cloze.js';
+test('roadmap prioritises genuine refresher reviews then unfinished weeks, without mutating data',()=>{
+ const data=[{lectureId:'endotoxins',title:'Endotoxins',count:4,studied:4,reviewDue:2},{lectureId:'glucose-metabolism',title:'Glucose',count:10,studied:3,reviewDue:0},{lectureId:'lab-safety',title:'Safety',count:5,studied:0,reviewDue:0},{lectureId:'own',title:'Own',count:2,studied:0}];const before=structuredClone(data);const m=roadmapModel(data);assert.deepEqual(m.next.map(l=>l.lectureId),['endotoxins','lab-safety','glucose-metabolism']);assert.deepEqual(m.weeks.map(w=>w.week),[1,2,3,4,5,6,7,null]);assert.equal(m.weeks[5].lectures.length,0);assert.deepEqual(m.totals,{cards:21,studied:7,reviewDue:2,started:2,seen:1});assert.deepEqual(data,before);
+});
+test('new cards due for first study are not mislabelled as refresher reviews',()=>{
+ const now=1000;assert.equal(reviewDueCount([{status:'new',dueAt:1},{reviews:1,dueAt:900},{reviews:4,dueAt:2000},{lastReviewedAt:900,sessionRetry:{after:3},dueAt:5000}],now),2);assert.equal(roadmapStatus({count:3,studied:3,reviewDue:0}),'First pass complete');assert.equal(roadmapStatus({count:3,studied:3,reviewDue:1}),'Review due');assert.equal(roadmapStatus({count:3,studied:1}),'In progress');assert.equal(roadmapStatus({count:3}),'Not started');
+});
+test('ranges appear once, custom week overrides work, and all-seen lectures remain available',()=>{
+ const m=roadmapModel([{lectureId:'microbiology-practical',title:'Practical',count:3,studied:3},{lectureId:'own',week:4,weekEnd:5,title:'Own',count:2,studied:2}]);assert.equal(m.weeks.flatMap(w=>w.lectures).length,2);assert.equal(m.next.length,0);assert.equal(m.totals.seen,2);assert.equal(m.weeks[1].week,2);assert.equal(m.weeks[1].complete,true);
+});
+test('roadmap filters modules, escapes personal titles, explains empty weeks and unknown schedules',()=>{
+ const data=[{lectureId:'own',title:'<script>alert(1)</script>',count:2,studied:0,moduleId:'medical-genetics'},{lectureId:'sterilisation',title:'Sterilisation',count:5,studied:0,moduleId:'infection-immunity'}];const html=roadmapWorkspace(data,escapeHTML,'medical-genetics');assert.match(html,/&lt;script&gt;/);assert.ok(!html.includes('<script>'));assert.ok(!html.includes('<h4>Sterilisation'));assert.match(html,/Week not set/);assert.match(roadmapWorkspace(data,escapeHTML),/Enrichment/);assert.match(roadmapWorkspace([],escapeHTML),/No lectures here yet/);
+});
