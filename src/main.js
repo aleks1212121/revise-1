@@ -231,6 +231,7 @@ async function bootDecks(){
  await refreshWorkspace();
  if(!await getLecture('microorganisms'))await ensureLecture({...await loadCurated(),lectureId:'microorganisms'});
  try{
+  const currentBeforeCorrections=await loadDeck();
   const failed=[];
   for(const lecture of bundledLectures){
    try{
@@ -243,7 +244,7 @@ async function bootDecks(){
     }
    }catch{failed.push(lecture.label)}
   }
-  const value=await loadDeck(),active=await allLectures();const chosen=value||active.find(d=>d.lectureId==='microorganisms')||active[0];setDeck(chosen?addStudyVisuals(migrateSchedule(chosen)):null,!!chosen);resetQueue();if(deck)await save();
+  const value=currentBeforeCorrections?await getLecture(currentBeforeCorrections.lectureId):await loadDeck(),active=await allLectures();const chosen=value||active.find(d=>d.lectureId==='microorganisms')||active[0];setDeck(chosen?addStudyVisuals(migrateSchedule(chosen)):null,!!chosen);resetQueue();if(deck)await save();
   lectures=await listLectures();trashLectures=await trashedLectures();
   if(failed.length)message=`Your current deck is saved. Refresh to retry adding: ${failed.join(', ')}.`;
  }catch{message='Your current deck is saved. Refresh to retry loading the lecture collection.'}
