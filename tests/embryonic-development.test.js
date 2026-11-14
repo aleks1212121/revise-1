@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync,existsSync} from 'node:fs';import {deletions} from '../src/cloze.js';import {moduleFor} from '../src/modules.js';import {lectureSummary} from '../src/summary-notes.js';
+const d=JSON.parse(readFileSync(new URL('../public/embryonic-development/deck.json',import.meta.url)));
+test('embryonic development is a fresh LS5034 deck with complete original references and diagrams',()=>{
+ assert.equal(moduleFor(d),'physiology-research');assert.equal(d.moduleCode,'LS5034');assert.equal(d.cards.length,82);assert.equal(d.slides.length,40);assert.equal(new Set(d.cards.map(c=>c.id)).size,82);assert.equal(new Set(d.cards.map(c=>c.text)).size,82);assert.equal(lectureSummary(d).reviewed,true);
+ for(const c of d.cards){assert.equal(c.type,'cloze');assert.equal(deletions(c.text).length,1);assert.equal(c.status,'new');assert.equal(c.reviews,undefined);assert.equal(c.dueAt,undefined);assert.equal(c.showImagesFront,false);assert.ok(c.slide>0&&c.slide<=40);assert.ok(['important','standard'].includes(c.importance));assert.ok(['easy','medium','hard'].includes(c.difficulty));for(const key of c.images)assert.ok(d.media[key]);}
+ assert.deepEqual(d.slides.map(s=>s.number),Array.from({length:40},(_,i)=>i+1));for(const s of d.slides)assert.ok(d.media[s.images[0]]);for(const path of Object.values(d.media))assert.ok(existsSync(new URL('../public/'+path,import.meta.url)));assert.equal(Object.keys(d.media).length,57);
+});
+test('embryology notes retain core processes and qualify misleading source generalisations',()=>{
+ const content=d.cards.map(c=>c.text+' '+c.explanation).join('\n');for(const re of [/3–8 after fertilisation/,/9 after fertilisation/,/pluripotent/,/not simply maps of neural-crest migration/,/not necessarily the one that fertilises/,/not sufficient to predict all anatomy/,/Sertoli cells/,/Leydig cells/,/Wolffian ducts/,/Müllerian ducts/,/5α-reductase/,/not a claim that the prostate derives from the Wolffian duct/])assert.match(content,re);
+ for(const page of [6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,33,34,35,36,37,38,39])assert.ok(d.cards.some(c=>c.slide===page),`page ${page} covered`);assert.ok(!d.cards.some(c=>[1,2,3,4,5,8,23,32,40].includes(c.slide)));
+});

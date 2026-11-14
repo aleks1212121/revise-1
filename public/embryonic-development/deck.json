@@ -1,0 +1,1933 @@
+{
+  "version": 2,
+  "lectureId": "embryonic-development",
+  "title": "Embryonic Development — Fertilisation, Germ Layers & Differentiation",
+  "moduleId": "physiology-research",
+  "moduleName": "Medical Physiology, Research Methods and Skills",
+  "moduleCode": "LS5034",
+  "source": "LS5024 Embryonic development - full lecture-1.pdf",
+  "generation": "reviewed",
+  "cards": [
+    {
+      "topic": "Developmental timing",
+      "slide": 6,
+      "explanation": "The lecture groups the first eight weeks broadly as embryonic development. Its statement that the entire first trimester equals the embryonic period is an oversimplification.",
+      "images": [
+        "timeline"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The major embryonic period of organogenesis is approximately weeks {{c1::3–8 after fertilisation}}.",
+      "noteId": "embryonic-development-353713be5891df38857e-note",
+      "id": "embryonic-development-353713be5891df38857e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The major embryonic period of organogenesis is approximately weeks {{c1::3–8 after fertilisation}}.",
+      "answer": "3–8 after fertilisation"
+    },
+    {
+      "topic": "Developmental timing",
+      "slide": 6,
+      "explanation": "It therefore begins before the second trimester. Clinical gestational age is usually about two weeks ahead of post-fertilisation age.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The fetal period begins at approximately week {{c1::9 after fertilisation}}.",
+      "noteId": "embryonic-development-0460c417df3e625a0736-note",
+      "id": "embryonic-development-0460c417df3e625a0736",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The fetal period begins at approximately week {{c1::9 after fertilisation}}.",
+      "answer": "9 after fertilisation"
+    },
+    {
+      "topic": "Developmental timing",
+      "slide": 6,
+      "explanation": "Organ formation and maturation overlap; this does not mean that no development occurs after the embryonic stage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Growth and further maturation dominate the {{c1::fetal period}}.",
+      "noteId": "embryonic-development-c8fc4f6c3c46324c6fd3-note",
+      "id": "embryonic-development-c8fc4f6c3c46324c6fd3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Growth and further maturation dominate the {{c1::fetal period}}.",
+      "answer": "fetal period"
+    },
+    {
+      "topic": "Developmental timing",
+      "slide": 7,
+      "explanation": "The lecture gives spina bifida and thalidomide-associated abnormalities as examples; it does not supply a complete causal or screening algorithm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Studying embryogenesis helps explain {{c1::congenital developmental abnormalities}}.",
+      "noteId": "embryonic-development-3383a974bccb75d520aa-note",
+      "id": "embryonic-development-3383a974bccb75d520aa",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Studying embryogenesis helps explain {{c1::congenital developmental abnormalities}}.",
+      "answer": "congenital developmental abnormalities"
+    },
+    {
+      "topic": "Fertilisation",
+      "slide": 9,
+      "explanation": "This precedes transport towards and implantation within the uterus.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Normal fertilisation usually occurs in the {{c1::uterine (Fallopian) tube}}.",
+      "noteId": "embryonic-development-ee4715a7fb757ab8ca35-note",
+      "id": "embryonic-development-ee4715a7fb757ab8ca35",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Normal fertilisation usually occurs in the {{c1::uterine (Fallopian) tube}}.",
+      "answer": "uterine (Fallopian) tube"
+    },
+    {
+      "topic": "Fertilisation",
+      "slide": 9,
+      "explanation": "This approximate oocyte lifespan is not the same as the full fertile window, because sperm survival also matters.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The oocyte is normally fertilisable for about {{c1::12–24 hours after ovulation}}.",
+      "noteId": "embryonic-development-f240d376474dd8f89f11-note",
+      "id": "embryonic-development-f240d376474dd8f89f11",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The oocyte is normally fertilisable for about {{c1::12–24 hours after ovulation}}.",
+      "answer": "12–24 hours after ovulation"
+    },
+    {
+      "topic": "Fertilisation",
+      "slide": 9,
+      "explanation": "Acrosomal changes help sperm pass the oocyte coverings. The source’s compressed order of binding events should not imply direct oocyte-membrane binding before traversing the zona.",
+      "images": [
+        "fertilisation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The sperm-head structure releasing enzymes during the acrosome reaction is the {{c1::acrosome}}.",
+      "noteId": "embryonic-development-6cdc95fb0f315fd07769-note",
+      "id": "embryonic-development-6cdc95fb0f315fd07769",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The sperm-head structure releasing enzymes during the acrosome reaction is the {{c1::acrosome}}.",
+      "answer": "acrosome"
+    },
+    {
+      "topic": "Fertilisation",
+      "slide": 9,
+      "explanation": "It is distinct from the oocyte plasma membrane and surrounding follicular cells.",
+      "images": [
+        "fertilisation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The glycoprotein coat surrounding the oocyte is the {{c1::zona pellucida}}.",
+      "noteId": "embryonic-development-54069f3ddf887ef180d3-note",
+      "id": "embryonic-development-54069f3ddf887ef180d3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The glycoprotein coat surrounding the oocyte is the {{c1::zona pellucida}}.",
+      "answer": "zona pellucida"
+    },
+    {
+      "topic": "Fertilisation",
+      "slide": 9,
+      "explanation": "The acrosomal reaction is not itself fusion of the two gamete membranes. The first sperm reaching the area is not necessarily the one that fertilises.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Fusion of sperm and oocyte membranes is distinct from penetration of the {{c1::zona pellucida}}.",
+      "noteId": "embryonic-development-00fffa9b3c2648f92fae-note",
+      "id": "embryonic-development-00fffa9b3c2648f92fae",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fusion of sperm and oocyte membranes is distinct from penetration of the {{c1::zona pellucida}}.",
+      "answer": "zona pellucida"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 10,
+      "explanation": "They increase cell number while the early embryo is still constrained by its surrounding coat.",
+      "images": [
+        "cleavage"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Early successive mitotic divisions of the fertilised egg are called {{c1::cleavage}}.",
+      "noteId": "embryonic-development-d2b461c3505c8e1f1ece-note",
+      "id": "embryonic-development-d2b461c3505c8e1f1ece",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Early successive mitotic divisions of the fertilised egg are called {{c1::cleavage}}.",
+      "answer": "cleavage"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 10,
+      "explanation": "The source gives an approximate cell count; stage identification should not depend on an invariant 12–15-cell threshold.",
+      "images": [
+        "cleavage"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The solid early ball of blastomeres is the {{c1::morula}}.",
+      "noteId": "embryonic-development-735949585d1c5d2ac106-note",
+      "id": "embryonic-development-735949585d1c5d2ac106",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The solid early ball of blastomeres is the {{c1::morula}}.",
+      "answer": "morula"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 11,
+      "explanation": "This is a structural stage transition rather than merely a larger number of identical cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Formation of a fluid-filled cavity distinguishes the {{c1::blastocyst}} from the solid morula.",
+      "noteId": "embryonic-development-5154c5f78d366552111d-note",
+      "id": "embryonic-development-5154c5f78d366552111d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Formation of a fluid-filled cavity distinguishes the {{c1::blastocyst}} from the solid morula.",
+      "answer": "blastocyst"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 12,
+      "explanation": "The cavity is distinct from the inner cell mass and outer cellular layer.",
+      "images": [
+        "blastocyst"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The blastocyst’s fluid-filled cavity is the {{c1::blastocoel}}.",
+      "noteId": "embryonic-development-540f386f1e022c66fa12-note",
+      "id": "embryonic-development-540f386f1e022c66fa12",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The blastocyst’s fluid-filled cavity is the {{c1::blastocoel}}.",
+      "answer": "blastocoel"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 12,
+      "explanation": "The lecture also uses trophoblast in this developmental context.",
+      "images": [
+        "blastocyst"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The outer cell layer of the blastocyst is the {{c1::trophectoderm}}.",
+      "noteId": "embryonic-development-b53a8903ace4c1469747-note",
+      "id": "embryonic-development-b53a8903ace4c1469747",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The outer cell layer of the blastocyst is the {{c1::trophectoderm}}.",
+      "answer": "trophectoderm"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 12,
+      "explanation": "It is distinct from the outer trophectoderm and the fluid-filled blastocoel.",
+      "images": [
+        "blastocyst"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The blastocyst cell group giving rise to the embryo proper is the {{c1::inner cell mass (embryoblast)}}.",
+      "noteId": "embryonic-development-2924b5bc2d5b45a489a9-note",
+      "id": "embryonic-development-2924b5bc2d5b45a489a9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The blastocyst cell group giving rise to the embryo proper is the {{c1::inner cell mass (embryoblast)}}.",
+      "answer": "inner cell mass (embryoblast)"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 13,
+      "explanation": "This should not be equated with totipotency, which includes the capacity to support all embryonic and extraembryonic lineages in the early developmental sense.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Embryonic stem-cell potential for the embryo’s cell types is described as {{c1::pluripotency}}.",
+      "noteId": "embryonic-development-0083b1b4a8b9f04f67fb-note",
+      "id": "embryonic-development-0083b1b4a8b9f04f67fb",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Embryonic stem-cell potential for the embryo’s cell types is described as {{c1::pluripotency}}.",
+      "answer": "pluripotency"
+    },
+    {
+      "topic": "Cleavage and blastocyst",
+      "slide": 13,
+      "explanation": "The placenta also contains maternal components; saying trophoblast makes the whole placenta would be incomplete.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Trophectoderm-derived trophoblast contributes key fetal cells of the {{c1::placenta}}.",
+      "noteId": "embryonic-development-a03009918b44ea94c69f-note",
+      "id": "embryonic-development-a03009918b44ea94c69f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Trophectoderm-derived trophoblast contributes key fetal cells of the {{c1::placenta}}.",
+      "answer": "placenta"
+    },
+    {
+      "topic": "Implantation",
+      "slide": 14,
+      "explanation": "The source places this under week 2; attachment normally begins near the end of week 1 and continues into week 2.",
+      "images": [
+        "implantation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Implantation involves the blastocyst attaching to and invading the uterine {{c1::endometrium}}.",
+      "noteId": "embryonic-development-5720aa61b6826efc7149-note",
+      "id": "embryonic-development-5720aa61b6826efc7149",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Implantation involves the blastocyst attaching to and invading the uterine {{c1::endometrium}}.",
+      "answer": "endometrium"
+    },
+    {
+      "topic": "Implantation",
+      "slide": 14,
+      "explanation": "Fertilisation and implantation normally occur at different sites.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The usual destination for implantation is the uterus rather than the {{c1::uterine tube}}.",
+      "noteId": "embryonic-development-c2cefcb7ff4802fc02c9-note",
+      "id": "embryonic-development-c2cefcb7ff4802fc02c9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The usual destination for implantation is the uterus rather than the {{c1::uterine tube}}.",
+      "answer": "uterine tube"
+    },
+    {
+      "topic": "Gastrulation",
+      "slide": 15,
+      "explanation": "It reorganises the initially bilaminar embryonic disc; the processes listed around week 3 overlap in time.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Formation of the three germ layers is {{c1::gastrulation}}.",
+      "noteId": "embryonic-development-987efc5eb99346c938fe-note",
+      "id": "embryonic-development-987efc5eb99346c938fe",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Formation of the three germ layers is {{c1::gastrulation}}.",
+      "answer": "gastrulation"
+    },
+    {
+      "topic": "Gastrulation",
+      "slide": 16,
+      "explanation": "Correction to the slide’s “totipotential” wording: epiblast cells are described as pluripotent, not universally capable of every extraembryonic lineage.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "All three definitive germ layers arise from the {{c1::epiblast}}.",
+      "noteId": "embryonic-development-b4f5f3778c18c3c702ea-note",
+      "id": "embryonic-development-b4f5f3778c18c3c702ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "All three definitive germ layers arise from the {{c1::epiblast}}.",
+      "answer": "epiblast"
+    },
+    {
+      "topic": "Gastrulation",
+      "slide": 16,
+      "explanation": "Migrating epiblast cells contribute to formation of the deeper layers.",
+      "images": [
+        "primitive-streak"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The site through which cells migrate during gastrulation is the {{c1::primitive streak}}.",
+      "noteId": "embryonic-development-cf24f68f16b35888ef56-note",
+      "id": "embryonic-development-cf24f68f16b35888ef56",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The site through which cells migrate during gastrulation is the {{c1::primitive streak}}.",
+      "answer": "primitive streak"
+    },
+    {
+      "topic": "Gastrulation",
+      "slide": 16,
+      "explanation": "They are tissue lineages, not three separate embryos.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The three germ layers are ectoderm, mesoderm and {{c1::endoderm}}.",
+      "noteId": "embryonic-development-716054af5c3fa7f68cf4-note",
+      "id": "embryonic-development-716054af5c3fa7f68cf4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The three germ layers are ectoderm, mesoderm and {{c1::endoderm}}.",
+      "answer": "endoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "The source contrasts it with middle mesoderm and inner endoderm.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The external germ layer is the {{c1::ectoderm}}.",
+      "noteId": "embryonic-development-674dfbd024c37cc2e8fc-note",
+      "id": "embryonic-development-674dfbd024c37cc2e8fc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The external germ layer is the {{c1::ectoderm}}.",
+      "answer": "ectoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "Its source examples include muscle, blood and kidney tubule cells.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The middle germ layer is the {{c1::mesoderm}}.",
+      "noteId": "embryonic-development-334c40ce63e01c8a0666-note",
+      "id": "embryonic-development-334c40ce63e01c8a0666",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The middle germ layer is the {{c1::mesoderm}}.",
+      "answer": "mesoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "Its source examples include respiratory and digestive epithelial derivatives.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The internal germ layer is the {{c1::endoderm}}.",
+      "noteId": "embryonic-development-45b2da7ad97d493d6acd-note",
+      "id": "embryonic-development-45b2da7ad97d493d6acd",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The internal germ layer is the {{c1::endoderm}}.",
+      "answer": "endoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "This does not mean every component of the skin, such as the dermis, has the same origin.",
+      "images": [
+        "ectoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The epidermis is derived primarily from {{c1::ectoderm}}.",
+      "noteId": "embryonic-development-3bd4f497770c7497300d-note",
+      "id": "embryonic-development-3bd4f497770c7497300d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The epidermis is derived primarily from {{c1::ectoderm}}.",
+      "answer": "ectoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "The neural tube is the key later structure in the neurulation diagram.",
+      "images": [
+        "ectoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The brain’s neural tissue arises from {{c1::ectoderm}}.",
+      "noteId": "embryonic-development-d3f9a502c558bead4003-note",
+      "id": "embryonic-development-d3f9a502c558bead4003",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The brain’s neural tissue arises from {{c1::ectoderm}}.",
+      "answer": "ectoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "These are the muscle examples directly shown in the fate diagram.",
+      "images": [
+        "mesoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Cardiac and skeletal muscle are {{c1::mesodermal}} derivatives.",
+      "noteId": "embryonic-development-1f5391e4df05b828ac78-note",
+      "id": "embryonic-development-1f5391e4df05b828ac78",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Cardiac and skeletal muscle are {{c1::mesodermal}} derivatives.",
+      "answer": "mesodermal"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "The diagram should not be simplified into “all epithelium comes from endoderm”.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The kidney tubule cells shown in the fate diagram derive from {{c1::mesoderm}}.",
+      "noteId": "embryonic-development-62b4b98749067a295519-note",
+      "id": "embryonic-development-62b4b98749067a295519",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The kidney tubule cells shown in the fate diagram derive from {{c1::mesoderm}}.",
+      "answer": "mesoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "The source illustrates this with red blood cells.",
+      "images": [
+        "mesoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Blood cells are derived from {{c1::mesoderm}}.",
+      "noteId": "embryonic-development-d55b6ffd180962da808b-note",
+      "id": "embryonic-development-d55b6ffd180962da808b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Blood cells are derived from {{c1::mesoderm}}.",
+      "answer": "mesoderm"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "This concerns the epithelial lineage, not every connective-tissue or vascular component of the lung.",
+      "images": [
+        "endoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The lung alveolar epithelial cells illustrated are {{c1::endodermal}} derivatives.",
+      "noteId": "embryonic-development-3bdd09552f8566e55535-note",
+      "id": "embryonic-development-3bdd09552f8566e55535",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The lung alveolar epithelial cells illustrated are {{c1::endodermal}} derivatives.",
+      "answer": "endodermal"
+    },
+    {
+      "topic": "Germ-layer derivatives",
+      "slide": 17,
+      "explanation": "The diagram labels digestive/pancreatic cells among inner-layer derivatives.",
+      "images": [
+        "endoderm-fates"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Pancreatic epithelial cells in the source diagram derive from {{c1::endoderm}}.",
+      "noteId": "embryonic-development-4811bcaad69a7b51e6c8-note",
+      "id": "embryonic-development-4811bcaad69a7b51e6c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Pancreatic epithelial cells in the source diagram derive from {{c1::endoderm}}.",
+      "answer": "endoderm"
+    },
+    {
+      "topic": "Neurulation",
+      "slide": 18,
+      "explanation": "The source describes separation of neural ectoderm from other ectodermal tissue.",
+      "images": [
+        "neurulation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Formation of the neural plate and neural tube is {{c1::neurulation}}.",
+      "noteId": "embryonic-development-664a5e91cbfbdc9df63c-note",
+      "id": "embryonic-development-664a5e91cbfbdc9df63c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Formation of the neural plate and neural tube is {{c1::neurulation}}.",
+      "answer": "neurulation"
+    },
+    {
+      "topic": "Neurulation",
+      "slide": 18,
+      "explanation": "It is not simply the future vertebral column, which has a different major tissue origin.",
+      "images": [
+        "neurulation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The neural tube forms the {{c1::brain and spinal cord}}.",
+      "noteId": "embryonic-development-7479b9fa13b423bda642-note",
+      "id": "embryonic-development-7479b9fa13b423bda642",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The neural tube forms the {{c1::brain and spinal cord}}.",
+      "answer": "brain and spinal cord"
+    },
+    {
+      "topic": "Neurulation",
+      "slide": 18,
+      "explanation": "The source cross-sections show the progression from plate/groove to a closed tube.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "During neural-tube formation, the neural folds {{c1::fuse}}.",
+      "noteId": "embryonic-development-8ea20c42060bfa756136-note",
+      "id": "embryonic-development-8ea20c42060bfa756136",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "During neural-tube formation, the neural folds {{c1::fuse}}.",
+      "answer": "fuse"
+    },
+    {
+      "topic": "Somites and folding",
+      "slide": 19,
+      "explanation": "The blocks are called somites and help establish the segmented axial body plan.",
+      "images": [
+        "somites"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Segmentation of mesoderm into paired blocks is {{c1::somitogenesis}}.",
+      "noteId": "embryonic-development-61c6220c8d31d80a911a-note",
+      "id": "embryonic-development-61c6220c8d31d80a911a",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Segmentation of mesoderm into paired blocks is {{c1::somitogenesis}}.",
+      "answer": "somitogenesis"
+    },
+    {
+      "topic": "Somites and folding",
+      "slide": 19,
+      "explanation": "They contribute to axial skeletal and associated muscle/connective-tissue organisation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Somites form along the embryo’s {{c1::anterior–posterior axis}}.",
+      "noteId": "embryonic-development-a8b1dffd3151f0b87e30-note",
+      "id": "embryonic-development-a8b1dffd3151f0b87e30",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Somites form along the embryo’s {{c1::anterior–posterior axis}}.",
+      "answer": "anterior–posterior axis"
+    },
+    {
+      "topic": "Somites and folding",
+      "slide": 19,
+      "explanation": "The slide lists cartilage, bone, muscle and tendon. This is not a claim that somites generate every skeletal structure in the body.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Somite derivatives include axial skeletal tissues and {{c1::skeletal muscle}}.",
+      "noteId": "embryonic-development-8c5cf2d354bee4b8efb9-note",
+      "id": "embryonic-development-8c5cf2d354bee4b8efb9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Somite derivatives include axial skeletal tissues and {{c1::skeletal muscle}}.",
+      "answer": "skeletal muscle"
+    },
+    {
+      "topic": "Somites and folding",
+      "slide": 20,
+      "explanation": "The slide groups folding with the week-3 processes, but much of the major body folding occurs during week 4.",
+      "images": [
+        "folding"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Embryonic folding changes the flatter disc into a curved {{c1::C-shaped body}}.",
+      "noteId": "embryonic-development-ebb4c1a98c02432aa4e3-note",
+      "id": "embryonic-development-ebb4c1a98c02432aa4e3",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Embryonic folding changes the flatter disc into a curved {{c1::C-shaped body}}.",
+      "answer": "C-shaped body"
+    },
+    {
+      "topic": "Somites and folding",
+      "slide": 20,
+      "explanation": "This is a change in three-dimensional arrangement rather than a new germ layer.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Folding helps turn part of the embryonic endoderm into the primitive {{c1::gut tube}}.",
+      "noteId": "embryonic-development-59565c1ab1cfad35ac6c-note",
+      "id": "embryonic-development-59565c1ab1cfad35ac6c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Folding helps turn part of the embryonic endoderm into the primitive {{c1::gut tube}}.",
+      "answer": "gut tube"
+    },
+    {
+      "topic": "Organogenesis",
+      "slide": 21,
+      "explanation": "The source includes human imaging links and a chick-heart demonstration; these do not make the chick image a human embryo measurement.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The week-4 overview highlights formation of the {{c1::heart}}.",
+      "noteId": "embryonic-development-baad18b6afd335d9eb42-note",
+      "id": "embryonic-development-baad18b6afd335d9eb42",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The week-4 overview highlights formation of the {{c1::heart}}.",
+      "answer": "heart"
+    },
+    {
+      "topic": "Organogenesis",
+      "slide": 21,
+      "explanation": "The lecture’s week-4 overview mentions cavities, but some extraembryonic structures begin forming earlier; they do not all first appear in week 4.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Structures outside the embryo proper are described as {{c1::extraembryonic}}.",
+      "noteId": "embryonic-development-cdebc86597ff85eb23bf-note",
+      "id": "embryonic-development-cdebc86597ff85eb23bf",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Structures outside the embryo proper are described as {{c1::extraembryonic}}.",
+      "answer": "extraembryonic"
+    },
+    {
+      "topic": "Organogenesis",
+      "slide": 22,
+      "explanation": "The week-5–8 images illustrate progressively developing organs, tissues and limbs.",
+      "images": [
+        "organogenesis"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Formation of organs during embryonic development is {{c1::organogenesis}}.",
+      "noteId": "embryonic-development-92ddc5a86d090c1b3260-note",
+      "id": "embryonic-development-92ddc5a86d090c1b3260",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Formation of organs during embryonic development is {{c1::organogenesis}}.",
+      "answer": "organogenesis"
+    },
+    {
+      "topic": "Organogenesis",
+      "slide": 24,
+      "explanation": "Species-specific timing and anatomy still differ; the unkeyed mouse-versus-human comparison is not used to guess species from appearance alone.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Similar early developmental processes across species permit use of {{c1::animal models}}.",
+      "noteId": "embryonic-development-e695088c3e2a695ddbfc-note",
+      "id": "embryonic-development-e695088c3e2a695ddbfc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Similar early developmental processes across species permit use of {{c1::animal models}}.",
+      "answer": "animal models"
+    },
+    {
+      "topic": "Developmental mosaicism",
+      "slide": 25,
+      "explanation": "Correction to the slide: these patterns are not simply maps of neural-crest migration. They can reveal clonal skin-cell distributions when genetic/epigenetic differences become visible.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "Blaschko’s lines can reflect patterns of embryonic skin-cell {{c1::mosaicism}}.",
+      "noteId": "embryonic-development-c844eec8646dd0745af0-note",
+      "id": "embryonic-development-c844eec8646dd0745af0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Blaschko’s lines can reflect patterns of embryonic skin-cell {{c1::mosaicism}}.",
+      "answer": "mosaicism"
+    },
+    {
+      "topic": "Determination and differentiation",
+      "slide": 26,
+      "explanation": "The lecture distinguishes this from later development of reproductive anatomy in response to downstream signals.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The genetic/gonadal initiation process is termed sex {{c1::determination}}.",
+      "noteId": "embryonic-development-a694db33d91395d4abd0-note",
+      "id": "embryonic-development-a694db33d91395d4abd0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The genetic/gonadal initiation process is termed sex {{c1::determination}}.",
+      "answer": "determination"
+    },
+    {
+      "topic": "Determination and differentiation",
+      "slide": 26,
+      "explanation": "Determination and differentiation are related developmental stages, not synonyms.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Development of reproductive anatomy in response to genes and hormones is sex {{c1::differentiation}}.",
+      "noteId": "embryonic-development-f5d8897986c0ff29d2e0-note",
+      "id": "embryonic-development-f5d8897986c0ff29d2e0",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Development of reproductive anatomy in response to genes and hormones is sex {{c1::differentiation}}.",
+      "answer": "differentiation"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 27,
+      "explanation": "They are arranged into 23 pairs; aneuploidies and mosaicism are exceptions, not excluded by the word “typical”.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A typical human diploid somatic cell contains {{c1::46 chromosomes}}.",
+      "noteId": "embryonic-development-a08a292a62db0a373da2-note",
+      "id": "embryonic-development-a08a292a62db0a373da2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A typical human diploid somatic cell contains {{c1::46 chromosomes}}.",
+      "answer": "46 chromosomes"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 27,
+      "explanation": "The remaining pair comprises sex chromosomes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The number of autosomal pairs in a typical human karyotype is {{c1::22}}.",
+      "noteId": "embryonic-development-57edb1a20dca6d63dfe7-note",
+      "id": "embryonic-development-57edb1a20dca6d63dfe7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The number of autosomal pairs in a typical human karyotype is {{c1::22}}.",
+      "answer": "22"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 27,
+      "explanation": "Chromosomes are one component of sex development, not a complete prediction of every person’s gonadal or anatomical characteristics.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The common karyotypes associated with typical female and male development are {{c1::46,XX and 46,XY}}, respectively.",
+      "noteId": "embryonic-development-e30dbab1597bdc892b5e-note",
+      "id": "embryonic-development-e30dbab1597bdc892b5e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The common karyotypes associated with typical female and male development are {{c1::46,XX and 46,XY}}, respectively.",
+      "answer": "46,XX and 46,XY"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 28,
+      "explanation": "Its importance is not limited to sex determination or gamete formation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The X chromosome carries genes with many {{c1::non-reproductive functions}}.",
+      "noteId": "embryonic-development-9ced6dc8a7b243078136-note",
+      "id": "embryonic-development-9ced6dc8a7b243078136",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The X chromosome carries genes with many {{c1::non-reproductive functions}}.",
+      "answer": "non-reproductive functions"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 29,
+      "explanation": "In many XX somatic cells, one X is largely inactivated. Some genes escape inactivation, and the process is not identical in every cell type.",
+      "images": [
+        "x-inactivation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "A condensed inactive X chromosome is called a {{c1::Barr body}}.",
+      "noteId": "embryonic-development-2ca0d7228427bec799ea-note",
+      "id": "embryonic-development-2ca0d7228427bec799ea",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A condensed inactive X chromosome is called a {{c1::Barr body}}.",
+      "answer": "Barr body"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 29,
+      "explanation": "Descendants tend to retain the same inactive X; skewing can occur, so random initiation does not guarantee a perfect 50:50 tissue ratio.",
+      "images": [
+        "x-inactivation"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Early random X inactivation can create clonal {{c1::mosaicism}} in XX tissues.",
+      "noteId": "embryonic-development-08ce9dc0c79ce360774e-note",
+      "id": "embryonic-development-08ce9dc0c79ce360774e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Early random X inactivation can create clonal {{c1::mosaicism}} in XX tissues.",
+      "answer": "mosaicism"
+    },
+    {
+      "topic": "Chromosomes and X inactivation",
+      "slide": 30,
+      "explanation": "The figure is a model of X-linked mosaic expression, not proof that every coat colour locus is X-linked.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "The tortoiseshell-cat example illustrates differential expression from {{c1::active X chromosomes}} in different cell clones.",
+      "noteId": "embryonic-development-6bbb3accbe583c9d8993-note",
+      "id": "embryonic-development-6bbb3accbe583c9d8993",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The tortoiseshell-cat example illustrates differential expression from {{c1::active X chromosomes}} in different cell clones.",
+      "answer": "active X chromosomes"
+    },
+    {
+      "topic": "X-linked inheritance",
+      "slide": 31,
+      "explanation": "The slide’s broad “X-linked disorders” label is refined: dominant X-linked conditions and affected XX individuals also exist.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "X-linked recessive variants often manifest in XY individuals because they are {{c1::hemizygous for most X-linked genes}}.",
+      "noteId": "embryonic-development-da20863b269ee137fd65-note",
+      "id": "embryonic-development-da20863b269ee137fd65",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "X-linked recessive variants often manifest in XY individuals because they are {{c1::hemizygous for most X-linked genes}}.",
+      "answer": "hemizygous for most X-linked genes"
+    },
+    {
+      "topic": "X-linked inheritance",
+      "slide": 31,
+      "explanation": "The source also lists red–green colour-vision deficiency. Its numerical incidence estimates are not treated as universal current values.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "easy",
+      "text": "Haemophilia and Duchenne muscular dystrophy are examples used to illustrate {{c1::X-linked recessive inheritance}}.",
+      "noteId": "embryonic-development-625fc2e52ee6c260e8c7-note",
+      "id": "embryonic-development-625fc2e52ee6c260e8c7",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Haemophilia and Duchenne muscular dystrophy are examples used to illustrate {{c1::X-linked recessive inheritance}}.",
+      "answer": "X-linked recessive inheritance"
+    },
+    {
+      "topic": "Chromosomal variations",
+      "slide": 33,
+      "explanation": "It illustrates that an additional X does not by itself replace the usual testis-determining pathway. Individual features and mosaic forms vary.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The common Klinefelter karyotype shown is {{c1::47,XXY}}.",
+      "noteId": "embryonic-development-73a4c599202e4db12144-note",
+      "id": "embryonic-development-73a4c599202e4db12144",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The common Klinefelter karyotype shown is {{c1::47,XXY}}.",
+      "answer": "47,XXY"
+    },
+    {
+      "topic": "Chromosomal variations",
+      "slide": 33,
+      "explanation": "The source uses X0 notation. Clinical presentation varies and not all Turner cases have the same chromosome pattern.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The common Turner karyotype shown is {{c1::45,X}}.",
+      "noteId": "embryonic-development-c63ccc0234befe499759-note",
+      "id": "embryonic-development-c63ccc0234befe499759",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The common Turner karyotype shown is {{c1::45,X}}.",
+      "answer": "45,X"
+    },
+    {
+      "topic": "Gonadal determination",
+      "slide": 34,
+      "explanation": "Early reproductive structures share a common plan rather than being mature ovaries or testes from the outset.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The early gonad capable of following different developmental pathways is {{c1::bipotential}}.",
+      "noteId": "embryonic-development-16dc6a1ca672e93d1cf1-note",
+      "id": "embryonic-development-16dc6a1ca672e93d1cf1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The early gonad capable of following different developmental pathways is {{c1::bipotential}}.",
+      "answer": "bipotential"
+    },
+    {
+      "topic": "Gonadal determination",
+      "slide": 34,
+      "explanation": "The source calls this the sex-determining region of the Y. It is a gene-level developmental trigger, not a claim that a Y chromosome always guarantees one complete phenotype.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Y-associated gene usually initiating testis differentiation is {{c1::SRY}}.",
+      "noteId": "embryonic-development-f382b3df253f104ae31f-note",
+      "id": "embryonic-development-f382b3df253f104ae31f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Y-associated gene usually initiating testis differentiation is {{c1::SRY}}.",
+      "answer": "SRY"
+    },
+    {
+      "topic": "Gonadal determination",
+      "slide": 34,
+      "explanation": "Many downstream genes are on other chromosomes; the pathway is not encoded solely by Y-linked genes.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "SRY acts through a gene-regulatory pathway promoting {{c1::testis development}}.",
+      "noteId": "embryonic-development-6a31acdcb70039a189ca-note",
+      "id": "embryonic-development-6a31acdcb70039a189ca",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "SRY acts through a gene-regulatory pathway promoting {{c1::testis development}}.",
+      "answer": "testis development"
+    },
+    {
+      "topic": "Gonadal determination",
+      "slide": 34,
+      "explanation": "Functional determination, hormone production and tissue responsiveness all matter. The source’s headline is a useful simplified model, not an exceptionless rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The presence of a Y chromosome alone is {{c1::not sufficient to predict all anatomy}}.",
+      "noteId": "embryonic-development-baa301b30d73b019d8e9-note",
+      "id": "embryonic-development-baa301b30d73b019d8e9",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The presence of a Y chromosome alone is {{c1::not sufficient to predict all anatomy}}.",
+      "answer": "not sufficient to predict all anatomy"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "The early diagram shows it alongside the Müllerian duct.",
+      "images": [
+        "internal-ducts"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Wolffian duct is also called the {{c1::mesonephric duct}}.",
+      "noteId": "embryonic-development-b0816dd284f1652e49cc-note",
+      "id": "embryonic-development-b0816dd284f1652e49cc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Wolffian duct is also called the {{c1::mesonephric duct}}.",
+      "answer": "mesonephric duct"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "The name distinguishes it from the Wolffian/mesonephric system.",
+      "images": [
+        "internal-ducts"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The Müllerian duct is also called the {{c1::paramesonephric duct}}.",
+      "noteId": "embryonic-development-085c80cf202cae421b82-note",
+      "id": "embryonic-development-085c80cf202cae421b82",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The Müllerian duct is also called the {{c1::paramesonephric duct}}.",
+      "answer": "paramesonephric duct"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "These form structures such as the epididymis, ductus deferens and seminal vesicles.",
+      "images": [
+        "internal-ducts"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Testosterone supports development of the {{c1::Wolffian ducts}}.",
+      "noteId": "embryonic-development-46cc81c0dd78163b4469-note",
+      "id": "embryonic-development-46cc81c0dd78163b4469",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Testosterone supports development of the {{c1::Wolffian ducts}}.",
+      "answer": "Wolffian ducts"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "This is distinct from the Müllerian-derived uterine tube.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A Wolffian-derived sperm-conducting duct is the {{c1::ductus (vas) deferens}}.",
+      "noteId": "embryonic-development-49e10f9a9bdc1f1a1768-note",
+      "id": "embryonic-development-49e10f9a9bdc1f1a1768",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A Wolffian-derived sperm-conducting duct is the {{c1::ductus (vas) deferens}}.",
+      "answer": "ductus (vas) deferens"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "The source also labels cervix and upper vaginal contributions; the exact fraction of vaginal origin is not used as an invariant rule.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "In the absence of AMH action, Müllerian ducts can form the uterus and {{c1::uterine tubes}}.",
+      "noteId": "embryonic-development-6d1da524221cfa53d4b4-note",
+      "id": "embryonic-development-6d1da524221cfa53d4b4",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "In the absence of AMH action, Müllerian ducts can form the uterus and {{c1::uterine tubes}}.",
+      "answer": "uterine tubes"
+    },
+    {
+      "topic": "Internal reproductive development",
+      "slide": 35,
+      "explanation": "This is distinct from the AMH-mediated regression of Müllerian ducts.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Without adequate testosterone support, Wolffian ducts typically {{c1::regress}}.",
+      "noteId": "embryonic-development-f3dd91037604601d9c62-note",
+      "id": "embryonic-development-f3dd91037604601d9c62",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Without adequate testosterone support, Wolffian ducts typically {{c1::regress}}.",
+      "answer": "regress"
+    },
+    {
+      "topic": "External reproductive development",
+      "slide": 36,
+      "explanation": "This is not the same as testosterone’s support of the internal Wolffian ducts.",
+      "images": [
+        "external-genitalia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "DHT supports typical development of {{c1::male external genitalia}}.",
+      "noteId": "embryonic-development-b0c4073f36dd6b1cdff5-note",
+      "id": "embryonic-development-b0c4073f36dd6b1cdff5",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "DHT supports typical development of {{c1::male external genitalia}}.",
+      "answer": "male external genitalia"
+    },
+    {
+      "topic": "External reproductive development",
+      "slide": 36,
+      "explanation": "The diagram shows homologous starting structures rather than two unrelated embryonic origins.",
+      "images": [
+        "external-genitalia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The shared early structure giving rise to the clitoris or glans penis is the {{c1::genital tubercle}}.",
+      "noteId": "embryonic-development-10bdf3756f9ff323953b-note",
+      "id": "embryonic-development-10bdf3756f9ff323953b",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The shared early structure giving rise to the clitoris or glans penis is the {{c1::genital tubercle}}.",
+      "answer": "genital tubercle"
+    },
+    {
+      "topic": "External reproductive development",
+      "slide": 36,
+      "explanation": "The figure’s broader penile-shaft wording is simplified; the paired swellings are classically linked with labioscrotal derivatives.",
+      "images": [
+        "external-genitalia"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The labioscrotal swellings contribute to the labia majora or {{c1::scrotum}}.",
+      "noteId": "embryonic-development-89509c59cd4873ab854c-note",
+      "id": "embryonic-development-89509c59cd4873ab854c",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The labioscrotal swellings contribute to the labia majora or {{c1::scrotum}}.",
+      "answer": "scrotum"
+    },
+    {
+      "topic": "External reproductive development",
+      "slide": 36,
+      "explanation": "Their development differs from labioscrotal swellings, which contribute to the labia majora.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "The unfused urogenital folds contribute to the {{c1::labia minora}}.",
+      "noteId": "embryonic-development-59142aa6f114d2d04a54-note",
+      "id": "embryonic-development-59142aa6f114d2d04a54",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The unfused urogenital folds contribute to the {{c1::labia minora}}.",
+      "answer": "labia minora"
+    },
+    {
+      "topic": "External reproductive development",
+      "slide": 36,
+      "explanation": "The source uses a broad shaft description; the card distinguishes the fold contribution from the labioscrotal contribution.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "Fusion of the urogenital folds contributes to the penile {{c1::urethral enclosure}}.",
+      "noteId": "embryonic-development-61b5f25523dadc8a4b66-note",
+      "id": "embryonic-development-61b5f25523dadc8a4b66",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Fusion of the urogenital folds contributes to the penile {{c1::urethral enclosure}}.",
+      "answer": "urethral enclosure"
+    },
+    {
+      "topic": "Testicular signals",
+      "slide": 37,
+      "explanation": "AMH is also called Müllerian-inhibiting substance in this lecture.",
+      "images": [
+        "signals"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The testicular cells secreting anti-Müllerian hormone are {{c1::Sertoli cells}}.",
+      "noteId": "embryonic-development-02a8bd8bbff4d4ce90c8-note",
+      "id": "embryonic-development-02a8bd8bbff4d4ce90c8",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The testicular cells secreting anti-Müllerian hormone are {{c1::Sertoli cells}}.",
+      "answer": "Sertoli cells"
+    },
+    {
+      "topic": "Testicular signals",
+      "slide": 37,
+      "explanation": "This contrasts with Sertoli-cell AMH production.",
+      "images": [
+        "signals"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Testosterone is produced by fetal testicular {{c1::Leydig cells}}.",
+      "noteId": "embryonic-development-6ea5c7cc35ef619a689d-note",
+      "id": "embryonic-development-6ea5c7cc35ef619a689d",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Testosterone is produced by fetal testicular {{c1::Leydig cells}}.",
+      "answer": "Leydig cells"
+    },
+    {
+      "topic": "Testicular signals",
+      "slide": 37,
+      "explanation": "The source’s “attacks female structures” wording is replaced by the specific developmental target; AMH does not remove every structure associated with female anatomy.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "AMH causes regression of the {{c1::Müllerian ducts}}.",
+      "noteId": "embryonic-development-eb3c35a55bedf404d6b2-note",
+      "id": "embryonic-development-eb3c35a55bedf404d6b2",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "AMH causes regression of the {{c1::Müllerian ducts}}.",
+      "answer": "Müllerian ducts"
+    },
+    {
+      "topic": "Testicular signals",
+      "slide": 37,
+      "explanation": "DHT means dihydrotestosterone; conversion changes local androgen signalling.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "The enzyme converting testosterone to DHT is {{c1::5α-reductase}}.",
+      "noteId": "embryonic-development-15a29f1b990c0e71f73f-note",
+      "id": "embryonic-development-15a29f1b990c0e71f73f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The enzyme converting testosterone to DHT is {{c1::5α-reductase}}.",
+      "answer": "5α-reductase"
+    },
+    {
+      "topic": "Testicular signals",
+      "slide": 37,
+      "explanation": "It is a potent androgen formed from testosterone, with important roles in external genital differentiation.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "easy",
+      "text": "Dihydrotestosterone is abbreviated {{c1::DHT}}.",
+      "noteId": "embryonic-development-1abdf48772c22e0cf9bc-note",
+      "id": "embryonic-development-1abdf48772c22e0cf9bc",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Dihydrotestosterone is abbreviated {{c1::DHT}}.",
+      "answer": "DHT"
+    },
+    {
+      "topic": "Integration at birth",
+      "slide": 38,
+      "explanation": "The final diagrams include DHT-related prostate/external genital development. This is not a claim that the prostate derives from the Wolffian duct.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "standard",
+      "difficulty": "medium",
+      "text": "The prostate is associated with androgen-dependent {{c1::male differentiation}}.",
+      "noteId": "embryonic-development-983ef9eece8811bc242e-note",
+      "id": "embryonic-development-983ef9eece8811bc242e",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "The prostate is associated with androgen-dependent {{c1::male differentiation}}.",
+      "answer": "male differentiation"
+    },
+    {
+      "topic": "Integration at birth",
+      "slide": 39,
+      "explanation": "The source distinguishes this stage from initiation of gonadal determination. A diagnostic label still requires more than the diagram alone.",
+      "images": [
+        "signals"
+      ],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "medium",
+      "text": "A defect in hormone production or response after gonadal determination primarily affects sexual {{c1::differentiation}}.",
+      "noteId": "embryonic-development-98af67b59b46070ba6c1-note",
+      "id": "embryonic-development-98af67b59b46070ba6c1",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "A defect in hormone production or response after gonadal determination primarily affects sexual {{c1::differentiation}}.",
+      "answer": "differentiation"
+    },
+    {
+      "topic": "Integration at birth",
+      "slide": 39,
+      "explanation": "This follows from separating determination, hormone secretion and target-tissue response; no unprovided case diagnosis is inferred.",
+      "images": [],
+      "showImagesFront": false,
+      "draft": false,
+      "status": "new",
+      "importance": "important",
+      "difficulty": "hard",
+      "text": "Normal SRY-driven testis formation does not guarantee normal downstream {{c1::androgen responsiveness}}.",
+      "noteId": "embryonic-development-34fd55742921a89e7a9f-note",
+      "id": "embryonic-development-34fd55742921a89e7a9f",
+      "type": "cloze",
+      "clozeNumber": 1,
+      "question": "Normal SRY-driven testis formation does not guarantee normal downstream {{c1::androgen responsiveness}}.",
+      "answer": "androgen responsiveness"
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 1",
+      "text": "LS5024 \nReproductive Physiology and \nEmbryonic Development:\nEmbryonic development\nDr Francesca Mackenzie\nEmail: f.mackenzie@kingston.ac.uk\nOffice MB1019\nBook a meeting with me\n",
+      "images": [
+        "page-1"
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 2",
+      "text": "• How a human foetus (embryo) develops, from the \nstage of fertilisation\n• How male and female anatomy develops as an \nembryo and at puberty\n• Abnormalities of development\n• Reproductive functioning in females and males; \nparticularly how gametes (ova and sperm) are \nproduced\nReproductive Physiology and \nEmbryonic Development: Overview\n",
+      "images": [
+        "page-2"
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 3",
+      "text": "Learning Objectives \n•Describe the process of fertilisation\n•Describe the stages of early embryonic development \n(weeks 1-8)\n•Describe how the reproductive system develops\n",
+      "images": [
+        "page-3"
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 4",
+      "text": "Reading\nHuman Physiology: An Integrated Approach. By \nDee Silverthorn.\nChapter 26 in 8th edition. Online and in the Library\nReference\nEmbryology at UNSW: Dr Mark Hill \n",
+      "images": [
+        "page-4"
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 5",
+      "text": "Personal Support\nIf you have been affected by any content or subjects in these lectures, you \ncan find support below:\n• KU Student Wellbeing hub\n• Your GP\n• 24/7 Mental Health Support Line on 0800 028 8000\n• Samaritans helpline on 116 123\n• Your personal tutor or course leader\n• Sexual health services - NHS : for support with contraception, sexual \nhealth, abortion, sexually transmitted infections, rape and sexual assault\n• Fertility Network : for support with infertility/fertility difficulties\n• The Miscarriage Association: for support with pregnancy loss\n• Tommy’s : for baby loss support\n• Pregnancy Support – NHS : for support in all pregnancies\n",
+      "images": [
+        "page-5"
+      ]
+    },
+    {
+      "number": 6,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 6",
+      "text": "Embryonic and Foetal development - in Humans\n• First Trimester = embryonic period (organogenesis)\n• Second and Third Trimesters = fetal period (growth)\nUNSW Embryology\n",
+      "images": [
+        "page-6"
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 7",
+      "text": "Why study embryonic development?\n• Understanding health of developing babies\n• Genetic and birth disorders often affect embryonic \ndevelopment e.g. spina bifida, thalidomide syndrome\n• Supporting fertility research and therapies\n• Understanding how organs and tissues are made\n• Embryonic processes often re-occur later in life e.g. \ncancer, cell regeneration\n",
+      "images": [
+        "page-7"
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 8",
+      "text": "The Embryonic Period - Week 1 to 8 (first trimester)\n",
+      "images": [
+        "page-8"
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 9",
+      "text": "• An egg can be fertilized for only about 12–24 hours after ovulation\n• Fertilization normally takes place in the Fallopian tube\n• Only about 100 sperm reach this point\n• The first sperm to reach the ovum finds sperm-binding receptors on the \noocyte membrane and binds to the ovum\n• Sperm release enzymes from the acrosome in the sperm head, \nacrosomal reaction > the enzymes dissolve cell junctions and the zona \npellucida\nFertilisation \n",
+      "images": [
+        "page-9"
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 10",
+      "text": "Week 1: Morula and Blastocyst formation\nBlastocyst day 3-6 video\nModel of embryo to 32 cell stage\n• Fertilised ovum undergoes mitosis to form solid ball of cells \n(morula), then a hollow ball (blastocyst)\n",
+      "images": [
+        "page-10"
+      ]
+    },
+    {
+      "number": 11,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 11",
+      "text": "Morula Biopsy\n• cells have rapidly mitotically divided to produce a solid mass of \ncells (12-15 cells)\n• followed by formation of a cavity in this cellular mass \n= blastocyst stage\nMorula\n",
+      "images": [
+        "page-11"
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 12",
+      "text": "• A hollow cellular mass \n• consists of cells forming:\n• outer trophectoderm (trophoblast) layer\n• inner cell mass (embryoblast) \n• blastocoel (fluid-filled cavity)\nBlastocyst\n",
+      "images": [
+        "page-12"
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 13",
+      "text": "• The inner cell mass > will form the entire embryo; contains \ntrue embryonic stem cells capable of forming all cell types \nwithin the embryo \n• In mammals, the trophectoderm will form key cells \n(trophoblast) of the placenta\nBlastocyst\n",
+      "images": [
+        "page-13"
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 14",
+      "text": "Week 2: Implantation\n• Blastocyst invades the endometrium of the uterine wall\n• Placenta starts to develop\n",
+      "images": [
+        "page-14"
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 15",
+      "text": "Week 3: Four important processes occur\nEmbryonic disc (2 layered)\nThe embryonic disc undergoes 4 important processes, that form \nthe overall plan of the body:\n• Gastrulation \n \nthe formation of the 3-layer embryo\n• Neurulation  \n \nstarts to form the neural tissue\n• Somitogenesis  \nforms the axial body plan\n• Folding  \n \n \nfolding to form a tube and a C-shape embryo\n",
+      "images": [
+        "page-15"
+      ]
+    },
+    {
+      "number": 16,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 16",
+      "text": "• The epiblast layer (totipotential cells) derives all 3 \nembryo layers: ectoderm, mesoderm and endoderm. \n• primitive streak : the site of cell migration to form the \nadditional layers\n• Gastrulation : the formation of the 3-layer embryo\nGastrulation video \n(migration of cells)\nEmbryonic \ndisc\n",
+      "images": [
+        "page-16"
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 17",
+      "text": "Cnx.org\n• 3 layers of the embryo form \nall parts of the body\n",
+      "images": [
+        "page-17"
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 18",
+      "text": "• Neurulation: formation of neural tissue\n• Ectoderm separates \ninto what will be \nneural tissue, and \nother body tissue\n• Folding gives the \nneural tube > forms \nthe brain and spinal \ncord later\n",
+      "images": [
+        "page-18"
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 19",
+      "text": "• segmentation of mesoderm, to \nform pairs of somites, or balls \nof mesoderm\n• Eventually form the segments \nof the body (anterior-posterior \naxis) (cartilage, bone, muscle \nand tendon)\n• Somitogenesis: formation of axial body plan\n",
+      "images": [
+        "page-19"
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 20",
+      "text": "• Complex folding to form a tube and a C-shape embryo\n•\nFolding \nFolding video\n",
+      "images": [
+        "page-20"
+      ]
+    },
+    {
+      "number": 21,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 21",
+      "text": "Week 4 MRI \nWeek 4: Extraembryonic tissue and cardiogenesis\nChick embryo heart beating\n• Extraembryonic cavities form\n• Heart forms\nWeek 4 detailed heart MRI\n",
+      "images": [
+        "page-21"
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 22",
+      "text": "• early development of the other organs, tissues and limbs\nWeek 5-8: Organogenesis\nWeek 5 \n(stage 14)\nWeek 8 \n(stage 21)\nWeek 6 \n(stage 17)\nWeek 7 \n(stage 19)\n",
+      "images": [
+        "page-22"
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 23",
+      "text": "Review\n•\nAfter this, the foetus develops in complexity and grows in size\n",
+      "images": [
+        "page-23"
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 24",
+      "text": "Animal embryonic development is similar across species\nWhich is mouse and which is human?\n•\nVery similar processes occur in early embryonic development in \nmany species. Later on, the processes change to form the specific \nspecies’ characteristics\n",
+      "images": [
+        "page-24"
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 25",
+      "text": "Interesting example … Blaschko’s lines\nLichen planus\n•\nBlaschko's lines – normally invisible skin \npatterning – due to the migration of neural \ncrest cells during embryonic development\n",
+      "images": [
+        "page-25"
+      ]
+    },
+    {
+      "number": 26,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 26",
+      "text": "Development of Male and Female Phenotypes\n1. Genetic basis for an individual’s sex: sex determination\n2. Development of male and female anatomy by    \nexpression of the genotype: sex differentiation\n3. Abnormalities in the process\n",
+      "images": [
+        "page-26"
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 27",
+      "text": "Human Chromosomes\n• 46 chromosomes arranged into 23 pairs\n• 22 pairs are autosomes\n• Pair 23 are the ‘sex chromosomes’ \n   XX in biological females  \nXY in biological males\n",
+      "images": [
+        "page-27"
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 28",
+      "text": "X chromosome:\ncontains genes related to body functions in addition to \nreproduction\nY chromosome: \nmuch smaller         \n- contains genes relating to sex determination\n- does not contain genes essential to life\n",
+      "images": [
+        "page-28"
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 29",
+      "text": "Human gametes and offspring\n• One X chromosome is (randomly) \n‘inactivated’ in each cell in XX \npeople (forms a Barr body)\n",
+      "images": [
+        "page-29"
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 30",
+      "text": "• One X chromosome is (randomly) \n‘inactivated’ in each cell in XX \nanimals\n",
+      "images": [
+        "page-30"
+      ]
+    },
+    {
+      "number": 31,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 31",
+      "text": "X-linked disorders\n•\nMainly occur in XY males as they only have one X chromosome\nExamples include\nHaemophilia (1/5000+ male births) \nColour blindness (1/10 males)\nDuchenne muscular dystrophy (1/3500+ male births)\n",
+      "images": [
+        "page-31"
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 32",
+      "text": "Question \nWhat makes a person develop male anatomy?\n \n \n…having 1 X chromosome?\n \n \n \n \n \n \nOR\n \n \n….having a Y chromosome?\nWhat makes a person develop female anatomy?\n \n \n….having 2 X chromosomes?\n \n \n \n \n \n \nOR\n \n \n….having no Y chromosome?\n",
+      "images": [
+        "page-32"
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 33",
+      "text": "Klinefelter’s Syndrome\nTurner Syndrome\nPeople have XXY \nPeople have X0 (1 X only) \nGenetic chromosomal disorders of sexual \ndevelopment/differentiation have been informative\n",
+      "images": [
+        "page-33"
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 34",
+      "text": "The presence of a Y chromosome causes male anatomy \nto develop\n• Up until about 6 weeks gestation - male and female \nembryos are identical anatomically (the ‘bipotential’ stage)\n• At about 7 weeks, male foetus starts to develop testes\n• Triggered by expression of the SRY gene on the Y \nchromosome (Sex Determining Region of the Y \nchromosome)\n• Expression of the SRY gene leads to production of \ntranscription factors → expression of other genes on the \nother chromosomes → causes development of the testes\n",
+      "images": [
+        "page-34"
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 35",
+      "text": "Embryonic Development of : Internal Male and Female Genitalia\n",
+      "images": [
+        "page-35"
+      ]
+    },
+    {
+      "number": 36,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 36",
+      "text": "Embryonic Development of : External Male and Female Genitalia\n",
+      "images": [
+        "page-36"
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 37",
+      "text": "• From then on, further development is determined by \nsubstances produced by the testes:\nMullerian Inhibiting Substance (or Anti Mullerian Hormone) \nfrom Sertoli Cells\nAttacks and causes degeneration of female structures\nTestosterone from the Leydig Cells\nStimulates development of male structures\nTestosterone also converted to dihydrotestosterone (more \npotent form)\nby enzyme 5α reductase\n",
+      "images": [
+        "page-37"
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 38",
+      "text": "Internal and External Male and Female Genitalia at Birth\nFemale\nMale\n",
+      "images": [
+        "page-38"
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 39",
+      "text": "•\nDisorders caused by the later stages of the sexual development \nprocess (e.g. hormone absence), are of abnormal sexual \ndifferentiation, not of sexual determination\nFemale\nMale\nSexual differentiation:\n",
+      "images": [
+        "page-39"
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Embryonic Development — Fertilisation, Germ Layers & Differentiation — page 40",
+      "text": "Personal Support\nIf you have been affected by any content or subjects in these lectures, you \ncan find support below:\n• KU Student Wellbeing hub\n• Your GP\n• 24/7 Mental Health Support Line on 0800 028 8000\n• Samaritans helpline on 116 123\n• Your personal tutor or course leader\n• Sexual health services - NHS : for support with contraception, sexual \nhealth, abortion, sexually transmitted infections, rape and sexual assault\n• Fertility Network : for support with infertility/fertility difficulties\n• The Miscarriage Association: for support with pregnancy loss\n• Tommy’s : for baby loss support\n• Pregnancy Support – NHS : for support in all pregnancies\n",
+      "images": [
+        "page-40"
+      ]
+    }
+  ],
+  "media": {
+    "page-1": "embryonic-development/page-1.jpg",
+    "page-2": "embryonic-development/page-2.jpg",
+    "page-3": "embryonic-development/page-3.jpg",
+    "page-4": "embryonic-development/page-4.jpg",
+    "page-5": "embryonic-development/page-5.jpg",
+    "page-6": "embryonic-development/page-6.jpg",
+    "page-7": "embryonic-development/page-7.jpg",
+    "page-8": "embryonic-development/page-8.jpg",
+    "page-9": "embryonic-development/page-9.jpg",
+    "page-10": "embryonic-development/page-10.jpg",
+    "page-11": "embryonic-development/page-11.jpg",
+    "page-12": "embryonic-development/page-12.jpg",
+    "page-13": "embryonic-development/page-13.jpg",
+    "page-14": "embryonic-development/page-14.jpg",
+    "page-15": "embryonic-development/page-15.jpg",
+    "page-16": "embryonic-development/page-16.jpg",
+    "page-17": "embryonic-development/page-17.jpg",
+    "page-18": "embryonic-development/page-18.jpg",
+    "page-19": "embryonic-development/page-19.jpg",
+    "page-20": "embryonic-development/page-20.jpg",
+    "page-21": "embryonic-development/page-21.jpg",
+    "page-22": "embryonic-development/page-22.jpg",
+    "page-23": "embryonic-development/page-23.jpg",
+    "page-24": "embryonic-development/page-24.jpg",
+    "page-25": "embryonic-development/page-25.jpg",
+    "page-26": "embryonic-development/page-26.jpg",
+    "page-27": "embryonic-development/page-27.jpg",
+    "page-28": "embryonic-development/page-28.jpg",
+    "page-29": "embryonic-development/page-29.jpg",
+    "page-30": "embryonic-development/page-30.jpg",
+    "page-31": "embryonic-development/page-31.jpg",
+    "page-32": "embryonic-development/page-32.jpg",
+    "page-33": "embryonic-development/page-33.jpg",
+    "page-34": "embryonic-development/page-34.jpg",
+    "page-35": "embryonic-development/page-35.jpg",
+    "page-36": "embryonic-development/page-36.jpg",
+    "page-37": "embryonic-development/page-37.jpg",
+    "page-38": "embryonic-development/page-38.jpg",
+    "page-39": "embryonic-development/page-39.jpg",
+    "page-40": "embryonic-development/page-40.jpg",
+    "timeline": "embryonic-development/timeline.jpg",
+    "fertilisation": "embryonic-development/fertilisation.jpg",
+    "cleavage": "embryonic-development/cleavage.jpg",
+    "blastocyst": "embryonic-development/blastocyst.jpg",
+    "implantation": "embryonic-development/implantation.jpg",
+    "primitive-streak": "embryonic-development/primitive-streak.jpg",
+    "endoderm-fates": "embryonic-development/endoderm-fates.jpg",
+    "mesoderm-fates": "embryonic-development/mesoderm-fates.jpg",
+    "ectoderm-fates": "embryonic-development/ectoderm-fates.jpg",
+    "neurulation": "embryonic-development/neurulation.jpg",
+    "somites": "embryonic-development/somites.jpg",
+    "folding": "embryonic-development/folding.jpg",
+    "organogenesis": "embryonic-development/organogenesis.jpg",
+    "x-inactivation": "embryonic-development/x-inactivation.jpg",
+    "internal-ducts": "embryonic-development/internal-ducts.jpg",
+    "external-genitalia": "embryonic-development/external-genitalia.jpg",
+    "signals": "embryonic-development/signals.jpg"
+  }
+}
