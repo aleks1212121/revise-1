@@ -1,3 +1,4 @@
+import {browserNavigation} from './browser-navigation.js';
 import {filterLectures} from './lecture-search.js';
 import {sourceSlideViewer} from './source-slides.js';
 import {roadmapWorkspace} from './roadmap.js';
@@ -106,10 +107,27 @@ const personalGenerator=personalChatGPT({user:()=>accountUser,render:()=>render(
 const admin=adminWorkspace({client:()=>authClient,user:()=>accountUser,render:()=>render(),importDeck:importChatGPTDeck});
 const statistics=statisticsWorkspace({client:()=>authClient,user:()=>accountUser,decks:()=>allLectures(),waitSave:()=>pendingSave,sync:()=>syncEngine?.sync(),render:()=>render()});
 const friends=friendsWorkspace({client:()=>authClient,user:()=>accountUser,decks:()=>allLectures(),waitSave:()=>pendingSave,sync:()=>syncEngine?.sync(),render:()=>render()});
-const sourceSlides=sourceSlideViewer({getDeck:()=>deck,render:()=>{if(view==='slides')render()},back:()=>{view='study';render()},esc});
+const sourceSlides=sourceSlideViewer({getDeck:()=>deck,render:()=>{if(view==='slides')render()},back:()=>{if(!browserNav.backTo('study')){view='study';render()}},esc});
 const touchGate=touchRenderGate({document,enabled:()=>view==='study'&&matchMedia('(pointer: coarse)').matches,flush:()=>render()});
+const browserNav=browserNavigation({window,capture:()=>({view,scope:accountUser?.id||'guest',lectureId:deck?.lectureId||'',moduleId:selectedModule,lectureQuery,roadmapModule,filter,section,search,queue,index,flipped,visualHint,illustrationIndex,source:sourceSlides.capture()}),restore:restoreNavigation,onError:()=>{message='Could not reopen that screen. Your study progress is still saved.';render()}});
+async function restoreNavigation(state,isCurrent){
+ const owner=accountUser?.id||'guest';await touchGate.idle();await pendingSave;if(!isCurrent()||(accountUser?.id||'guest')!==owner)return;
+ let next=null;if(['study','slides','library'].includes(state.view)&&state.lectureId&&!lectureTrashed(workspace,state.lectureId))next=await getLecture(state.lectureId);
+ if(!isCurrent()||(accountUser?.id||'guest')!==owner)return;
+ summaries.close();document.querySelectorAll('dialog[open]').forEach(dialog=>dialog.close());editing=null;message='';
+ if(next)setDeck(addStudyVisuals(migrateSchedule(next)),true);
+ view=state.view==='admin'&&!admin.enabled()?'account':state.view;
+ if(['study','slides','library'].includes(view)&&state.lectureId&&!next)view='lectures';
+ selectedModule=canonicalModuleId(state.moduleId);if(selectedModule&&selectedModule!=='unassigned'&&!MODULES.some(m=>m.id===selectedModule))selectedModule='';
+ lectureQuery=state.lectureQuery;roadmapModule=MODULES.some(m=>m.id===state.roadmapModule)?state.roadmapModule:'';
+ if(next){filter=state.filter;section=state.section;search=state.search;
+ const ids=new Set(cards().map(c=>c.id));const restored=(state.queue||[]).filter(id=>ids.has(id));if(next&&restored.length){queue=restored;index=Math.min(state.index,queue.length-1)}else resetQueue();flipped=state.flipped;visualHint=state.visualHint;illustrationIndex=state.illustrationIndex;}
+ if(view==='slides')sourceSlides.restore(state.source);render();
+ if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='admin'||view==='submissions')admin.open(view==='admin');
+}
 function render(){
  if(touchGate.defer())return;
+ browserNav.beforeRender();
  const all=cards(),known=all.filter(c=>c.status==='known').length,c=current();
  document.querySelector('#app').innerHTML=`${navigation({view,lectures,deck,user:accountUser,syncLabel,esc,busy,adminMode:admin.enabled()})}
  <main class="${view==='study'&&deck?'study-mode':view==='friends'?'social-mode':view==='statistics'?'statistics-mode':view==='settings'?'settings-mode':['slides','roadmap','lectures','modules','admin','submissions','trash'].includes(view)?'lecture-mode':''}" ${busy?'inert aria-busy="true"':''}><header><span>${['roadmap','friends','settings','modules','statistics','admin','submissions','trash'].includes(view)?'MY WORKSPACE':'MY LECTURES'} <span class="slash">/</span> <strong>${esc(view==='slides'?'Source slides':view==='roadmap'?'Roadmap':view==='trash'?'Trash':view==='admin'?'Admin area':view==='submissions'?'Send slides':view==='friends'?'Friends & streaks':view==='statistics'?'Statistics':view==='settings'?'Settings':view==='modules'?'Modules':deck?.title||'My lectures')}</strong></span></header><section class="content"><div class="eyebrow"><span></span> ${deck?.curated?'LIFE SCIENCES · LS5008 / LS5030':'YOUR PERSONAL STUDY WORKSPACE'}</div><div class="title-row"><div><h1>${view==='trash'?'Restore your learning.':view==='admin'?'Your admin workspace.':view==='submissions'?'Share your lectures.':view==='friends'?'Your study circle.':view==='account'?'Your account.':deck?.curated?'Small organisms.<br> Big understanding.':view==='lectures'?'Your lectures.<br> Your learning.':esc(deck?.title||'Your personal study space')}</h1><p class="subtitle">A little recall today. A lot more confidence tomorrow.</p></div><div class="micro-art dog-art" aria-hidden="true"><img src="${import.meta.env.BASE_URL}chuds-logo.png" alt="" width="135" height="135"></div></div>
@@ -126,8 +144,10 @@ function render(){
  <div class="slide-pictures editor-images">${pictures((deck.slides||[]).find(s=>s.number===editing.slide)?.images||editing.images)}</div>
  <div><button type="button" class="button subtle" id="cancel">Cancel</button>${editing.id?'<button type="button" class="button review" id="delete">Delete</button>':''}<button class="button primary">Save card</button></div></form></div>`:''}`;
  bind();
+ if(!busy&&accountReady)browserNav.commit();
 }
 function bind(){
+ const brand=document.querySelector('.simple-sidebar .brand');if(brand)brand.onclick=e=>{e.preventDefault();view='study';render()};
  document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{if(busy)return;view=b.dataset.view;if(view==='lectures'){selectedModule='';lectureQuery=''}if((view==='friends'||view==='roadmap')&&/^(Review saved|Relearning scheduled)/.test(message))message='';refreshDueQueue();render();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='admin'||view==='submissions')admin.open(view==='admin')});
  for(const id of ['upload','import-top'])document.getElementById(id)?.addEventListener('click',()=>{if(!busy){view='lectures';render()}});
  bindLectures();
@@ -260,7 +280,7 @@ async function bootDecks(){
  }catch{message='Your current deck is saved. Refresh to retry loading the lecture collection.'}
  render();
 }
-bootDecks().then(()=>personalGenerator.restore()).then(initAccounts).catch(()=>{message='Browser storage is unavailable. Export your deck to keep a copy.';render()});
+bootDecks().then(()=>personalGenerator.restore()).then(initAccounts).then(()=>browserNav.start()).catch(()=>{message='Browser storage is unavailable. Export your deck to keep a copy.';render()});
 
 function refreshDueQueue(){
  if(!deck||view!=='study'||filter!=='due'||editing||busy||focusLimit(focusSettings(deck))||focusSettings(deck).cram)return;
@@ -275,7 +295,7 @@ function groupedLectureList(group){const itemsHTML=items=>items.map(l=>{const p=
 
 function lectureSearchGroup(){return selectedModule?lectures.filter(l=>selectedModule==='unassigned'?!moduleFor(l):moduleFor(l)===selectedModule):lectures}
 function lectureSearchResults(group){const matches=filterLectures(group,lectureQuery);return matches.length||!lectureQuery.trim()?groupedLectureList(matches):'<p class="lecture-search-empty">No matching lectures. Try a different title, module code or topic.</p>'}
-function updateLectureSearch(){const group=lectureSearchGroup(),count=filterLectures(group,lectureQuery).length;document.getElementById('lecture-search-results').innerHTML=lectureSearchResults(group);document.getElementById('lecture-search-count').textContent=lectureQuery.trim()?`${count} matching lecture${count===1?'':'s'}${selectedModule?' in this module':''}`:'Search by title, module code or topic.';document.getElementById('lecture-search-clear').disabled=!lectureQuery;bindLectures();bindCollections();summaries.bind()}
+function updateLectureSearch(){const group=lectureSearchGroup(),count=filterLectures(group,lectureQuery).length;document.getElementById('lecture-search-results').innerHTML=lectureSearchResults(group);document.getElementById('lecture-search-count').textContent=lectureQuery.trim()?`${count} matching lecture${count===1?'':'s'}${selectedModule?' in this module':''}`:'Search by title, module code or topic.';document.getElementById('lecture-search-clear').disabled=!lectureQuery;bindLectures();bindCollections();summaries.bind();browserNav.commit()}
 function lectureWorkspace(){const group=selectedModule?lectures.filter(l=>selectedModule==='unassigned'?!moduleFor(l):moduleFor(l)===selectedModule):lectures;const module=MODULES.find(m=>m.id===selectedModule);return `<section class="lecture-workspace"><div class="workspace-heading"><div><span class="eyebrow">YOUR LECTURE COLLECTION</span><h2>${module?esc(module.name)+` (${module.code})`:selectedModule==='unassigned'?'Unassigned lectures':'Your lectures. Your progress.'}</h2><p>See what you’ve studied, what’s due, and what to tackle next.</p></div><span class="lecture-count">${group.length} lecture${group.length===1?'':'s'}</span></div><div class="lecture-search-toolbar"><label for="lecture-search">Find a lecture${selectedModule?' in this module':''}</label><div class="lecture-search-input"><input type="search" id="lecture-search" placeholder="Search lectures, modules or topics…" value="${esc(lectureQuery)}" autocomplete="off" aria-controls="lecture-search-results" aria-describedby="lecture-search-count"><button type="button" class="button subtle" id="lecture-search-clear" ${!lectureQuery?'disabled':''}>Clear</button></div><small id="lecture-search-count" role="status" aria-live="polite">${lectureQuery.trim()?`${filterLectures(group,lectureQuery).length} matching lectures`:'Search by title, module code or topic.'}</small></div><section class="workspace-panel lecture-collection"><h3>Your lectures</h3><button class="button subtle" data-view="trash">Open Trash</button>${selectedModule?`<button type="button" class="button subtle module-summary-button" data-summary-module="${esc(selectedModule)}">Quick module summary</button>`:''}${selectedModule?'<button class="text-button" id="all-modules">← All modules</button>':''}<p class="collection-help">Ordered by teaching week. Practical ranges depend on your group and appear under their first week. Coverage counts cards reviewed at least once; due cards still need a refresher.</p><div id="lecture-search-results">${lectureSearchResults(group)}</div></section><div class="lecture-upload-below"><p class="submission-link"><button type="button" class="button subtle" data-view="submissions">Send slides to admin →</button><small>Not sure how to make a deck yourself? Send your slides to admin and we’ll prepare and upload them as soon as possible.</small></p>${personalGenerator.html()}</div></section>`}
 function bindLectures(){
  const back=document.getElementById('all-modules');if(back)back.onclick=()=>{view='modules';render()};
@@ -332,10 +352,10 @@ async function refreshCloudDeck(){
 }
 function queueIdentity(session,event){identityQueue=identityQueue.catch(()=>{}).then(()=>changeIdentity(session,event));return identityQueue}
 async function openNotificationInbox(){
- if(notificationDeckRequested&&accountUser){notificationDeckRequested=false;const owner=accountUser.id;await syncEngine?.sync();if(accountUser?.id!==owner)return;view='lectures';render();const url=new URL(location.href);url.searchParams.delete('decks');history.replaceState(null,'',url);return}
+ if(notificationDeckRequested&&accountUser){notificationDeckRequested=false;const owner=accountUser.id;await syncEngine?.sync();if(accountUser?.id!==owner)return;view='lectures';render();const url=new URL(location.href);url.searchParams.delete('decks');history.replaceState(history.state,'',url);return}
  if(!notificationInboxRequested||!admin.enabled())return;
  notificationInboxRequested=false;view='admin';render();await admin.open(true);
- const url=new URL(location.href);url.searchParams.delete('inbox');history.replaceState(null,'',url);
+ const url=new URL(location.href);url.searchParams.delete('inbox');history.replaceState(history.state,'',url);
 }
 navigator.serviceWorker?.addEventListener('message',event=>{if(event.data?.type==='chuds-open-inbox'){if(event.data.destination==='lectures')notificationDeckRequested=true;else notificationInboxRequested=true;openNotificationInbox()}});
 async function changeIdentity(session,event){

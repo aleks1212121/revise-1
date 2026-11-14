@@ -37,7 +37,8 @@
     "test:personal-chatgpt:browser": "node scripts/check-personal-chatgpt.cjs",
     "test:cardiovascular:browser": "node scripts/check-cardiovascular-decks.cjs",
     "test:roadmap:browser": "node scripts/check-roadmap.cjs",
-    "test:sources:browser": "node scripts/check-source-slides.cjs"
+    "test:sources:browser": "node scripts/check-source-slides.cjs",
+    "test:browser-navigation": "node scripts/check-browser-navigation.cjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.3",

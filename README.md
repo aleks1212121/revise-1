@@ -303,3 +303,9 @@ Adds a regular Medical Physiology lecture with 82 cloze cards, all 40 original p
 The Roadmap navigation item presents the signed-in account's (or current guest's) available decks in Teaching Block 1 week order. It supports a module filter, collapsible weekly plans, direct study links and progress totals. Multi-week decks appear once under their first week. Unscheduled personal decks remain under “Week not set”; empty weeks do not imply that teaching is absent. Suggestions prioritise due reviews of previously studied cards, then unfinished lectures in week order. “First pass complete” describes coverage and does not retire future spaced reviews.
 
 Run `CHROMIUM_PATH=/usr/bin/chromium npm run test:roadmap:browser` against the production preview on port 4189 to check desktop and phone navigation, filtering, study links and progress persistence. These browser checks use fixture accounts.
+
+### Browser Back and Forward
+
+App screens use fragment routes under `/revise-1/`, so GitHub Pages can reload them directly. Browser history retains module/search context, the study session position and source page. It restores UI state against the latest saved deck; it never restores old review dates or progress. Entries from another account scope open the account screen instead of reading that account's decks. At the first app entry, Back still exits normally to the previous website.
+
+Run `CHROMIUM_PATH=/usr/bin/chromium npm run test:browser-navigation` against the preview on port 4189 for desktop/phone Back, Forward, reload, source-page, search, scroll and saved-review checks.

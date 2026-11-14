@@ -2,10 +2,10 @@ import './source-slides.css';
 import {sourcePages,sourceSelection} from './source-slide-model.js';
 export function sourceSlideViewer({getDeck,render,back,esc,fetcher=(...args)=>fetch(...args)}){
  let index={},loaded=false,loading=false,failed=false,selected=null,targetId=null,ownerId=null;
- async function load(){if(loaded||loading)return;loading=true;try{const r=await fetcher(`${import.meta.env.BASE_URL}source-slides/index.json`,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error();index=await r.json();loaded=true;failed=false;resolveTarget()}catch{failed=true}finally{loading=false;render()}}
- let requestedCard=null;
+ async function load(){if(loaded||loading)return;loading=true;try{const r=await fetcher(`${import.meta.env.BASE_URL}source-slides/index.json`,{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error();index=await r.json();loaded=true;failed=false;resolveTarget();if(restoredSelection){selected=restoredSelection.number;targetId=restoredSelection.targetId;restoredSelection=null}}catch{failed=true}finally{loading=false;render()}}
+ let requestedCard=null,restoredSelection=null;
  function resolveTarget(){const deck=getDeck();if(!deck)return;const choice=sourceSelection(deck,requestedCard,index);targetId=choice.lectureId;selected=choice.number??selected;}
- function open(card){ownerId=getDeck()?.lectureId;requestedCard=card;selected=card?.slide??null;targetId=ownerId;resolveTarget();load();}
+ function open(card){restoredSelection=null;ownerId=getDeck()?.lectureId;requestedCard=card;selected=card?.slide??null;targetId=ownerId;resolveTarget();load();}
  function pages(){const deck=getDeck();if(ownerId!==deck?.lectureId){ownerId=deck?.lectureId;targetId=ownerId;selected=null;requestedCard=null}return sourcePages(targetId&&index[targetId]?{...deck,lectureId:targetId}:deck,index,import.meta.env.BASE_URL)}
  function html(){const deck=getDeck(),list=pages();const position=Math.max(0,list.findIndex(s=>s.number===selected)),page=list[position];selected=page?.number??null;
  return `<section class="source-workspace"><div class="source-heading"><div><span class="eyebrow">ORIGINAL SOURCE</span><h2>${esc(targetId==='cardiovascular-practical-handout'?'Cardiovascular practical — 2026–27 handout':deck?.title||'Lecture slides')}</h2></div><button type="button" class="button subtle" id="source-back">← Back to card</button></div><div class="source-toolbar"><button type="button" class="button subtle" id="source-prev" ${position===0?'disabled':''} aria-label="Previous source slide">←</button><label>Slide / page<select id="source-page" aria-label="Source slide or page">${list.map(p=>`<option value="${p.number}" ${p.number===page?.number?'selected':''}>${esc(p.label||`Slide ${p.number}`)}</option>`).join('')}</select></label><span>${list.length?position+1:0} / ${list.length}</span><button type="button" class="button subtle" id="source-next" ${position>=list.length-1?'disabled':''} aria-label="Next source slide">→</button></div>
@@ -13,5 +13,7 @@ export function sourceSlideViewer({getDeck,render,back,esc,fetcher=(...args)=>fe
  ${page?.text?`<details class="source-transcript"><summary>Read extracted text</summary><p>${esc(page.text)}</p></details>`:''}</section>`;
  }
  function bind(){const list=pages();document.getElementById('source-back')?.addEventListener('click',back);document.getElementById('source-page')?.addEventListener('change',e=>{selected=Number(e.target.value);render()});for(const [id,delta] of [['source-prev',-1],['source-next',1]])document.getElementById(id)?.addEventListener('click',()=>{const i=list.findIndex(p=>p.number===selected);selected=list[i+delta]?.number??selected;render()});document.getElementById('source-retry')?.addEventListener('click',load);document.querySelector('.source-slide-canvas img')?.addEventListener('error',()=>{document.querySelector('.source-image-error').hidden=false});if(!loaded&&!loading&&!failed)load();}
- return {open,html,bind};
+ function capture(){return {number:selected,targetId,cardId:requestedCard?.id}}
+ function restore(state={}){ownerId=getDeck()?.lectureId;requestedCard=getDeck()?.cards?.find(c=>c.id===state.cardId)||null;selected=state.number||null;targetId=state.targetId||ownerId;if(!loaded)restoredSelection={number:selected,targetId};load()}
+ return {open,html,bind,capture,restore};
 }
