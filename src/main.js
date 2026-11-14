@@ -110,6 +110,8 @@ const friends=friendsWorkspace({client:()=>authClient,user:()=>accountUser,decks
 const sourceSlides=sourceSlideViewer({getDeck:()=>deck,render:()=>{if(view==='slides')render()},back:()=>{if(!browserNav.backTo('study')){view='study';render()}},esc});
 const touchGate=touchRenderGate({document,enabled:()=>view==='study'&&matchMedia('(pointer: coarse)').matches,flush:()=>render()});
 const browserNav=browserNavigation({window,capture:()=>({view,scope:accountUser?.id||'guest',lectureId:deck?.lectureId||'',moduleId:selectedModule,lectureQuery,roadmapModule,filter,section,search,queue,index,flipped,visualHint,illustrationIndex,source:sourceSlides.capture()}),restore:restoreNavigation,onError:()=>{message='Could not reopen that screen. Your study progress is still saved.';render()}});
+// Capture genuine navigation as soon as the app is usable, even if auth is slow.
+for(const type of ['click','keydown'])document.addEventListener(type,event=>{if(event.isTrusted&&event.target.closest?.('#app'))browserNav.begin()},true);
 async function restoreNavigation(state,isCurrent){
  const owner=accountUser?.id||'guest';await touchGate.idle();await pendingSave;if(!isCurrent()||(accountUser?.id||'guest')!==owner)return;
  let next=null;if(['study','slides','library'].includes(state.view)&&state.lectureId&&!lectureTrashed(workspace,state.lectureId))next=await getLecture(state.lectureId);
@@ -144,7 +146,7 @@ function render(){
  <div class="slide-pictures editor-images">${pictures((deck.slides||[]).find(s=>s.number===editing.slide)?.images||editing.images)}</div>
  <div><button type="button" class="button subtle" id="cancel">Cancel</button>${editing.id?'<button type="button" class="button review" id="delete">Delete</button>':''}<button class="button primary">Save card</button></div></form></div>`:''}`;
  bind();
- if(!busy&&accountReady)browserNav.commit();
+ if(!busy)browserNav.commit();
 }
 function bind(){
  const brand=document.querySelector('.simple-sidebar .brand');if(brand)brand.onclick=e=>{e.preventDefault();view='study';render()};

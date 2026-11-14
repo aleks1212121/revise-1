@@ -25,5 +25,6 @@ export function browserNavigation({window:win,capture,restore,onError=()=>{}}){
  }
  win.addEventListener('popstate',event=>{if(!active)return;const saved=event.state?.chudsNavigation;const state=saved?.version===1?saved.state:parseNavigationHash(win.location.hash);if(!state)return;const scope=current().scope;apply(state.scope&&state.scope!==scope?{view:'account',scope}: {...state,scope})});
  win.addEventListener('pagehide',()=>{if(active&&!applying&&last){last={...current(),previous:last.previous};win.history.replaceState(payload(last),'',url(last))}});
- return {start,commit,beforeRender(){if(active&&!applying&&last&&navigationKey(current())!==navigationKey(last))last={...last,scroll:win.scrollY}},backTo(view){if(last?.previous?.view===view&&last.previous.scope===current().scope&&last.previous.lectureId===current().lectureId){win.history.back();return true}return false}};
+ function begin(){if(active)return true;if(win.location.hash&&!win.location.hash.startsWith('#/'))return false;active=true;win.history.scrollRestoration='manual';last=current();win.history.replaceState(payload(last),'',url(last));return true}
+ return {start,begin,commit,beforeRender(){if(active&&!applying&&last&&navigationKey(current())!==navigationKey(last))last={...last,scroll:win.scrollY}},backTo(view){if(last?.previous?.view===view&&last.previous.scope===current().scope&&last.previous.lectureId===current().lectureId){win.history.back();return true}return false}};
 }

@@ -6,3 +6,8 @@ test('screen changes push history while review and filter updates replace the cu
  const previous=entries[1];await handlers.popstate({state:previous});await new Promise(r=>setTimeout(r,0));assert.equal(state.view,'modules');assert.equal(entries.length,3);
  state.scope='new-account';nav.commit();assert.equal(entries.length,3);await handlers.popstate({state:previous});await new Promise(r=>setTimeout(r,0));assert.equal(state.scope,'new-account');assert.equal(state.view,'account');
 });
+test('user navigation can start history before auth finishes, while authentication fragments are preserved',()=>{
+ let restored=false;const win={location:{href:'https://example.test/revise-1/',hash:''},scrollY:0,addEventListener(){},history:{state:null,replaceState(s,t,url){this.state=s;if(url){win.location.href=String(url);win.location.hash=new URL(url).hash}}}};
+ const nav=browserNavigation({window:win,capture:()=>({scope:'guest',view:'modules'}),restore:()=>{restored=true}});assert.equal(nav.begin(),true);assert.equal(win.history.state.chudsNavigation.state.view,'modules');assert.equal(restored,false);
+ win.location.hash='#access_token=example';const pending=browserNavigation({window:win,capture:()=>({view:'account'}),restore(){}});const before=win.history.state;assert.equal(pending.begin(),false);assert.equal(win.history.state,before);assert.equal(win.location.hash,'#access_token=example');
+});
