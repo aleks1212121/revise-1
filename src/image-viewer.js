@@ -8,7 +8,7 @@ export function installImageViewer(){
   dialog.querySelector('[data-zoom="out"]').onclick=()=>zoom(-.5);dialog.querySelector('[data-zoom="in"]').onclick=()=>zoom(.5);dialog.querySelector('[data-close]').onclick=()=>dialog.close();
   const previous=document.activeElement;dialog.addEventListener('close',()=>{dialog.remove();if(previous?.isConnected)previous.focus()},{once:true});document.body.append(dialog);zoom(0);dialog.showModal();
  }
- const target=e=>e.target.closest('.study-mode .study-layout img');
+ const target=e=>e.target.closest('.study-mode .study-layout img, .source-slide-canvas img');
  document.addEventListener('click',e=>{const image=target(e);if(!image||e.ctrlKey||e.metaKey)return;e.preventDefault();e.stopImmediatePropagation();open(image)},true);
  document.addEventListener('keydown',e=>{const image=target(e);if(image&&['Enter',' '].includes(e.key)){e.preventDefault();e.stopImmediatePropagation();open(image)}},true);
 }

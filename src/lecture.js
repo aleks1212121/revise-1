@@ -47,7 +47,7 @@ export function normalizeDeck(value){
   if(c.type==='cloze'&&!deletions(text).some(d=>d.number===number))throw Error('A cloze card needs a valid deletion for its selected number.');
   return {...c,id:crypto.randomUUID(),text,clozeNumber:number,topic:String(c.topic||'Lecture'),slide:Number(c.slide)||0,status:['new','review','known'].includes(c.status)?c.status:'new',images:Array.isArray(c.images)?c.images.filter(x=>typeof x==='string'):[]};
  });
- return {...value,cards,slides:Array.isArray(value.slides)?value.slides.map(s=>({number:Number(s.number)||0,topic:String(s.topic||'Slide'),text:String(s.text||''),images:Array.isArray(s.images)?s.images.filter(x=>typeof x==='string'):[]})):[],media:value.media&&typeof value.media==='object'?value.media:{}};
+ return {...value,cards,slides:Array.isArray(value.slides)?value.slides.map(s=>({number:Number(s.number)||0,topic:String(s.topic||'Slide'),text:String(s.text||''),images:Array.isArray(s.images)?s.images.filter(x=>typeof x==='string'):[],...(typeof s.sourceImage==='string'?{sourceImage:s.sourceImage}:{})})):[],media:value.media&&typeof value.media==='object'?value.media:{}};
 }
 
 export async function readPDF(file,onProgress=()=>{}){
@@ -67,7 +67,7 @@ export async function readPDF(file,onProgress=()=>{}){
    const natural=page.getViewport({scale:1}),viewport=page.getViewport({scale:Math.min(1.5,1200/natural.width)});
    const canvas=document.createElement('canvas');canvas.width=Math.ceil(viewport.width);canvas.height=Math.ceil(viewport.height);
    await page.render({canvas,viewport}).promise;
-   const id=`pdf-${number}`;media[id]=canvas.toDataURL('image/jpeg',0.82);slides.push({number,topic,text,images:[id]});
+   const id=`pdf-${number}`;media[id]=canvas.toDataURL('image/jpeg',0.82);slides.push({number,topic,text,images:[id],sourceImage:id});
    for(const sentence of text.split(/(?:\n|(?<=[.!?])\s+(?=[A-Z]))/)){const cloze=draftCloze(sentence);if(cloze)cards.push(...clozeCards({text:cloze,topic,slide:number,images:[id],draft:true,showImagesFront:false}))}
    canvas.width=canvas.height=0;page.cleanup();
   }
