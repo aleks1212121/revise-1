@@ -30,7 +30,20 @@ export async function storeDeck(deck,{preStamped=false}={}){
 export async function ensureLecture(deck){
  if(!deck.lectureId)throw Error('A lecture ID is required.');const scope=activeScope,db=await database();try{await new Promise((resolve,reject)=>{
   const tx=db.transaction('decks','readwrite'),s=tx.objectStore('decks'),k=key(`lecture:${deck.lectureId}`,scope),q=s.get(k);
-  q.onsuccess=()=>{if(!q.result)s.put({...stampChanges(null,deck,0),_cloudRevision:0,_cloudDirty:true},k)};
+  q.onsuccess=()=>{
+   const existing=q.result;
+   if(!existing){s.put({...stampChanges(null,deck,0),_cloudRevision:0,_cloudDirty:true},k);return}
+   if(!(deck.bundleRevision>(existing.bundleRevision||0)))return;
+   const ids=new Set(existing.cards.map(card=>card.id));
+   const additions=deck.cards.filter(card=>card.addedInRevision>(existing.bundleRevision||0)&&!ids.has(card.id)&&!Object.hasOwn(existing._deletedCards||{},card.id));
+   const slides=new Map((deck.slides||[]).map(slide=>[slide.number,slide]));
+   for(const slide of existing.slides||[])slides.set(slide.number,slide);
+   const next={...existing,bundleRevision:deck.bundleRevision,cards:[...existing.cards,...additions],slides:[...slides.values()].sort((a,b)=>a.number-b.number)};
+   const saved={...stampChanges(existing,next),_cloudDirty:true};
+   s.put(saved,k);
+   const current=s.get(key('current',scope));
+   current.onsuccess=()=>{if(current.result?.lectureId===deck.lectureId)s.put(saved,key('current',scope))};
+  };
   tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error);tx.onabort=()=>reject(tx.error);
  })}finally{db.close()}
 }
