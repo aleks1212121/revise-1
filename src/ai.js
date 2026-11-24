@@ -13,7 +13,7 @@ export function attachAICards(deck,notes){
  for(const note of notes){
   const slide=deck.slides.find(s=>s.number===note.slide);
   if(!slide||typeof note.text!=='string'||!deletions(note.text).length||typeof note.topic!=='string')throw Error('The AI returned a card without a valid cloze or source slide.');
-  cards.push(...clozeCards({text:note.text,topic:note.topic,slide:note.slide,images:slide.images,explanation:String(note.explanation||''),showImagesFront:false,draft:true,aiGenerated:true}));
+  cards.push(...clozeCards({text:note.text,topic:note.topic,slide:note.slide,images:slide.images,explanation:String(note.explanation||''),memoryAid:note.memoryAid,checkQuestion:note.checkQuestion,checkAnswer:note.checkAnswer,showImagesFront:false,draft:true,aiGenerated:true}));
  }
  if(!cards.length)throw Error('The AI could not create any cards from this lecture. Check the slide reference or try a different file.');
  return {...deck,cards,generation:'ai',curated:false};
