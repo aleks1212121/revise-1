@@ -25,7 +25,7 @@ const microbiology=[
  lecture('Disinfection','disinfection',[],[[7665977,'Slides']]),
  lecture('Sterilisation','sterilisation',['sterilisation'],[[7910482,'Slides']]),
  lecture('Vaccination','vaccination',['principles-of-vaccination'],[[7960425,'Slides']]),
- pending('Antimicrobial chemotherapy'),practical,
+ lecture('Antimicrobial chemotherapy','module-roadmap',[],[],'Open Week 10 on the Canvas roadmap for the latest materials.'),practical,
  lecture('Workshops and case-study preparation','practicals-and-workshops')
 ];
 const immunology=[
@@ -82,7 +82,7 @@ function exam(id,module,title,date,scope,brief,lectures){
 export const exams=[
  exam('micro-practical','LS5008','Microbiology practical MCQ','Group E/F · 27 Nov 2026 | G/H · 11 Dec 2026','25%. Revise the practical principles, observations and interpretation. A/B and C/D sat earlier. Use your allocated group’s sitting.','pages/assessment-and-feedback-schedule',[practical,safety]),
  exam('genetics-mcq','LS5023','Medical Genetics MCQ','13 Jan 2027 · 10:00','30%. Closed book, 30 single-best-answer questions in 60 minutes. Covers the TB1 lectures. Practical-related work is excluded by the exam brief.','pages/assessment-1-info-tb1-mcq-test',genetics),
- exam('micro-case','LS5008','Microbiology case-study assessment','14 Jan 2027','25%. Revise the entire TB1 microbiology block, including workshops and practical learning. The two case studies provide context and questions can cover the wider block.','pages/assessment-and-feedback-schedule',microbiology),
+ exam('micro-case','LS5008','Microbiology case-study assessment','14 Jan 2027','This assessment counts for 25% of your LS5008 module mark. Revise the entire TB1 microbiology block, including workshops and practical learning. The two case studies provide context and questions can cover the wider block.','pages/assessment-and-feedback-schedule',microbiology),
  exam('physiology','LS5034','Medical Physiology open-book assessment','Submission deadline · 21 Jan 2027, 23:59','50%. Three-hour open-book assessment with MCQs, short answers and a long answer. These are the TB1 physiology roadmap lectures and practical resources.','assignments/223032',physiology),
  exam('abo','LS5008','ABO immunology practical MCQ','A · 27 Jan | B · 3 Feb | C · 10 Feb | D · 24 Feb | E · 4 Mar | F · 10 Mar 2027','25%. Prepare for the blood-grouping practical and interpretation of results. Check your personal timetable for your group.','pages/assessment-and-feedback-schedule',[abo,pending('Antibodies and antigens','innate-immunity')]),
  exam('biostatistics','LS5034','Biostatistics test','14 Apr 2027 · 09:00–12:00','15%. Two timed online problems, up to 45 minutes each. Revise the lectures alongside the R workshops and test-selection guidance.','pages/biostatistics-test',stats),

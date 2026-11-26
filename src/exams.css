@@ -14,3 +14,6 @@
 .exam-links a,.exam-deck a,.exam-deck button{padding:.45rem 0}
 .exam-deck{justify-content:space-between;border-left:2px solid var(--theme-border);padding-left:.7rem;margin:.3rem 0;font-size:.87rem}
 @media(max-width:640px){.simple-sidebar .primary-nav{max-width:100%;flex-wrap:wrap}.exam-workspace article{padding:.9rem}.exam-deck{display:block}}
+.revision-week{margin:1.35rem 0}
+.exam-workspace .revision-week>h3{font-size:1.1rem}
+.revision-week ol{padding-left:1rem;border-left:2px solid var(--theme-border)}
