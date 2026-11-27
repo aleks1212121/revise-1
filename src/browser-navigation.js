@@ -6,7 +6,7 @@ export function cleanNavigation(value={}){
  if(value.source&&typeof value.source==='object')state.source={number:Number.isInteger(value.source.number)?value.source.number:null,targetId:short(value.source.targetId),cardId:short(value.source.cardId)};
  return state;
 }
-export function navigationKey(state){return JSON.stringify([state.scope,state.view,state.view==='lectures'?state.moduleId:'',['study','slides','library'].includes(state.view)?state.lectureId:''])}
+export function navigationKey(state){return JSON.stringify([state.scope,state.view,state.view==='lectures'?state.moduleId:'',state.view==='exams'?state.selectedExam:'',['study','slides','library'].includes(state.view)?state.lectureId:''])}
 export function navigationHash(state){const params=new URLSearchParams();if(state.view==='exams'&&state.selectedExam)params.set('exam',state.selectedExam);if(state.view==='lectures'&&state.moduleId)params.set('module',state.moduleId);if(['study','slides','library'].includes(state.view)&&state.lectureId)params.set('lecture',state.lectureId);return '#/'+state.view+(params.size?'?'+params:'')}
 export function parseNavigationHash(hash){if(!/^#\/[a-z]+(?:\?|$)/.test(hash))return null;const [view,query='']=hash.slice(2).split('?');if(!VIEWS.has(view))return null;const p=new URLSearchParams(query);return cleanNavigation({view,selectedExam:p.get('exam'),moduleId:p.get('module'),lectureId:p.get('lecture')})}
 export function browserNavigation({window:win,capture,restore,onError=()=>{}}){

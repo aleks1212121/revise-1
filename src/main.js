@@ -162,10 +162,9 @@ function render(){
 }
 function bind(){
  const brand=document.querySelector('.simple-sidebar .brand');if(brand)brand.onclick=e=>{e.preventDefault();view='study';render()};
- document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{if(busy)return;view=b.dataset.view;if(view==='lectures'){selectedModule='';lectureQuery=''}if((view==='friends'||view==='roadmap')&&/^(Review saved|Relearning scheduled)/.test(message))message='';refreshDueQueue();render();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='admin'||view==='submissions')admin.open(view==='admin')});
+ document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{if(busy)return;view=b.dataset.view;if(view==='exams')selectedExam='';if(view==='lectures'){selectedModule='';lectureQuery=''}if((view==='friends'||view==='roadmap')&&/^(Review saved|Relearning scheduled)/.test(message))message='';refreshDueQueue();render();if(view==='friends')friends.open();if(view==='statistics')statistics.open();if(view==='admin'||view==='submissions')admin.open(view==='admin')});
  for(const id of ['upload','import-top'])document.getElementById(id)?.addEventListener('click',()=>{if(!busy){view='lectures';render()}});
  bindLectures();
- document.getElementById('exam-choice')?.addEventListener('change',event=>{selectedExam=event.target.value;render();document.getElementById('exam-choice')?.focus()});
  document.getElementById('roadmap-module')?.addEventListener('change',e=>{roadmapModule=e.target.value;render()});
  document.getElementById('roadmap-expand')?.addEventListener('click',e=>{const expand=e.currentTarget.getAttribute('aria-expanded')!=='true';document.querySelectorAll('.roadmap-week').forEach(d=>d.open=expand);e.currentTarget.setAttribute('aria-expanded',String(expand));e.currentTarget.textContent=expand?'Collapse all weeks':'Expand all weeks'});
  bindCollections();

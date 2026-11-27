@@ -1,7 +1,6 @@
 .exam-workspace{max-width:52rem;color:var(--theme-text)}
 .exam-workspace h1{font-size:clamp(1.8rem,4vw,2.5rem);margin:0 0 1.2rem}
-.exam-workspace label,.exam-module{display:block;font-weight:600;font-size:.8rem;color:var(--theme-muted)}
-.exam-workspace select{display:block;max-width:100%;width:100%;min-height:44px;margin:.4rem 0 1rem;padding:.6rem;border:1px solid var(--theme-border);border-radius:8px;color:var(--theme-text);background:var(--theme-panel)}
+.exam-module{display:block;font-weight:600;font-size:.8rem;color:var(--theme-muted)}
 .exam-workspace article{padding:1.15rem 1.3rem;border:1px solid var(--theme-border);border-radius:12px;background:var(--theme-soft);margin-bottom:1.5rem}
 .exam-workspace h2{font-size:1.25rem;margin:.35rem 0 .7rem}
 .exam-workspace p{line-height:1.55;margin:.4rem 0}
@@ -17,3 +16,7 @@
 .revision-week{margin:1.35rem 0}
 .exam-workspace .revision-week>h3{font-size:1.1rem}
 .revision-week ol{padding-left:1rem;border-left:2px solid var(--theme-border)}
+.exam-workspace .exam-tile{color:var(--theme-text);text-decoration:none}
+.exam-tile h2{margin:.75rem 0;font-size:1.12rem;font-weight:600}
+.exam-tile p{font-size:.85rem}
+.exam-back{display:inline-flex;align-items:center;min-height:44px;margin-bottom:.5rem}
