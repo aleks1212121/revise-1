@@ -5,10 +5,16 @@ function canvasLink(url,label){
  return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
 }
 
-export function examWorkspace(selected,lectures){
+function revisionKey(exam,lesson){return exam.id+'/'+lesson.title}
+function revisionCount(exam,revision){
+ const completed=exam.lectures.filter(lesson=>revision[revisionKey(exam,lesson)]?.done).length;
+ return `${completed} of ${exam.lectures.length} topics revised`;
+}
+
+export function examWorkspace(selected,lectures,revision=null){
  const exam=exams.find(item=>item.id===selected);
  if(!exam){
-  const cards=exams.map(item=>`<a class="module-tile exam-tile" href="#/exams?exam=${item.id}"><span class="module-code">${item.module} · ${esc(courses[item.module][1])}</span><h2>${esc(item.title)}</h2><p>${esc(item.date)}</p></a>`).join('');
+  const cards=exams.map(item=>`<a class="module-tile exam-tile" href="#/exams?exam=${item.id}"><span class="module-code">${item.module} · ${esc(courses[item.module][1])}</span><h2>${esc(item.title)}</h2><p>${esc(item.date)}</p>${revision?`<p class="exam-completion">${revisionCount(item,revision)}</p>`: ''}</a>`).join('');
   return `<section class="exam-workspace"><h1>Exams</h1><div class="module-grid">${cards}</div></section>`;
  }
  const [course,moduleName]=courses[exam.module];
@@ -18,12 +24,14 @@ export function examWorkspace(selected,lectures){
   const files=lesson.files.map(([id,label])=>canvasLink(base+'files/'+id,label));
   const decks=lesson.decks.filter(id=>saved.has(id)).map(id=>`<div class="exam-deck"><span>${esc(saved.get(id).title)}</span><div><button type="button" class="text-button" data-open-lecture="${id}">Study cards</button><a href="#/slides?lecture=${id}">Slide reference</a></div></div>`).join('');
   const pageLabel=lesson.page==='module-roadmap'?'Canvas roadmap':'Canvas lecture page';
-  return `<li><h3>${esc(lesson.title)}</h3>${lesson.availability?`<p>${esc(lesson.availability)}</p>`:''}<div class="exam-links">${[...files,canvasLink(base+'pages/'+lesson.page,pageLabel)].join('')}</div>${decks}</li>`;
+  const key=revisionKey(exam,lesson);
+  const check=revision?`<label class="exam-check"><input type="checkbox" data-revision-key="${esc(key)}" aria-label="Revised ${esc(lesson.title)}" ${revision[key]?.done?'checked':''}> Revised</label>`:'';
+  return `<li><div class="exam-check-row"><h3>${esc(lesson.title)}</h3>${check}</div>${lesson.availability?`<p>${esc(lesson.availability)}</p>`:''}<div class="exam-links">${[...files,canvasLink(base+'pages/'+lesson.page,pageLabel)].join('')}</div>${decks}</li>`;
  };
  const materials=exam.id==='micro-case'
   ? microbiologyPlan(exam.lectures,renderLesson)
   : `<h2>Lectures and slides</h2><ol>${exam.lectures.map(renderLesson).join('')}</ol>`;
- return `<section class="exam-workspace"><a class="exam-back" href="#/exams">← All exams</a><article><p class="exam-module">${exam.module} · ${esc(moduleName)}</p><h2>${esc(exam.title)}</h2><p class="exam-date">${esc(exam.date)}</p><p>${esc(exam.scope)}</p>${canvasLink(base+exam.brief,'Canvas assessment guidance')}</article>${materials}</section>`;
+ return `<section class="exam-workspace"><a class="exam-back" href="#/exams">← All exams</a><article><p class="exam-module">${exam.module} · ${esc(moduleName)}</p><h2>${esc(exam.title)}</h2><p class="exam-date">${esc(exam.date)}</p><p>${esc(exam.scope)}</p>${canvasLink(base+exam.brief,'Canvas assessment guidance')}</article>${revision?`<p class="exam-completion" role="status">${revisionCount(exam,revision)}</p>`:'<p><a href="#/account">Sign in to track your revision</a></p>'}${materials}</section>`;
 }
 
 const revisionWeeks=[

@@ -25,3 +25,12 @@ test('slide links remain available without a saved deck and the genetics MCQ exc
  assert.doesNotMatch(html,/data-open-lecture|DNA extraction/);
  assert.match(examWorkspace('biostatistics',[]),/files\/7748345/);
 });
+
+test('revision is scoped to each exam and to the supplied account workspace',()=>{
+ const progress={'micro-practical/Microbiology practical':{done:true}};
+ assert.match(examWorkspace('micro-practical',[],progress),/1 of 2 topics revised/);
+ assert.match(examWorkspace('micro-practical',[],progress),/data-revision-key="micro-practical\/Microbiology practical"[^>]* checked/);
+ assert.match(examWorkspace('micro-practical',[],{}),/0 of 2 topics revised/);
+ assert.match(examWorkspace('micro-case',[],progress),/0 of 16 topics revised/);
+ assert.doesNotMatch(examWorkspace('micro-practical',[]),/type="checkbox"/);
+});

@@ -13,3 +13,13 @@ test('independent personal modules and trash changes merge across devices withou
 test('personal module registry and hidden default modules reset cleanly between account scopes',()=>{
  try{configureModules({modules:{'custom-a':{id:'custom-a',name:'My subject',code:'M1'},pathobiology:{id:'pathobiology',deleted:true}}});assert.equal(MODULES.length,4);assert.equal(moduleFor({lectureId:'cell-death'}),'');assert.equal(moduleFor({moduleId:'custom-a'}),'custom-a');configureModules();assert.equal(MODULES.length,4);assert.equal(moduleFor({moduleId:'custom-a'}),'');assert.equal(moduleFor({lectureId:'cell-death'}),'pathobiology')}finally{configureModules()}
 });
+
+test('exam checklist sync keeps independent edits and later unticks across devices',()=>{
+ const old={modules:{},lectures:{}};
+ const entry=(state,key,done,time)=>setWorkspaceEntry(state,'examRevision',key,{done},time);
+ const first=entry(old,'exam/a',true,1);
+ const wrap=_workspace=>({lectureId:WORKSPACE_ID,cards:[],_workspace});
+ const merged=mergeDecks(wrap(entry(first,'exam/b',true,2)),wrap(entry(first,'exam/a',false,3)))._workspace;
+ assert.equal(merged.examRevision['exam/a'].done,false);
+ assert.equal(merged.examRevision['exam/b'].done,true);
+});
